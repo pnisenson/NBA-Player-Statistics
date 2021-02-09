@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>NBA Stats</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+  <div class="container-fluid">
+    <div class="jumbotron text-center">
+      <h1>NBA Statistics</h1>
+      <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Scrape New Data</a></p>
+    </div>
+
+<form method="post" action="inputs.py">
+        <fieldset>
+            <legend>This is a working version. The input form below is not currently functional</legend>
+            <ul>
+                <li>Username: <input name='user'>
+                </li>
+                <li>Password: <input name='password'>
+                </li>
+                <li>Start Year: <input name='start'>
+                </li>
+                <li>Years: <input name='years'>
+                </li>
+                <li>Type: <input name='type'>
+                </li>
+            </ul><input type='submit' value='Submit Form'>
+        </fieldset>
+    </form>
+    <hr>
+<div>
+    <a href="/top_players"> Click Here to See the Top Players</a></div><br>
+
+    <div>{{stats.table|safe}}</div>
+    
+
+
+  </div>
+  </div>
+</body>
+
+</html>

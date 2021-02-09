@@ -89,7 +89,14 @@ def final():
 	final = pd.merge(stat_table, nation_table, on = 'Player', how = 'left')
 	final = final.fillna('United States')
 	final.to_csv(f'FlaskFiles/final.csv')
+	table = final.to_html(classes="table table-striped")
+	scraped_data = {'table': table}
+	engine = create_engine('sqlite:///FlaskFiles/PlayerStats.sqlite', echo=True)
+	sqlite_connection = engine.connect()
+	final.to_sql('data',con=engine)
+	return scraped_data
 
 
-final()
+
+
 

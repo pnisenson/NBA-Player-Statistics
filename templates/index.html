@@ -14,17 +14,19 @@
     <div class="jumbotron text-center">
       <h1>NBA Statistics</h1>
       <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Scrape New Data</a></p>
-    </div>
 
+    </div>
+<div class="row">
+  <div class="col-sm-6">
 <form method="post" action="{{ url_for('inputs') }}">
         <fieldset>
-            <legend>Please </legend>
+            <legend align="center">Please enter inputs below prior to scraping data:</legend>
             <ul>
                 <li>Username: 
                   <input name='user' id="user" value="Type BKRef Username">
                 </li>
                 <li>Password: 
-                  <input name='pass' id="pass" value="Type BKRef Username">
+                  <input name='pass' id="pass" value="Type BKRef Username" type="password">
                 </li>
                 <li>Start Year: 
                   <input name='start' id="start" value="e.g. 2010">
@@ -38,11 +40,17 @@
             </ul><input type='submit' value='Submit Form'>
         </fieldset>
     </form>
-    <hr>
+  </div>
+  <div class="col-sm-6">
+    <legend align="center">Get Pumped While You Wait!</legend><br>
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/u-cSFPglc90?start=3&autoplay=1" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+    </div><hr>
+
 <div>
     <a href="/top_players"> Click Here to See the Top Players</a></div><br>
 
-    <div>{{stats.table|safe}}</div>
+    <div>{{stats|safe}}</div>
     
 
 

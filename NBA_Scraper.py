@@ -1,8 +1,6 @@
 from selenium import webdriver
 import pandas as pd 
 from sqlalchemy import create_engine
-#from StatPass import username, password
-#from StatPuts import username, password, s_year, ys, d_type
 import os
 
 def login(browser):
@@ -15,9 +13,6 @@ def login(browser):
 	return browser.current_url
 
 def search():
-	# start_year = int(input('What year do you want to begin scraping? (e.g. 2015): '))
-	# years = int(input('How many years of data do you want to scrape? (e.g. 3): '))
-	# data_type = input('What kind of stats do you want to scrape? Choose Totals, Advanced, or Shooting: ').lower()
 	from StatPuts import s_year, ys, d_type
 	start_year = int(s_year)
 	years = int(ys)
@@ -95,15 +90,16 @@ def final():
 	nation_table = nation()
 	final = pd.merge(stat_table, nation_table, on = 'Player', how = 'left')
 	final = final.fillna('United States')
+	if os.path.exists("FlaskFiles/final.csv"):
+		os.remove("FlaskFiles/final.csv")
 	final.to_csv(f'FlaskFiles/final.csv')
-	table = final.to_html(classes="table table-striped")
-	scraped_data = {'table': table}
+	# table = final.to_html(classes="table table-striped")
+	# scraped_data = {'table': table}
 	if os.path.exists("FlaskFiles/PlayerStats.sqlite"):
 		os.remove("FlaskFiles/PlayerStats.sqlite")
 	engine = create_engine('sqlite:///FlaskFiles/PlayerStats.sqlite', echo=True)
 	sqlite_connection = engine.connect()
-	final.to_sql('data',con=engine)
-	return scraped_data
+	final.to_sql('data',con=engine, index = False)
 
 
 

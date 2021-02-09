@@ -16,19 +16,24 @@
       <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Scrape New Data</a></p>
     </div>
 
-<form method="post" action="inputs.py">
+<form method="post" action="{{ url_for('inputs') }}">
         <fieldset>
             <legend>This is a working version. The input form below is not currently functional</legend>
             <ul>
-                <li>Username: <input name='user'>
+                <li>Username: 
+                  <input name='user' id="user" value="Type BKRef Username">
                 </li>
-                <li>Password: <input name='password'>
+                <li>Password: 
+                  <input name='pass' id="pass" value="Type BKRef Username">
                 </li>
-                <li>Start Year: <input name='start'>
+                <li>Start Year: 
+                  <input name='start' id="start" value="e.g. 2010">
                 </li>
-                <li>Years: <input name='years'>
+                <li>Years: 
+                  <input name='years' id="years" value="e.g. 5">
                 </li>
-                <li>Type: <input name='type'>
+                <li>Type: 
+                  <input name='dtype' id="dtype" value="Enter 'Totals' or 'Advanced'">
                 </li>
             </ul><input type='submit' value='Submit Form'>
         </fieldset>

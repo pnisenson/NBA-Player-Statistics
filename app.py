@@ -29,6 +29,13 @@ def get_buckets():
 		stats = df.to_html(classes="table table-striped")
 		return render_template("second.html", stats=stats)
 
+@app.route("/custom")
+def custom_query():
+	from custom import query
+	df = pd.read_sql(query, con=engine, index_col = None)
+	stats = df.to_html(classes="table table-striped")
+	return render_template("second.html", stats=stats)
+
 @app.route('/inputs', methods=['GET', 'POST'])
 def inputs():
 	if os.path.exists("StatPuts.py"):

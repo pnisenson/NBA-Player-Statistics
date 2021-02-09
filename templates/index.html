@@ -7,11 +7,12 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>NBA Stats</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <!-- <link rel="stylesheet" href="style.css"> -->
 </head>
 
 <body>
   <div class="container-fluid">
-    <div class="jumbotron text-center">
+    <div class="jumbotron text-center" >
       <h1>NBA Statistics</h1>
       <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Scrape New Data</a></p>
 
@@ -48,7 +49,9 @@
     </div><hr>
 
 <div>
-    <a href="/top_players"> Click Here to See the Top Players</a></div><br>
+    <a href="/top_players"> Click Here to See the Top Players</a><br>
+    <a href="/custom"> Click Here to View Query (built with custom.py file)</a>
+  </div><br>
 
     <div>{{stats|safe}}</div>
     

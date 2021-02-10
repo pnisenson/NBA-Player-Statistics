@@ -44,8 +44,10 @@ def scraper():
 
 def cleaner():
 	all_df = scraper()
-	# Drop the Unnamed column
-	all_df = all_df.drop(columns={'Unnamed: 0'})
+	# Drop the Unnamed columns
+	#all_df = all_df.drop(columns={'Unnamed: 0'})
+	cols = [c for c in all_df.columns if c.lower()[:7] != 'unnamed']
+	all_df = all_df[cols]
 	# Get rid of additional header rows
 	all_df = all_df.loc[all_df["Rk"] != "Rk"]
 	all_df= all_df.drop_duplicates(subset=['Rk', 'Season'], keep='first')
@@ -93,8 +95,6 @@ def final():
 	if os.path.exists("FlaskFiles/final.csv"):
 		os.remove("FlaskFiles/final.csv")
 	final.to_csv(f'FlaskFiles/final.csv')
-	# table = final.to_html(classes="table table-striped")
-	# scraped_data = {'table': table}
 	if os.path.exists("FlaskFiles/PlayerStats.sqlite"):
 		os.remove("FlaskFiles/PlayerStats.sqlite")
 	engine = create_engine('sqlite:///FlaskFiles/PlayerStats.sqlite', echo=True)

@@ -1,5 +1,6 @@
 query = "\
-	SELECT Player, Country, PTS, Season \
+	SELECT Player, Country, PER, Season \
 	FROM data \
 	WHERE Country = 'Argentina'\
+	ORDER BY PER DESC\
 "

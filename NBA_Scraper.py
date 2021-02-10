@@ -18,6 +18,8 @@ def search():
 	years = int(ys)
 	if d_type.lower() == "per 100 poss":
 		data_type = 'per_poss'
+	elif d_type.lower() == "play by play":
+		data_type = 'play-by-play'
 	else:
 		data_type = d_type.lower()
 	return start_year,years,data_type
@@ -34,6 +36,8 @@ def scraper():
 	for x in range(1, years+1):
 		site_address = browser.current_url
 		year_df = pd.read_html(site_address)[0] # our data is the first table on the page
+		if data_type == 'play-by-play':
+			play_by_play(year_df)
 		year_df['Season'] = start_year
 		year_df.to_csv(f'FlaskFiles/{start_year}{data_type}.csv') # after extracting, save to csv by year
 		files_list.append(f'FlaskFiles/{start_year}{data_type}.csv') # append file name to files_list
@@ -44,6 +48,35 @@ def scraper():
 	df_from_each_file = (pd.read_csv(f) for f in files_list)
 	all_df = pd.concat(df_from_each_file, ignore_index=True)
 	return all_df
+
+def play_by_play(year_df):
+	year_df.columns = year_df.columns.droplevel()
+	# Change columns with multiple names (Shoot, Off.)
+	cols = []
+	scount, ocount = 1, 1
+	for column in year_df.columns:
+	    if column == 'Shoot':
+	        cols.append(f'Shoot_{scount}')
+	        scount+=1
+	        continue
+	    elif column == 'Off.':
+	        cols.append(f'Off_{ocount}')
+	        ocount+=1
+	        continue
+	    cols.append(column)
+	year_df.columns = cols
+	# Rename columns using original index where applicable
+	year_df = year_df.rename(columns={
+	'OnCourt':'PMP100_OnCourt',
+	'On-Off':'PMP100_On_Off',
+	'BadPass': 'BadPassTO',
+	'LostBall': 'LostBallTO',
+	'Shoot_1': 'FoulC_Shoot',
+	'Shoot_2': 'FoulD_Shoot',
+	'Off_1': 'FoulC_Off',
+	'Off_2': 'FoulD_Off'})
+	return year_df
+
 
 def cleaner():
 	all_df = scraper()
@@ -61,7 +94,10 @@ def cleaner():
 		if key not in text_keys:
 			num_keys.append(key)
 	for key in num_keys:
-		all_df[key] = pd.to_numeric(all_df[key])
+		try:
+			all_df[key] = pd.to_numeric(all_df[key])
+		except:
+			all_df[key] = pd.to_numeric(all_df[key].replace('%','',regex=True))/100
 	all_df = all_df.fillna(0)
 	player_names = all_df["Player"]
 	clean_players = []

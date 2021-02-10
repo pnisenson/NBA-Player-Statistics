@@ -35,7 +35,11 @@ def scraper():
 	files_list = []
 	for x in range(1, years+1):
 		site_address = browser.current_url
-		year_df = pd.read_html(site_address)[0] # our data is the first table on the page
+		# do not bring year_df...need to drop headers
+		if data_type == 'shooting':
+			year_df = shooting(site_address)
+		else:
+			year_df = pd.read_html(site_address)[0] # our data is the first table on the page
 		if data_type == 'play-by-play':
 			play_by_play(year_df)
 		year_df['Season'] = start_year
@@ -77,6 +81,30 @@ def play_by_play(year_df):
 	'Off_2': 'FoulD_Off'})
 	return year_df
 
+def shooting(site_address):
+	year_df = pd.read_html(site_address, header = 1)[0]
+	year_df = year_df.rename(columns={
+	'2P':'2P_FGAxDist',
+	'0-3':'0_3_FGAxDist',
+	'3-10':'3_10_FGAxDist', 
+	'10-16':'10_16_FGAxDist', 
+	'16-3P':'16_3P_FGAxDist', 
+	'3P':'3P_FGAxDist', 
+	'2P.1':'2P_FGPxDist', 
+	'0-3.1':'0_3_FGPxDist', 
+	'3-10.1':'3_10_FGPxDist',
+	'10-16.1':'10_16_FGPxDist', 
+	'16-3P.1':'16_3P_FGPxDist', 
+	'3P.1':'3P_FGPxDist', 
+	'2P.2':'2PAstP', 
+	'3P.2':'3PAstP', 
+	'%FGA':'Dunks_FGA', 
+	'#':'Num_Dunks', 
+	'%3PA':'Corner_3PFGA',
+	'3P%':'Corner_3PP', 
+	'Att.':'Heaves_Att', 
+	'#.1':'Heaves_Made'})
+	return year_df
 
 def cleaner():
 	all_df = scraper()
@@ -139,6 +167,7 @@ def final():
 	engine = create_engine('sqlite:///FlaskFiles/PlayerStats.sqlite', echo=True)
 	sqlite_connection = engine.connect()
 	final.to_sql('data',con=engine, index = False)
+
 
 
 

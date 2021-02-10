@@ -1,5 +1,5 @@
 username = 'pnisenson' 
 password = 'hotdog55' 
-s_year = '2018' 
+s_year = '2015' 
 ys = '1' 
-d_type = 'play By PlaY' 
+d_type = 'shooting' 

@@ -16,7 +16,10 @@ def search():
 	from StatPuts import s_year, ys, d_type
 	start_year = int(s_year)
 	years = int(ys)
-	data_type = d_type.lower()
+	if d_type.lower() == "per 100 poss":
+		data_type = 'per_poss'
+	else:
+		data_type = d_type.lower()
 	return start_year,years,data_type
 
 def scraper():

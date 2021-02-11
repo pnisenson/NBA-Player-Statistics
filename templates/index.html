@@ -38,6 +38,9 @@
                 <li>Type: 
                   <input name='dtype' id="dtype" value="Enter 'Totals' or 'Advanced'">
                 </li>
+                <li>Per: 
+                  <input name='per' id="per" value="Per Game, Per 36, or None">
+                </li>
             </ul><input type='submit' value='Submit Form'>
         </fieldset>
     </form>
@@ -47,11 +50,8 @@
       Most recent inputs:
       <ul>
         <li>Years: {{content.Season.iloc[0]}} - {{content.Season.iloc[-1]}}</li>
-        <li>Data Type: {{stat_type}}</li>
-
+        <li>Data Type: {{stat_type[0]}} ({{stat_type[1]}})</li>
       </ul>
-           <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/u-cSFPglc90?start=3&autoplay=1" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
           </div></div>
     <hr>
 

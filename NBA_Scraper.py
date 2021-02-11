@@ -137,6 +137,20 @@ def cleaner():
 	all_df = all_df.drop(columns={'index'})
 	return all_df
 
+def per_game(num_keys, all_df):
+	for key in num_keys:
+		if test[key].dtype == 'int64':
+			test[key] = test[key]/test['GP']
+	return all_df
+
+
+def per_36(num_keys, all_df):
+	for key in num_keys:
+		if test[key].dtype == 'int64':
+			test[key] = (test[key]/test['MP'])*36
+	return all_df
+
+
 def nation():
 	url = 'https://en.wikipedia.org/wiki/List_of_foreign_NBA_players'
 	tables = pd.read_html(url)[6]

@@ -15,7 +15,12 @@ engine = create_engine("sqlite:///FlaskFiles/PlayerStats.sqlite", echo=True)
 def home():
 	df = pd.read_sql("SELECT * FROM data", con=engine, index_col = None)
 	stats = df.to_html(classes="table table-striped")
-	return render_template("index.html", stats=stats)
+	try:
+		from StatPuts import d_type
+		stat_type = d_type.lower().title()
+	except:
+		stat_type = 'type unknown'
+	return render_template("index.html", stats=stats, content=df, stat_type=stat_type)
 
 
 @app.route("/top_players")

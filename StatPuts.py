@@ -1,5 +1,5 @@
 username = 'pnisenson' 
 password = 'hotdog55' 
-s_year = '2015' 
-ys = '1' 
-d_type = 'shooting' 
+s_year = '2013' 
+ys = '2' 
+d_type = 'totals' 

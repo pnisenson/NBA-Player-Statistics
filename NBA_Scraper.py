@@ -149,6 +149,7 @@ def per_game(num_keys, all_df):
 	for key in num_keys:
 		if all_df[key].dtype == 'int64':
 			all_df[key] = all_df[key]/all_df['G']
+			all_df[key] = all_df[key].round(1)
 	return all_df
 
 
@@ -159,6 +160,7 @@ def per_36(num_keys, all_df):
 	for key in num_keys:
 		if all_df[key].dtype == 'int64':
 			all_df[key] = (all_df[key]/all_df['MP'])*36
+			all_df[key] = all_df[key].round(1)
 	return all_df
 
 

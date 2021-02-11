@@ -126,6 +126,11 @@ def cleaner():
 			all_df[key] = pd.to_numeric(all_df[key])
 		except:
 			all_df[key] = pd.to_numeric(all_df[key].replace('%','',regex=True))/100
+	from StatPuts import per
+	if per.lower() == 'per game':
+		all_df = per_game(num_keys,all_df)
+	elif per.lower() == 'per 36':
+		all_df = per_36(num_keys,all_df)
 	all_df = all_df.fillna(0)
 	player_names = all_df["Player"]
 	clean_players = []
@@ -138,16 +143,22 @@ def cleaner():
 	return all_df
 
 def per_game(num_keys, all_df):
+	specials = ['Age', 'G', 'GS', 'Season']
+	for key in specials:
+		num_keys.remove(key)
 	for key in num_keys:
-		if test[key].dtype == 'int64':
-			test[key] = test[key]/test['GP']
+		if all_df[key].dtype == 'int64':
+			all_df[key] = all_df[key]/all_df['G']
 	return all_df
 
 
 def per_36(num_keys, all_df):
+	specials = ['Age', 'G', 'GS', 'MP', 'Season']
+	for key in specials:
+		num_keys.remove(key)
 	for key in num_keys:
-		if test[key].dtype == 'int64':
-			test[key] = (test[key]/test['MP'])*36
+		if all_df[key].dtype == 'int64':
+			all_df[key] = (all_df[key]/all_df['MP'])*36
 	return all_df
 
 

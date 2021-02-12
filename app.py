@@ -16,11 +16,11 @@ def home():
 	df = pd.read_sql("SELECT * FROM data", con=engine, index_col = None)
 	stats = df.to_html(classes="table table-striped")
 	try:
-		from StatPuts import d_type
-		stat_type = d_type.lower().title()
+		from StatPuts import d_type,s_year,ys
+		last_inputs = [d_type, s_year, str(int(s_year) + int(ys))]
 	except ImportError as err:
-		stat_type = 'Type Unknown'
-	return render_template("index.html", stats=stats, content=df, stat_type=stat_type)
+		last_inputs = ['No Input', 'No Input', 'No Input']
+	return render_template("index.html", stats=stats, content=df, last_inputs=last_inputs)
 
 
 @app.route("/top_players")

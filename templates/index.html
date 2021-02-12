@@ -66,9 +66,15 @@
     <legend align="center">Get Pumped While You Wait!</legend><br>
       Most recent inputs:
       <ul>
-        <li>Years: {{content.Season.iloc[0]}} - {{content.Season.iloc[-1]}}</li>
-        <li>Data Type: {{stat_type}}</li>
+        <li>Years: {{last_inputs[1]}} - {{last_inputs[2]}}</li>
+        <li>Data Type: {{last_inputs[0]}}</li>
       </ul>
+      Table Below:
+      <ul>
+        <li>Years: {{content.Season.iloc[0]}} - {{content.Season.iloc[-1]}}</li>
+        <li>Data Type: </li>
+      </ul>      
+      
           </div></div>
     <hr>
 

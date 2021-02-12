@@ -16,11 +16,21 @@ def home():
 	df = pd.read_sql("SELECT * FROM data", con=engine, index_col = None)
 	stats = df.to_html(classes="table table-striped")
 	try:
+		table_facts = pd.read_sql("SELECT * FROM table_facts", con=engine, index_col = None)
+	except:
+		table_facts = {
+		'data_type': 'N/A',
+		'start_year': 'N/A',
+		'end_year': 'N/A'
+	}
+	try:
 		from StatPuts import d_type,s_year,ys
-		last_inputs = [d_type, s_year, str(int(s_year) + int(ys))]
+		last_inputs = [d_type, s_year, str(int(s_year) + int(ys) -1)]
 	except ImportError as err:
 		last_inputs = ['No Input', 'No Input', 'No Input']
-	return render_template("index.html", stats=stats, content=df, last_inputs=last_inputs)
+	except ValueError as err:
+		last_inputs = ['Invalid Input', 'Invalid Input', 'Invalid Input']
+	return render_template("index.html", stats=stats, last_inputs=last_inputs, table_facts=table_facts)
 
 
 @app.route("/top_players")
@@ -34,12 +44,17 @@ def get_buckets():
 		stats = df.to_html(classes="table table-striped")
 		return render_template("second.html", stats=stats)
 
-@app.route("/custom")
+@app.route("/custom", methods=['GET', 'POST'])
 def custom_query():
-	from custom import query
-	df = pd.read_sql(query, con=engine, index_col = None)
-	stats = df.to_html(classes="table table-striped")
-	return render_template("second.html", stats=stats)
+	try:
+		from customq import query
+		df = pd.read_sql(query, con=engine, index_col = None)
+		stats = df.to_html(classes="table table-striped")
+	except SyntaxError:
+		stats= 'Query entered is invalid. Please build a new query'
+	except ImportError:
+		stats = 'No query vailable for loading. Please build a new query.'
+	return render_template("custom.html", stats=stats)
 
 @app.route('/inputs', methods=['GET', 'POST'])
 def inputs():
@@ -52,6 +67,19 @@ def inputs():
 	File_object.write(f"ys = '{request.form['years']}' \n")
 	File_object.write(f"d_type = '{request.form['dtype']}' \n")
 	return redirect("/")
+
+@app.route('/inputstoo', methods=['GET', 'POST'])
+def inputstoo():
+	if os.path.exists("customq.py"):
+		os.remove("customq.py")
+	File_object = open(r"customq.py","a")
+	select = request.form['select']
+	where = request.form['where']
+	order = request.form['order']
+	group = request.form['group']
+	File_object.write(f"query = 'SELECT {select} FROM data WHERE {where} GROUP BY {group} ORDER BY {order}'")
+	return redirect("/custom")
+	# return "Test"
 
 # Route that will trigger the scrape function
 @app.route("/scrape")

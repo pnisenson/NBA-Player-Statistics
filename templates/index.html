@@ -16,7 +16,7 @@
       <h1>NBA Statistics</h1>
       <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Scrape New Data</a></p>
 
-    </div><
+    </div>
 <div class="row">
   <div class="col-sm-6">
 <form method="post" action="{{ url_for('inputs') }}">
@@ -40,7 +40,8 @@
                 <td><input name='years' id="years" value="e.g. 5"></td>
               </tr>
             </table>
-            <div class="form-check form-check-inline">Data to return (Select One):<br>
+            <legend>Data to Return (Select One):</legend>
+            <div class="form-check form-check-inline">
               <input class="form-check-input" name="dtype" type="checkbox" id="totals" value="totals">
               <label class="form-check-label" for="inlineCheckbox1">Totals</label>
                 <input class="form-check-input" name="dtype" type="checkbox" id="pergame" value="pergame">
@@ -53,7 +54,7 @@
             <div class="form-check form-check-inline">
               <input class="form-check-input" name="dtype" type="checkbox" id="advanced" value="advanced">
               <label class="form-check-label" for="inlineCheckbox5">Advanced</label>
-                <input class="form-check-input" name="dtype" type="checkbox" id="pbp" value="pbp">
+                <input class="form-check-input" name="dtype" type="checkbox" id="play-by-play" value="play-by-play">
               <label class="form-check-label" for="inlineCheckbox6">Play-by-Play</label>
                 <input class="form-check-input" name="dtype" type="checkbox" id="shooting" value="shooting">
               <label class="form-check-label" for="inlineCheckbox7">Shooting</label>
@@ -71,8 +72,8 @@
       </ul>
       Table Below:
       <ul>
-        <li>Years: {{content.Season.iloc[0]}} - {{content.Season.iloc[-1]}}</li>
-        <li>Data Type: </li>
+        <li>Years: {{table_facts.start_year[0]}} - {{table_facts.end_year[0]}}</li>
+        <li>Data Type: {{table_facts.data_type[0]}} </li>
       </ul>      
       
           </div></div>

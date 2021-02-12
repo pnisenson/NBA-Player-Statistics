@@ -1,0 +1,1 @@
+query = 'SELECT Player, Season, Country, And1 FROM data WHERE Country = "Argentina" GROUP BY Player ORDER BY And1 DESC'

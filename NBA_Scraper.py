@@ -36,7 +36,7 @@ def scraper():
 			year_df = shooting(site_address)
 		else:
 			year_df = pd.read_html(site_address)[0] # our data is the first table on the page
-		if data_type == 'pbp':
+		if data_type == 'play-by-play':
 			play_by_play(year_df)
 		year_df['Season'] = start_year
 		new_ids = player_id(browser)
@@ -208,6 +208,14 @@ def final():
 	engine = create_engine('sqlite:///FlaskFiles/PlayerStats.sqlite', echo=True)
 	sqlite_connection = engine.connect()
 	final.to_sql('data',con=engine, index = False)
+	# send data type to app
+	start_year,years,data_type = search()
+	table_facts = pd.DataFrame({
+		'data_type':data_type,
+		'start_year':start_year,
+		'end_year': start_year + years - 1
+	}, index=range(1))
+	table_facts.to_sql('table_facts',con=engine, index = False)
 
 
 

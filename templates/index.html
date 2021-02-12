@@ -22,26 +22,43 @@
 <form method="post" action="{{ url_for('inputs') }}">
         <fieldset>
             <legend align="center">Please enter inputs below prior to scraping data:</legend>
-            <ul>
-                <li>Username: 
-                  <input name='user' id="user" value="Type BKRef Username">
-                </li>
-                <li>Password: 
-                  <input name='pass' id="pass" value="Type BKRef Username" type="password">
-                </li>
-                <li>Start Year: 
-                  <input name='start' id="start" value="e.g. 2010">
-                </li>
-                <li>Years: 
-                  <input name='years' id="years" value="e.g. 5">
-                </li>
-                <li>Type: 
-                  <input name='dtype' id="dtype" value="Enter 'Totals' or 'Advanced'">
-                </li>
-                <li>Per: 
-                  <input name='per' id="per" value="Per Game, Per 36, or None">
-                </li>
-            </ul><input type='submit' value='Submit Form'>
+            <table class="table" align="center">
+              <tr>
+                <td>Username</td>
+                <td><input name='user' id="user" value="Type BKRef Username"></td>
+              </tr>
+              <tr>
+                <td>Password</td>
+                <td><input name='pass' id="pass" value="Type BKRef Username" type="password"></td>
+              </tr>
+              <tr>
+                <td>Start Year</td>
+                <td><input name='start' id="start" value="e.g. 2010"></td>
+              </tr>
+              <tr>
+                <td>Years</td>
+                <td><input name='years' id="years" value="e.g. 5"></td>
+              </tr>
+            </table>
+            <div class="form-check form-check-inline">Data to return (Select One):<br>
+              <input class="form-check-input" name="dtype" type="checkbox" id="totals" value="totals">
+              <label class="form-check-label" for="inlineCheckbox1">Totals</label>
+                <input class="form-check-input" name="dtype" type="checkbox" id="pergame" value="pergame">
+              <label class="form-check-label" for="inlineCheckbox2">Per Game</label>
+                <input class="form-check-input" name="dtype" type="checkbox" id="per36" value="per36">
+              <label class="form-check-label" for="inlineCheckbox3">Per 36</label>
+                <input class="form-check-input" name="dtype" type="checkbox" id="per100" value="per100">
+              <label class="form-check-label" for="inlineCheckbox4">Per 100 Possesions</label>
+            </div>
+            <div class="form-check form-check-inline">
+              <input class="form-check-input" name="dtype" type="checkbox" id="advanced" value="advanced">
+              <label class="form-check-label" for="inlineCheckbox5">Advanced</label>
+                <input class="form-check-input" name="dtype" type="checkbox" id="pbp" value="pbp">
+              <label class="form-check-label" for="inlineCheckbox6">Play-by-Play</label>
+                <input class="form-check-input" name="dtype" type="checkbox" id="shooting" value="shooting">
+              <label class="form-check-label" for="inlineCheckbox7">Shooting</label>
+            </div>
+            <input type='submit' value='Submit Form'>
         </fieldset>
     </form>
   </div>
@@ -50,7 +67,7 @@
       Most recent inputs:
       <ul>
         <li>Years: {{content.Season.iloc[0]}} - {{content.Season.iloc[-1]}}</li>
-        <li>Data Type: {{stat_type[0]}} ({{stat_type[1]}})</li>
+        <li>Data Type: {{stat_type}}</li>
       </ul>
           </div></div>
     <hr>

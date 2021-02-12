@@ -1,6 +1,7 @@
 from selenium import webdriver
 import pandas as pd 
 from sqlalchemy import create_engine
+from bs4 import BeautifulSoup as bs
 import os
 
 def login(browser):
@@ -16,13 +17,7 @@ def search():
 	from StatPuts import s_year, ys, d_type
 	start_year = int(s_year)
 	years = int(ys)
-	if d_type.lower() == "per 100 poss":
-		data_type = 'per_poss'
-	elif d_type.lower() == "play by play":
-		data_type = 'play-by-play'
-	else:
-		data_type = d_type.lower()
-	return start_year,years,data_type
+	return start_year,years,d_type
 
 def scraper():
 	login_address = 'https://stathead.com/users/login.cgi?token=1&redirect_uri=https%3A//www.basketball-reference.com/leagues/NBA_2020_totals.html'
@@ -33,6 +28,7 @@ def scraper():
 	start_year,years,data_type = search()
 	browser.get(f'https://www.basketball-reference.com/leagues/NBA_{start_year}_{data_type}.html')
 	files_list = []
+	player_ids = []
 	for x in range(1, years+1):
 		site_address = browser.current_url
 		# do not bring year_df...need to drop headers
@@ -40,9 +36,12 @@ def scraper():
 			year_df = shooting(site_address)
 		else:
 			year_df = pd.read_html(site_address)[0] # our data is the first table on the page
-		if data_type == 'play-by-play':
+		if data_type == 'pbp':
 			play_by_play(year_df)
 		year_df['Season'] = start_year
+		new_ids = player_id(browser)
+		for each_id in new_ids:
+			player_ids.append(each_id)
 		year_df.to_csv(f'FlaskFiles/{start_year}{data_type}.csv') # after extracting, save to csv by year
 		files_list.append(f'FlaskFiles/{start_year}{data_type}.csv') # append file name to files_list
 		del year_df # delete the DataFrame from memory
@@ -51,7 +50,20 @@ def scraper():
 	browser.quit()
 	df_from_each_file = (pd.read_csv(f) for f in files_list)
 	all_df = pd.concat(df_from_each_file, ignore_index=True)
-	return all_df
+	return all_df, player_ids
+
+def player_id(browser):
+	html = browser.page_source
+	soup = bs(html, "html.parser")
+	results = soup.find_all('td', class_='left')
+	player_ids = []
+	for result in results:
+		try:
+			if result.attrs['data-append-csv']:
+				player_ids.append(result.attrs['data-append-csv'])
+		except:
+			pass
+	return player_ids
 
 def play_by_play(year_df):
 	year_df.columns = year_df.columns.droplevel()
@@ -107,15 +119,17 @@ def shooting(site_address):
 	return year_df
 
 def cleaner():
-	all_df = scraper()
+	scraper_return = scraper()
+	all_df = scraper_return[0]
+	player_ids = scraper_return[1]
 	# Drop the Unnamed columns
-	#all_df = all_df.drop(columns={'Unnamed: 0'})
 	cols = [c for c in all_df.columns if c.lower()[:7] != 'unnamed']
 	all_df = all_df[cols]
 	# Get rid of additional header rows
 	all_df = all_df.loc[all_df["Rk"] != "Rk"]
+	all_df['PlayerID'] = player_ids
 	all_df= all_df.drop_duplicates(subset=['Rk', 'Season'], keep='first')
-	text_keys = ['Player','Pos','Tm']
+	text_keys = ['Player','Pos','Tm', 'PlayerID']
 	keys_list = all_df.keys()
 	num_keys = []
 	for key in keys_list:
@@ -126,10 +140,10 @@ def cleaner():
 			all_df[key] = pd.to_numeric(all_df[key])
 		except:
 			all_df[key] = pd.to_numeric(all_df[key].replace('%','',regex=True))/100
-	from StatPuts import per
-	if per.lower() == 'per game':
+	from StatPuts import d_type
+	if d_type.lower() == 'pergame':
 		all_df = per_game(num_keys,all_df)
-	elif per.lower() == 'per 36':
+	elif d_type.lower() == 'per36':
 		all_df = per_36(num_keys,all_df)
 	all_df = all_df.fillna(0)
 	player_names = all_df["Player"]

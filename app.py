@@ -16,13 +16,10 @@ def home():
 	df = pd.read_sql("SELECT * FROM data", con=engine, index_col = None)
 	stats = df.to_html(classes="table table-striped")
 	try:
-		from StatPuts import d_type, per
-		stat_type = [d_type.lower().title() , per.lower().title()]
+		from StatPuts import d_type
+		stat_type = d_type.lower().title()
 	except ImportError as err:
-		if 'per' in ("{0}".format(err)):
-			stat_type = [d_type.lower().title(), 'N/A']
-		else:
-			stat_type = ['Type Unknown', 'N/A']
+		stat_type = 'Type Unknown'
 	return render_template("index.html", stats=stats, content=df, stat_type=stat_type)
 
 
@@ -54,7 +51,6 @@ def inputs():
 	File_object.write(f"s_year = '{request.form['start']}' \n")
 	File_object.write(f"ys = '{request.form['years']}' \n")
 	File_object.write(f"d_type = '{request.form['dtype']}' \n")
-	File_object.write(f"per = '{request.form['per']}' \n")
 	return redirect("/")
 
 # Route that will trigger the scrape function

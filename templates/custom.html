@@ -26,21 +26,32 @@
             <table class="table" align="center">
               <tr>
                 <td>SELECT</td>
-                <td><input name='select' id="select" value="col name"></td>
+<!--                 <td><input name='select' class="form-control" id="select" value="col name"></td> -->
+                <td><select multiple class="form-control" name="select" id="select">
+                  <option>Player</option>
+                  <option>Season</option>
+                  <option>Country</option>
+                  <option>And1</option>
+                  <option>OnCourt</option>
+                </select>
+                </td>
               </tr>
               <tr>
                 <td>WHERE</td>
-                <td><input name='where' id="where" value="column = value"></td>
+                <td><input name='where' class="form-control" id="where" value='use " " operator'></td>
               </tr>
               <tr>
                 <td>ORDER BY</td>
-                <td><input name='order' id="order" value="column ASC/DESC"></td>
+                <td><input name='order' class="form-control" id="order" value=""></td>
               </tr>
               <tr>
                 <td>GROUP BY</td>
-                <td><input name='group' id="group" value=""></td>
+                <td><input name='group' class="form-control" id="group" value=""></td>
               </tr>
             </table>
+            <div class="form-group"><label for="byo">Or Build your own: </label>
+                <textarea class="form-control" name='byo' id="byo" rows="3" value=""></textarea>
+                 </div>
             <input type='submit' value='Submit Form'>
         </fieldset>
     </form>

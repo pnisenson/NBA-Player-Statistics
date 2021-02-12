@@ -50,10 +50,8 @@ def custom_query():
 		from customq import query
 		df = pd.read_sql(query, con=engine, index_col = None)
 		stats = df.to_html(classes="table table-striped")
-	except SyntaxError:
+	except:
 		stats= 'Query entered is invalid. Please build a new query'
-	except ImportError:
-		stats = 'No query vailable for loading. Please build a new query.'
 	return render_template("custom.html", stats=stats)
 
 @app.route('/inputs', methods=['GET', 'POST'])
@@ -73,11 +71,22 @@ def inputstoo():
 	if os.path.exists("customq.py"):
 		os.remove("customq.py")
 	File_object = open(r"customq.py","a")
-	select = request.form['select']
-	where = request.form['where']
-	order = request.form['order']
-	group = request.form['group']
-	File_object.write(f"query = 'SELECT {select} FROM data WHERE {where} GROUP BY {group} ORDER BY {order}'")
+	if request.form['byo'] != "":
+		byo = request.form['byo']
+		File_object.write(f"query = '{byo}'")
+	else:
+		as_dict = request.form.getlist('select')
+		select = ", ".join(as_dict)
+		q_string = f"SELECT {select} FROM data" 
+		where, order, group = request.form['where'], request.form['order'], request.form['group']
+		if where != "":
+			q_string = f'{q_string} WHERE {where}'
+		if order != "":
+			q_string = f'{q_string} ORDER BY {order}'
+		if group != "":
+			q_string = f'{q_string} GROUP BY {group}'
+		File_object.write(f"query = '{q_string}'")
+		#File_object.write(f"query = 'SELECT {select} FROM data WHERE {where} GROUP BY {group} ORDER BY {order}'")
 	return redirect("/custom")
 	# return "Test"
 

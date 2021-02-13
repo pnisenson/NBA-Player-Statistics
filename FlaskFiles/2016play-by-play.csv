@@ -1,4 +1,4 @@
-,Rk,Player,Pos,Age,Tm,G,MP,PG%,SG%,SF%,PF%,C%,OnCourt,On-Off,BadPass,LostBall,Shoot_1,Off_1,Shoot_2,Off_2,PGA,And1,Blkd,Season
+,Rk,Player,Pos,Age,Tm,G,MP,PG%,SG%,SF%,PF%,C%,PMP100_OnCourt,PMP100_On_Off,BadPassTO,LostBallTO,FoulC_Shoot,FoulC_Off,FoulD_Shoot,FoulD_Off,PGA,And1,Blkd,Season
 0,1,Quincy Acy,PF,25,SAC,59,876,,,,92%,8%,-7.1,-5.5,8,6,51,5,27,5,62,9,6,2016
 1,2,Jordan Adams,SG,21,MEM,2,15,,60%,40%,,,9.3,11.7,0,2,0,0,2,0,6,1,0,2016
 2,3,Steven Adams,C,22,OKC,80,2014,,,,,100%,11.3,8.2,24,22,107,23,83,7,144,20,31,2016

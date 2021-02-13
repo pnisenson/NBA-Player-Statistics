@@ -37,7 +37,7 @@ def scraper():
 		else:
 			year_df = pd.read_html(site_address)[0] # our data is the first table on the page
 		if data_type == 'play-by-play':
-			play_by_play(year_df)
+			year_df = play_by_play(year_df)
 		year_df['Season'] = start_year
 		new_ids = player_id(browser)
 		for each_id in new_ids:

@@ -1,3 +1,32 @@
 .label-mat {font-size:16px;
 	font-weight: 500;
 }
+.leader-font {
+	font-family: Arial;
+	font-weight: 700;}
+
+.jumbotron {
+	background-color: #e69500;
+/*	padding: 1px*/
+}
+
+.container-fluid {
+	background-color: #f1f1f1;
+}
+
+.btn {
+	background-color: black;
+	border-color: black;
+}
+
+.btn-primary:hover {
+	background-color: #e69500;
+}
+
+.form-check-label {
+	font-weight: 500; 
+}
+
+.recent {font-weight: bold}
+
+td {padding-right: 5px;}

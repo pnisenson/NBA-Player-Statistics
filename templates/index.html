@@ -7,13 +7,13 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>NBA Stats</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <!-- <link rel="stylesheet" href="style.css"> -->
+  <link rel="stylesheet" href="{{ url_for('static',filename='styles/style.css') }}">
 </head>
 
 <body>
-  <div class="container-fluid">
+  <div class="container-fluid"><br>
     <div class="jumbotron text-center" >
-      <h1>NBA Statistics</h1>
+      <h1 class="leader-font">NBA Statistics</h1>
       <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Scrape New Data</a></p>
 
     </div>
@@ -21,7 +21,7 @@
   <div class="col-sm-6">
 <form method="post" action="{{ url_for('inputs') }}">
         <fieldset>
-            <legend align="center">Please enter inputs below prior to scraping data:</legend>
+            <legend>Please enter inputs below prior to scraping data:</legend>
             <table class="table" align="center">
               <tr>
                 <td>Username</td>
@@ -41,36 +41,39 @@
               </tr>
             </table>
             <legend>Data to Return (Select One):</legend>
-            <div class="form-check form-check-inline">
-              <input class="form-check-input" name="dtype" type="checkbox" id="totals" value="totals">
-              <label class="form-check-label" for="inlineCheckbox1">Totals</label>
-                <input class="form-check-input" name="dtype" type="checkbox" id="pergame" value="pergame">
-              <label class="form-check-label" for="inlineCheckbox2">Per Game</label>
-                <input class="form-check-input" name="dtype" type="checkbox" id="per36" value="per36">
-              <label class="form-check-label" for="inlineCheckbox3">Per 36</label>
-                <input class="form-check-input" name="dtype" type="checkbox" id="per100" value="per100">
-              <label class="form-check-label" for="inlineCheckbox4">Per 100 Possesions</label>
-            </div>
-            <div class="form-check form-check-inline">
-              <input class="form-check-input" name="dtype" type="checkbox" id="advanced" value="advanced">
-              <label class="form-check-label" for="inlineCheckbox5">Advanced</label>
-                <input class="form-check-input" name="dtype" type="checkbox" id="play-by-play" value="play-by-play">
-              <label class="form-check-label" for="inlineCheckbox6">Play-by-Play</label>
-                <input class="form-check-input" name="dtype" type="checkbox" id="shooting" value="shooting">
-              <label class="form-check-label" for="inlineCheckbox7">Shooting</label>
-            </div>
-            <input type='submit' value='Submit Form'>
+            <table>
+              <tr>
+              <td><input class="form-check-input" name="dtype" type="checkbox" id="totals" value="totals">
+              <label class="form-check-label" for="inlineCheckbox1">Totals</label></td>
+               <td> <input class="form-check-input" name="dtype" type="checkbox" id="pergame" value="pergame">
+              <label class="form-check-label" for="inlineCheckbox2">Per Game</label></td>
+               <td> <input class="form-check-input" name="dtype" type="checkbox" id="per36" value="per36">
+              <label class="form-check-label" for="inlineCheckbox3">Per 36</label></td>
+               <td> <input class="form-check-input" name="dtype" type="checkbox" id="per100" value="per100">
+              <label class="form-check-label" for="inlineCheckbox4">Per 100 Possesions</label></td>
+            </tr>
+            <tr>
+              <td><input class="form-check-input" name="dtype" type="checkbox" id="advanced" value="advanced">
+              <label class="form-check-label" for="inlineCheckbox5">Advanced </label></td>
+               <td> <input class="form-check-input" name="dtype" type="checkbox" id="play-by-play" value="play-by-play">
+              <label class="form-check-label" for="inlineCheckbox6">Play-by-Play </label></td>
+              <td><input class="form-check-input" name="dtype" type="checkbox" id="shooting" value="shooting">
+              <label class="form-check-label" for="inlineCheckbox7">Shooting</label></td>
+            </tr>
+              </table>
+              <br>
+            <input type='submit' value='Send Inputs'>
         </fieldset>
     </form>
   </div>
   <div class="col-sm-6">
-    <legend align="center">Get Pumped While You Wait!</legend><br>
-      Most recent inputs:
+    <legend>Input/Output Data:</legend>
+      <div class="recent">Most recent inputs:</div>
       <ul>
         <li>Years: {{last_inputs[1]}} - {{last_inputs[2]}}</li>
         <li>Data Type: {{last_inputs[0]}}</li>
       </ul>
-      Table Below:
+      <div class="recent">Table Below:</div>
       <ul>
         <li>Years: {{table_facts.start_year[0]}} - {{table_facts.end_year[0]}}</li>
         <li>Data Type: {{table_facts.data_type[0]}} </li>
@@ -81,7 +84,7 @@
 
 <div>
     <a href="/top_players"> Click Here to See the Top Players</a><br>
-    <a href="/custom"> Click Here to View Query (built with custom.py file)</a>
+    <a href="/custom"> Click Here to Build Custom Query</a>
   </div><br>
 
     <div>{{stats|safe}}</div>

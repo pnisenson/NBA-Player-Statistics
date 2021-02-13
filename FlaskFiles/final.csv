@@ -1,4 +1,4 @@
-,Player,Pos,Age,Tm,G,MP,PG%,SG%,SF%,PF%,C%,OnCourt,On-Off,BadPass,LostBall,Shoot_1,Off_1,Shoot_2,Off_2,PGA,And1,Blkd,Season,PlayerID,Country
+,Player,Pos,Age,Tm,G,MP,PG%,SG%,SF%,PF%,C%,PMP100_OnCourt,PMP100_On_Off,BadPassTO,LostBallTO,FoulC_Shoot,FoulC_Off,FoulD_Shoot,FoulD_Off,PGA,And1,Blkd,Season,PlayerID,Country
 0,Quincy Acy,PF,25,SAC,59,876,0.0,0.0,0.0,0.92,0.08,-7.1,-5.5,8,6,51,5,27,5,62,9,6,2016,acyqu01,United States
 1,Jordan Adams,SG,21,MEM,2,15,0.0,0.6,0.4,0.0,0.0,9.3,11.7,0,2,0,0,2,0,6,1,0,2016,adamsjo01,United States
 2,Steven Adams,C,22,OKC,80,2014,0.0,0.0,0.0,0.0,1.0,11.3,8.2,24,22,107,23,83,7,144,20,31,2016,adamsst01,New Zealand

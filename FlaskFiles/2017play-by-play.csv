@@ -1,4 +1,4 @@
-,Rk,Player,Pos,Age,Tm,G,MP,PG%,SG%,SF%,PF%,C%,OnCourt,On-Off,BadPass,LostBall,Shoot_1,Off_1,Shoot_2,Off_2,PGA,And1,Blkd,Season
+,Rk,Player,Pos,Age,Tm,G,MP,PG%,SG%,SF%,PF%,C%,PMP100_OnCourt,PMP100_On_Off,BadPassTO,LostBallTO,FoulC_Shoot,FoulC_Off,FoulD_Shoot,FoulD_Off,PGA,And1,Blkd,Season
 0,1,Álex Abrines,SG,23,OKC,68,1055,,79%,21%,,,-1.1,-2.2,17,7,62,4,15,10,94,4,8,2017
 1,2,Quincy Acy,PF,26,TOT,38,558,,,2%,81%,17%,-3.7,1.2,5,7,25,6,24,5,42,7,8,2017
 2,2,Quincy Acy,PF,26,DAL,6,48,,,25%,75%,,-29.0,-26.0,2,0,1,0,2,1,0,1,0,2017

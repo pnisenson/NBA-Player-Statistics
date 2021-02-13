@@ -1,1 +1,1 @@
-query = 'SELECT Player, Country FROM data ORDER BY 10'
+query = 'SELECT Player, On-Off, Season FROM data WHERE MP >= 1500 ORDER BY 10'

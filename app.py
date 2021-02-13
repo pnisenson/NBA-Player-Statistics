@@ -35,14 +35,20 @@ def home():
 
 @app.route("/top_players")
 def get_buckets():
+	table_facts = pd.read_sql("SELECT * FROM table_facts", con=engine, index_col = None)
 	try:
-		df = pd.read_sql("SELECT Player, PER, Season FROM data WHERE MP >= 1500 ORDER BY PER DESC LIMIT 10", con=engine, index_col = None)
-		stats = df.to_html(classes="table table-striped")
+		if table_facts.data_type[0]  == 'totals' or table_facts.data_type[0]  == 'pergame' or table_facts.data_type[0]  == 'per36':
+			df = pd.read_sql("SELECT Player, PTS, Season FROM data WHERE MP >= 1500 ORDER BY PTS DESC LIMIT 10", con=engine, index_col = None)
+			stats = df.to_html(classes="table table-striped")
+		elif table_facts.data_type[0]  == "advanced":
+			df = pd.read_sql("SELECT Player, PER, Season FROM data WHERE MP >= 1500 ORDER BY PER DESC LIMIT 10", con=engine, index_col = None)
+			stats = df.to_html(classes="table table-striped")
+		elif table_facts.data_type[0]  == "play-by-play":
+			df = pd.read_sql("SELECT Player, PMP100_On_Off, Season FROM data WHERE MP >= 1500 ORDER BY PMP100_On_Off DESC LIMIT 10", con=engine, index_col = None)
+			stats = df.to_html(classes="table table-striped")	
 		return render_template("second.html", stats=stats)
 	except:
-		df = pd.read_sql("SELECT Player, PTS, Season FROM data ORDER BY PTS DESC LIMIT 10", con=engine, index_col = None)
-		stats = df.to_html(classes="table table-striped")
-		return render_template("second.html", stats=stats)
+		return "Try a Query to determine the best player."
 
 @app.route("/custom", methods=['GET', 'POST'])
 def custom_query():

@@ -1,0 +1,5 @@
+username = 'pnisenson' 
+password = 'hotdog55' 
+s_year = '2016' 
+ys = '2' 
+d_type = 'play-by-play' 

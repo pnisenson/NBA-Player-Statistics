@@ -33,20 +33,33 @@
                   <option>Country</option>
                   <option>And1</option>
                   <option>OnCourt</option>
+                      {% for column in columns %}
+                      <option>{{ column }}</option>
+                      {% endfor %}
+
                 </select>
                 </td>
+                <td>Select the columns you would like to return</td>
               </tr>
               <tr>
                 <td>WHERE</td>
-                <td><input name='where' class="form-control" id="where" value='use " " operator'></td>
-              </tr>
-              <tr>
-                <td>ORDER BY</td>
-                <td><input name='order' class="form-control" id="order" value=""></td>
+                <td><input name='where' class="form-control" id="where" value=""></td>
+                <td class="text-wrap">Enter a conditional statement (e.g Country = "United States" and Age >= 30)</td>
               </tr>
               <tr>
                 <td>GROUP BY</td>
                 <td><input name='group' class="form-control" id="group" value=""></td>
+                <td>Group data by like column data (i.e. Team, Player, Season, etc.)</td>
+              </tr>
+              <tr>
+                <td>ORDER BY</td>
+                <td><input name='order' class="form-control" id="order" value=""></td>
+                <td>Column to sort by. Use ASC or DESC</td>
+              </tr>
+              <tr>
+                <td>LIMIT</td>
+                <td><input name='limit' class="form-control" id="limit" value=""></td>
+                <td>Returns X amount of values</td>
               </tr>
             </table>
             <div class="form-group"><label for="byo">Or Build your own: </label>

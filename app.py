@@ -48,11 +48,12 @@ def get_buckets():
 def custom_query():
 	try:
 		from customq import query
+		columns = pd.read_sql("SELECT * FROM data", con=engine, index_col = None).columns
 		df = pd.read_sql(query, con=engine, index_col = None)
 		stats = df.to_html(classes="table table-striped")
 	except:
 		stats= 'Query entered is invalid. Please build a new query'
-	return render_template("custom.html", stats=stats)
+	return render_template("custom.html", stats=stats, columns=columns)
 
 @app.route('/inputs', methods=['GET', 'POST'])
 def inputs():
@@ -78,13 +79,15 @@ def inputstoo():
 		as_dict = request.form.getlist('select')
 		select = ", ".join(as_dict)
 		q_string = f"SELECT {select} FROM data" 
-		where, order, group = request.form['where'], request.form['order'], request.form['group']
+		where, order, group, limit = request.form['where'], request.form['order'], request.form['group'], request.form['limit']
 		if where != "":
 			q_string = f'{q_string} WHERE {where}'
-		if order != "":
-			q_string = f'{q_string} ORDER BY {order}'
 		if group != "":
 			q_string = f'{q_string} GROUP BY {group}'
+		if order != "":
+			q_string = f'{q_string} ORDER BY {order}'
+		if limit != "":
+			q_string = f'{q_string} ORDER BY {limit}'
 		File_object.write(f"query = '{q_string}'")
 		#File_object.write(f"query = 'SELECT {select} FROM data WHERE {where} GROUP BY {group} ORDER BY {order}'")
 	return redirect("/custom")

@@ -1,1 +1,1 @@
-query = 'SELECT Player, Country FROM data WHERE Country = "Argentina"'
+query = 'SELECT Player, Country FROM data ORDER BY 10'

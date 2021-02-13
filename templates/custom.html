@@ -7,13 +7,13 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>NBA Stats</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <!-- <link rel="stylesheet" href="style.css"> -->
+  <link rel="stylesheet" href="{{ url_for('static',filename='styles/style.css') }}">
 </head>
 
 <body>
   <div class="container-fluid">
     <div class="jumbotron text-center" >
-      <h1>NBA Statistics</h1>
+      <h1><a href="/">NBA Statistics</h1>
       <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Scrape New Data</a></p>
 
     </div>
@@ -22,11 +22,10 @@
 
 <form method="post" action="{{ url_for('inputstoo') }}">
         <fieldset>
-            <legend align="center">Please enter inputs below prior to scraping data:</legend>
+            <legend>Please enter your query:</legend>
             <table class="table" align="center">
               <tr>
                 <td>SELECT</td>
-<!--                 <td><input name='select' class="form-control" id="select" value="col name"></td> -->
                 <td><select multiple class="form-control" name="select" id="select">
                   <option>Player</option>
                   <option>Season</option>
@@ -34,9 +33,8 @@
                   <option>And1</option>
                   <option>OnCourt</option>
                       {% for column in columns %}
-                      <option>{{ column }}</option>
+                      <option>{{ column }}</option>sdsdsds
                       {% endfor %}
-
                 </select>
                 </td>
                 <td>Select the columns you would like to return</td>
@@ -62,7 +60,8 @@
                 <td>Returns X amount of values</td>
               </tr>
             </table>
-            <div class="form-group"><label for="byo">Or Build your own: </label>
+            <div class="form-group">
+              <label class="label-mat" for="byo">Or Build your own: </label>
                 <textarea class="form-control" name='byo' id="byo" rows="3" value=""></textarea>
                  </div>
             <input type='submit' value='Submit Form'>

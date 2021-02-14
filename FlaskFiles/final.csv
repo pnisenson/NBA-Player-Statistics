@@ -1,963 +1,224 @@
-,Player,Pos,Age,Tm,G,MP,PG%,SG%,SF%,PF%,C%,PMP100_OnCourt,PMP100_On_Off,BadPassTO,LostBallTO,FoulC_Shoot,FoulC_Off,FoulD_Shoot,FoulD_Off,PGA,And1,Blkd,Season,PlayerID,Country
-0,Quincy Acy,PF,25,SAC,59,876,0.0,0.0,0.0,0.92,0.08,-7.1,-5.5,8,6,51,5,27,5,62,9,6,2016,acyqu01,United States
-1,Jordan Adams,SG,21,MEM,2,15,0.0,0.6,0.4,0.0,0.0,9.3,11.7,0,2,0,0,2,0,6,1,0,2016,adamsjo01,United States
-2,Steven Adams,C,22,OKC,80,2014,0.0,0.0,0.0,0.0,1.0,11.3,8.2,24,22,107,23,83,7,144,20,31,2016,adamsst01,New Zealand
-3,Arron Afflalo,SG,30,NYK,71,2371,0.01,0.81,0.18,0.0,0.0,-3.6,-1.9,27,25,51,13,67,4,337,23,47,2016,afflaar01,United States
-4,Alexis Ajinça,C,27,NOP,59,861,0.0,0.0,0.0,0.0,1.0,-3.3,0.7,13,21,56,13,28,7,77,6,12,2016,ajincal01,France
-5,Cole Aldrich,C,27,LAC,60,800,0.0,0.0,0.0,0.03,0.97,0.3,-5.0,20,16,79,19,39,2,125,5,18,2016,aldrico01,United States
-6,LaMarcus Aldridge,PF,30,SAS,74,2261,0.0,0.0,0.0,0.54,0.46,11.6,0.1,34,32,91,12,144,5,261,27,37,2016,aldrila01,United States
-7,Cliff Alexander,PF,20,POR,8,36,0.0,0.0,0.0,1.0,0.0,-17.0,-17.9,0,1,1,0,0,0,0,0,1,2016,alexacl01,United States
-8,Lavoy Allen,PF,26,IND,79,1599,0.0,0.0,0.01,0.89,0.11,6.3,7.3,39,11,92,11,30,3,183,6,22,2016,allenla01,United States
-9,Tony Allen,SG,34,MEM,64,1620,0.06,0.93,0.02,0.0,0.0,-0.6,3.0,34,25,67,8,63,4,151,14,59,2016,allento01,United States
-10,Al-Farouq Aminu,SF,25,POR,82,2341,0.0,0.0,0.56,0.44,0.01,1.7,2.2,44,44,70,16,74,15,335,17,35,2016,aminual01,United States
-11,Lou Amundson,PF,33,NYK,29,204,0.0,0.0,0.0,0.65,0.35,-10.4,-8.0,5,4,22,4,13,0,25,5,3,2016,amundlo01,United States
-12,Chris Andersen,C,37,TOT,27,402,0.0,0.0,0.0,0.01,1.0,-9.2,-9.5,4,2,17,2,12,2,28,0,6,2016,anderch01,United States
-13,Alan Anderson,SG,33,WAS,13,192,0.12,0.33,0.55,0.0,0.0,6.6,7.4,2,0,12,0,7,0,31,3,3,2016,anderal01,United States
-14,James Anderson,SG,26,SAC,51,721,0.0,0.32,0.64,0.03,0.0,-4.5,-2.0,17,13,35,4,10,2,98,2,11,2016,anderja01,United States
-15,Justin Anderson,SF,22,DAL,55,647,0.02,0.15,0.77,0.07,0.0,1.4,1.9,11,6,24,2,21,0,70,3,11,2016,anderju01,United States
-16,Kyle Anderson,SF,22,SAS,78,1245,0.0,0.01,0.65,0.34,0.0,9.4,-3.1,35,7,42,7,34,9,277,8,16,2016,anderky01,United States
-17,Ryan Anderson,PF,27,NOP,66,2008,0.0,0.0,0.01,0.85,0.14,-0.7,6.6,31,32,44,11,94,8,177,14,41,2016,anderry01,United States
-18,Giannis Antetokounmpo,PG,21,MIL,80,2823,0.4,0.59,0.01,0.0,0.0,-3.0,3.7,85,52,107,31,176,8,758,38,61,2016,antetgi01,Greece
-19,Thanasis Antetokounmpo,SF,23,NYK,2,6,0.0,0.0,1.0,0.0,0.0,-46.2,-43.4,0,0,1,0,0,0,0,0,0,2016,antetth01,Greece
-20,Carmelo Anthony,SF,31,NYK,72,2530,0.0,0.02,0.91,0.08,0.0,-0.8,5.7,80,41,73,30,154,6,704,25,76,2016,anthoca01,United States
-21,Joel Anthony,C,33,DET,19,96,0.0,0.0,0.0,0.0,1.0,-7.7,-8.3,1,0,9,1,3,0,2,0,1,2016,anthojo01,Canada
-22,Keith Appling,PG,23,ORL,5,27,0.56,0.44,0.0,0.0,0.0,19.2,21.0,2,1,2,0,1,0,3,0,0,2016,applike01,United States
-23,Trevor Ariza,SF,30,HOU,81,2859,0.0,0.0,0.58,0.41,0.01,0.7,2.4,68,18,52,9,65,5,456,9,38,2016,arizatr01,United States
-24,Darrell Arthur,PF,27,DEN,70,1516,0.0,0.0,0.01,0.79,0.21,-1.8,2.1,36,11,99,12,26,5,217,5,21,2016,arthuda01,United States
-25,Ömer Aşık,C,29,NOP,68,1178,0.0,0.0,0.0,0.09,0.91,-8.6,-6.7,23,15,60,16,53,5,60,5,38,2016,asikom01,Turkey
-26,D.J. Augustin,PG,28,TOT,62,1178,1.0,0.0,0.0,0.0,0.0,-1.1,-3.8,52,19,40,8,47,14,445,10,32,2016,augusdj01,United States
-27,Jeff Ayres,C,28,LAC,17,107,0.0,0.0,0.0,0.17,0.83,-20.8,-25.8,1,0,9,5,3,1,11,0,3,2016,pendeje02,United States
-28,Luke Babbitt,SF,26,NOP,47,845,0.0,0.0,0.28,0.66,0.06,-3.0,1.2,7,8,40,6,22,3,124,6,25,2016,babbilu01,United States
-29,Cameron Bairstow,C,25,CHI,18,103,0.0,0.0,0.0,0.34,0.66,-6.0,-4.5,1,2,11,1,3,1,13,0,5,2016,bairsca01,Australia
-30,Leandro Barbosa,SG,33,GSW,68,1079,0.01,0.85,0.14,0.0,0.0,2.8,-11.3,27,16,35,9,31,7,191,6,20,2016,barbole01,Brazil
-31,J.J. Barea,PG,31,DAL,74,1667,1.0,0.0,0.0,0.0,0.0,-2.2,-3.5,71,25,28,6,35,34,690,9,45,2016,bareajo01,United States
-32,Andrea Bargnani,C,30,BRK,46,634,0.0,0.0,0.0,0.33,0.67,-14.7,-8.4,7,7,26,6,25,3,43,10,14,2016,bargnan01,Italy
-33,Harrison Barnes,SF,23,GSW,66,2042,0.0,0.0,0.44,0.55,0.01,10.4,-1.4,29,15,70,6,61,5,289,16,36,2016,barneha02,United States
-34,Matt Barnes,SF,35,MEM,76,2190,0.0,0.1,0.73,0.17,0.0,-4.8,-5.5,82,25,134,10,49,5,355,8,35,2016,barnema02,United States
-35,Will Barton,SG,25,DEN,82,2353,0.2,0.73,0.08,0.0,0.0,-2.9,0.6,59,45,53,13,104,11,454,28,58,2016,bartowi01,United States
-36,Brandon Bass,PF,30,LAL,66,1342,0.0,0.0,0.07,0.9,0.03,-1.2,13.9,13,11,75,10,76,4,175,17,35,2016,bassbr01,United States
-37,Nicolas Batum,SF,27,CHO,70,2448,0.0,0.1,0.89,0.01,0.0,4.5,4.2,134,37,45,17,61,4,955,15,27,2016,batumni01,France
-38,Jerryd Bayless,SG,27,MIL,52,1505,0.09,0.67,0.24,0.0,0.0,-5.6,-2.5,42,12,58,4,31,13,367,8,20,2016,bayleje01,United States
-39,Aron Baynes,C,29,DET,81,1233,0.0,0.0,0.0,0.02,0.98,-3.8,-6.0,11,18,73,28,64,4,124,11,26,2016,baynear01,New Zealand
-40,Kent Bazemore,SF,26,ATL,75,2083,0.0,0.2,0.79,0.0,0.0,2.4,-2.6,65,42,71,14,65,18,380,15,37,2016,bazemke01,United States
-41,Bradley Beal,SG,22,WAS,55,1708,0.02,0.76,0.21,0.01,0.0,-1.0,-1.0,48,41,54,11,68,8,374,21,27,2016,bealbr01,United States
-42,Michael Beasley,PF,27,HOU,20,363,0.0,0.0,0.05,0.88,0.07,-9.6,-10.6,12,5,21,2,23,1,36,5,13,2016,beaslmi01,United States
-43,Marco Belinelli,SG,29,SAC,68,1672,0.0,0.56,0.43,0.01,0.0,-6.2,-5.9,51,17,40,4,48,10,300,17,9,2016,belinma01,Italy
-44,Anthony Bennett,PF,22,TOR,19,84,0.0,0.0,0.35,0.65,0.0,-13.8,-19.0,2,1,6,1,2,0,0,0,2,2016,bennean01,Canada
-45,Patrick Beverley,PG,27,HOU,71,2041,0.94,0.06,0.0,0.0,0.0,3.8,7.5,60,12,67,6,26,25,569,4,32,2016,beverpa01,United States
-46,Bismack Biyombo,C,23,TOR,82,1808,0.0,0.0,0.0,0.04,0.96,4.1,-1.3,9,17,116,28,87,5,72,15,45,2016,biyombi01,Zaire(now Democratic Republic of the Congo)
-47,Nemanja Bjelica,PF,27,MIN,60,1075,0.0,0.0,0.0,0.94,0.06,-5.5,-3.0,15,15,72,6,21,3,184,6,10,2016,bjeline01,SFR Yugoslavia(now Serbia)
-48,Tarik Black,C,24,LAL,39,496,0.0,0.0,0.0,0.02,0.98,1.0,12.9,4,11,40,5,19,3,39,1,9,2016,blackta01,United States
-49,DeJuan Blair,C,26,WAS,29,218,0.0,0.0,0.0,0.01,0.99,-8.8,-8.9,6,1,24,8,6,2,27,1,4,2016,blairde01,United States
-50,Steve Blake,PG,35,DET,58,986,1.0,0.0,0.0,0.0,0.0,-2.8,-4.2,59,15,25,0,6,7,477,2,10,2016,blakest01,United States
-51,Eric Bledsoe,PG,26,PHO,31,1059,1.0,0.0,0.0,0.0,0.0,-2.9,5.9,67,24,27,9,58,10,447,13,25,2016,bledser01,United States
-52,Bojan Bogdanović,SF,26,BRK,79,2115,0.0,0.3,0.63,0.05,0.02,-9.0,-3.0,43,48,46,8,55,5,227,11,74,2016,bogdabo02,SFR Yugoslavia(now Bosnia and Herzegovina)
-53,Andrew Bogut,C,31,GSW,70,1451,0.0,0.0,0.0,0.0,1.0,13.9,4.4,53,9,102,15,12,3,392,2,7,2016,bogutan01,Australia
-54,Matt Bonner,C,35,SAS,30,206,0.0,0.0,0.0,0.48,0.52,16.8,5.6,2,1,8,0,1,0,22,0,2,2016,bonnema01,United States
-55,Devin Booker,SG,19,PHO,76,2108,0.01,0.8,0.17,0.01,0.0,-9.3,-4.3,99,33,100,17,86,14,470,18,64,2016,bookede01,United States
-56,Trevor Booker,PF,28,UTA,79,1632,0.0,0.0,0.0,0.96,0.04,2.8,1.6,31,14,62,20,42,4,210,10,18,2016,booketr01,United States
-57,Chris Bosh,PF,31,MIA,53,1778,0.0,0.0,0.0,0.55,0.45,1.0,-1.9,37,29,54,5,123,3,295,26,32,2016,boshch01,United States
-58,Avery Bradley,SG,25,BOS,76,2536,0.1,0.76,0.14,0.0,0.0,4.4,3.2,61,29,65,6,48,10,352,7,44,2016,bradlav01,United States
-59,Elton Brand,C,36,PHI,17,225,0.0,0.0,0.0,0.1,0.9,-7.6,3.2,3,6,17,0,4,3,47,3,2,2016,brandel01,United States
-60,Corey Brewer,SF,29,HOU,82,1669,0.0,0.05,0.83,0.12,0.0,-2.2,-3.8,45,20,48,6,54,18,257,12,27,2016,breweco01,United States
-61,Aaron Brooks,PG,31,CHI,69,1108,1.0,0.0,0.0,0.0,0.0,-0.5,1.5,54,19,64,4,24,7,429,4,34,2016,brookaa01,United States
-62,Anthony Brown,SF,23,LAL,29,599,0.0,0.05,0.95,0.01,0.0,-3.8,7.6,8,6,17,0,8,1,45,2,10,2016,brownan02,United States
-63,Lorenzo Brown,PG,25,PHO,8,61,1.0,0.0,0.0,0.0,0.0,-27.3,-20.3,4,2,1,2,2,0,25,2,0,2016,brownlo01,United States
-64,Markel Brown,SG,24,BRK,62,982,0.05,0.9,0.05,0.0,0.0,-11.2,-4.8,34,17,52,0,35,7,202,9,10,2016,brownma02,United States
-65,Kobe Bryant,SF,37,LAL,66,1863,0.0,0.02,0.97,0.01,0.0,-15.4,-9.8,85,36,44,3,106,2,416,16,35,2016,bryanko01,United States
-66,Chase Budinger,SF,27,TOT,66,929,0.0,0.11,0.73,0.16,0.0,-0.2,2.8,27,6,32,3,25,3,144,3,12,2016,budinch01,United States
-67,Reggie Bullock,SF,24,DET,37,429,0.0,0.4,0.6,0.0,0.0,-6.4,-7.6,2,1,16,3,6,3,64,1,5,2016,bullore01,United States
-68,Trey Burke,PG,23,UTA,64,1366,0.94,0.06,0.0,0.0,0.0,-1.6,-5.2,48,22,39,6,33,1,339,11,33,2016,burketr01,United States
-69,Alec Burks,SG,24,UTA,31,797,0.3,0.69,0.0,0.0,0.0,-1.4,-4.1,21,14,28,6,58,6,146,10,27,2016,burksal01,United States
-70,Caron Butler,SF,35,SAC,17,176,0.0,0.07,0.85,0.08,0.0,-12.9,-10.5,2,1,11,0,4,0,24,1,0,2016,butleca01,United States
-71,Jimmy Butler,SG,26,CHI,67,2474,0.01,0.81,0.18,0.0,0.0,-0.7,2.6,72,41,63,17,193,5,742,31,56,2016,butleji01,United States
-72,Rasual Butler,SF,36,SAS,46,432,0.0,0.26,0.69,0.05,0.0,9.8,-1.9,7,1,7,0,5,1,58,2,4,2016,butlera01,United States
-73,Bruno Caboclo,SF,20,TOR,6,43,0.0,0.05,0.69,0.26,0.0,-6.0,-10.9,3,1,0,0,0,0,3,0,2,2016,cabocbr01,Brazil
-74,José Calderón,PG,34,NYK,72,2024,0.79,0.21,0.0,0.0,0.0,-2.2,1.2,63,17,68,1,14,15,692,4,10,2016,caldejo01,Spain
-75,Kentavious Caldwell-Pope,SG,22,DET,76,2789,0.0,1.0,0.0,0.0,0.0,2.6,7.6,42,38,74,9,99,21,335,27,35,2016,caldwke01,United States
-76,Isaiah Canaan,SG,24,PHI,77,1966,0.16,0.81,0.03,0.0,0.0,-13.0,-4.7,49,19,52,7,60,18,324,16,39,2016,canaais01,United States
-77,Clint Capela,C,21,HOU,77,1471,0.0,0.0,0.0,0.2,0.8,4.0,6.3,19,20,88,13,75,1,108,19,46,2016,capelca01,Switzerland
-78,DeMarre Carroll,SF,29,TOR,26,786,0.0,0.01,0.81,0.19,0.0,3.1,-2.2,11,12,27,2,19,6,66,3,18,2016,carrode01,United States
-79,Vince Carter,SG,39,MEM,60,1005,0.03,0.59,0.36,0.02,0.0,-2.7,-0.4,18,8,56,7,27,8,127,6,14,2016,cartevi01,United States
-80,Michael Carter-Williams,PG,24,MIL,54,1649,0.99,0.01,0.0,0.0,0.0,-3.5,0.8,94,38,64,8,64,22,622,18,43,2016,cartemi01,United States
-81,Omri Casspi,PF,27,SAC,69,1880,0.0,0.0,0.34,0.66,0.01,0.4,6.0,52,22,68,8,72,8,210,17,29,2016,casspom01,Israel
-82,Willie Cauley-Stein,C,22,SAC,66,1412,0.0,0.0,0.0,0.7,0.3,-2.2,0.9,16,17,78,5,46,4,85,5,22,2016,caulewi01,United States
-83,Mario Chalmers,PG,29,TOT,61,1373,0.85,0.16,0.0,0.0,0.0,2.7,3.5,63,30,79,8,91,33,525,17,27,2016,chalmma01,United States
-84,Tyson Chandler,C,33,PHO,66,1618,0.0,0.0,0.0,0.3,0.7,-11.7,-7.5,41,11,67,21,82,4,151,20,23,2016,chandty01,United States
-85,Rakeem Christmas,PF,24,IND,1,6,0.0,0.0,0.49,0.51,0.0,-83.3,-85.4,0,0,1,0,0,0,0,0,0,2016,chrisra01,United States
-86,Ian Clark,SG,24,GSW,66,578,0.48,0.52,0.01,0.0,0.0,-6.3,-20.2,20,19,28,2,9,1,155,2,11,2016,clarkia01,United States
-87,Coty Clarke,SF,23,BOS,3,6,0.0,0.0,0.0,1.0,0.0,22.7,19.5,1,0,0,0,0,0,0,0,0,2016,clarkco01,United States
-88,Jordan Clarkson,SG,23,LAL,79,2552,0.03,0.96,0.01,0.0,0.0,-12.5,-6.3,55,45,68,17,83,13,450,16,87,2016,clarkjo01,United States
-89,Norris Cole,PG,27,NOP,45,1198,0.94,0.06,0.0,0.0,0.0,-5.0,-1.7,49,11,50,7,22,5,370,4,17,2016,coleno01,United States
-90,Darren Collison,PG,28,SAC,74,2219,1.0,0.0,0.0,0.0,0.0,-2.2,1.3,69,38,48,12,87,9,733,23,59,2016,collida01,United States
-91,Nick Collison,PF,35,OKC,59,699,0.0,0.0,0.0,0.86,0.15,2.2,-6.1,28,8,49,7,15,4,112,1,10,2016,collini01,United States
-92,Mike Conley,PG,28,MEM,56,1761,1.0,0.0,0.0,0.0,0.0,1.8,7.4,56,21,45,4,81,17,756,16,33,2016,conlemi01,United States
-93,Pat Connaughton,SG,23,POR,34,143,0.0,0.98,0.02,0.0,0.0,-7.1,-8.2,6,4,4,0,1,0,25,1,5,2016,connapa01,United States
-94,Chris Copeland,PF,31,MIL,24,156,0.0,0.0,0.34,0.65,0.01,-26.5,-23.3,2,2,9,1,3,0,26,1,2,2016,copelch01,United States
-95,Bryce Cotton,PG,23,TOT,8,39,1.0,0.0,0.0,0.0,0.0,-35.2,-30.5,3,2,2,0,0,0,7,0,0,2016,cottobr01,United States
-96,DeMarcus Cousins,C,25,SAC,65,2246,0.0,0.0,0.0,0.13,0.87,0.1,6.8,96,89,89,45,268,13,497,63,118,2016,couside01,United States
-97,Robert Covington,SF,25,PHI,67,1903,0.0,0.0,0.23,0.73,0.04,-8.3,4.7,54,43,102,17,67,8,225,9,40,2016,covinro01,United States
-98,Allen Crabbe,SG,23,POR,81,2105,0.0,0.36,0.62,0.02,0.0,0.0,-1.7,23,19,96,8,42,3,234,11,14,2016,crabbal01,United States
-99,Jamal Crawford,SG,35,LAC,79,2126,0.0,0.48,0.5,0.02,0.0,1.1,-7.0,63,34,39,7,109,8,417,24,26,2016,crawfja01,United States
-100,Jae Crowder,SF,25,BOS,73,2308,0.0,0.01,0.77,0.22,0.0,5.0,4.0,42,15,95,15,104,9,305,29,20,2016,crowdja01,United States
-101,Dante Cunningham,SF,28,NOP,80,1971,0.0,0.02,0.74,0.24,0.01,-6.1,-4.5,18,8,95,5,39,7,175,6,24,2016,cunnida01,United States
-102,Jared Cunningham,SG,24,TOT,44,410,0.29,0.66,0.06,0.0,0.0,-3.3,-4.7,8,9,20,4,23,8,46,1,17,2016,cunnija01,United States
-103,Seth Curry,PG,25,SAC,44,692,0.35,0.63,0.02,0.0,0.0,-2.7,0.1,21,6,15,4,18,2,153,1,12,2016,curryse01,United States
-104,Stephen Curry,PG,27,GSW,79,2700,1.0,0.0,0.0,0.0,0.0,18.0,22.6,167,61,74,6,129,19,1213,32,51,2016,curryst01,United States
-105,Troy Daniels,SG,24,CHO,43,476,0.0,0.52,0.48,0.0,0.0,-5.1,-9.1,11,10,27,0,3,0,48,0,3,2016,danietr01,United States
-106,Anthony Davis,C,22,NOP,61,2164,0.0,0.0,0.0,0.46,0.54,-4.7,-1.8,40,43,78,18,169,6,274,36,54,2016,davisan02,United States
-107,Ed Davis,PF,26,POR,81,1684,0.0,0.0,0.0,0.55,0.45,1.3,0.8,16,21,115,19,96,6,208,26,25,2016,davised01,United States
-108,Branden Dawson,PF,22,LAC,6,29,0.0,0.0,0.17,0.83,0.0,-25.5,-30.0,0,0,2,0,1,0,0,1,2,2016,dawsobr01,United States
-109,Dewayne Dedmon,C,26,ORL,58,705,0.0,0.0,0.0,0.02,0.98,-3.1,-1.8,8,7,61,7,34,2,31,7,15,2016,dedmode01,United States
-110,Bryce Dejean-Jones,SG,23,NOP,14,279,0.0,0.82,0.18,0.0,0.0,-6.2,-2.5,5,2,7,0,10,2,34,1,6,2016,dejeabr01,United States
-111,Sam Dekker,PF,21,HOU,3,6,0.0,0.0,0.15,0.85,0.0,-5.2,-5.3,0,0,0,0,0,0,0,0,0,2016,dekkesa01,United States
-112,Matthew Dellavedova,PG,25,CLE,76,1867,0.71,0.29,0.0,0.0,0.0,10.7,8.0,80,18,55,9,18,11,785,4,20,2016,dellama01,Australia
-113,Luol Deng,PF,30,MIA,74,2394,0.0,0.0,0.26,0.71,0.03,0.6,-3.5,35,23,54,9,83,6,328,19,31,2016,denglu01,Sudan(now South Sudan)
-114,DeMar DeRozan,SG,26,TOR,78,2804,0.0,0.68,0.32,0.0,0.0,3.1,-6.2,67,76,53,17,258,8,784,51,97,2016,derozde01,United States
-115,Boris Diaw,PF,33,SAS,76,1386,0.0,0.0,0.0,0.96,0.04,10.1,-2.2,52,25,46,7,34,7,410,11,16,2016,diawbo01,France
-116,Gorgui Dieng,C,26,MIN,82,2220,0.0,0.0,0.0,0.53,0.47,0.0,7.5,38,27,95,31,119,10,325,27,51,2016,dienggo01,Senegal
-117,Spencer Dinwiddie,PG,22,DET,12,159,1.0,0.0,0.0,0.0,0.0,-17.3,-18.4,5,1,11,0,15,4,50,3,4,2016,dinwisp01,United States
-118,Toney Douglas,PG,29,NOP,61,1262,0.64,0.35,0.01,0.0,0.0,-5.3,-2.0,33,10,50,7,35,7,359,5,29,2016,douglto01,United States
-119,Goran Dragić,PG,29,MIA,72,2363,0.99,0.01,0.0,0.0,0.0,3.9,4.6,102,42,70,17,62,15,946,11,40,2016,dragigo01,SFR Yugoslavia(now Slovenia)
-120,Andre Drummond,C,22,DET,81,2666,0.0,0.0,0.0,0.0,1.0,2.4,6.2,41,55,121,30,198,3,164,46,72,2016,drumman01,United States
-121,Jared Dudley,PF,30,WAS,81,2098,0.0,0.0,0.01,0.94,0.05,1.3,3.8,52,19,78,5,36,15,388,7,6,2016,dudleja01,United States
-122,Duje Dukan,SF,24,SAC,1,24,0.0,0.0,1.0,0.0,0.0,-17.8,-15.1,0,0,2,0,0,0,2,0,0,2016,dukandu01,Croatia
-123,Tim Duncan,C,39,SAS,61,1536,0.0,0.0,0.0,0.01,0.99,13.9,3.9,51,19,70,11,65,4,354,21,38,2016,duncati01,U.S. Virgin Islands
-124,Mike Dunleavy,SF,35,CHI,31,703,0.0,0.0,0.91,0.09,0.0,-4.9,-3.9,18,4,34,0,16,2,89,5,11,2016,dunlemi02,United States
-125,Kevin Durant,SF,27,OKC,72,2578,0.0,0.0,0.74,0.26,0.0,11.5,12.6,133,82,70,16,169,6,825,32,38,2016,duranke01,United States
-126,Cleanthony Early,SF,24,NYK,17,154,0.0,0.0,0.72,0.28,0.0,1.0,4.0,7,2,12,0,1,1,14,0,4,2016,earlycl01,United States
-127,Jarell Eddie,SF,24,WAS,26,147,0.0,0.02,0.58,0.4,0.0,-11.9,-11.9,0,1,2,0,4,1,11,0,3,2016,eddieja01,United States
-128,Wayne Ellington,SG,28,BRK,76,1615,0.0,0.92,0.08,0.0,0.0,-10.5,-4.9,29,11,40,1,19,4,187,3,24,2016,ellinwa01,United States
-129,Monta Ellis,SG,30,IND,81,2734,0.14,0.86,0.01,0.0,0.0,2.4,1.5,121,49,75,12,76,12,891,24,32,2016,ellismo01,United States
-130,James Ennis,SF,25,TOT,22,329,0.0,0.69,0.29,0.03,0.0,-6.7,-5.4,4,11,11,2,14,1,42,2,5,2016,ennisja01,United States
-131,Tyler Ennis,PG,21,MIL,46,654,1.0,0.0,0.0,0.0,0.0,-5.7,-2.0,29,10,31,1,8,2,214,3,18,2016,ennisty01,Canada
-132,Jeremy Evans,SF,28,DAL,30,251,0.0,0.02,0.53,0.43,0.03,-4.6,-4.7,3,2,12,1,8,1,4,3,2,2016,evansje01,United States
-133,Tyreke Evans,SG,26,NOP,25,765,0.01,0.6,0.39,0.01,0.0,-0.3,4.4,34,21,29,4,37,2,390,5,23,2016,evansty01,United States
-134,Festus Ezeli,C,26,GSW,46,770,0.0,0.0,0.0,0.0,1.0,14.1,3.7,13,10,48,11,57,1,80,13,20,2016,ezelife01,Nigeria
-135,Kenneth Faried,PF,26,DEN,67,1694,0.0,0.0,0.01,0.8,0.2,-3.6,-0.9,26,32,68,22,102,10,188,32,59,2016,farieke01,United States
-136,Jordan Farmar,PG,29,MEM,12,291,1.0,0.0,0.0,0.0,0.0,-11.2,-9.5,12,3,7,2,1,4,83,0,7,2016,farmajo01,United States
-137,Derrick Favors,PF,24,UTA,62,1983,0.0,0.0,0.0,0.46,0.54,1.8,-0.2,42,24,72,18,123,3,231,36,63,2016,favorde01,United States
-138,Cristiano Felício,C,23,CHI,31,321,0.0,0.0,0.0,0.0,1.0,6.2,8.5,3,6,13,2,15,1,64,3,5,2016,feliccr01,Brazil
-139,Raymond Felton,PG,31,DAL,80,2192,0.69,0.31,0.0,0.0,0.0,-0.5,-0.7,82,22,59,9,45,11,690,12,32,2016,feltora01,United States
-140,Evan Fournier,SF,23,ORL,79,2566,0.01,0.51,0.48,0.01,0.0,-3.1,-4.2,58,41,79,12,93,17,468,20,70,2016,fournev01,France
-141,Randy Foye,SG,32,TOT,81,1642,0.12,0.45,0.41,0.03,0.0,1.5,-0.8,59,15,71,4,32,9,372,6,26,2016,foyera01,United States
-142,Tim Frazier,PG,25,TOT,51,741,1.0,0.0,0.0,0.0,0.0,-0.7,0.9,31,25,23,1,26,8,372,7,22,2016,fraziti01,United States
-143,Jimmer Fredette,SG,26,TOT,6,18,0.0,0.51,0.5,0.0,0.0,-76.3,-73.1,0,2,2,0,2,0,0,0,0,2016,fredeji01,United States
-144,Channing Frye,PF-C,32,TOT,70,1200,0.0,0.0,0.0,0.68,0.32,4.4,2.4,19,5,67,13,13,6,164,4,6,2016,fryech01,United States
-145,Danilo Gallinari,SF,27,DEN,53,1839,0.0,0.0,0.67,0.32,0.01,-3.0,0.2,30,25,34,10,160,14,301,22,49,2016,gallida01,Italy
-146,Langston Galloway,PG,24,NYK,82,2033,1.0,0.0,0.0,0.0,0.0,-2.7,0.4,40,8,65,5,47,5,480,12,22,2016,gallola01,United States
-147,Kevin Garnett,PF,39,MIN,38,556,0.0,0.0,0.0,0.99,0.01,6.3,11.2,6,1,28,8,6,4,135,1,2,2016,garneke01,United States
-148,Marc Gasol,C,31,MEM,52,1791,0.0,0.0,0.0,0.0,1.0,-0.1,4.1,41,47,63,22,93,7,449,21,25,2016,gasolma01,Spain
-149,Pau Gasol,C,35,CHI,72,2291,0.0,0.0,0.0,0.0,1.0,-1.1,1.4,102,47,91,7,106,4,669,27,59,2016,gasolpa01,Spain
-150,Rudy Gay,SF,29,SAC,70,2379,0.0,0.01,0.76,0.24,0.0,-2.3,1.3,61,55,94,11,95,6,281,19,60,2016,gayru01,United States
-151,Alonzo Gee,SF,28,NOP,73,1632,0.0,0.14,0.83,0.03,0.0,-4.3,-0.6,21,17,73,9,29,8,174,8,23,2016,geeal01,United States
-152,Paul George,SF,25,IND,81,2819,0.0,0.0,0.61,0.39,0.01,3.1,4.4,143,78,78,30,182,22,730,36,77,2016,georgpa01,United States
-153,Taj Gibson,PF,30,CHI,73,1936,0.0,0.0,0.11,0.87,0.02,-2.1,-0.9,19,22,83,20,68,4,244,23,54,2016,gibsota01,United States
-154,Manu Ginóbili,SG,38,SAS,58,1134,0.01,0.86,0.13,0.0,0.0,14.5,4.3,70,20,26,6,31,19,396,5,22,2016,ginobma01,Argentina
-155,Rudy Gobert,C,23,UTA,61,1932,0.0,0.0,0.0,0.0,1.0,4.4,4.8,38,35,77,20,104,4,211,10,42,2016,goberru01,France
-156,Drew Gooden,PF,34,WAS,30,305,0.0,0.0,0.0,0.7,0.3,-13.2,-13.8,7,3,22,0,6,0,31,2,6,2016,goodedr01,United States
-157,Archie Goodwin,PG,21,PHO,57,1114,0.69,0.31,0.01,0.0,0.0,-9.9,-3.7,64,25,47,5,82,15,275,15,45,2016,goodwar01,United States
-158,Aaron Gordon,PF,20,ORL,78,1863,0.0,0.0,0.4,0.6,0.0,-1.4,0.4,17,19,61,16,83,3,277,20,34,2016,gordoaa01,United States
-159,Eric Gordon,SG,27,NOP,45,1481,0.21,0.64,0.15,0.0,0.0,-2.5,2.2,32,27,53,3,47,3,271,13,30,2016,gordoer01,United States
-160,Marcin Gortat,C,31,WAS,75,2256,0.0,0.0,0.0,0.0,1.0,0.8,2.9,39,35,84,30,94,15,245,20,50,2016,gortama01,Poland
-161,Andrew Goudelock,PG,27,HOU,8,50,0.99,0.01,0.0,0.0,0.0,14.4,14.6,5,1,1,0,0,1,9,0,0,2016,goudean01,United States
-162,Jerami Grant,PF,21,PHI,77,2066,0.0,0.04,0.55,0.41,0.01,-10.1,1.3,38,27,98,30,148,20,331,23,76,2016,grantje01,United States
-163,Jerian Grant,PG,23,NYK,76,1265,0.24,0.75,0.01,0.0,0.0,-6.5,-5.4,61,18,41,5,61,14,418,16,29,2016,grantje02,United States
-164,Danny Green,SG,28,SAS,79,2062,0.0,0.82,0.18,0.0,0.0,12.7,2.5,41,15,76,5,15,10,315,1,21,2016,greenda02,United States
-165,Draymond Green,PF,25,GSW,81,2808,0.0,0.0,0.0,0.8,0.21,18.5,26.3,170,48,116,19,143,17,1402,36,55,2016,greendr01,United States
-166,Erick Green,PG,24,TOT,9,42,1.0,0.0,0.0,0.0,0.0,-1.3,-0.6,0,0,4,0,0,0,9,0,0,2016,greener01,United States
-167,Gerald Green,SG,30,MIA,69,1557,0.01,0.42,0.57,0.0,0.0,1.5,-0.9,16,6,61,9,38,3,124,11,19,2016,greenge01,United States
-168,JaMychal Green,PF,25,MEM,78,1446,0.0,0.0,0.01,0.83,0.16,-1.3,1.7,25,27,79,18,62,2,151,17,48,2016,greenja01,United States
-169,Jeff Green,SF,29,TOT,80,2253,0.0,0.0,0.4,0.59,0.01,-0.4,-2.0,37,29,78,12,102,5,328,23,56,2016,greenje02,United States
-170,Blake Griffin,PF,26,LAC,35,1170,0.0,0.0,0.0,0.85,0.15,6.9,3.7,37,30,31,13,76,7,411,18,12,2016,griffbl01,United States
-171,Jorge Gutiérrez,PG,27,CHO,12,63,1.0,0.0,0.0,0.0,0.0,6.2,3.4,4,2,0,0,2,0,42,1,0,2016,gutiejo01,Mexico
-172,P.J. Hairston,SF,23,TOT,66,1313,0.0,0.56,0.4,0.04,0.0,-6.0,-7.5,17,11,74,9,32,10,92,10,16,2016,hairspj02,United States
-173,Jordan Hamilton,SF,25,NOP,11,304,0.0,0.24,0.66,0.1,0.0,-10.4,-7.0,8,8,16,0,7,1,59,3,5,2016,hamiljo02,United States
-174,Tyler Hansbrough,PF,30,CHO,44,343,0.0,0.0,0.0,0.86,0.14,-3.9,-7.4,2,3,20,3,26,3,20,1,13,2016,hansbty01,United States
-175,Tim Hardaway Jr.,SG,23,ATL,51,864,0.01,0.9,0.09,0.0,0.0,6.5,3.6,11,8,21,3,19,4,121,6,15,2016,hardati02,United States
-176,James Harden,SG,26,HOU,82,3125,0.02,0.77,0.21,0.01,0.0,1.6,7.1,223,98,93,42,311,14,1458,56,95,2016,hardeja01,United States
-177,Maurice Harkless,SF,22,POR,78,1457,0.0,0.02,0.7,0.28,0.0,1.3,0.9,22,17,77,8,50,2,161,9,29,2016,harklma01,United States
-178,Justin Harper,PF,26,DET,5,35,0.0,0.0,0.0,1.0,0.0,-50.6,-51.4,2,0,2,0,1,0,0,0,0,2016,harpeju01,United States
-179,Montrezl Harrell,PF,22,HOU,39,379,0.0,0.0,0.0,0.81,0.19,6.3,6.9,6,5,26,2,19,1,43,2,8,2016,harremo01,United States
-180,Devin Harris,PG,32,DAL,64,1280,0.15,0.69,0.16,0.0,0.0,-2.5,-3.4,44,10,59,3,44,18,268,16,17,2016,harride01,United States
-181,Gary Harris,SG,21,DEN,76,2439,0.01,0.62,0.35,0.02,0.0,-4.2,-2.8,34,41,51,9,56,4,334,17,46,2016,harriga01,United States
-182,Joe Harris,SG,24,CLE,5,15,0.0,0.69,0.31,0.0,0.0,-57.6,-64.3,1,0,0,0,0,0,5,0,0,2016,harrijo01,United States
-183,Tobias Harris,PF,23,TOT,76,2513,0.0,0.0,0.33,0.67,0.0,0.3,1.4,37,41,76,22,111,7,408,34,71,2016,harrito02,United States
-184,Aaron Harrison,SG,21,CHO,21,93,0.0,0.03,0.97,0.0,0.0,-2.5,-5.5,1,0,7,0,2,1,4,0,0,2016,harriaa01,United States
-185,Udonis Haslem,PF,35,MIA,37,260,0.0,0.0,0.04,0.83,0.14,-0.7,-2.9,1,1,15,3,4,5,31,1,1,2016,hasleud01,United States
-186,Spencer Hawes,PF,27,CHO,57,1035,0.0,0.0,0.0,0.73,0.27,1.8,-1.4,25,11,79,12,30,5,253,3,13,2016,hawessp01,United States
-187,Chuck Hayes,C,32,HOU,2,24,0.0,0.0,0.0,0.0,1.0,-4.1,-4.2,1,1,2,1,0,0,4,0,0,2016,hayesch01,United States
-188,Gordon Hayward,SF,25,UTA,80,2893,0.0,0.12,0.86,0.03,0.0,1.5,-1.4,85,67,66,33,175,16,704,37,57,2016,haywago01,United States
-189,Gerald Henderson,SG,28,POR,72,1431,0.0,0.8,0.2,0.0,0.0,1.1,0.5,30,17,33,10,63,14,181,8,18,2016,hendege02,United States
-190,John Henson,C,25,MIL,57,960,0.0,0.0,0.0,0.23,0.77,-6.6,-3.4,23,16,65,8,55,4,118,10,12,2016,hensojo01,United States
-191,Mario Hezonja,SF,20,ORL,79,1413,0.0,0.22,0.72,0.06,0.0,-1.0,0.9,50,24,60,12,18,3,237,6,15,2016,hezonma01,Croatia
-192,Roy Hibbert,C,29,LAL,81,1878,0.0,0.0,0.0,0.0,1.0,-18.2,-15.1,30,14,170,23,56,5,216,10,30,2016,hibbero01,United States
-193,J.J. Hickson,C,27,TOT,35,436,0.0,0.0,0.0,0.04,0.96,-7.2,-5.8,10,5,18,6,50,0,54,7,15,2016,hicksjj01,United States
-194,Nenê,PF,33,WAS,57,1094,0.0,0.0,0.0,0.11,0.89,2.1,3.5,32,23,69,16,86,8,214,16,22,2016,hilarne01,United States
-195,George Hill,PG,29,IND,74,2524,0.98,0.02,0.0,0.0,0.0,2.1,0.5,50,26,57,12,50,17,596,11,32,2016,hillge01,United States
-196,Jordan Hill,C,28,IND,73,1513,0.0,0.0,0.0,0.26,0.74,1.6,-0.5,33,30,94,16,53,1,204,11,31,2016,hilljo01,United States
-197,Solomon Hill,SF,24,IND,59,866,0.0,0.06,0.55,0.39,0.0,4.4,3.2,20,8,26,2,12,1,130,0,13,2016,hillso01,United States
-198,Darrun Hilliard,SG,22,DET,38,383,0.0,0.94,0.06,0.0,0.0,0.4,0.1,6,4,13,3,17,2,63,3,4,2016,hillida01,United States
-199,Kirk Hinrich,PG,35,TOT,46,631,0.67,0.33,0.0,0.0,0.0,1.0,0.0,19,5,26,2,6,7,171,2,6,2016,hinriki01,United States
-200,Jrue Holiday,PG,25,NOP,65,1831,0.32,0.65,0.03,0.0,0.0,0.3,7.7,107,45,60,4,90,14,901,21,49,2016,holidjr01,United States
-201,Justin Holiday,SG,26,TOT,53,773,0.1,0.87,0.03,0.0,0.0,-3.8,-5.4,25,9,33,3,15,7,126,3,20,2016,holidju01,United States
-202,Ryan Hollins,C,31,TOT,37,460,0.0,0.0,0.0,0.01,0.99,-16.2,-15.7,5,7,33,9,17,1,22,3,13,2016,holliry01,United States
-203,Rondae Hollis-Jefferson,SF,21,BRK,29,615,0.0,0.61,0.27,0.12,0.0,-3.0,5.4,10,10,35,4,22,6,93,2,8,2016,holliro01,United States
-204,Richaun Holmes,PF,22,PHI,51,702,0.0,0.0,0.0,0.37,0.63,-4.1,8.1,12,10,56,5,39,5,78,9,19,2016,holmeri01,United States
-205,Rodney Hood,SG,23,UTA,79,2541,0.04,0.89,0.07,0.0,0.0,2.3,1.1,59,39,102,15,81,6,505,8,39,2016,hoodro01,United States
-206,Al Horford,C,29,ATL,82,2631,0.0,0.0,0.0,0.1,0.9,3.9,0.8,50,29,88,15,57,1,627,16,35,2016,horfoal01,Dominican Republic
-207,Dwight Howard,C,30,HOU,71,2280,0.0,0.0,0.0,0.0,1.0,0.3,0.6,48,35,90,40,172,1,233,49,48,2016,howardw01,United States
-208,Marcelo Huertas,PG,32,LAL,53,869,1.0,0.0,0.0,0.0,0.0,0.4,13.6,60,11,33,3,11,8,415,6,14,2016,huertma01,Brazil
-209,Josh Huestis,PF,24,OKC,5,55,0.0,0.0,0.22,0.78,0.0,-1.2,-8.5,2,1,1,0,1,0,0,0,0,2016,huestjo01,United States
-210,Kris Humphries,PF,30,TOT,53,835,0.0,0.0,0.0,0.58,0.42,-5.0,-3.9,16,11,45,2,23,6,82,3,17,2016,humphkr01,United States
-211,R.J. Hunter,SG,22,BOS,36,315,0.21,0.69,0.1,0.01,0.0,-3.8,-7.7,6,3,13,2,3,1,27,1,4,2016,hunterj01,United States
-212,Serge Ibaka,PF,26,OKC,78,2500,0.0,0.0,0.0,0.92,0.09,10.1,7.8,31,36,124,18,51,4,170,15,27,2016,ibakase01,Republic of the Congo
-213,Andre Iguodala,SF,32,GSW,65,1732,0.0,0.01,0.85,0.15,0.0,13.5,4.3,51,17,67,4,29,10,522,9,10,2016,iguodan01,United States
-214,Ersan İlyasova,PF,28,TOT,74,1881,0.0,0.0,0.0,0.96,0.04,-4.1,-4.6,25,15,77,10,68,23,158,9,41,2016,ilyaser01,Turkey
-215,Joe Ingles,SF,28,UTA,81,1241,0.0,0.0,0.81,0.19,0.0,-1.8,-5.4,42,5,29,8,6,3,219,4,7,2016,inglejo01,Australia
-216,Damien Inglis,SF,20,MIL,20,156,0.0,0.0,0.8,0.2,0.0,-9.8,-6.0,7,1,9,0,2,0,22,0,3,2016,inglida01,French Guiana
-217,Kyrie Irving,PG,23,CLE,53,1667,0.99,0.02,0.0,0.0,0.0,6.4,-0.3,57,49,39,7,69,6,597,19,54,2016,irvinky01,Australia
-218,Jarrett Jack,PG,32,BRK,32,1027,0.89,0.11,0.0,0.0,0.0,-6.0,2.1,65,24,25,4,33,5,509,3,23,2016,jackja01,United States
-219,Reggie Jackson,PG,25,DET,79,2424,1.0,0.0,0.0,0.0,0.0,2.2,4.6,134,58,72,21,113,18,1150,30,69,2016,jacksre01,Italy
-220,LeBron James,SF,31,CLE,76,2709,0.0,0.0,0.77,0.23,0.0,11.5,15.8,145,54,47,32,219,13,1262,74,69,2016,jamesle01,United States
-221,Al Jefferson,C,31,CHO,47,1096,0.0,0.0,0.0,0.51,0.49,2.7,-0.2,11,14,85,6,59,2,164,15,36,2016,jeffeal01,United States
-222,Cory Jefferson,PF,25,PHO,8,50,0.0,0.0,0.0,1.0,0.0,-5.1,2.2,0,0,2,0,2,1,0,0,3,2016,jeffeco01,United States
-223,Richard Jefferson,SF,35,CLE,74,1326,0.0,0.19,0.68,0.13,0.0,-2.0,-12.7,18,13,68,2,36,10,139,7,11,2016,jefferi01,United States
-224,John Jenkins,SG,24,TOT,43,480,0.14,0.6,0.25,0.0,0.0,-6.2,-2.6,13,7,12,1,11,0,83,5,6,2016,jenkijo01,United States
-225,Brandon Jennings,PG,26,TOT,48,868,1.0,0.0,0.0,0.0,0.0,0.4,1.1,38,15,29,2,27,6,395,6,7,2016,jennibr01,United States
-226,Jonas Jerebko,PF,28,BOS,78,1176,0.0,0.0,0.06,0.78,0.16,2.8,-0.7,13,16,56,10,26,11,142,5,23,2016,jerebjo01,Sweden
-227,Amir Johnson,PF,28,BOS,79,1800,0.0,0.0,0.02,0.89,0.09,5.2,3.4,41,22,88,20,42,8,320,6,26,2016,johnsam01,United States
-228,Chris Johnson,SF,25,UTA,70,857,0.02,0.67,0.31,0.0,0.0,4.2,3.0,16,12,38,3,15,2,103,3,14,2016,johnsch04,United States
-229,James Johnson,PF,28,TOR,57,926,0.0,0.0,0.03,0.84,0.13,0.8,-5.2,19,22,36,5,34,0,156,6,13,2016,johnsja01,United States
-230,Joe Johnson,SF,34,TOT,81,2703,0.0,0.0,0.83,0.17,0.0,-1.2,2.5,84,50,48,16,54,4,711,9,28,2016,johnsjo02,United States
-231,Orlando Johnson,SG,26,TOT,7,101,0.24,0.76,0.0,0.0,0.0,-18.0,-12.5,3,1,5,0,3,0,4,0,3,2016,johnsor01,United States
-232,Stanley Johnson,SF,19,DET,73,1687,0.0,0.36,0.63,0.02,0.0,-3.1,-6.1,41,29,77,22,43,3,282,14,35,2016,johnsst04,United States
-233,Tyler Johnson,SG,23,MIA,36,863,0.52,0.48,0.0,0.0,0.0,0.6,-1.8,24,14,40,4,27,7,182,12,20,2016,johnsty01,United States
-234,Wesley Johnson,SF,28,LAC,80,1666,0.0,0.01,0.6,0.38,0.0,2.2,-3.8,33,10,97,4,23,2,117,9,8,2016,johnswe01,United States
-235,Nikola Jokić,C,20,DEN,80,1733,0.0,0.0,0.0,0.05,0.95,2.3,9.5,45,28,94,15,73,9,438,22,57,2016,jokicni01,FR Yugoslavia(now Serbia)
-236,Dahntay Jones,SF,35,CLE,1,42,0.14,0.86,0.0,0.0,0.0,-1.3,-7.9,0,0,4,0,0,1,5,0,2,2016,jonesda02,United States
-237,James Jones,SF,35,CLE,48,463,0.0,0.01,0.43,0.57,0.0,-3.8,-11.7,7,2,20,4,11,2,34,4,3,2016,jonesja02,United States
-238,Terrence Jones,PF,24,HOU,50,1044,0.0,0.0,0.0,0.77,0.23,-11.2,-15.2,15,16,36,10,57,1,104,16,39,2016,joneste01,United States
-239,Tyus Jones,PG,19,MIN,37,573,1.0,0.0,0.0,0.0,0.0,-10.2,-8.1,27,5,19,1,16,4,243,3,12,2016,jonesty01,United States
-240,DeAndre Jordan,C,27,LAC,77,2598,0.0,0.0,0.0,0.0,1.0,9.0,13.3,36,33,119,20,146,8,207,37,20,2016,jordade01,United States
-241,Cory Joseph,SG,24,TOR,80,2046,0.43,0.57,0.0,0.0,0.0,7.2,4.9,44,40,64,11,59,10,602,13,46,2016,josepco01,Canada
-242,Chris Kaman,C,33,POR,16,112,0.0,0.0,0.0,0.0,1.0,-14.0,-15.2,5,1,7,1,2,0,25,1,3,2016,kamanch01,United States
-243,Frank Kaminsky,C,22,CHO,81,1708,0.0,0.0,0.0,0.0,1.0,-0.1,-5.2,13,22,70,16,63,2,245,17,48,2016,kaminfr01,United States
-244,Enes Kanter,C,23,OKC,82,1721,0.0,0.0,0.0,0.07,0.93,3.3,-7.0,21,32,91,34,121,1,82,30,79,2016,kanteen01,Switzerland
-245,Sergey Karasev,SF,22,BRK,40,399,0.0,0.5,0.45,0.05,0.01,0.5,9.0,16,6,14,0,7,7,81,1,3,2016,karasse01,Russia
-246,Sasha Kaun,C,30,CLE,25,95,0.0,0.0,0.0,0.15,0.85,-1.6,-8.3,2,1,8,1,2,0,7,1,5,2016,kaunsa01,Soviet Union(now Russia)
-247,Ryan Kelly,PF,24,LAL,36,470,0.0,0.0,0.0,0.54,0.46,-0.8,10.8,5,9,24,3,26,3,47,6,13,2016,kellyry01,United States
-248,Michael Kidd-Gilchrist,SF,22,CHO,7,205,0.0,0.0,1.0,0.0,0.0,15.3,13.1,1,3,4,1,14,0,24,7,8,2016,kiddgmi01,United States
-249,Sean Kilpatrick,SG,26,TOT,31,616,0.0,0.41,0.56,0.03,0.0,-11.8,-7.0,11,13,18,6,31,5,70,5,14,2016,kilpase01,United States
-250,Brandon Knight,SG,24,PHO,52,1870,0.37,0.59,0.04,0.0,0.0,-6.4,1.6,111,45,49,8,54,12,633,14,34,2016,knighbr03,United States
-251,Kyle Korver,SG,34,ATL,80,2401,0.0,0.84,0.16,0.0,0.0,5.5,4.6,59,16,100,10,11,4,373,5,12,2016,korveky01,United States
-252,Kosta Koufos,C,26,SAC,78,1482,0.0,0.0,0.0,0.0,1.0,-6.9,-6.6,11,13,99,16,48,4,80,11,30,2016,koufoko01,United States
-253,Jeremy Lamb,SG,23,CHO,66,1227,0.0,0.76,0.25,0.0,0.0,5.6,3.9,28,9,50,8,43,5,184,14,20,2016,lambje01,United States
-254,Carl Landry,PF,32,PHI,36,569,0.0,0.0,0.0,0.52,0.48,-10.3,0.4,6,8,32,4,36,2,81,7,16,2016,landrca01,United States
-255,Shane Larkin,PG,23,BRK,78,1751,1.0,0.0,0.0,0.0,0.0,-9.5,-3.5,93,37,59,3,46,16,773,13,31,2016,larkish01,United States
-256,Joffrey Lauvergne,C,24,DEN,59,1041,0.0,0.0,0.0,0.23,0.77,-9.7,-9.0,17,10,44,16,32,1,134,6,32,2016,lauvejo01,France
-257,Zach LaVine,SG,20,MIN,82,2294,0.35,0.65,0.0,0.0,0.0,-6.1,-6.7,65,49,92,11,82,5,556,21,61,2016,lavinza01,United States
-258,Ty Lawson,PG,28,TOT,66,1411,1.0,0.0,0.0,0.0,0.0,-6.1,-8.7,72,13,28,4,40,3,557,9,28,2016,lawsoty01,United States
-259,Courtney Lee,SG,30,TOT,79,2334,0.0,0.65,0.34,0.0,0.0,2.9,3.7,31,20,67,4,42,6,315,12,27,2016,leeco01,United States
-260,David Lee,PF,32,TOT,55,903,0.0,0.0,0.11,0.71,0.18,-3.6,-5.9,26,27,56,10,42,4,203,9,42,2016,leeda02,United States
-261,Alex Len,C,22,PHO,78,1821,0.0,0.0,0.0,0.0,1.0,-8.0,-1.3,56,33,111,31,113,2,231,21,60,2016,lenal01,Ukraine
-262,Kawhi Leonard,SF,24,SAS,72,2380,0.0,0.05,0.9,0.06,0.0,14.3,7.1,38,32,48,15,129,11,425,37,29,2016,leonaka01,United States
-263,Meyers Leonard,PF,23,POR,61,1333,0.0,0.0,0.0,0.25,0.75,1.8,1.5,37,14,113,18,9,5,226,2,8,2016,leoname01,United States
-264,Jon Leuer,PF,26,PHO,67,1255,0.0,0.0,0.0,0.58,0.42,-3.2,6.0,43,22,75,5,49,3,172,13,30,2016,leuerjo01,United States
-265,Damian Lillard,PG,25,POR,75,2676,0.98,0.02,0.0,0.0,0.0,1.4,2.0,169,56,80,6,162,27,1214,37,93,2016,lillada01,United States
-266,Jeremy Lin,SG,27,CHO,78,2048,0.37,0.63,0.0,0.0,0.0,2.4,-0.9,65,53,65,17,108,25,556,15,65,2016,linje01,United States
-267,Shaun Livingston,PG,30,GSW,78,1520,0.64,0.36,0.0,0.0,0.0,7.2,-6.2,47,15,63,10,44,5,550,15,18,2016,livinsh01,United States
-268,Kevon Looney,PF,19,GSW,5,21,0.0,0.0,0.1,0.74,0.16,-44.0,-55.4,0,0,2,0,0,0,0,0,1,2016,looneke01,United States
-269,Brook Lopez,C,27,BRK,73,2457,0.0,0.0,0.0,0.0,1.0,-3.7,10.1,58,50,102,41,195,6,333,58,60,2016,lopezbr01,United States
-270,Robin Lopez,C,27,NYK,82,2219,0.0,0.0,0.0,0.0,1.0,-2.3,1.3,37,41,111,24,67,6,258,15,27,2016,lopezro01,United States
-271,Kevin Love,PF,27,CLE,77,2424,0.0,0.0,0.0,0.4,0.6,8.8,5.8,79,33,68,17,128,12,444,17,52,2016,loveke01,United States
-272,Kyle Lowry,PG,29,TOR,77,2851,1.0,0.0,0.0,0.0,0.0,6.6,6.3,132,56,81,20,177,29,1141,26,74,2016,lowryky01,United States
-273,Trey Lyles,PF,20,UTA,80,1382,0.0,0.0,0.0,0.85,0.15,-1.2,-4.7,30,11,58,11,40,5,161,11,15,2016,lylestr01,Canada
-274,Shelvin Mack,PG,25,TOT,52,1058,0.92,0.08,0.0,0.0,0.0,4.3,1.7,61,24,20,3,28,1,432,9,23,2016,macksh01,United States
-275,Ian Mahinmi,C,29,IND,71,1816,0.0,0.0,0.0,0.0,1.0,3.7,3.4,37,26,103,24,91,5,252,19,41,2016,mahinia01,France
-276,Devyn Marble,SG,23,ORL,28,249,0.0,0.52,0.46,0.02,0.0,-4.2,-2.7,1,4,13,0,10,1,30,2,3,2016,marblde01,United States
-277,Boban Marjanović,C,27,SAS,54,508,0.0,0.0,0.0,0.0,1.0,6.5,-5.8,8,10,32,4,48,0,47,12,13,2016,marjabo01,SFR Yugoslavia(now Serbia)
-278,Kendall Marshall,PG,24,PHI,30,400,0.58,0.4,0.02,0.0,0.0,-15.4,-5.2,31,8,14,1,7,2,166,1,5,2016,marshke01,United States
-279,Jarell Martin,PF,21,MEM,27,380,0.0,0.0,0.01,0.31,0.68,-5.0,-2.9,5,8,27,6,28,2,35,6,15,2016,martija01,United States
-280,Kevin Martin,SG,32,TOT,55,1095,0.0,0.81,0.18,0.0,0.0,-5.8,-11.4,18,19,20,7,68,4,133,9,21,2016,martike02,United States
-281,Wesley Matthews,SF,29,DAL,78,2644,0.0,0.35,0.63,0.02,0.0,2.2,6.8,34,32,67,6,42,19,361,7,39,2016,matthwe02,United States
-282,O.J. Mayo,SG,28,MIL,41,1090,0.03,0.6,0.35,0.03,0.0,-2.1,2.7,44,14,45,9,14,8,257,3,17,2016,mayooj01,United States
-283,Luc Mbah a Moute,PF,29,LAC,75,1274,0.0,0.0,0.27,0.73,0.01,10.6,9.1,15,11,49,4,25,3,74,4,32,2016,mbahalu01,Cameroon
-284,James Michael McAdoo,PF,23,GSW,41,262,0.0,0.0,0.08,0.45,0.47,-17.2,-30.2,5,5,20,6,17,1,41,3,15,2016,mcadoja01,United States
-285,Ray McCallum,PG,24,TOT,41,475,0.84,0.16,0.0,0.0,0.0,3.6,-1.0,18,2,16,1,5,1,132,0,14,2016,mccalra01,United States
-286,CJ McCollum,SG,24,POR,80,2780,0.34,0.66,0.0,0.0,0.0,2.4,5.5,95,56,83,19,82,7,799,17,91,2016,mccolcj01,United States
-287,T.J. McConnell,PG,23,PHI,81,1606,0.92,0.08,0.0,0.0,0.0,-8.1,4.3,81,44,55,2,10,10,888,3,24,2016,mccontj01,United States
-288,Chris McCullough,PF,20,BRK,24,362,0.0,0.0,0.0,0.82,0.18,-14.9,-8.0,2,6,28,4,11,0,20,1,9,2016,mcculch01,United States
-289,K.J. McDaniels,SF,22,HOU,37,235,0.01,0.42,0.57,0.01,0.0,20.6,21.9,6,3,7,2,14,0,22,1,3,2016,mcdankj01,United States
-290,Doug McDermott,SF,24,CHI,81,1861,0.0,0.03,0.92,0.06,0.0,-3.7,-3.8,19,19,64,8,32,5,140,12,34,2016,mcderdo01,United States
-291,Mitch McGary,PF,23,OKC,20,72,0.0,0.0,0.0,0.7,0.3,-30.9,-38.9,2,3,6,0,3,0,7,0,3,2016,mcgarmi01,United States
-292,JaVale McGee,C,28,DAL,34,370,0.0,0.0,0.0,0.01,0.99,-7.7,-8.3,5,5,24,5,14,5,6,2,10,2016,mcgeeja01,United States
-293,Ben McLemore,SG,22,SAC,68,1443,0.02,0.88,0.11,0.0,0.0,0.4,5.0,29,40,68,13,37,11,182,8,24,2016,mclembe01,United States
-294,Jordan McRae,PG,24,TOT,22,195,0.67,0.33,0.0,0.0,0.0,12.2,13.0,7,4,8,2,13,2,59,3,8,2016,mcraejo01,United States
-295,Josh McRoberts,PF,28,MIA,42,595,0.0,0.0,0.0,0.79,0.21,1.5,-0.6,17,7,37,5,16,0,179,4,8,2016,mcrobjo01,United States
-296,Jodie Meeks,SG,28,DET,3,43,0.0,1.0,0.0,0.0,0.0,7.4,7.1,0,1,0,0,2,0,7,0,2,2016,meeksjo01,United States
-297,Salah Mejri,C,29,DAL,34,397,0.0,0.0,0.0,0.0,1.0,5.7,6.5,7,6,28,4,18,6,21,2,15,2016,mejrisa01,Tunisia
-298,Jordan Mickey,PF,21,BOS,16,57,0.0,0.0,0.16,0.8,0.05,6.3,3.0,1,0,2,0,6,0,3,2,5,2016,mickejo01,United States
-299,Khris Middleton,SG,24,MIL,79,2852,0.0,0.02,0.81,0.17,0.0,-0.6,12.4,95,48,79,24,107,6,704,20,42,2016,middlkh01,United States
-300,C.J. Miles,SF,28,IND,64,1464,0.0,0.19,0.78,0.03,0.0,-0.6,-4.0,37,15,71,12,54,5,150,8,27,2016,milescj01,United States
-301,Andre Miller,PG,39,TOT,39,461,0.93,0.08,0.0,0.0,0.0,3.2,-0.8,27,9,12,1,14,4,198,3,11,2016,millean02,United States
-302,Mike Miller,SF,35,DEN,47,373,0.0,0.0,0.48,0.52,0.01,-13.0,-10.9,12,1,24,4,0,1,93,0,3,2016,millemi01,United States
-303,Patty Mills,PG,27,SAS,81,1662,1.0,0.0,0.0,0.0,0.0,11.8,0.5,47,19,39,5,11,24,498,5,12,2016,millspa02,Australia
-304,Elijah Millsap,SG,28,UTA,20,173,0.02,0.67,0.31,0.0,0.0,7.3,5.7,4,3,8,1,7,2,47,0,4,2016,millsel01,United States
-305,Paul Millsap,PF,30,ATL,81,2647,0.0,0.0,0.02,0.92,0.06,3.5,-0.4,79,69,117,26,183,10,640,39,71,2016,millspa01,United States
-306,Nikola Mirotić,PF,24,CHI,66,1646,0.0,0.0,0.02,0.86,0.12,-0.2,2.6,42,35,87,14,58,1,229,6,24,2016,mirotni01,SFR Yugoslavia(now Montenegro)
-307,Nazr Mohammed,C,38,OKC,5,19,0.0,0.0,0.0,0.0,1.0,-9.7,-17.0,0,1,2,0,1,0,0,0,0,2016,mohamna01,United States
-308,Greg Monroe,C,25,MIL,79,2314,0.0,0.0,0.0,0.0,1.0,-2.6,3.5,47,55,86,12,142,11,412,35,97,2016,monrogr01,United States
-309,Luis Montero,SG,22,POR,12,42,0.0,0.06,0.94,0.0,0.0,-56.5,-57.9,3,1,0,0,1,0,2,0,2,2016,montelu01,United States
-310,E'Twaun Moore,SG,26,CHI,59,1263,0.32,0.66,0.02,0.0,0.0,-0.7,1.4,32,14,44,4,14,3,225,5,25,2016,mooreet01,United States
-311,Eric Moreland,PF,24,SAC,8,48,0.0,0.0,0.0,0.51,0.49,1.6,4.5,2,1,1,0,1,0,3,0,2,2016,moreler01,United States
-312,Marcus Morris,SF,26,DET,80,2856,0.0,0.0,0.91,0.09,0.0,2.3,6.8,72,32,75,15,105,13,473,25,29,2016,morrima03,United States
-313,Markieff Morris,PF,26,TOT,64,1629,0.0,0.0,0.0,0.85,0.15,-3.4,0.5,56,26,79,33,59,5,293,14,40,2016,morrima02,United States
-314,Anthony Morrow,SG,30,OKC,68,926,0.0,0.42,0.57,0.0,0.0,4.1,-4.1,8,6,37,3,12,4,57,3,8,2016,morroan01,United States
-315,Donatas Motiejūnas,PF,25,HOU,37,547,0.0,0.0,0.0,0.86,0.14,3.5,4.0,26,11,23,4,22,7,96,1,9,2016,motiedo01,Lithuania
-316,Timofey Mozgov,C,29,CLE,76,1326,0.0,0.0,0.0,0.0,1.0,1.0,-8.2,14,27,99,13,51,2,79,15,30,2016,mozgoti01,Soviet Union(now Russia)
-317,Emmanuel Mudiay,PG,19,DEN,68,2068,0.86,0.14,0.0,0.0,0.0,-2.8,0.6,126,53,67,14,85,3,841,17,84,2016,mudiaem01,Zaire(now Democratic Republic of the Congo)
-318,Shabazz Muhammad,SF,23,MIN,82,1682,0.0,0.5,0.5,0.01,0.0,-7.2,-6.6,26,25,52,10,114,6,117,23,55,2016,muhamsh01,United States
-319,Xavier Munford,SG,23,MEM,14,244,0.73,0.25,0.03,0.0,0.0,-6.6,-4.5,6,4,10,2,8,2,47,4,7,2016,munfoxa02,United States
-320,Mike Muscala,C,24,ATL,60,565,0.0,0.0,0.0,0.05,0.95,-2.4,-7.1,15,7,46,3,11,4,79,3,2,2016,muscami01,United States
-321,Larry Nance Jr.,PF,23,LAL,63,1266,0.0,0.0,0.08,0.61,0.31,-4.5,8.5,16,10,61,9,18,1,105,5,19,2016,nancela02,United States
-322,Shabazz Napier,PG,24,ORL,55,600,0.99,0.02,0.0,0.0,0.0,-5.0,-3.9,30,11,17,3,19,4,231,3,7,2016,napiesh01,United States
-323,Gary Neal,SG,31,WAS,40,807,0.0,0.85,0.15,0.0,0.0,-9.7,-11.6,10,12,22,5,21,2,112,6,11,2016,nealga01,United States
-324,Jameer Nelson,PG,33,DEN,39,1036,1.0,0.0,0.0,0.0,0.0,-6.4,-4.4,47,14,43,2,11,7,440,1,11,2016,nelsoja01,United States
-325,Raul Neto,PG,23,UTA,81,1499,1.0,0.0,0.0,0.0,0.0,3.2,2.2,70,23,45,1,29,17,396,8,28,2016,netora01,Brazil
-326,Andrew Nicholson,PF,26,ORL,56,823,0.0,0.0,0.0,0.93,0.07,1.2,3.6,13,9,26,13,27,1,65,10,8,2016,nichoan01,Canada
-327,Joakim Noah,C,30,CHI,29,635,0.0,0.0,0.0,0.21,0.79,-0.4,1.6,34,6,38,4,16,1,254,1,16,2016,noahjo01,United States
-328,Nerlens Noel,C,21,PHI,67,1965,0.0,0.0,0.0,0.35,0.65,-11.4,-1.4,67,62,96,13,101,9,283,19,39,2016,noelne01,United States
-329,Lucas Nogueira,C,23,TOR,29,225,0.0,0.0,0.0,0.0,1.0,7.7,3.1,1,5,11,3,6,0,16,1,3,2016,noguelu01,Brazil
-330,Steve Novak,PF,32,TOT,10,44,0.0,0.0,0.1,0.9,0.0,8.5,6.8,1,0,2,0,0,0,0,0,0,2016,novakst01,United States
-331,Dirk Nowitzki,PF,37,DAL,75,2364,0.0,0.0,0.0,0.67,0.33,2.6,6.9,47,27,100,9,82,10,324,16,14,2016,nowitdi01,West Germany
-332,Jusuf Nurkić,C,21,DEN,32,547,0.0,0.0,0.0,0.0,1.0,-0.4,3.1,14,20,47,15,42,7,92,11,26,2016,nurkiju01,Republic of Bosnia and Herzegovina
-333,J.J. O'Brien,SF,23,UTA,2,6,0.0,0.29,0.71,0.0,0.0,-51.6,-53.6,0,0,1,0,0,0,0,0,0,2016,obriejj01,United States
-334,Johnny O'Bryant,PF,22,MIL,66,857,0.0,0.0,0.0,0.98,0.02,-6.4,-3.1,11,11,39,4,21,3,70,6,18,2016,obryajo01,United States
-335,Kyle O'Quinn,PF,25,NYK,65,764,0.0,0.0,0.0,0.29,0.71,-3.6,-0.9,29,9,62,13,25,2,156,6,18,2016,oquinky01,United States
-336,Jahlil Okafor,C,20,PHI,53,1591,0.0,0.0,0.0,0.0,1.0,-16.4,-9.4,29,46,72,27,96,2,152,27,68,2016,okafoja01,United States
-337,Victor Oladipo,SG,23,ORL,72,2379,0.19,0.78,0.03,0.0,0.0,-0.1,3.9,79,51,78,8,93,10,642,14,68,2016,oladivi01,United States
-338,Kelly Olynyk,C,24,BOS,69,1395,0.0,0.0,0.0,0.15,0.86,5.7,3.8,16,20,77,15,53,8,243,12,33,2016,olynyke01,Canada
-339,Kelly Oubre Jr.,SF,20,WAS,63,671,0.0,0.1,0.84,0.06,0.0,-1.5,-1.3,9,13,53,6,27,5,29,9,20,2016,oubreke01,United States
-340,Zaza Pachulia,C,31,DAL,76,2004,0.0,0.0,0.0,0.0,1.0,0.1,0.6,34,41,45,28,108,10,301,13,48,2016,pachuza01,Soviet Union(now Georgia)
-341,Kostas Papanikolaou,SF,25,DEN,26,294,0.0,0.0,0.59,0.39,0.02,-1.1,2.2,15,4,10,1,3,2,38,0,8,2016,papanko01,Greece
-342,Jabari Parker,PF,20,MIL,76,2408,0.0,0.0,0.09,0.9,0.01,-4.0,0.0,56,32,71,9,108,5,285,21,77,2016,parkeja01,United States
-343,Tony Parker,PG,33,SAS,72,1980,0.92,0.08,0.0,0.0,0.0,10.8,-1.3,72,37,46,4,63,7,841,11,39,2016,parketo01,Belgium
-344,Chandler Parsons,SF,27,DAL,61,1799,0.0,0.0,0.66,0.34,0.0,0.7,1.6,51,30,51,8,56,13,410,11,42,2016,parsoch01,United States
-345,Lamar Patterson,SG,24,ATL,35,395,0.01,0.78,0.19,0.02,0.0,4.4,0.8,11,8,23,0,10,2,91,2,5,2016,pattela01,United States
-346,Patrick Patterson,PF,26,TOR,79,2020,0.0,0.0,0.15,0.85,0.0,10.3,11.0,28,17,55,11,15,8,224,5,10,2016,pattepa01,United States
-347,Chris Paul,PG,30,LAC,74,2420,1.0,0.0,0.0,0.0,0.0,10.6,16.2,130,36,54,14,67,15,1707,13,29,2016,paulch01,United States
-348,Adreian Payne,PF,24,MIN,52,486,0.0,0.0,0.01,0.95,0.04,-11.7,-9.5,14,10,34,7,8,1,65,0,9,2016,paynead01,United States
-349,Cameron Payne,PG,21,OKC,57,698,0.95,0.05,0.0,0.0,0.0,-1.4,-10.4,25,8,33,2,11,4,251,4,11,2016,payneca01,United States
-350,Elfrid Payton,PG,21,ORL,73,2145,0.93,0.07,0.0,0.0,0.0,-1.5,0.4,102,40,54,12,82,7,1051,28,87,2016,paytoel01,United States
-351,Nikola Peković,C,30,MIN,12,156,0.0,0.0,0.0,0.0,1.0,-20.6,-18.0,1,3,5,4,9,0,27,0,2,2016,pekovni01,SFR Yugoslavia(now Montenegro)
-352,Kendrick Perkins,C,31,NOP,37,542,0.0,0.0,0.0,0.08,0.92,-6.0,-2.5,11,10,26,12,8,1,70,1,7,2016,perkike01,United States
-353,Paul Pierce,SF,38,LAC,68,1231,0.0,0.0,0.6,0.4,0.0,0.7,-5.3,33,13,64,7,28,5,167,3,17,2016,piercpa01,United States
-354,Tibor Pleiß,C,26,UTA,12,82,0.0,0.0,0.0,0.0,1.0,-4.9,-6.9,1,2,11,3,1,0,5,0,4,2016,pleisti01,West Germany
-355,Mason Plumlee,C,25,POR,82,2084,0.0,0.0,0.0,0.02,0.98,1.8,2.1,73,43,115,29,144,8,543,28,63,2016,plumlma01,United States
-356,Miles Plumlee,C,27,MIL,61,870,0.0,0.0,0.0,0.0,1.0,-5.2,-1.5,14,9,34,8,22,1,34,3,14,2016,plumlmi01,United States
-357,Otto Porter,SF,22,WAS,75,2276,0.0,0.0,0.81,0.18,0.01,0.8,3.1,28,21,77,9,53,12,267,13,27,2016,porteot01,United States
-358,Bobby Portis,PF,20,CHI,62,1102,0.0,0.0,0.0,0.49,0.51,-7.9,-8.6,21,17,48,8,29,3,128,5,22,2016,portibo01,United States
-359,Kristaps Porziņģis,PF,20,NYK,72,2047,0.0,0.0,0.0,0.7,0.3,-0.1,5.7,45,47,109,20,93,6,221,13,26,2016,porzikr01,Latvia
-360,Dwight Powell,PF,24,DAL,69,992,0.0,0.0,0.0,0.7,0.29,-1.9,-2.3,13,14,46,9,59,9,108,15,20,2016,poweldw01,Canada
-361,Norman Powell,SG,22,TOR,49,725,0.0,0.91,0.09,0.0,0.0,6.2,1.7,10,8,23,3,25,2,117,4,24,2016,powelno01,United States
-362,Phil Pressey,PG,24,TOT,23,283,1.0,0.0,0.0,0.0,0.0,-8.2,0.8,26,4,8,1,10,1,182,3,9,2016,pressph01,United States
-363,Ronnie Price,PG,32,PHO,62,1211,0.87,0.14,0.0,0.0,0.0,-2.7,6.6,45,20,50,2,14,14,341,2,12,2016,pricero01,United States
-364,Pablo Prigioni,PG,38,LAC,59,823,0.98,0.02,0.0,0.0,0.0,-3.4,-9.8,37,8,17,3,2,7,305,1,5,2016,prigipa01,Argentina
-365,Tayshaun Prince,SF,35,MIN,77,1462,0.0,0.0,0.84,0.16,0.0,-2.7,0.9,15,7,34,2,8,10,163,1,4,2016,princta01,United States
-366,Julius Randle,PF,21,LAL,81,2286,0.0,0.0,0.02,0.71,0.27,-15.3,-11.8,54,48,97,27,127,4,359,33,81,2016,randlju01,United States
-367,Zach Randolph,PF,34,MEM,68,2016,0.0,0.0,0.0,0.63,0.37,-1.3,2.2,46,33,56,10,81,5,338,9,72,2016,randoza01,United States
-368,J.J. Redick,SG,31,LAC,75,2097,0.04,0.96,0.0,0.0,0.0,10.8,13.7,44,22,63,3,67,19,249,14,21,2016,redicjj01,United States
-369,Willie Reed,C,25,BRK,39,426,0.0,0.0,0.0,0.71,0.29,-8.2,-0.7,4,8,26,3,28,4,23,5,8,2016,reedwi02,United States
-370,Josh Richardson,SG,22,MIA,52,1107,0.12,0.84,0.04,0.0,0.0,2.4,0.5,17,7,55,2,25,5,166,4,20,2016,richajo01,United States
-371,Austin Rivers,SG,23,LAC,67,1464,0.42,0.51,0.07,0.0,0.0,-3.2,-12.1,30,21,47,1,46,6,245,9,32,2016,riverau01,United States
-372,Andre Roberson,SG,24,OKC,70,1553,0.0,0.66,0.32,0.02,0.0,9.6,3.9,16,12,72,0,24,6,111,4,18,2016,roberan03,United States
-373,Brian Roberts,PG,30,TOT,51,470,0.87,0.13,0.0,0.0,0.0,-7.6,-10.0,17,4,22,2,20,5,129,9,7,2016,roberbr01,United States
-374,Glenn Robinson III,SF,22,IND,45,508,0.02,0.79,0.19,0.0,0.0,-3.5,-6.1,10,6,12,0,20,1,57,4,14,2016,robingl02,United States
-375,Nate Robinson,PG,31,NOP,2,23,1.0,0.0,0.0,0.0,0.0,-44.1,-40.5,0,0,1,0,0,0,9,0,0,2016,robinna01,United States
-376,Thomas Robinson,PF,24,BRK,71,917,0.0,0.0,0.0,0.4,0.6,-14.6,-9.1,26,22,51,9,56,2,102,17,26,2016,robinth01,United States
-377,Rajon Rondo,PG,29,SAC,72,2537,0.58,0.42,0.0,0.0,0.0,-3.5,-2.1,202,48,49,9,37,12,1871,6,54,2016,rondora01,United States
-378,Derrick Rose,PG,27,CHI,66,2097,0.95,0.06,0.0,0.0,0.0,-3.9,-4.8,102,55,38,6,90,9,713,23,75,2016,rosede01,United States
-379,Terrence Ross,SF,24,TOR,73,1747,0.0,0.13,0.85,0.03,0.0,6.1,2.3,18,20,51,3,19,4,136,5,15,2016,rosste01,United States
-380,Terry Rozier,PG,21,BOS,39,311,0.86,0.15,0.0,0.0,0.0,-6.5,-10.6,9,9,13,1,4,2,92,1,4,2016,roziete01,United States
-381,Ricky Rubio,PG,25,MIN,76,2323,1.0,0.0,0.0,0.0,0.0,0.6,9.4,141,38,65,4,84,42,1396,11,32,2016,rubiori01,Spain
-382,Damjan Rudež,SF,29,MIN,33,277,0.0,0.01,0.15,0.85,0.0,-2.4,1.0,7,1,13,3,2,0,24,0,4,2016,rudezda01,SFR Yugoslavia(now Croatia)
-383,Brandon Rush,SG,30,GSW,72,1055,0.01,0.61,0.36,0.02,0.0,0.0,-15.1,15,10,40,1,10,2,137,0,9,2016,rushbr01,United States
-384,D'Angelo Russell,PG,19,LAL,80,2259,0.86,0.14,0.0,0.0,0.0,-12.5,-5.2,115,53,64,13,86,10,609,19,50,2016,russeda01,United States
-385,Robert Sacre,C,26,LAL,25,320,0.0,0.0,0.0,0.0,1.0,-6.1,4.6,3,3,32,4,13,0,34,0,9,2016,sacrero01,United States
-386,JaKarr Sampson,SF,22,TOT,73,1160,0.0,0.04,0.73,0.23,0.01,-7.4,-0.5,15,28,66,11,53,4,115,6,32,2016,sampsja02,United States
-387,Dennis Schröder,PG,22,ATL,80,1621,1.0,0.0,0.0,0.0,0.0,7.2,5.9,111,45,49,13,71,7,834,16,68,2016,schrode01,Germany
-388,Luis Scola,PF,35,TOR,76,1636,0.0,0.0,0.3,0.61,0.1,-1.5,-10.9,28,20,75,11,38,6,163,8,35,2016,scolalu01,Argentina
-389,Mike Scott,PF,27,ATL,75,1146,0.0,0.0,0.03,0.96,0.01,5.2,2.1,18,11,46,6,31,4,183,5,12,2016,scottmi01,United States
-390,Thabo Sefolosha,SF,31,ATL,75,1758,0.0,0.0,0.96,0.04,0.0,2.7,-1.6,30,23,41,5,42,6,252,12,26,2016,sefolth01,Switzerland
-391,Kevin Séraphin,C,26,NYK,48,526,0.0,0.0,0.0,0.03,0.97,-9.1,-7.3,15,12,46,8,10,2,100,1,12,2016,serapke01,United States
-392,Ramon Sessions,PG,29,WAS,82,1667,1.0,0.0,0.0,0.0,0.0,-1.3,-1.5,64,33,22,10,136,10,540,33,40,2016,sessira01,United States
-393,Iman Shumpert,SG,25,CLE,54,1316,0.02,0.78,0.2,0.0,0.0,8.7,3.3,29,13,50,8,18,10,228,5,16,2016,shumpim01,United States
-394,Jonathon Simmons,SG,26,SAS,55,813,0.08,0.9,0.02,0.0,0.0,7.0,-5.7,21,14,37,7,43,15,142,17,24,2016,simmojo02,United States
-395,Henry Sims,C,25,BRK,14,263,0.0,0.0,0.0,0.0,1.0,-16.8,-9.9,5,2,18,3,14,0,19,2,1,2016,simshe01,United States
-396,Kyle Singler,SF,27,OKC,68,977,0.0,0.08,0.78,0.14,0.0,-0.2,-9.9,12,9,66,4,17,5,55,5,13,2016,singlky01,United States
-397,Donald Sloan,PG,28,BRK,61,1318,0.94,0.06,0.0,0.0,0.0,-5.1,3.8,51,20,23,6,42,3,598,8,24,2016,sloando01,United States
-398,Marcus Smart,PG,21,BOS,61,1667,0.42,0.57,0.01,0.0,0.0,3.1,-0.3,50,13,69,9,52,38,427,8,40,2016,smartma01,United States
-399,Greg Smith,PF,25,MIN,18,192,0.0,0.0,0.0,0.39,0.61,-18.3,-15.7,3,4,17,0,6,2,13,2,8,2016,smithgr02,United States
-400,Ish Smith,PG,27,TOT,77,2239,0.99,0.01,0.0,0.0,0.0,-7.9,-0.9,106,54,63,3,66,10,1177,22,54,2016,smithis01,United States
-401,J.R. Smith,SG,30,CLE,77,2362,0.01,0.77,0.22,0.0,0.0,6.7,0.4,32,16,99,8,26,14,314,3,20,2016,smithjr01,United States
-402,Jason Smith,C,29,ORL,76,1181,0.0,0.0,0.0,0.12,0.88,-1.7,0.0,21,8,81,23,22,8,144,7,21,2016,smithja02,United States
-403,Josh Smith,PF,30,TOT,55,880,0.0,0.0,0.0,0.6,0.4,-4.0,-7.0,52,12,58,6,26,5,205,1,15,2016,smithjo03,United States
-404,Russ Smith,PG,24,MEM,15,66,1.0,0.0,0.0,0.0,0.0,-24.3,-22.4,5,1,1,0,5,1,26,1,5,2016,smithru01,United States
-405,Tony Snell,SF,24,CHI,64,1301,0.0,0.3,0.7,0.01,0.0,4.2,8.7,24,10,48,11,15,2,138,2,28,2016,snellto01,United States
-406,Marreese Speights,C,28,GSW,72,832,0.0,0.0,0.0,0.17,0.84,0.5,-13.3,15,26,50,15,54,15,144,14,31,2016,speigma01,United States
-407,Tiago Splitter,C,31,ATL,36,579,0.0,0.0,0.0,0.0,1.0,9.4,6.7,7,7,34,7,24,2,67,4,19,2016,splitti01,Brazil
-408,Nik Stauskas,SG,22,PHI,73,1809,0.0,0.76,0.23,0.01,0.0,-11.9,-2.3,56,30,83,1,54,6,317,10,34,2016,stausni01,Canada
-409,Lance Stephenson,SF,25,TOT,69,1372,0.0,0.22,0.69,0.09,0.0,-2.2,-3.9,43,22,50,10,51,7,299,11,30,2016,stephla01,United States
-410,Alex Stepheson,PF,28,TOT,8,73,0.0,0.0,0.0,0.15,0.85,-2.7,-3.8,0,0,8,0,6,0,5,2,6,2016,stephal01,United States
-411,Jarnell Stokes,C,22,TOT,7,18,0.0,0.0,0.0,0.0,1.0,20.7,20.9,0,0,1,0,1,0,3,0,0,2016,stokeja01,United States
-412,Amar'e Stoudemire,C,33,MIA,52,762,0.0,0.0,0.0,0.0,1.0,0.8,-1.6,12,16,48,6,33,2,60,7,29,2016,stoudam01,United States
-413,Rodney Stuckey,PG,29,IND,58,1275,0.4,0.59,0.01,0.0,0.0,0.2,-2.5,40,23,39,9,62,12,335,13,31,2016,stuckro01,United States
-414,Jared Sullinger,PF,23,BOS,81,1915,0.0,0.0,0.0,0.14,0.86,4.9,3.2,39,20,107,27,71,9,440,12,50,2016,sullija01,United States
-415,Edy Tavares,C,23,ATL,11,73,0.0,0.0,0.0,0.0,1.0,-0.9,-4.6,1,2,5,0,3,0,7,0,2,2016,tavarwa01,United States
-416,Jeff Teague,PG,27,ATL,79,2255,0.94,0.06,0.0,0.0,0.0,1.0,-6.2,119,65,72,20,125,8,1093,27,87,2016,teaguje01,United States
-417,Mirza Teletović,PF,30,PHO,79,1686,0.0,0.0,0.04,0.84,0.13,-5.7,2.8,37,24,80,13,49,4,213,7,36,2016,teletmi01,SFR Yugoslavia(now Bosnia and Herzegovina)
-418,Garrett Temple,SF,29,WAS,80,1951,0.01,0.54,0.42,0.03,0.0,0.4,1.8,32,18,96,9,37,21,320,7,35,2016,templga01,United States
-419,Jason Terry,SG,38,HOU,72,1258,0.6,0.4,0.01,0.0,0.0,-1.3,-2.0,38,6,44,2,9,0,249,4,4,2016,terryja01,United States
-420,Isaiah Thomas,PG,26,BOS,82,2644,1.0,0.0,0.0,0.0,0.0,4.0,2.2,107,81,43,16,197,22,1187,40,109,2016,thomais02,United States
-421,Lance Thomas,PF,27,NYK,59,1313,0.0,0.0,0.13,0.87,0.0,0.2,4.5,23,16,47,5,58,15,119,20,24,2016,thomala01,United States
-422,Hollis Thompson,SG,24,PHI,77,2154,0.0,0.27,0.67,0.07,0.0,-9.3,3.0,35,13,95,11,41,2,232,15,16,2016,thompho01,United States
-423,Jason Thompson,C,29,TOT,47,471,0.0,0.0,0.0,0.36,0.64,-0.4,-9.0,5,3,39,6,21,1,66,4,8,2016,thompja02,United States
-424,Klay Thompson,SG,25,GSW,80,2666,0.0,0.58,0.4,0.02,0.0,15.2,12.7,71,40,81,16,91,1,384,19,42,2016,thompkl01,United States
-425,Tristan Thompson,PF,24,CLE,82,2269,0.0,0.0,0.0,0.77,0.23,8.7,5.1,13,18,96,17,94,3,165,26,39,2016,thomptr01,Canada
-426,Marcus Thornton,SG,28,TOT,61,1109,0.03,0.86,0.11,0.0,0.0,0.2,0.5,27,15,42,5,29,3,195,7,21,2016,thornma01,United States
-427,Anthony Tolliver,PF,30,DET,72,1341,0.0,0.0,0.02,0.98,0.0,0.2,-0.2,16,4,49,6,18,8,124,1,14,2016,tollian01,United States
-428,Axel Toupane,SF,23,DEN,21,305,0.0,0.02,0.81,0.17,0.0,-0.8,2.5,4,2,17,0,9,2,32,3,1,2016,toupaax01,France
-429,Karl-Anthony Towns,C,20,MIN,82,2627,0.0,0.0,0.0,0.02,0.98,-2.6,2.3,74,41,118,43,128,15,360,43,67,2016,townska01,United States
-430,P.J. Tucker,SF,30,PHO,82,2540,0.0,0.06,0.89,0.06,0.0,-7.2,0.2,57,17,71,13,54,14,412,12,44,2016,tuckepj01,United States
-431,Evan Turner,SG,27,BOS,81,2271,0.0,0.3,0.67,0.03,0.0,2.2,-2.6,108,46,67,7,73,9,817,15,43,2016,turneev01,United States
-432,Myles Turner,C,19,IND,60,1367,0.0,0.0,0.0,0.39,0.62,-2.4,-6.6,17,18,87,24,53,4,98,17,24,2016,turnemy01,United States
-433,Beno Udrih,PG,33,TOT,44,707,0.93,0.07,0.0,0.0,0.0,-0.7,-0.6,33,14,22,1,10,5,261,2,7,2016,udrihbe01,SFR Yugoslavia(now Slovenia)
-434,Jonas Valančiūnas,C,23,TOR,60,1557,0.0,0.0,0.0,0.0,1.0,3.7,-1.7,15,19,80,25,86,3,106,22,48,2016,valanjo01,Lithuania
-435,Anderson Varejão,C,33,TOT,53,496,0.0,0.0,0.0,0.07,0.93,1.9,-7.4,8,6,31,4,23,11,86,6,5,2016,varejan01,Brazil
-436,Greivis Vásquez,PG,29,MIL,23,460,0.82,0.18,0.0,0.0,0.0,-9.9,-6.7,27,4,17,7,12,3,206,5,8,2016,vasqugr01,Venezuela
-437,Rashad Vaughn,SG,19,MIL,70,1001,0.0,0.45,0.49,0.06,0.0,-6.2,-2.9,15,7,40,2,7,3,84,1,25,2016,vaughra01,United States
-438,Charlie Villanueva,PF,31,DAL,62,665,0.0,0.01,0.08,0.86,0.06,-7.6,-9.0,11,8,40,7,9,0,52,2,12,2016,villach01,United States
-439,Noah Vonleh,PF,20,POR,78,1174,0.0,0.0,0.0,0.97,0.03,-2.0,-3.9,8,9,62,19,24,1,77,5,24,2016,vonleno01,United States
-440,Nikola Vučević,C,25,ORL,65,2037,0.0,0.0,0.0,0.0,1.0,-1.2,0.8,41,35,122,12,61,3,441,18,56,2016,vucevni01,Switzerland
-441,Sasha Vujačić,SG,31,NYK,61,908,0.0,0.7,0.3,0.01,0.0,-1.4,1.9,20,13,34,4,11,12,196,3,8,2016,vujacsa01,SFR Yugoslavia(now Slovenia)
-442,Dwyane Wade,SG,34,MIA,74,2258,0.16,0.81,0.03,0.0,0.0,0.0,-4.8,113,70,60,11,163,6,789,27,43,2016,wadedw01,United States
-443,Dion Waiters,SG,24,OKC,78,2152,0.01,0.88,0.12,0.0,0.0,4.2,-6.6,69,25,50,7,70,13,374,14,34,2016,waitedi01,United States
-444,Kemba Walker,PG,25,CHO,81,2885,1.0,0.0,0.0,0.0,0.0,3.9,3.9,100,57,54,3,158,29,1037,25,103,2016,walkeke02,United States
-445,John Wall,PG,25,WAS,77,2784,0.79,0.21,0.0,0.0,0.0,1.0,4.8,214,77,73,15,125,7,1856,38,72,2016,walljo01,United States
-446,T.J. Warren,SF,22,PHO,47,1070,0.0,0.0,0.75,0.24,0.01,-6.2,1.5,13,7,53,5,27,4,105,8,15,2016,warretj01,United States
-447,C.J. Watson,PG,31,ORL,33,656,0.66,0.33,0.01,0.0,0.0,-3.1,-1.7,15,3,28,3,14,1,204,4,3,2016,watsocj01,United States
-448,Briante Weber,PG,23,TOT,7,169,1.0,0.0,0.0,0.0,0.0,-22.5,-22.9,8,1,6,0,0,0,48,0,2,2016,weberbr01,United States
-449,Sonny Weems,SG-SF,29,TOT,43,499,0.07,0.51,0.36,0.07,0.0,-9.4,-0.5,29,3,18,1,5,3,114,1,10,2016,weemsso01,United States
-450,David West,PF,35,SAS,78,1404,0.0,0.0,0.01,0.5,0.49,11.8,0.5,38,8,74,13,40,3,326,16,27,2016,westda01,United States
-451,Russell Westbrook,PG,27,OKC,80,2750,0.94,0.07,0.0,0.0,0.0,11.0,12.6,220,77,49,28,235,17,1832,50,84,2016,westbru01,United States
-452,Hassan Whiteside,C,26,MIA,73,2125,0.0,0.0,0.0,0.0,1.0,2.3,0.5,28,37,96,30,145,3,64,43,41,2016,whiteha01,United States
-453,Shayne Whittington,PF,24,IND,7,41,0.0,0.0,0.0,0.73,0.27,-6.4,-8.4,0,1,4,1,1,1,7,0,0,2016,whittsh01,United States
-454,Andrew Wiggins,SF,20,MIN,81,2845,0.0,0.3,0.64,0.06,0.0,-1.5,6.7,60,81,71,21,252,7,371,51,88,2016,wiggian01,Canada
-455,C.J. Wilcox,SG,25,LAC,23,167,0.14,0.67,0.19,0.0,0.0,7.2,3.0,1,1,6,0,2,2,22,0,2,2016,wilcocj01,United States
-456,Alan Williams,PF,23,PHO,10,68,0.0,0.0,0.14,0.85,0.02,-0.8,6.6,1,1,7,4,7,0,12,1,3,2016,willial03,United States
-457,Deron Williams,PG,31,DAL,65,2106,0.27,0.63,0.1,0.0,0.0,-0.3,-0.2,98,38,74,5,56,14,905,9,39,2016,willide01,United States
-458,Derrick Williams,SF,24,NYK,80,1435,0.0,0.0,0.47,0.53,0.0,-7.6,-7.6,21,24,42,7,127,1,172,23,37,2016,willide02,United States
-459,Elliot Williams,PG,26,MEM,5,45,0.9,0.1,0.0,0.0,0.0,2.4,4.8,1,0,1,0,1,0,9,0,0,2016,williel01,United States
-460,Lou Williams,SG,29,LAL,67,1907,0.56,0.44,0.0,0.0,0.0,-10.6,-0.6,62,28,61,4,180,9,377,21,40,2016,willilo02,United States
-461,Marvin Williams,PF,29,CHO,81,2338,0.0,0.0,0.17,0.83,0.0,4.7,4.4,24,13,51,20,46,12,270,11,28,2016,willima02,United States
-462,Mo Williams,PG,33,CLE,41,748,1.0,0.0,0.0,0.0,0.0,-4.3,-13.3,33,12,24,4,11,6,223,1,14,2016,willima01,United States
-463,Justise Winslow,SF,19,MIA,78,2232,0.0,0.04,0.81,0.15,0.0,3.5,3.5,39,26,87,12,51,8,263,9,43,2016,winslju01,United States
-464,Jeff Withey,C,25,UTA,51,658,0.0,0.0,0.0,0.02,0.98,4.1,2.7,10,6,47,8,26,1,53,5,16,2016,witheje01,United States
-465,Christian Wood,PF,20,PHI,17,145,0.0,0.0,0.0,0.4,0.6,-16.9,-6.4,0,1,6,1,9,1,7,1,10,2016,woodch01,United States
-466,Metta World Peace,SF,36,LAL,35,590,0.0,0.0,0.92,0.08,0.0,-5.5,5.6,6,4,22,3,22,3,60,2,15,2016,artesro01,United States
-467,Brandan Wright,PF,28,MEM,12,212,0.0,0.0,0.0,0.51,0.49,-12.2,-10.4,3,2,12,3,15,1,14,4,1,2016,wrighbr03,United States
-468,Delon Wright,PG,23,TOR,27,229,0.94,0.06,0.0,0.0,0.0,4.6,-0.2,10,3,2,1,14,2,75,1,8,2016,wrighde01,United States
-469,Tony Wroten,PG,22,PHI,8,144,0.96,0.04,0.0,0.0,0.0,-22.2,-12.0,16,5,2,4,16,0,46,1,11,2016,wroteto01,United States
-470,James Young,SG,20,BOS,29,199,0.15,0.56,0.29,0.0,0.0,-6.4,-10.3,1,1,8,2,1,1,23,0,2,2016,youngja01,United States
-471,Joe Young,PG,23,IND,41,384,0.97,0.03,0.0,0.0,0.0,-4.5,-7.1,18,8,12,3,11,0,141,3,7,2016,youngjo01,United States
-472,Nick Young,SG,30,LAL,54,1033,0.0,0.26,0.74,0.0,0.0,-9.7,0.8,11,12,20,3,27,1,78,2,10,2016,youngni01,United States
-473,Thaddeus Young,PF,27,BRK,73,2407,0.0,0.0,0.0,0.99,0.01,-4.7,7.2,48,58,74,15,66,10,311,8,77,2016,youngth01,United States
-474,Cody Zeller,C,23,CHO,73,1774,0.0,0.0,0.0,0.21,0.79,4.6,3.1,13,21,93,21,103,9,171,18,60,2016,zelleco01,United States
-475,Tyler Zeller,C,26,BOS,60,710,0.0,0.0,0.0,0.0,1.0,-3.3,-8.0,10,17,47,8,45,7,64,10,20,2016,zellety01,United States
-476,Álex Abrines,SG,23,OKC,68,1055,0.0,0.79,0.21,0.0,0.0,-1.1,-2.2,17,7,62,4,15,10,94,4,8,2017,abrinal01,Spain
-477,Quincy Acy,PF,26,TOT,38,558,0.0,0.0,0.02,0.81,0.17,-3.7,1.2,5,7,25,6,24,5,42,7,8,2017,acyqu01,United States
-478,Steven Adams,C,23,OKC,80,2389,0.0,0.0,0.0,0.0,1.0,3.5,7.6,37,57,75,32,117,7,217,28,43,2017,adamsst01,New Zealand
-479,Arron Afflalo,SG,31,SAC,61,1580,0.04,0.66,0.3,0.0,0.0,-7.5,-5.9,18,10,49,8,30,3,185,7,28,2017,afflaar01,United States
-480,Alexis Ajinça,C,28,NOP,39,584,0.0,0.0,0.0,0.0,1.0,-5.0,-3.6,7,8,44,8,21,0,27,7,14,2017,ajincal01,France
-481,Cole Aldrich,C,28,MIN,62,531,0.0,0.0,0.0,0.26,0.74,-1.6,-0.6,0,6,35,7,10,2,59,3,7,2017,aldrico01,United States
-482,LaMarcus Aldridge,PF,31,SAS,72,2335,0.0,0.0,0.0,0.69,0.31,5.8,-5.0,33,34,94,15,110,4,345,17,32,2017,aldrila01,United States
-483,Lavoy Allen,PF,27,IND,61,871,0.0,0.0,0.0,0.84,0.16,-5.9,-7.3,18,7,50,2,10,0,135,3,13,2017,allenla01,United States
-484,Tony Allen,SG,35,MEM,71,1914,0.02,0.77,0.21,0.0,0.0,1.6,1.7,49,30,78,6,58,7,214,12,73,2017,allento01,United States
-485,Al-Farouq Aminu,PF,26,POR,61,1773,0.0,0.0,0.0,0.95,0.05,1.8,3.9,35,30,48,9,67,11,241,13,24,2017,aminual01,United States
-486,Chris Andersen,C,38,CLE,12,114,0.0,0.0,0.0,0.04,0.96,4.5,1.3,3,1,13,1,6,1,14,0,2,2017,anderch01,United States
-487,Alan Anderson,SF,34,LAC,30,308,0.0,0.06,0.86,0.08,0.0,-10.7,-16.1,3,2,14,0,7,1,23,2,0,2017,anderal01,United States
-488,Justin Anderson,SF,23,TOT,75,1228,0.0,0.06,0.84,0.11,0.0,-7.7,-3.7,24,22,58,10,57,6,156,9,17,2017,anderju01,United States
-489,Kyle Anderson,SF,23,SAS,72,1020,0.0,0.21,0.69,0.09,0.0,10.3,3.2,15,11,28,2,25,7,215,3,15,2017,anderky01,United States
-490,Ryan Anderson,PF,28,HOU,72,2116,0.0,0.0,0.0,0.95,0.05,9.0,6.1,14,23,68,10,59,12,185,11,24,2017,anderry01,United States
-491,Giannis Antetokounmpo,SF,22,MIL,80,2845,0.0,0.03,0.65,0.31,0.0,1.0,3.2,83,69,100,40,261,7,1057,60,74,2017,antetgi01,Greece
-492,Carmelo Anthony,SF,32,NYK,74,2538,0.0,0.0,0.69,0.31,0.0,-4.7,-2.3,69,42,87,26,155,5,496,30,37,2017,anthoca01,United States
-493,Joel Anthony,C,34,SAS,19,122,0.0,0.0,0.0,0.18,0.82,-6.2,-14.6,2,0,5,1,2,0,7,0,1,2017,anthojo01,Canada
-494,Trevor Ariza,SF,31,HOU,80,2773,0.0,0.02,0.78,0.21,0.0,6.3,0.4,40,16,60,5,48,10,427,9,22,2017,arizatr01,United States
-495,Darrell Arthur,PF,28,DEN,41,639,0.0,0.0,0.0,0.58,0.42,-0.8,-1.0,20,7,47,6,9,1,99,2,5,2017,arthuda01,United States
-496,Ömer Aşık,C,30,NOP,31,482,0.0,0.0,0.0,0.01,0.99,-5.2,-3.7,7,3,29,2,19,1,38,4,13,2017,asikom01,Turkey
-497,D.J. Augustin,PG,29,ORL,78,1538,1.0,0.0,0.0,0.0,0.0,-15.0,-13.1,59,20,31,10,64,14,482,10,35,2017,augusdj01,United States
-498,Luke Babbitt,SF,27,MIA,68,1065,0.0,0.01,0.22,0.78,0.0,1.0,-0.2,11,3,57,8,4,3,86,0,7,2017,babbilu01,United States
-499,Ron Baker,SG,23,NYK,52,857,0.03,0.56,0.41,0.0,0.0,-3.1,1.0,36,14,35,2,15,10,248,4,16,2017,bakerro01,United States
-500,Wade Baldwin,PG,20,MEM,33,405,0.83,0.18,0.0,0.0,0.0,-16.1,-18.7,23,8,19,4,14,4,152,1,10,2017,baldwwa01,United States
-501,Leandro Barbosa,SG,34,PHO,67,963,0.03,0.9,0.07,0.0,0.0,-3.0,3.8,29,14,19,2,18,8,184,6,23,2017,barbole01,Brazil
-502,J.J. Barea,PG,32,DAL,35,771,0.93,0.07,0.0,0.0,0.0,0.2,4.3,49,11,9,1,0,24,430,2,15,2017,bareajo01,United States
-503,Harrison Barnes,PF,24,DAL,79,2803,0.0,0.0,0.4,0.6,0.0,-3.0,0.7,37,44,63,13,109,6,325,27,50,2017,barneha02,United States
-504,Matt Barnes,SF,36,TOT,74,1777,0.0,0.02,0.72,0.26,0.0,-2.0,-7.8,74,18,105,8,30,6,447,4,21,2017,barnema02,United States
-505,Will Barton,SG,26,DEN,60,1705,0.0,0.78,0.22,0.0,0.0,-2.5,-4.6,47,30,49,10,79,4,507,19,45,2017,bartowi01,United States
-506,Brandon Bass,PF,31,LAC,52,577,0.0,0.0,0.01,0.83,0.16,-13.3,-20.3,8,12,21,5,48,0,53,13,16,2017,bassbr01,United States
-507,Nicolas Batum,SG,28,CHO,77,2617,0.0,0.57,0.42,0.01,0.0,1.6,3.5,126,41,42,10,109,4,1047,27,41,2017,batumni01,France
-508,Jerryd Bayless,PG,28,PHI,3,71,0.94,0.06,0.0,0.0,0.0,-14.2,-8.4,5,4,2,0,4,0,29,0,4,2017,bayleje01,United States
-509,Aron Baynes,C,30,DET,75,1163,0.0,0.0,0.0,0.02,0.98,5.9,10.5,12,11,89,19,40,9,74,6,22,2017,baynear01,New Zealand
-510,Kent Bazemore,SF,27,ATL,73,1963,0.01,0.4,0.58,0.02,0.0,-2.8,-3.1,81,35,83,5,60,17,395,11,30,2017,bazemke01,United States
-511,Bradley Beal,SG,23,WAS,77,2684,0.03,0.93,0.04,0.0,0.0,5.7,12.3,83,44,91,14,120,9,617,35,61,2017,bealbr01,United States
-512,Malik Beasley,SG,20,DEN,22,165,0.04,0.8,0.15,0.0,0.0,16.8,17.5,2,3,3,0,3,3,25,0,6,2017,beaslma01,United States
-513,Michael Beasley,PF,28,MIL,56,935,0.0,0.0,0.24,0.74,0.02,-2.0,-2.7,23,25,59,7,53,2,122,15,19,2017,beaslmi01,United States
-514,Marco Belinelli,SG,30,CHO,74,1778,0.0,0.66,0.34,0.0,0.0,0.0,-0.7,42,20,37,5,53,15,349,9,11,2017,belinma01,Italy
-515,DeAndre' Bembry,SF,22,ATL,38,371,0.04,0.61,0.31,0.04,0.0,-4.4,-3.6,9,5,10,1,1,3,73,4,17,2017,bembrde01,United States
-516,Dragan Bender,PF,19,PHO,43,574,0.0,0.0,0.0,0.69,0.31,-2.5,4.0,12,9,41,4,5,2,49,2,2,2017,bendedr01,Bosnia and Herzegovina
-517,Anthony Bennett,PF,23,BRK,23,264,0.0,0.0,0.0,0.75,0.25,-11.1,-5.1,6,3,10,2,13,2,29,2,7,2017,bennean01,Canada
-518,Ben Bentil,PF,21,DAL,3,10,0.0,0.0,0.0,1.0,0.0,-57.1,-54.1,0,0,1,0,0,0,0,0,0,2017,bentibe01,Ghana
-519,Dāvis Bertāns,PF,24,SAS,67,808,0.0,0.0,0.07,0.91,0.02,6.6,-1.7,17,8,47,3,15,7,110,5,6,2017,bertada01,Latvia
-520,Patrick Beverley,SG,28,HOU,67,2058,0.24,0.73,0.03,0.0,0.0,7.8,3.5,61,20,84,4,37,40,684,8,29,2017,beverpa01,United States
-521,Bismack Biyombo,C,24,ORL,81,1793,0.0,0.0,0.0,0.15,0.85,-8.6,-2.9,24,19,105,31,103,3,174,18,44,2017,biyombi01,Zaire(now Democratic Republic of the Congo)
-522,Nemanja Bjelica,PF,28,MIN,65,1190,0.0,0.0,0.04,0.95,0.01,0.5,2.3,26,21,70,7,24,0,182,8,14,2017,bjeline01,SFR Yugoslavia(now Serbia)
-523,Tarik Black,C,25,LAL,67,1091,0.0,0.0,0.0,0.1,0.9,-1.7,7.7,18,17,106,15,56,2,94,17,32,2017,blackta01,United States
-524,Eric Bledsoe,PG,27,PHO,66,2176,0.96,0.04,0.0,0.0,0.0,-4.4,3.3,128,58,63,24,159,9,979,34,45,2017,bledser01,United States
-525,Bojan Bogdanović,SF,27,TOT,81,2083,0.0,0.0,0.65,0.35,0.0,-7.4,-6.8,55,50,57,12,93,6,267,26,71,2017,bogdabo02,SFR Yugoslavia(now Bosnia and Herzegovina)
-526,Andrew Bogut,C,32,TOT,27,583,0.0,0.0,0.0,0.0,1.0,-2.9,-3.2,23,4,33,15,3,3,116,1,2,2017,bogutan01,Australia
-527,Joel Bolomboy,PF,23,UTA,12,53,0.0,0.0,0.06,0.59,0.36,14.6,10.2,1,0,1,0,2,0,5,0,1,2017,bolomjo01,Ukraine
-528,Devin Booker,SG,20,PHO,78,2730,0.01,0.79,0.2,0.0,0.0,-4.8,3.6,125,70,97,31,178,18,630,52,92,2017,bookede01,United States
-529,Trevor Booker,PF,29,BRK,71,1754,0.0,0.0,0.0,0.87,0.14,-7.8,-2.6,47,47,53,16,55,1,356,18,36,2017,booketr01,United States
-530,Avery Bradley,SG,26,BOS,55,1835,0.16,0.82,0.02,0.0,0.0,1.3,-3.3,55,28,65,3,33,5,286,8,60,2017,bradlav01,United States
-531,Corey Brewer,SF,30,TOT,82,1281,0.0,0.24,0.73,0.04,0.0,4.0,5.3,20,17,47,10,36,10,230,10,28,2017,breweco01,United States
-532,Malcolm Brogdon,SG,24,MIL,75,1982,0.54,0.44,0.03,0.0,0.0,2.6,5.1,65,29,68,8,48,8,742,13,41,2017,brogdma01,United States
-533,Aaron Brooks,PG,32,IND,65,894,1.0,0.0,0.0,0.0,0.0,-2.6,-3.0,41,18,51,2,14,6,283,3,15,2017,brookaa01,United States
-534,Anthony Brown,SF,24,TOT,11,159,0.0,0.25,0.74,0.02,0.0,2.0,6.5,2,2,6,1,0,1,19,0,1,2017,brownan02,United States
-535,Bobby Brown,PG,32,HOU,25,123,1.0,0.0,0.0,0.0,0.0,-10.2,-16.8,1,1,2,0,1,0,34,0,1,2017,brownbo02,United States
-536,Jaylen Brown,SF,20,BOS,78,1341,0.0,0.0,0.74,0.26,0.0,-1.9,-7.5,21,21,55,15,62,5,156,23,35,2017,brownja02,United States
-537,Nicolás Brussino,SG,23,DAL,54,521,0.08,0.52,0.4,0.0,0.0,-12.0,-10.2,16,5,19,0,6,2,106,2,5,2017,brussni01,Argentina
-538,Reggie Bullock,SF,25,DET,31,467,0.0,0.93,0.08,0.0,0.0,5.7,8.1,5,1,12,1,4,1,66,2,5,2017,bullore01,United States
-539,Trey Burke,PG,24,WAS,57,703,0.98,0.02,0.0,0.0,0.0,-9.8,-13.9,28,13,21,4,15,4,233,5,8,2017,burketr01,United States
-540,Alec Burks,SG,25,UTA,42,653,0.1,0.81,0.09,0.0,0.0,0.3,-5.1,15,9,26,5,35,2,65,11,21,2017,burksal01,United States
-541,Jimmy Butler,SF,27,CHI,76,2809,0.0,0.01,0.93,0.06,0.0,3.2,10.9,82,48,50,18,289,9,961,53,59,2017,butleji01,United States
-542,Bruno Caboclo,SF,21,TOR,9,40,0.0,0.0,0.94,0.06,0.0,5.0,0.4,0,0,1,2,0,0,10,0,1,2017,cabocbr01,Brazil
-543,José Calderón,PG,35,TOT,41,539,0.85,0.15,0.0,0.0,0.0,-9.2,-5.4,33,4,15,0,3,1,200,1,3,2017,caldejo01,Spain
-544,Kentavious Caldwell-Pope,SG,23,DET,76,2529,0.0,1.0,0.0,0.0,0.0,-3.7,-6.1,46,30,56,4,67,8,444,13,29,2017,caldwke01,United States
-545,Isaiah Canaan,SG,25,CHI,39,592,0.48,0.48,0.04,0.0,0.0,-6.6,-7.9,11,6,12,1,13,4,84,3,8,2017,canaais01,United States
-546,Clint Capela,C,22,HOU,65,1551,0.0,0.0,0.0,0.0,1.0,8.1,3.1,29,21,86,17,86,6,173,21,56,2017,capelca01,Switzerland
-547,DeMarre Carroll,SF,30,TOR,72,1882,0.0,0.0,0.73,0.27,0.0,3.2,-2.5,25,17,62,8,52,9,175,5,28,2017,carrode01,United States
-548,Vince Carter,SF,40,MEM,73,1799,0.0,0.32,0.65,0.02,0.0,4.2,6.4,30,8,102,8,37,3,305,4,16,2017,cartevi01,United States
-549,Michael Carter-Williams,PG,25,CHI,45,846,0.71,0.29,0.01,0.0,0.0,-0.1,-0.3,38,13,53,6,39,16,268,13,22,2017,cartemi01,United States
-550,Omri Casspi,PF,28,TOT,36,643,0.0,0.0,0.27,0.73,0.0,-7.3,-5.3,7,16,22,3,14,0,87,3,12,2017,casspom01,Israel
-551,Willie Cauley-Stein,C,23,SAC,75,1421,0.0,0.0,0.0,0.29,0.71,-5.9,-3.0,26,23,87,14,68,4,182,16,33,2017,caulewi01,United States
-552,Tyson Chandler,C,34,PHO,47,1298,0.0,0.0,0.0,0.05,0.95,-3.7,3.3,28,5,58,25,52,4,71,9,11,2017,chandty01,United States
-553,Wilson Chandler,SF,29,DEN,71,2197,0.0,0.01,0.79,0.2,0.0,-1.1,-2.6,40,32,95,17,83,2,359,34,36,2017,chandwi01,United States
-554,Marquese Chriss,PF,19,PHO,82,1743,0.0,0.0,0.04,0.83,0.13,-10.7,-8.5,37,31,124,26,74,23,124,16,55,2017,chrisma01,United States
-555,Rakeem Christmas,PF,25,IND,29,219,0.0,0.0,0.0,0.62,0.38,-9.2,-9.6,0,3,15,5,12,3,8,1,6,2017,chrisra01,United States
-556,Semaj Christon,PG,24,OKC,64,973,0.94,0.06,0.0,0.0,0.0,-6.5,-9.2,24,8,33,5,12,2,305,3,12,2017,chrisse01,United States
-557,Ian Clark,SG,25,GSW,77,1137,0.3,0.63,0.07,0.0,0.0,2.7,-12.6,33,11,43,3,19,4,205,7,24,2017,clarkia01,United States
-558,Jordan Clarkson,SG,24,LAL,82,2397,0.08,0.78,0.14,0.0,0.0,-8.8,-4.2,83,45,47,10,77,8,477,22,58,2017,clarkjo01,United States
-559,Norris Cole,PG,28,OKC,13,125,1.0,0.0,0.0,0.0,0.0,-5.5,-6.2,4,1,6,1,3,0,29,0,3,2017,coleno01,United States
-560,Darren Collison,PG,29,SAC,68,2063,1.0,0.0,0.0,0.0,0.0,-3.6,0.8,73,26,55,4,56,8,754,13,36,2017,collida01,United States
-561,Nick Collison,PF,36,OKC,20,128,0.0,0.0,0.0,0.73,0.27,-16.8,-17.9,2,1,7,0,4,0,26,2,0,2017,collini01,United States
-562,Mike Conley,PG,29,MEM,69,2292,1.0,0.0,0.0,0.0,0.0,3.8,7.4,93,45,44,9,131,27,1005,30,37,2017,conlemi01,United States
-563,Pat Connaughton,SG,24,POR,39,316,0.11,0.85,0.04,0.0,0.0,-5.2,-5.3,11,1,16,2,5,0,70,2,5,2017,connapa01,United States
-564,Quinn Cook,PG,23,TOT,14,188,0.93,0.07,0.0,0.0,0.0,-9.9,-7.5,9,4,5,0,2,2,60,1,1,2017,cookqu01,United States
-565,DeMarcus Cousins,C,26,TOT,72,2465,0.0,0.0,0.0,0.31,0.69,-1.3,2.3,98,91,96,56,268,9,800,72,105,2017,couside01,United States
-566,Robert Covington,SF,26,PHI,67,2119,0.0,0.02,0.85,0.14,0.0,-3.5,5.5,51,29,84,25,71,7,250,9,30,2017,covinro01,United States
-567,Allen Crabbe,SG,24,POR,79,2254,0.0,0.68,0.32,0.0,0.0,-3.1,-6.4,23,20,89,8,53,3,226,14,17,2017,crabbal01,United States
-568,Jamal Crawford,SG,36,LAC,82,2157,0.01,0.26,0.7,0.03,0.0,-2.0,-13.4,76,43,48,6,73,9,491,18,18,2017,crawfja01,United States
-569,Jordan Crawford,SG,28,NOP,19,442,0.0,0.47,0.53,0.0,0.0,0.1,2.3,15,5,18,3,11,1,131,4,1,2017,crawfjo02,United States
-570,Jae Crowder,SF,26,BOS,72,2335,0.0,0.12,0.75,0.13,0.0,7.5,10.9,53,16,73,9,84,6,373,17,12,2017,crowdja01,United States
-571,Dante Cunningham,PF,29,NOP,66,1649,0.0,0.0,0.21,0.78,0.0,-0.4,2.6,16,4,54,6,12,4,86,3,18,2017,cunnida01,United States
-572,Seth Curry,PG,26,DAL,70,2029,0.58,0.42,0.0,0.0,0.0,-1.2,4.1,51,19,42,6,36,6,442,14,28,2017,curryse01,United States
-573,Stephen Curry,PG,28,GSW,79,2638,1.0,0.0,0.0,0.0,0.0,17.1,17.2,163,43,86,11,135,11,1208,37,56,2017,curryst01,United States
-574,Troy Daniels,SG,25,MEM,67,1183,0.04,0.87,0.1,0.0,0.0,1.1,0.5,21,17,48,1,18,8,101,6,12,2017,danietr01,United States
-575,Anthony Davis,C,23,NOP,75,2708,0.0,0.0,0.0,0.36,0.64,1.2,9.7,54,73,75,34,271,11,380,72,55,2017,davisan02,United States
-576,Deyonta Davis,C,20,MEM,36,238,0.0,0.0,0.0,0.01,0.99,-8.2,-9.5,1,2,23,4,10,1,4,4,1,2017,davisde01,United States
-577,Ed Davis,PF,27,POR,46,789,0.0,0.0,0.0,0.57,0.43,-6.4,-7.6,9,12,82,12,29,3,62,3,21,2017,davised01,United States
-578,Dewayne Dedmon,C,27,SAS,76,1330,0.0,0.0,0.0,0.04,0.96,9.0,1.6,25,9,96,17,47,4,101,16,26,2017,dedmode01,United States
-579,Sam Dekker,PF,22,HOU,77,1419,0.0,0.0,0.13,0.87,0.0,3.9,-3.5,19,11,42,6,31,5,191,8,18,2017,dekkesa01,United States
-580,Malcolm Delaney,PG,27,ATL,73,1248,0.89,0.12,0.0,0.0,0.0,0.9,3.1,59,16,36,10,27,24,462,4,19,2017,delanma01,United States
-581,Matthew Dellavedova,PG,26,MIL,76,1986,1.0,0.0,0.0,0.0,0.0,-1.9,-4.0,107,13,48,7,21,9,811,5,28,2017,dellama01,Australia
-582,Luol Deng,SF,31,LAL,56,1486,0.0,0.0,0.64,0.36,0.0,-6.6,1.0,26,8,27,5,31,2,179,8,24,2017,denglu01,Sudan(now South Sudan)
-583,DeMar DeRozan,SG,27,TOR,74,2620,0.0,0.71,0.28,0.01,0.0,2.8,-5.2,84,72,53,14,277,6,712,46,93,2017,derozde01,United States
-584,Cheick Diallo,PF,20,NOP,17,199,0.0,0.0,0.0,0.87,0.13,-11.4,-10.0,1,5,9,1,10,1,10,1,3,2017,diallch01,Mali
-585,Boris Diaw,PF,34,UTA,73,1283,0.0,0.0,0.0,0.98,0.02,1.4,-4.7,53,16,36,8,17,11,402,4,8,2017,diawbo01,France
-586,Gorgui Dieng,PF,27,MIN,82,2653,0.0,0.0,0.0,0.82,0.18,0.4,4.3,38,23,123,17,69,6,373,16,47,2017,dienggo01,Senegal
-587,Spencer Dinwiddie,PG,23,BRK,59,1334,0.63,0.36,0.01,0.0,0.0,-4.4,2.9,40,7,60,9,63,7,457,14,22,2017,dinwisp01,United States
-588,Toney Douglas,PG,30,MEM,24,394,0.71,0.29,0.0,0.0,0.0,1.7,1.1,13,4,16,1,10,3,134,3,9,2017,douglto01,United States
-589,Goran Dragić,PG,30,MIA,73,2459,1.0,0.0,0.0,0.0,0.0,1.2,0.2,109,64,82,16,130,12,1031,26,69,2017,dragigo01,SFR Yugoslavia(now Slovenia)
-590,Andre Drummond,C,23,DET,81,2409,0.0,0.0,0.0,0.0,1.0,-6.1,-11.6,48,47,104,31,158,6,209,39,58,2017,drumman01,United States
-591,Jared Dudley,PF,31,PHO,64,1362,0.0,0.0,0.09,0.87,0.05,-2.5,5.2,46,15,58,6,19,9,269,1,8,2017,dudleja01,United States
-592,Mike Dunleavy,SF,36,TOT,53,841,0.0,0.0,0.56,0.42,0.02,-5.6,-7.5,17,7,35,1,16,5,126,0,7,2017,dunlemi02,United States
-593,Kris Dunn,PG,22,MIN,78,1333,0.65,0.34,0.01,0.0,0.0,-3.0,-2.9,45,26,107,4,20,11,440,5,18,2017,dunnkr01,United States
-594,Kevin Durant,PF,28,GSW,62,2070,0.0,0.0,0.44,0.55,0.0,15.8,8.6,78,39,73,10,166,6,733,45,28,2017,duranke01,United States
-595,Jarell Eddie,SF,25,PHO,5,62,0.0,0.59,0.41,0.0,0.0,-3.6,2.3,1,0,1,0,3,0,0,0,0,2017,eddieja01,United States
-596,Henry Ellenson,PF,20,DET,19,146,0.0,0.0,0.0,0.94,0.06,-0.3,1.2,10,1,2,2,5,1,17,3,2,2017,ellenhe01,United States
-597,Wayne Ellington,SG,29,MIA,62,1500,0.12,0.68,0.21,0.0,0.0,3.0,3.0,17,6,33,4,8,8,174,1,9,2017,ellinwa01,United States
-598,Monta Ellis,SG,31,IND,74,1998,0.01,0.96,0.03,0.0,0.0,-1.1,-1.8,76,38,65,8,50,10,553,15,31,2017,ellismo01,United States
-599,Joel Embiid,C,22,PHI,31,786,0.0,0.0,0.0,0.0,1.0,3.0,11.1,27,44,43,30,98,9,164,14,36,2017,embiijo01,Cameroon
-600,James Ennis,SF,26,MEM,64,1501,0.0,0.11,0.72,0.17,0.0,1.6,1.3,25,20,75,10,48,11,151,8,30,2017,ennisja01,United States
-601,Tyler Ennis,PG,22,TOT,53,588,0.93,0.07,0.0,0.0,0.0,0.6,1.2,28,6,28,6,9,5,198,4,16,2017,ennisty01,Canada
-602,Tyreke Evans,SF,27,TOT,40,788,0.0,0.15,0.81,0.04,0.0,-9.4,-7.1,35,11,19,10,44,0,303,13,29,2017,evansty01,United States
-603,Dante Exum,PG,21,UTA,66,1228,0.67,0.32,0.01,0.0,0.0,0.6,-5.7,45,22,73,9,36,20,253,9,29,2017,exumda01,Australia
-604,Kenneth Faried,PF,27,DEN,61,1296,0.0,0.0,0.06,0.68,0.26,-1.8,-2.8,22,16,60,13,73,3,128,19,42,2017,farieke01,United States
-605,Jordan Farmar,PG,30,SAC,2,35,0.98,0.02,0.0,0.0,0.0,-8.5,-4.6,2,1,1,0,0,0,21,0,1,2017,farmajo01,United States
-606,Derrick Favors,PF,25,UTA,50,1186,0.0,0.0,0.0,0.46,0.54,3.1,-2.0,27,17,56,7,50,0,129,10,32,2017,favorde01,United States
-607,Kay Felder,PG,21,CLE,42,386,1.0,0.0,0.0,0.0,0.0,-5.7,-9.9,13,8,23,4,21,1,150,1,11,2017,feldeka01,United States
-608,Cristiano Felício,C,24,CHI,66,1040,0.0,0.0,0.0,0.0,1.0,-1.4,-2.0,9,14,59,5,47,1,102,10,18,2017,feliccr01,Brazil
-609,Raymond Felton,PG,32,LAC,80,1700,0.91,0.09,0.0,0.0,0.0,-4.4,-14.9,49,27,68,1,23,8,457,4,23,2017,feltora01,United States
-610,Yogi Ferrell,PG,23,TOT,46,1197,1.0,0.0,0.0,0.0,0.0,-4.5,0.4,40,16,41,4,33,13,421,7,22,2017,ferreyo01,United States
-611,Dorian Finney-Smith,PF,23,DAL,81,1642,0.0,0.02,0.27,0.7,0.01,-2.2,1.8,19,13,58,4,25,8,174,3,24,2017,finnedo01,United States
-612,Bryn Forbes,SG,23,SAS,36,285,0.52,0.41,0.08,0.0,0.0,-8.8,-18.1,5,3,12,1,2,1,55,0,3,2017,forbebr01,United States
-613,Evan Fournier,SG,24,ORL,68,2234,0.0,0.87,0.13,0.0,0.0,-4.9,4.6,64,54,63,10,105,10,458,29,63,2017,fournev01,France
-614,Randy Foye,SG,33,BRK,69,1284,0.12,0.78,0.1,0.0,0.0,-7.3,-1.4,52,16,45,3,21,3,332,1,18,2017,foyera01,United States
-615,Tim Frazier,PG,26,NOP,65,1525,1.0,0.0,0.0,0.0,0.0,-2.8,-1.5,65,28,58,2,51,8,768,9,27,2017,fraziti01,United States
-616,Channing Frye,C,33,CLE,74,1398,0.0,0.0,0.0,0.0,1.0,1.3,-3.1,20,10,86,19,30,3,112,7,10,2017,fryech01,United States
-617,Danilo Gallinari,SF,28,DEN,63,2134,0.0,0.0,0.37,0.62,0.01,2.7,5.7,36,30,33,7,146,1,311,21,30,2017,gallida01,Italy
-618,Langston Galloway,PG,25,TOT,74,1495,0.75,0.25,0.0,0.0,0.0,-1.4,1.8,31,10,40,5,22,8,225,4,20,2017,gallola01,United States
-619,Patricio Garino,SG,23,ORL,5,43,0.0,0.14,0.86,0.0,0.0,-22.0,-15.3,3,0,2,0,0,0,0,0,0,2017,garinpa01,Argentina
-620,Marc Gasol,C,32,MEM,74,2531,0.0,0.0,0.0,0.0,1.0,1.8,2.9,67,57,84,25,132,4,805,32,23,2017,gasolma01,Spain
-621,Pau Gasol,C,36,SAS,64,1627,0.0,0.0,0.0,0.0,1.0,6.6,-2.2,47,24,66,4,74,6,340,16,37,2017,gasolpa01,Spain
-622,Rudy Gay,SF,30,SAC,30,1013,0.0,0.02,0.6,0.38,0.0,3.1,9.5,36,25,40,8,61,4,188,17,23,2017,gayru01,United States
-623,Michael Gbinije,SG,24,DET,9,32,0.0,0.5,0.5,0.0,0.0,-1.4,0.1,0,0,1,0,1,0,5,0,0,2017,gbinimi01,United States
-624,Alonzo Gee,SF,29,DEN,13,89,0.0,0.09,0.9,0.02,0.0,1.4,1.4,1,0,3,1,4,0,16,1,2,2017,geeal01,United States
-625,Paul George,SF,26,IND,75,2689,0.0,0.0,0.86,0.14,0.0,2.8,9.2,113,63,77,25,133,11,586,34,54,2017,georgpa01,United States
-626,Marcus Georges-Hunt,SG,22,ORL,5,48,0.03,0.72,0.25,0.0,0.0,-28.4,-21.8,2,0,2,0,2,0,8,0,0,2017,georgma01,United States
-627,Jonathan Gibson,PG,29,DAL,17,231,1.0,0.0,0.0,0.0,0.0,-18.9,-16.7,12,3,7,3,10,1,69,1,5,2017,gibsojo01,United States
-628,Taj Gibson,PF,31,TOT,78,1989,0.0,0.0,0.02,0.96,0.02,1.1,1.1,29,36,84,24,77,8,164,20,58,2017,gibsota01,United States
-629,Manu Ginóbili,SG,39,SAS,69,1291,0.01,0.65,0.34,0.0,0.0,10.1,3.2,70,20,33,3,34,19,429,11,19,2017,ginobma01,Argentina
-630,Rudy Gobert,C,24,UTA,81,2744,0.0,0.0,0.0,0.0,1.0,8.2,11.6,38,42,125,33,208,16,235,50,55,2017,goberru01,France
-631,Archie Goodwin,SG,22,TOT,15,214,0.0,0.63,0.37,0.0,0.0,-6.8,-2.7,8,4,2,1,20,2,56,4,8,2017,goodwar01,United States
-632,Aaron Gordon,SF,21,ORL,80,2298,0.0,0.02,0.63,0.35,0.0,-2.8,9.8,41,25,98,17,110,7,352,29,44,2017,gordoaa01,United States
-633,Eric Gordon,SG,28,HOU,75,2323,0.0,0.68,0.31,0.01,0.0,6.6,1.0,54,38,74,6,77,4,448,22,48,2017,gordoer01,United States
-634,Marcin Gortat,C,32,WAS,82,2556,0.0,0.0,0.0,0.1,0.9,2.9,3.3,44,29,90,34,75,13,301,15,51,2017,gortama01,Poland
-635,Treveon Graham,SG,23,CHO,27,189,0.0,0.15,0.73,0.12,0.0,-12.7,-13.8,1,2,10,0,7,0,15,1,7,2017,grahatr01,United States
-636,Jerami Grant,PF,22,TOT,80,1531,0.0,0.0,0.43,0.55,0.02,-4.6,-2.3,13,13,91,11,63,7,111,6,26,2017,grantje01,United States
-637,Jerian Grant,PG,24,CHI,63,1028,0.89,0.11,0.0,0.0,0.0,2.1,2.7,28,7,46,5,31,9,272,9,9,2017,grantje02,United States
-638,Danny Green,SG,29,SAS,68,1807,0.0,0.78,0.22,0.01,0.0,8.3,0.6,55,9,61,4,13,10,270,1,13,2017,greenda02,United States
-639,Draymond Green,PF,26,GSW,76,2471,0.0,0.0,0.0,0.79,0.21,15.9,11.3,138,17,106,17,80,11,1241,10,40,2017,greendr01,United States
-640,Gerald Green,SF,31,BOS,47,538,0.0,0.31,0.66,0.03,0.0,0.8,-2.6,11,7,21,3,15,2,76,2,11,2017,greenge01,United States
-641,JaMychal Green,PF,26,MEM,77,2101,0.0,0.0,0.03,0.96,0.01,0.8,0.1,43,17,113,19,69,4,201,17,43,2017,greenja01,United States
-642,Jeff Green,PF,30,ORL,69,1534,0.0,0.0,0.42,0.56,0.02,-9.4,-4.1,35,26,52,6,75,8,190,20,21,2017,greenje02,United States
-643,Blake Griffin,PF,27,LAC,61,2076,0.0,0.0,0.0,0.97,0.03,10.1,12.7,75,42,69,11,178,12,723,39,38,2017,griffbl01,United States
-644,Justin Hamilton,C,26,BRK,64,1177,0.0,0.0,0.0,0.19,0.82,-11.9,-7.9,17,16,53,7,20,1,134,6,18,2017,hamilju01,United States
-645,A.J. Hammons,C,24,DAL,22,163,0.0,0.0,0.0,0.02,0.98,-1.9,1.3,0,3,9,5,3,0,10,0,5,2017,hammoaj01,United States
-646,Tim Hardaway Jr.,SG,24,ATL,79,2154,0.05,0.92,0.04,0.0,0.0,2.9,9.0,62,26,48,13,86,6,420,24,49,2017,hardati02,United States
-647,James Harden,PG,27,HOU,81,2947,0.98,0.01,0.0,0.0,0.0,7.0,3.3,294,114,80,34,305,10,2179,29,85,2017,hardeja01,United States
-648,Maurice Harkless,SF,23,POR,77,2223,0.0,0.0,0.68,0.32,0.0,2.7,6.6,25,34,117,8,57,3,217,13,51,2017,harklma01,United States
-649,Justin Harper,PF,27,PHI,3,31,0.0,0.0,0.0,0.28,0.72,-16.9,-11.0,1,2,2,0,0,0,5,0,1,2017,harpeju01,United States
-650,Montrezl Harrell,C,23,HOU,58,1064,0.0,0.0,0.0,0.03,0.97,4.7,-2.0,22,12,75,6,69,7,168,34,38,2017,harremo01,United States
-651,Devin Harris,PG,33,DAL,65,1087,0.14,0.84,0.02,0.0,0.0,1.9,7.1,33,14,39,6,46,13,313,8,19,2017,harride01,United States
-652,Gary Harris,SG,22,DEN,57,1782,0.01,0.66,0.33,0.01,0.0,1.3,2.3,47,14,43,7,53,2,402,17,35,2017,harriga01,United States
-653,Joe Harris,SG,25,BRK,52,1138,0.0,0.52,0.48,0.0,0.0,-10.7,-6.1,27,14,55,9,15,5,127,2,24,2017,harrijo01,United States
-654,Manny Harris,SG,27,DAL,4,25,0.49,0.51,0.0,0.0,0.0,-45.6,-42.6,2,0,1,0,2,0,5,0,3,2017,harrima01,United States
-655,Tobias Harris,PF,24,DET,82,2567,0.0,0.0,0.28,0.72,0.0,-0.7,2.1,33,43,76,13,102,4,332,26,47,2017,harrito02,United States
-656,Aaron Harrison,SG,22,CHO,5,17,0.0,0.42,0.58,0.0,0.0,-16.1,-16.6,0,0,1,0,1,0,8,0,0,2017,harriaa01,United States
-657,Andrew Harrison,PG,22,MEM,72,1474,0.67,0.33,0.0,0.0,0.0,-0.2,-1.5,36,18,81,22,86,11,479,8,31,2017,harrian01,United States
-658,Udonis Haslem,C,36,MIA,16,130,0.0,0.0,0.0,0.03,0.97,-28.2,-30.4,1,2,10,4,6,3,13,1,1,2017,hasleud01,United States
-659,Spencer Hawes,PF,28,TOT,54,797,0.0,0.0,0.0,0.6,0.4,-11.4,-13.0,26,7,50,11,21,1,180,7,16,2017,hawessp01,United States
-660,Gordon Hayward,SF,26,UTA,73,2516,0.0,0.0,0.71,0.3,0.0,7.0,6.9,66,43,50,20,167,8,611,45,43,2017,haywago01,United States
-661,Gerald Henderson,SG,29,PHI,72,1667,0.07,0.93,0.01,0.0,0.0,-9.5,-6.0,29,21,41,11,55,10,282,14,25,2017,hendege02,United States
-662,John Henson,C,26,MIL,58,1123,0.0,0.0,0.0,0.06,0.94,-2.0,-2.9,13,17,83,9,38,11,133,7,18,2017,hensojo01,United States
-663,Juan Hernangómez,PF,21,DEN,62,842,0.0,0.0,0.18,0.72,0.1,-2.2,-2.9,9,11,28,3,3,4,75,6,12,2017,hernaju01,Spain
-664,Willy Hernangómez,C,22,NYK,72,1324,0.0,0.0,0.0,0.02,0.98,-2.3,2.5,41,26,64,19,54,4,232,14,35,2017,hernawi01,Spain
-665,Mario Hezonja,SF,21,ORL,65,960,0.0,0.1,0.73,0.18,0.0,-15.5,-11.2,31,19,39,2,23,4,143,6,15,2017,hezonma01,Croatia
-666,Roy Hibbert,C,30,TOT,48,682,0.0,0.0,0.0,0.0,1.0,-0.8,-1.1,7,10,55,12,32,1,54,3,12,2017,hibbero01,United States
-667,Buddy Hield,SG,24,TOT,82,1888,0.01,0.71,0.27,0.0,0.0,-6.0,-4.1,46,39,48,5,26,1,286,3,43,2017,hieldbu01,Bahamas
-668,Nenê,C,34,HOU,67,1198,0.0,0.0,0.0,0.0,1.0,7.7,2.2,30,20,59,16,86,6,166,24,38,2017,hilarne01,United States
-669,George Hill,PG,30,UTA,49,1544,1.0,0.0,0.0,0.0,0.0,9.4,8.0,57,18,57,7,76,15,488,19,18,2017,hillge01,United States
-670,Jordan Hill,C,29,MIN,7,47,0.0,0.0,0.0,0.23,0.77,11.6,12.8,1,3,8,0,1,0,0,0,1,2017,hilljo01,United States
-671,Solomon Hill,SF,25,NOP,80,2374,0.0,0.01,0.86,0.13,0.0,0.8,6.8,49,17,87,8,51,6,325,8,25,2017,hillso01,United States
-672,Darrun Hilliard,SG,23,DET,39,381,0.12,0.85,0.03,0.0,0.0,1.6,3.4,17,7,20,0,13,4,80,4,6,2017,hillida01,United States
-673,Jrue Holiday,PG,26,NOP,67,2190,0.63,0.34,0.03,0.0,0.0,0.6,5.6,110,56,59,6,65,6,1151,11,39,2017,holidjr01,United States
-674,Justin Holiday,SG,27,NYK,82,1639,0.13,0.61,0.26,0.0,0.0,-1.1,4.8,46,13,53,3,32,7,232,6,21,2017,holidju01,United States
-675,Rondae Hollis-Jefferson,SF,22,BRK,78,1761,0.0,0.12,0.35,0.52,0.01,-5.3,1.9,59,41,94,11,119,9,375,23,45,2017,holliro01,United States
-676,Richaun Holmes,C,23,PHI,57,1193,0.0,0.0,0.0,0.02,0.98,-8.2,-3.2,16,18,72,13,45,2,143,15,23,2017,holmeri01,United States
-677,Rodney Hood,SG,24,UTA,59,1593,0.02,0.92,0.06,0.0,0.0,3.8,-1.2,26,17,51,11,45,3,225,7,18,2017,hoodro01,United States
-678,Al Horford,C,30,BOS,68,2193,0.0,0.0,0.0,0.25,0.75,4.6,3.3,56,30,77,11,63,3,797,23,26,2017,horfoal01,Dominican Republic
-679,Danuel House,SG,23,WAS,1,1,0.0,0.0,0.0,1.0,0.0,0.0,-1.7,0,0,0,0,0,0,0,0,0,2017,houseda01,United States
-680,Dwight Howard,C,31,ATL,74,2199,0.0,0.0,0.0,0.0,1.0,-2.3,-2.4,49,33,79,43,193,1,233,38,40,2017,howardw01,United States
-681,Marcelo Huertas,PG,33,LAL,23,237,1.0,0.0,0.0,0.0,0.0,-11.3,-4.3,16,2,9,0,5,4,115,1,5,2017,huertma01,Brazil
-682,Josh Huestis,PF,25,OKC,2,31,0.0,0.0,1.0,0.0,0.0,6.1,5.7,0,0,0,0,1,0,9,1,0,2017,huestjo01,United States
-683,Kris Humphries,PF,31,ATL,56,689,0.0,0.0,0.0,0.52,0.48,-5.0,-4.6,10,11,36,4,29,4,68,4,13,2017,humphkr01,United States
-684,R.J. Hunter,SG,23,CHI,3,9,0.42,0.59,0.0,0.0,0.0,-58.8,-59.1,0,0,0,0,0,0,0,0,0,2017,hunterj01,United States
-685,Serge Ibaka,PF,27,TOT,79,2422,0.0,0.0,0.0,0.87,0.13,-3.0,-2.6,38,36,124,17,52,3,179,16,30,2017,ibakase01,Republic of the Congo
-686,Andre Iguodala,SF,33,GSW,76,1998,0.0,0.03,0.9,0.08,0.0,12.6,1.7,45,7,50,2,35,7,607,5,10,2017,iguodan01,United States
-687,Ersan İlyasova,PF,29,TOT,82,2142,0.0,0.0,0.0,0.84,0.16,-0.9,1.7,54,23,90,18,87,31,323,18,48,2017,ilyaser01,Turkey
-688,Joe Ingles,SF,29,UTA,82,1972,0.0,0.37,0.5,0.13,0.0,4.8,0.4,63,19,60,11,18,7,522,2,16,2017,inglejo01,Australia
-689,Brandon Ingram,SF,19,LAL,79,2279,0.0,0.07,0.79,0.14,0.0,-7.7,-1.2,60,27,90,14,87,8,386,22,53,2017,ingrabr01,United States
-690,Kyrie Irving,PG,24,CLE,72,2525,1.0,0.0,0.0,0.0,0.0,6.0,7.4,95,56,63,12,129,7,1016,39,76,2017,irvinky01,Australia
-691,Jarrett Jack,PG,33,NOP,2,33,0.9,0.1,0.0,0.0,0.0,-13.6,-11.8,1,1,1,0,1,0,12,0,0,2017,jackja01,United States
-692,Demetrius Jackson,PG,22,BOS,5,17,0.64,0.36,0.0,0.0,0.0,7.0,3.9,0,0,0,0,1,0,6,0,0,2017,jacksde01,United States
-693,Pierre Jackson,PG,25,DAL,8,84,1.0,0.0,0.0,0.0,0.0,32.7,36.8,2,1,0,0,5,0,45,3,2,2017,jackspi01,United States
-694,Reggie Jackson,PG,26,DET,52,1424,0.98,0.02,0.0,0.0,0.0,-9.1,-11.9,74,21,55,12,53,14,633,14,31,2017,jacksre01,Italy
-695,LeBron James,SF,32,CLE,74,2794,0.0,0.01,0.61,0.35,0.03,8.4,17.3,179,73,52,30,250,12,1641,75,61,2017,jamesle01,United States
-696,Al Jefferson,C,32,IND,66,931,0.0,0.0,0.0,0.0,1.0,-5.2,-6.5,8,13,69,7,44,1,137,11,30,2017,jeffeal01,United States
-697,Richard Jefferson,SF,36,CLE,79,1614,0.0,0.17,0.69,0.14,0.0,3.5,0.4,23,12,67,11,45,16,185,11,18,2017,jefferi01,United States
-698,John Jenkins,SG,25,PHO,4,13,0.0,1.0,0.0,0.0,0.0,24.5,30.5,0,0,0,0,1,0,2,0,0,2017,jenkijo01,United States
-699,Brandon Jennings,PG,27,TOT,81,1802,1.0,0.0,0.0,0.0,0.0,-2.0,-1.2,70,38,30,11,59,12,913,10,17,2017,jennibr01,United States
-700,Jonas Jerebko,PF,29,BOS,78,1232,0.0,0.0,0.0,0.79,0.21,3.2,0.1,21,6,57,5,13,3,178,1,16,2017,jerebjo01,Sweden
-701,Amir Johnson,PF,29,BOS,80,1608,0.0,0.0,0.0,0.94,0.06,8.3,8.6,33,20,111,16,44,6,343,10,29,2017,johnsam01,United States
-702,Brice Johnson,PF,22,LAC,3,9,0.0,0.0,0.0,0.0,1.0,43.3,39.3,0,0,0,0,0,0,3,0,1,2017,johnsbr02,United States
-703,James Johnson,PF,29,MIA,76,2085,0.0,0.0,0.0,0.91,0.09,2.9,3.6,92,39,92,25,104,6,661,31,41,2017,johnsja01,United States
-704,Joe Johnson,SF,35,UTA,78,1843,0.01,0.41,0.56,0.03,0.0,3.7,-1.5,35,27,45,4,27,0,346,6,11,2017,johnsjo02,United States
-705,Stanley Johnson,SF,20,DET,77,1371,0.0,0.45,0.54,0.0,0.0,1.2,4.1,32,16,54,10,24,4,234,7,16,2017,johnsst04,United States
-706,Tyler Johnson,PG,24,MIA,73,2178,0.53,0.47,0.0,0.0,0.0,0.7,-1.0,50,29,102,2,100,25,559,19,54,2017,johnsty01,United States
-707,Wesley Johnson,SF,29,LAC,68,810,0.0,0.0,0.31,0.69,0.0,-2.9,-8.8,11,6,53,0,6,2,52,2,4,2017,johnswe01,United States
-708,Nikola Jokić,C,21,DEN,73,2038,0.0,0.0,0.0,0.14,0.86,5.6,11.5,89,42,89,24,88,6,816,25,51,2017,jokicni01,FR Yugoslavia(now Serbia)
-709,Dahntay Jones,SF,36,CLE,1,12,1.0,0.0,0.0,0.0,0.0,10.0,6.7,1,0,0,0,2,0,3,2,1,2017,jonesda02,United States
-710,Damian Jones,C,21,GSW,10,85,0.0,0.0,0.0,0.07,0.93,-13.1,-25.4,0,1,8,4,4,0,0,0,1,2017,jonesda03,United States
-711,Derrick Jones Jr.,SF,19,PHO,32,545,0.01,0.31,0.67,0.02,0.0,2.8,10.1,5,3,32,4,17,5,32,2,6,2017,jonesde02,United States
-712,James Jones,SF,36,CLE,48,381,0.0,0.0,0.49,0.42,0.08,-11.8,-16.6,8,1,13,1,7,2,35,2,1,2017,jonesja02,United States
-713,Terrence Jones,PF,25,TOT,54,1270,0.0,0.0,0.01,0.75,0.24,-1.9,-1.1,18,24,35,5,87,3,138,26,39,2017,joneste01,United States
-714,Tyus Jones,PG,20,MIN,60,774,0.99,0.01,0.0,0.0,0.0,1.6,3.3,25,10,19,1,14,8,356,3,4,2017,jonesty01,United States
-715,DeAndre Jordan,C,28,LAC,81,2570,0.0,0.0,0.0,0.0,1.0,9.2,14.7,40,28,95,32,135,5,234,33,23,2017,jordade01,United States
-716,Cory Joseph,PG,25,TOR,80,2003,0.61,0.39,0.0,0.0,0.0,1.8,-5.5,65,23,60,11,46,19,644,12,40,2017,josepco01,Canada
-717,Frank Kaminsky,C,23,CHO,75,1954,0.0,0.0,0.0,0.17,0.83,0.9,1.0,28,21,82,10,75,2,385,19,37,2017,kaminfr01,United States
-718,Enes Kanter,C,24,OKC,72,1533,0.0,0.0,0.0,0.26,0.74,0.4,-0.1,29,52,83,20,134,3,169,31,91,2017,kanteen01,Switzerland
-719,Ryan Kelly,PF,25,ATL,16,110,0.0,0.0,0.0,0.4,0.6,2.7,4.1,2,1,3,0,3,0,18,0,2,2017,kellyry01,United States
-720,Michael Kidd-Gilchrist,SF,23,CHO,81,2349,0.0,0.0,0.88,0.12,0.0,1.4,2.5,17,22,104,12,97,18,277,19,69,2017,kiddgmi01,United States
-721,Sean Kilpatrick,SG,27,BRK,70,1754,0.22,0.69,0.09,0.0,0.0,-6.4,0.0,57,52,52,17,90,9,389,22,60,2017,kilpase01,United States
-722,Brandon Knight,SG,25,PHO,54,1140,0.54,0.46,0.0,0.0,0.0,-13.2,-10.2,45,26,24,9,54,15,309,13,28,2017,knighbr03,United States
-723,Kyle Korver,SG,35,TOT,67,1753,0.03,0.65,0.29,0.03,0.0,-5.9,-9.0,41,17,61,6,10,8,252,3,10,2017,korveky01,United States
-724,Kosta Koufos,C,27,SAC,71,1419,0.0,0.0,0.0,0.01,1.0,-4.4,-0.7,19,23,85,17,32,3,109,8,28,2017,koufoko01,United States
-725,Mindaugas Kuzminskas,SF,27,NYK,68,1016,0.0,0.01,0.81,0.17,0.0,-1.1,3.8,17,15,41,6,31,1,163,6,34,2017,kuzmimi01,Soviet Union(now Lithuania)
-726,Skal Labissière,PF,20,SAC,33,612,0.0,0.0,0.01,0.92,0.07,-3.6,0.3,14,17,28,3,30,2,61,6,15,2017,labissk01,Haiti
-727,Jeremy Lamb,SG,24,CHO,62,1143,0.0,0.97,0.03,0.0,0.0,-1.1,-2.0,26,7,50,3,66,7,173,21,17,2017,lambje01,United States
-728,Nicolás Laprovíttola,PG,27,SAS,18,174,0.98,0.02,0.0,0.0,0.0,-9.4,-18.2,7,8,3,0,2,2,63,1,2,2017,laproni01,Argentina
-729,Joffrey Lauvergne,PF-C,25,TOT,70,980,0.0,0.0,0.0,0.71,0.29,-4.8,-5.8,25,11,38,7,30,4,159,7,25,2017,lauvejo01,France
-730,Zach LaVine,SG,21,MIN,47,1749,0.0,0.99,0.01,0.0,0.0,-3.6,-4.4,37,26,44,7,57,1,309,14,38,2017,lavinza01,United States
-731,Ty Lawson,PG,29,SAC,69,1732,0.8,0.2,0.0,0.0,0.0,-3.6,0.6,95,24,48,6,87,15,783,19,52,2017,lawsoty01,United States
-732,Jake Layman,SF,22,POR,35,249,0.0,0.0,0.74,0.26,0.0,-1.0,-0.8,2,6,17,2,7,0,28,0,4,2017,laymaja01,United States
-733,Courtney Lee,SG,31,NYK,77,2459,0.14,0.81,0.06,0.0,0.0,-5.0,-2.9,45,17,68,0,36,2,418,9,22,2017,leeco01,United States
-734,David Lee,PF,33,SAS,79,1477,0.0,0.0,0.0,0.86,0.14,11.0,4.9,48,20,68,7,57,1,292,18,41,2017,leeda02,United States
-735,Alex Len,C,23,PHO,77,1560,0.0,0.0,0.0,0.0,1.0,-11.3,-8.9,34,22,110,34,96,1,99,20,47,2017,lenal01,Ukraine
-736,Kawhi Leonard,SF,25,SAS,74,2474,0.0,0.0,0.93,0.07,0.0,8.5,1.6,63,54,48,15,212,13,641,46,33,2017,leonaka01,United States
-737,Meyers Leonard,PF,24,POR,74,1222,0.0,0.0,0.0,0.11,0.89,-2.1,-2.7,16,12,101,5,6,16,178,1,8,2017,leoname01,United States
-738,Jon Leuer,PF,27,DET,75,1944,0.0,0.0,0.0,0.94,0.06,-1.7,-0.3,38,21,97,2,50,4,247,15,41,2017,leuerjo01,United States
-739,Caris LeVert,SF,22,BRK,57,1237,0.0,0.16,0.84,0.0,0.0,-3.2,4.6,36,15,54,1,40,3,272,7,14,2017,leverca01,United States
-740,DeAndre Liggins,SG,28,TOT,62,777,0.18,0.63,0.19,0.0,0.0,4.0,4.3,20,6,34,6,18,9,134,6,15,2017,liggide01,United States
-741,Damian Lillard,PG,26,POR,75,2694,0.97,0.03,0.0,0.0,0.0,1.1,4.5,127,50,87,13,196,31,1037,46,101,2017,lillada01,United States
-742,Jeremy Lin,PG,28,BRK,36,883,1.0,0.0,0.0,0.0,0.0,-4.1,3.0,51,27,35,4,49,9,422,8,26,2017,linje01,United States
-743,Shaun Livingston,PG,31,GSW,76,1345,0.66,0.34,0.0,0.0,0.0,6.8,-7.4,38,12,58,3,31,5,317,11,10,2017,livinsh01,United States
-744,Shawn Long,C,24,PHI,18,234,0.0,0.0,0.0,0.2,0.81,3.3,9.8,1,5,28,6,14,1,30,5,8,2017,longsh01,United States
-745,Kevon Looney,C,20,GSW,53,447,0.0,0.0,0.03,0.39,0.58,-0.6,-13.9,4,6,28,5,14,0,71,5,14,2017,looneke01,United States
-746,Brook Lopez,C,28,BRK,75,2222,0.0,0.0,0.0,0.0,1.0,-4.4,4.6,65,55,74,37,183,3,420,53,50,2017,lopezbr01,United States
-747,Robin Lopez,C,28,CHI,81,2271,0.0,0.0,0.0,0.0,1.0,0.8,1.6,27,20,86,24,46,3,184,14,39,2017,lopezro01,United States
-748,Kevin Love,PF,28,CLE,60,1885,0.0,0.0,0.0,0.87,0.13,8.1,9.2,57,41,56,17,110,5,274,21,59,2017,loveke01,United States
-749,Kyle Lowry,PG,30,TOR,60,2244,0.98,0.02,0.0,0.0,0.0,8.2,8.4,102,45,64,11,146,20,940,39,57,2017,lowryky01,United States
-750,John Lucas III,PG,34,MIN,5,11,1.0,0.0,0.0,0.0,0.0,43.0,44.2,0,0,0,0,0,0,2,0,0,2017,lucasjo02,United States
-751,Timothé Luwawu-Cabarrot,SF,21,PHI,69,1190,0.0,0.37,0.62,0.01,0.0,-3.3,3.9,33,21,81,9,45,5,166,4,41,2017,luwawti01,France
-752,Trey Lyles,PF,21,UTA,71,1158,0.0,0.0,0.0,0.93,0.07,1.0,-5.0,32,14,51,8,32,1,177,5,16,2017,lylestr01,Canada
-753,Sheldon Mac,SG,24,WAS,30,287,0.1,0.73,0.17,0.02,0.0,-8.2,-10.7,1,2,11,1,10,3,33,2,4,2017,mcclesh01,United States
-754,Shelvin Mack,PG,26,UTA,55,1205,0.94,0.06,0.0,0.0,0.0,-0.1,-6.6,54,24,28,6,32,3,375,8,19,2017,macksh01,United States
-755,Ian Mahinmi,C,30,WAS,31,555,0.0,0.0,0.0,0.46,0.54,2.4,0.8,7,10,44,12,33,3,48,7,9,2017,mahinia01,France
-756,Thon Maker,C,19,MIL,57,562,0.0,0.0,0.0,0.0,1.0,-0.8,-1.0,10,2,49,3,25,3,49,7,12,2017,makerth01,Sudan(now South Sudan)
-757,Boban Marjanović,C,28,DET,35,293,0.0,0.0,0.0,0.0,1.0,4.1,6.0,1,4,13,2,24,1,19,12,11,2017,marjabo01,SFR Yugoslavia(now Serbia)
-758,Jarell Martin,PF,22,MEM,42,558,0.0,0.0,0.0,0.47,0.53,-4.5,-6.1,12,10,49,5,21,2,19,2,22,2017,martija01,United States
-759,Wesley Matthews,SG,30,DAL,73,2495,0.0,0.4,0.6,0.0,0.0,-3.8,-1.5,51,37,61,8,61,34,521,8,24,2017,matthwe02,United States
-760,Luc Mbah a Moute,SF,30,LAC,80,1787,0.0,0.0,0.71,0.29,0.0,9.9,10.7,20,18,69,3,44,5,89,12,31,2017,mbahalu01,Cameroon
-761,James Michael McAdoo,PF,24,GSW,52,457,0.0,0.0,0.17,0.34,0.49,-2.2,-15.7,10,5,25,4,14,0,44,2,11,2017,mcadoja01,United States
-762,Patrick McCaw,SG,21,GSW,71,1074,0.04,0.69,0.27,0.0,0.0,-1.4,-18.1,26,7,38,0,17,2,186,3,18,2017,mccawpa01,United States
-763,CJ McCollum,SG,25,POR,80,2796,0.3,0.7,0.01,0.0,0.0,0.9,4.1,83,58,111,16,90,11,694,26,76,2017,mccolcj01,United States
-764,T.J. McConnell,PG,24,PHI,81,2133,0.99,0.01,0.0,0.0,0.0,-6.6,-1.3,106,32,73,3,21,18,1272,7,29,2017,mccontj01,United States
-765,Chris McCullough,PF,21,TOT,16,80,0.0,0.0,0.0,0.15,0.86,29.0,31.7,1,1,4,0,2,0,4,1,3,2017,mcculch01,United States
-766,K.J. McDaniels,SF,23,TOT,49,505,0.0,0.26,0.73,0.02,0.0,-2.1,-2.0,13,10,26,4,9,0,28,4,11,2017,mcdankj01,United States
-767,Doug McDermott,SF,25,TOT,66,1508,0.0,0.41,0.57,0.02,0.0,-3.1,-4.1,13,9,43,4,29,0,138,8,26,2017,mcderdo01,United States
-768,JaVale McGee,C,29,GSW,77,739,0.0,0.0,0.0,0.0,1.0,19.6,9.7,10,14,55,10,47,3,41,18,15,2017,mcgeeja01,United States
-769,Rodney McGruder,SG,25,MIA,78,1966,0.07,0.62,0.31,0.01,0.0,0.4,-1.5,25,23,67,4,27,12,298,5,25,2017,mcgruro01,United States
-770,Ben McLemore,SG,23,SAC,61,1176,0.11,0.82,0.07,0.0,0.0,-5.9,-2.8,28,19,60,5,47,5,115,16,22,2017,mclembe01,United States
-771,Jordan McRae,SG,25,CLE,37,384,0.47,0.53,0.0,0.0,0.0,-6.9,-11.3,5,6,15,1,20,4,48,6,18,2017,mcraejo01,United States
-772,Josh McRoberts,PF,29,MIA,22,381,0.0,0.0,0.0,0.75,0.25,-9.4,-11.6,12,7,10,2,5,0,112,1,12,2017,mcrobjo01,United States
-773,Jodie Meeks,SG,29,ORL,36,738,0.0,0.91,0.09,0.0,0.0,-5.7,1.4,22,9,26,1,32,7,111,3,12,2017,meeksjo01,United States
-774,Salah Mejri,C,30,DAL,73,905,0.0,0.0,0.0,0.0,1.0,-0.4,3.6,9,9,62,16,29,3,32,6,9,2017,mejrisa01,Tunisia
-775,Jordan Mickey,PF,22,BOS,25,141,0.0,0.0,0.03,0.73,0.24,-17.2,-21.1,2,4,4,2,5,1,17,2,6,2017,mickejo01,United States
-776,Khris Middleton,SF,25,MIL,29,889,0.0,0.02,0.96,0.02,0.0,5.3,6.7,41,11,35,9,28,4,222,9,12,2017,middlkh01,United States
-777,C.J. Miles,SF,29,IND,76,1776,0.0,0.43,0.48,0.09,0.0,1.2,2.6,25,9,81,4,32,5,109,11,22,2017,milescj01,United States
-778,Mike Miller,SF,36,DEN,20,151,0.0,0.1,0.76,0.14,0.0,-2.6,-2.8,10,0,4,2,0,0,54,0,0,2017,millemi01,United States
-779,Patty Mills,PG,28,SAS,80,1754,1.0,0.0,0.0,0.0,0.0,11.6,6.7,72,16,36,3,1,23,634,6,14,2017,millspa02,Australia
-780,Elijah Millsap,SG,29,PHO,2,23,0.0,1.0,0.0,0.0,0.0,-9.3,-3.4,1,1,1,0,1,0,3,0,0,2017,millsel01,United States
-781,Paul Millsap,PF,31,ATL,69,2343,0.0,0.0,0.0,0.91,0.09,1.8,7.5,81,48,95,20,177,7,598,37,55,2017,millspa01,United States
-782,Nikola Mirotić,PF,25,CHI,70,1679,0.0,0.0,0.0,0.88,0.12,4.7,8.0,41,19,52,8,50,2,175,9,30,2017,mirotni01,SFR Yugoslavia(now Montenegro)
-783,Greg Monroe,C,26,MIL,81,1823,0.0,0.0,0.0,0.02,0.98,3.7,6.7,64,54,80,11,122,3,428,35,65,2017,monrogr01,United States
-784,E'Twaun Moore,SG,27,NOP,73,1820,0.05,0.84,0.11,0.01,0.0,-2.8,-1.6,38,10,55,4,27,3,370,8,24,2017,mooreet01,United States
-785,Marcus Morris,SF,27,DET,79,2565,0.0,0.01,0.95,0.05,0.0,-2.5,-3.0,53,21,88,4,77,8,351,15,22,2017,morrima03,United States
-786,Markieff Morris,PF,27,WAS,76,2374,0.0,0.0,0.0,0.92,0.08,3.6,4.7,58,28,131,31,95,4,290,17,47,2017,morrima02,United States
-787,Anthony Morrow,SG,31,TOT,49,714,0.02,0.65,0.32,0.01,0.0,-2.0,-2.6,3,3,19,0,13,2,58,3,10,2017,morroan01,United States
-788,Donatas Motiejūnas,PF,26,NOP,34,479,0.0,0.0,0.0,0.41,0.59,-11.1,-10.5,14,10,26,4,21,0,79,6,6,2017,motiedo01,Lithuania
-789,Timofey Mozgov,C,30,LAL,54,1104,0.0,0.0,0.0,0.0,1.0,-8.8,-2.2,23,15,75,20,37,5,105,6,26,2017,mozgoti01,Soviet Union(now Russia)
-790,Emmanuel Mudiay,PG,20,DEN,55,1406,0.83,0.18,0.0,0.0,0.0,-5.5,-8.7,52,44,44,15,66,2,491,10,46,2017,mudiaem01,Zaire(now Democratic Republic of the Congo)
-791,Shabazz Muhammad,SF,24,MIN,78,1516,0.0,0.37,0.6,0.02,0.0,-1.6,-0.9,17,16,26,19,88,3,80,25,49,2017,muhamsh01,United States
-792,Dejounte Murray,PG,20,SAS,38,322,0.86,0.14,0.0,0.0,0.0,2.3,-6.1,20,12,8,5,12,1,110,1,9,2017,murrade01,United States
-793,Jamal Murray,SG,19,DEN,82,1764,0.41,0.58,0.01,0.0,0.0,1.7,3.0,62,37,62,5,45,9,403,12,33,2017,murraja01,Canada
-794,Mike Muscala,C,25,ATL,70,1237,0.0,0.0,0.0,0.27,0.73,-4.2,-4.3,32,13,51,4,22,8,228,6,10,2017,muscami01,United States
-795,Larry Nance Jr.,PF,24,LAL,63,1442,0.0,0.0,0.0,0.84,0.16,-4.8,3.9,33,11,83,9,30,4,222,6,12,2017,nancela02,United States
-796,Shabazz Napier,PG,25,POR,53,512,1.0,0.0,0.0,0.0,0.0,2.3,2.9,19,18,13,1,25,9,165,10,9,2017,napiesh01,United States
-797,Maurice Ndour,PF,24,NYK,32,331,0.0,0.0,0.12,0.83,0.05,-1.4,2.7,8,4,18,0,13,1,17,3,9,2017,ndourma01,Senegal
-798,Gary Neal,SG,32,ATL,2,18,0.65,0.35,0.0,0.0,0.0,-15.7,-14.6,0,0,0,0,1,0,3,0,0,2017,nealga01,United States
-799,Jameer Nelson,PG,34,DEN,75,2045,1.0,0.0,0.0,0.0,0.0,2.4,4.9,76,28,80,6,18,11,914,4,22,2017,nelsoja01,United States
-800,Raul Neto,PG,24,UTA,40,346,1.0,0.0,0.0,0.0,0.0,15.0,11.5,7,5,21,3,5,4,81,3,10,2017,netora01,Brazil
-801,Georges Niang,PF,23,IND,23,93,0.0,0.0,0.34,0.66,0.0,-1.4,-1.2,2,1,5,0,0,0,11,0,7,2017,niangge01,United States
-802,Andrew Nicholson,PF,27,TOT,38,342,0.0,0.0,0.0,0.72,0.28,-18.8,-17.2,3,7,23,3,7,0,24,4,3,2017,nichoan01,Canada
-803,Joakim Noah,C,31,NYK,46,1015,0.0,0.0,0.0,0.03,0.97,-6.5,-3.5,30,9,57,10,29,3,232,4,11,2017,noahjo01,United States
-804,Nerlens Noel,C,22,TOT,51,1047,0.0,0.0,0.0,0.06,0.95,-2.8,2.2,17,16,61,12,46,5,116,12,12,2017,noelne01,United States
-805,Lucas Nogueira,C,24,TOR,57,1088,0.0,0.0,0.0,0.23,0.77,8.8,5.9,16,7,54,21,31,2,109,9,10,2017,noguelu01,Brazil
-806,Steve Novak,PF,33,MIL,8,22,0.0,0.0,0.83,0.18,0.0,-5.7,-5.8,0,0,1,0,0,0,0,0,0,2017,novakst01,United States
-807,Dirk Nowitzki,PF,38,DAL,54,1424,0.0,0.0,0.0,0.5,0.5,-1.9,2.0,26,19,77,6,31,4,202,9,11,2017,nowitdi01,West Germany
-808,Jusuf Nurkić,C,22,TOT,65,1391,0.0,0.0,0.0,0.0,1.0,-1.8,-2.0,55,40,70,33,89,4,268,17,43,2017,nurkiju01,Republic of Bosnia and Herzegovina
-809,David Nwaba,SG,24,LAL,20,397,0.22,0.7,0.09,0.0,0.0,1.5,9.7,6,5,22,0,19,2,33,5,9,2017,nwabada01,United States
-810,Johnny O'Bryant,PF,23,TOT,11,80,0.0,0.0,0.0,0.08,0.92,-16.0,-16.5,1,3,5,2,3,0,16,0,0,2017,obryajo01,United States
-811,Kyle O'Quinn,C,26,NYK,79,1229,0.0,0.0,0.0,0.16,0.84,-6.5,-3.8,31,15,103,16,38,5,259,14,27,2017,oquinky01,United States
-812,Daniel Ochefu,C,23,WAS,19,75,0.0,0.0,0.0,0.08,0.92,-19.6,-21.7,0,1,11,2,1,0,9,0,4,2017,ochefda01,United States
-813,Jahlil Okafor,C,21,PHI,50,1134,0.0,0.0,0.0,0.07,0.93,-14.7,-12.1,12,39,75,19,70,6,141,17,44,2017,okafoja01,United States
-814,Victor Oladipo,SG,24,OKC,67,2222,0.03,0.94,0.04,0.0,0.0,3.5,6.8,51,45,81,10,67,2,401,17,53,2017,oladivi01,United States
-815,Kelly Olynyk,C,25,BOS,75,1538,0.0,0.0,0.0,0.09,0.91,0.0,-5.1,36,23,107,18,49,8,352,12,31,2017,olynyke01,Canada
-816,Arinze Onuaku,C,29,ORL,8,28,0.0,0.0,0.0,0.05,0.95,-28.8,-22.1,0,1,2,0,0,0,5,0,0,2017,onuakar01,United States
-817,Chinanu Onuaku,C,20,HOU,5,52,0.0,0.0,0.0,0.0,1.0,-39.4,-46.2,1,1,4,1,2,0,6,0,0,2017,onuakch01,United States
-818,Kelly Oubre Jr.,SF,21,WAS,79,1605,0.0,0.12,0.8,0.09,0.0,0.4,-2.2,17,18,84,5,47,14,114,10,35,2017,oubreke01,United States
-819,Zaza Pachulia,C,32,GSW,70,1268,0.0,0.0,0.0,0.01,0.99,16.0,6.2,39,17,73,27,60,6,303,9,34,2017,pachuza01,Soviet Union(now Georgia)
-820,Georgios Papagiannis,C,19,SAC,22,355,0.0,0.0,0.0,0.0,1.0,-5.5,-1.8,7,10,34,1,4,0,45,2,2,2017,papagge01,Greece
-821,Jabari Parker,PF,21,MIL,51,1728,0.0,0.0,0.31,0.68,0.01,-3.0,-5.5,37,28,43,16,107,2,336,30,65,2017,parkeja01,United States
-822,Tony Parker,PG,34,SAS,63,1587,0.99,0.02,0.0,0.0,0.0,6.2,-2.9,55,21,44,7,53,5,639,14,42,2017,parketo01,Belgium
-823,Chandler Parsons,SF,28,MEM,34,675,0.0,0.0,0.9,0.1,0.0,-3.3,-4.8,15,6,24,3,17,4,133,1,15,2017,parsoch01,United States
-824,Lamar Patterson,SG,25,ATL,5,40,1.0,0.0,0.0,0.0,0.0,18.2,19.6,4,0,4,0,1,0,12,1,2,2017,pattela01,United States
-825,Patrick Patterson,PF,27,TOR,65,1599,0.0,0.0,0.0,0.91,0.09,10.8,10.4,20,5,44,10,24,6,188,4,11,2017,pattepa01,United States
-826,Chris Paul,PG,31,LAC,61,1921,1.0,0.0,0.0,0.0,0.0,14.3,19.9,94,37,46,8,34,8,1293,8,14,2017,paulch01,United States
-827,Adreian Payne,PF,25,MIN,18,135,0.0,0.0,0.19,0.75,0.07,1.4,2.6,4,1,15,2,10,0,15,0,1,2017,paynead01,United States
-828,Cameron Payne,PG,22,TOT,31,462,0.93,0.07,0.0,0.0,0.0,-8.2,-9.1,16,9,28,2,3,6,124,0,8,2017,payneca01,United States
-829,Elfrid Payton,PG,22,ORL,82,2412,0.76,0.24,0.01,0.0,0.0,-3.1,10.0,95,51,72,7,88,10,1206,28,99,2017,paytoel01,United States
-830,Gary Payton II,PG,24,MIL,6,99,1.0,0.0,0.0,0.0,0.0,-29.3,-30.1,5,3,5,1,3,0,33,1,3,2017,paytoga02,United States
-831,Paul Pierce,SF,39,LAC,25,277,0.0,0.0,0.32,0.68,0.0,3.9,-0.2,7,4,27,1,5,1,26,1,2,2017,piercpa01,United States
-832,Marshall Plumlee,C,24,NYK,21,170,0.0,0.0,0.0,0.0,1.0,0.4,4.5,3,6,12,2,9,0,25,3,4,2017,plumlma02,United States
-833,Mason Plumlee,C,26,TOT,81,2148,0.0,0.0,0.0,0.0,1.0,0.2,0.5,58,35,98,32,124,8,664,29,53,2017,plumlma01,United States
-834,Miles Plumlee,C,28,TOT,45,484,0.0,0.0,0.0,0.3,0.7,-6.4,-7.0,7,12,36,8,16,3,49,3,12,2017,plumlmi01,United States
-835,Jakob Poeltl,C,21,TOR,54,626,0.0,0.0,0.0,0.04,0.96,0.6,-4.6,7,6,58,12,25,1,30,5,11,2017,poeltja01,United States
-836,Otto Porter,SF,23,WAS,80,2605,0.0,0.01,0.77,0.23,0.0,3.0,3.8,27,7,102,5,52,12,274,22,14,2017,porteot01,United States
-837,Bobby Portis,PF,21,CHI,64,1000,0.0,0.0,0.0,0.77,0.23,-4.7,-6.5,10,8,54,10,28,0,84,5,23,2017,portibo01,United States
-838,Kristaps Porziņģis,PF,21,NYK,66,2164,0.0,0.0,0.0,0.79,0.21,-2.8,2.4,41,46,143,18,114,8,233,26,31,2017,porzikr01,Latvia
-839,Dwight Powell,C,25,DAL,77,1333,0.0,0.0,0.0,0.15,0.86,-6.6,-5.2,14,10,65,5,60,6,125,12,25,2017,poweldw01,Canada
-840,Norman Powell,SG,23,TOR,76,1368,0.0,0.79,0.21,0.0,0.0,3.0,-2.4,33,20,44,10,69,8,198,12,39,2017,powelno01,United States
-841,Alex Poythress,PF,23,PHI,6,157,0.0,0.0,0.06,0.94,0.0,-10.6,-4.8,0,2,10,0,4,1,12,2,4,2017,poythal01,United States
-842,Ronnie Price,PG,33,PHO,14,134,0.5,0.5,0.0,0.0,0.0,-15.6,-10.0,1,2,3,0,2,1,41,0,2,2017,pricero01,United States
-843,Taurean Prince,SF,22,ATL,59,981,0.0,0.09,0.72,0.19,0.0,-0.6,0.8,38,10,41,8,42,5,128,8,28,2017,princta02,United States
-844,Tim Quarterman,SG,22,POR,16,80,0.05,0.5,0.45,0.0,0.0,-1.3,-1.0,9,2,2,0,1,0,26,1,3,2017,quartti01,United States
-845,Chasson Randle,PG,23,TOT,26,299,1.0,0.0,0.0,0.0,0.0,-2.9,2.1,12,5,17,3,21,4,78,6,9,2017,randlch01,United States
-846,Julius Randle,PF,22,LAL,74,2132,0.0,0.0,0.0,0.67,0.33,-10.6,-7.4,63,52,103,34,127,5,664,34,74,2017,randlju01,United States
-847,Zach Randolph,PF,35,MEM,73,1786,0.0,0.0,0.01,0.56,0.43,0.4,-0.6,34,39,43,16,83,3,292,20,68,2017,randoza01,United States
-848,J.J. Redick,SG,32,LAC,78,2198,0.14,0.84,0.02,0.0,0.0,8.9,11.0,47,32,64,8,45,17,251,14,19,2017,redicjj01,United States
-849,Willie Reed,C,26,MIA,71,1031,0.0,0.0,0.0,0.0,1.0,2.4,1.7,9,8,75,7,40,9,61,6,23,2017,reedwi02,United States
-850,Josh Richardson,SG,23,MIA,53,1614,0.01,0.16,0.8,0.04,0.0,0.6,-1.0,29,17,55,4,25,13,336,5,18,2017,richajo01,United States
-851,Malachi Richardson,SG,21,SAC,22,198,0.0,0.77,0.23,0.0,0.0,-3.3,0.7,4,1,8,2,10,1,27,3,0,2017,richama01,United States
-852,Austin Rivers,SG,24,LAC,74,2054,0.08,0.67,0.25,0.0,0.0,-0.5,-9.5,47,47,85,9,83,12,498,25,47,2017,riverau01,United States
-853,Andre Roberson,SF,25,OKC,79,2376,0.0,0.09,0.88,0.03,0.0,3.6,7.8,23,17,99,5,38,13,193,7,36,2017,roberan03,United States
-854,Brian Roberts,PG,31,CHO,41,416,0.99,0.01,0.0,0.0,0.0,-6.6,-7.8,18,6,9,1,14,4,123,1,11,2017,roberbr01,United States
-855,Glenn Robinson III,SF,23,IND,69,1427,0.0,0.51,0.49,0.0,0.0,-2.0,-2.9,15,18,38,2,29,2,113,9,18,2017,robingl02,United States
-856,Thomas Robinson,PF,25,LAL,48,560,0.0,0.0,0.0,0.45,0.55,-7.4,-0.2,19,13,50,12,31,4,76,7,16,2017,robinth01,United States
-857,Sergio Rodríguez,PG,30,PHI,68,1518,0.99,0.01,0.0,0.0,0.0,-5.5,0.7,81,29,39,3,6,0,794,4,20,2017,rodrise01,Spain
-858,Rajon Rondo,PG,30,CHI,69,1843,1.0,0.0,0.0,0.0,0.0,-2.3,-4.5,119,34,39,4,17,12,1035,5,35,2017,rondora01,United States
-859,Derrick Rose,PG,28,NYK,64,2082,0.83,0.17,0.0,0.0,0.0,-4.2,-0.6,79,47,35,11,119,9,680,26,85,2017,rosede01,United States
-860,Terrence Ross,SF,25,TOT,78,1955,0.0,0.05,0.85,0.1,0.0,2.9,5.5,40,20,71,5,27,7,207,6,17,2017,rosste01,United States
-861,Terry Rozier,PG,22,BOS,74,1263,0.73,0.27,0.0,0.0,0.0,0.0,-4.5,25,12,32,4,25,11,307,10,22,2017,roziete01,United States
-862,Ricky Rubio,PG,26,MIN,75,2469,0.94,0.06,0.0,0.0,0.0,-0.9,0.4,151,24,83,6,85,24,1505,13,32,2017,rubiori01,Spain
-863,Damjan Rudež,SF,30,ORL,45,314,0.0,0.0,0.22,0.69,0.08,-16.0,-9.8,7,0,12,1,0,0,44,0,1,2017,rudezda01,SFR Yugoslavia(now Croatia)
-864,Brandon Rush,SG,31,MIN,47,1030,0.0,0.92,0.08,0.0,0.0,-1.8,-1.0,12,5,23,3,8,3,100,0,9,2017,rushbr01,United States
-865,D'Angelo Russell,PG,20,LAL,63,1811,0.93,0.07,0.0,0.0,0.0,-9.7,-4.7,110,40,52,15,75,11,708,16,37,2017,russeda01,United States
-866,Domantas Sabonis,PF,20,OKC,81,1632,0.0,0.0,0.0,0.84,0.16,0.3,-0.4,31,25,124,18,32,1,200,9,30,2017,sabondo01,United States
-867,Larry Sanders,C,28,CLE,5,13,0.0,0.0,0.0,0.0,1.0,-11.4,-14.8,1,0,3,1,1,0,0,0,0,2017,sandela01,United States
-868,Dario Šarić,PF,22,PHI,81,2129,0.0,0.0,0.1,0.89,0.02,-7.2,-2.6,87,48,77,20,95,2,434,23,74,2017,saricda01,Croatia
-869,Tomáš Satoranský,SG,25,WAS,57,719,0.03,0.62,0.35,0.01,0.0,2.1,0.5,20,12,19,2,18,5,211,5,9,2017,satorto01,Czechoslovakia(now Czech Republic)
-870,Dennis Schröder,PG,23,ATL,79,2485,1.0,0.0,0.0,0.0,0.0,-2.1,-2.4,155,66,60,14,98,18,1164,25,113,2017,schrode01,Germany
-871,Luis Scola,PF,36,BRK,36,461,0.0,0.0,0.0,0.47,0.53,-8.6,-2.6,15,11,23,9,19,1,85,7,8,2017,scolalu01,Argentina
-872,Mike Scott,PF,28,ATL,18,195,0.0,0.0,0.05,0.92,0.03,-10.6,-9.8,4,3,7,1,0,2,40,0,3,2017,scottmi01,United States
-873,Thabo Sefolosha,SF,32,ATL,62,1596,0.0,0.02,0.84,0.13,0.0,-0.5,1.1,36,13,54,3,31,4,253,2,25,2017,sefolth01,Switzerland
-874,Wayne Selden,SG,22,TOT,14,236,0.0,0.46,0.53,0.01,0.0,-6.5,-6.0,4,5,8,2,10,0,29,2,3,2017,seldewa01,United States
-875,Kevin Séraphin,PF,27,IND,49,559,0.0,0.0,0.0,0.49,0.51,-9.8,-11.2,7,9,39,1,10,0,56,2,7,2017,serapke01,United States
-876,Ramon Sessions,PG,30,CHO,50,811,0.84,0.16,0.0,0.0,0.0,-4.9,-6.6,28,13,9,1,57,7,291,9,25,2017,sessira01,United States
-877,Iman Shumpert,SG,26,CLE,76,1937,0.16,0.78,0.06,0.0,0.0,2.0,-2.5,47,12,69,12,30,22,265,2,13,2017,shumpim01,United States
-878,Pascal Siakam,PF,22,TOR,55,859,0.0,0.0,0.01,0.95,0.05,-1.1,-7.3,12,10,61,5,14,2,40,2,18,2017,siakapa01,Cameroon
-879,Jonathon Simmons,SG,27,SAS,78,1392,0.03,0.94,0.03,0.01,0.0,9.4,2.3,32,27,61,8,52,13,315,4,40,2017,simmojo02,United States
-880,Kyle Singler,SF,28,OKC,32,385,0.0,0.09,0.82,0.09,0.0,0.5,0.0,4,3,14,1,6,1,20,1,5,2017,singlky01,United States
-881,Marcus Smart,SG,22,BOS,79,2399,0.06,0.66,0.28,0.0,0.0,3.4,0.7,91,31,79,19,80,29,872,19,50,2017,smartma01,United States
-882,Ish Smith,PG,28,DET,81,1955,1.0,0.0,0.0,0.0,0.0,1.5,5.8,59,36,70,6,41,5,989,6,35,2017,smithis01,United States
-883,J.R. Smith,SG,31,CLE,41,1187,0.01,0.74,0.25,0.01,0.0,3.6,0.4,15,6,40,4,4,10,143,1,5,2017,smithjr01,United States
-884,Jason Smith,C,30,WAS,74,1068,0.0,0.0,0.0,0.0,1.0,-0.2,-2.6,23,8,71,21,24,7,86,6,15,2017,smithja02,United States
-885,Tony Snell,SG,25,MIL,80,2336,0.01,0.86,0.13,0.0,0.0,-1.7,-4.5,28,15,77,5,22,7,221,4,10,2017,snellto01,United States
-886,Marreese Speights,C,29,LAC,82,1286,0.0,0.0,0.0,0.07,0.93,-2.5,-9.7,32,18,107,15,60,4,164,11,23,2017,speigma01,United States
-887,Tiago Splitter,C,32,PHI,8,76,0.0,0.0,0.0,0.0,1.0,-5.5,0.5,3,3,3,0,4,0,8,0,5,2017,splitti01,Brazil
-888,Nik Stauskas,SG,23,PHI,80,2188,0.05,0.78,0.17,0.0,0.0,-4.7,2.8,76,42,91,4,59,3,441,6,34,2017,stausni01,Canada
-889,Lance Stephenson,SG,26,TOT,18,361,0.01,0.55,0.44,0.0,0.0,1.1,2.2,15,5,11,5,7,2,142,3,1,2017,stephla01,United States
-890,Jarnell Stokes,C,23,DEN,2,7,0.0,0.0,0.0,0.0,1.0,-8.8,-8.9,0,0,2,0,0,0,6,0,0,2017,stokeja01,United States
-891,Diamond Stone,C,19,LAC,7,24,0.0,0.0,0.0,0.0,1.0,-58.7,-63.2,0,2,5,0,2,0,0,0,3,2017,stonedi01,United States
-892,Rodney Stuckey,PG,30,IND,39,696,0.51,0.48,0.01,0.0,0.0,-2.2,-2.4,23,19,17,9,45,4,197,6,16,2017,stuckro01,United States
-893,Jared Sullinger,PF,24,TOR,11,118,0.0,0.0,0.0,0.7,0.3,-16.2,-21.4,1,1,7,2,4,1,5,2,4,2017,sullija01,United States
-894,Edy Tavares,C,24,TOT,2,28,0.0,0.0,0.0,0.0,1.0,17.8,16.8,2,0,3,0,1,0,3,1,0,2017,tavarwa01,United States
-895,Isaiah Taylor,PG,22,HOU,4,52,0.46,0.54,0.0,0.0,0.0,-13.1,-19.5,0,0,2,0,1,2,7,0,1,2017,taylois01,United States
-896,Jeff Teague,PG,28,IND,82,2657,0.99,0.01,0.0,0.0,0.0,1.1,4.0,131,58,81,9,150,20,1454,25,92,2017,teaguje01,United States
-897,Mirza Teletović,PF,31,MIL,70,1133,0.0,0.0,0.02,0.9,0.08,3.5,4.8,18,10,54,5,20,2,114,4,9,2017,teletmi01,SFR Yugoslavia(now Bosnia and Herzegovina)
-898,Garrett Temple,SG,30,SAC,65,1728,0.01,0.45,0.53,0.01,0.0,-5.0,-1.9,51,18,62,6,21,21,383,7,19,2017,templga01,United States
-899,Jason Terry,SG,39,MIL,74,1365,0.58,0.42,0.0,0.0,0.0,4.5,6.7,24,5,35,4,13,3,233,2,8,2017,terryja01,United States
-900,Isaiah Thomas,PG,27,BOS,76,2569,1.0,0.0,0.0,0.0,0.0,4.5,4.2,102,78,65,10,228,23,1087,39,114,2017,thomais02,United States
-901,Lance Thomas,PF,28,NYK,46,968,0.0,0.0,0.2,0.79,0.02,-9.9,-8.0,11,4,34,4,21,12,80,3,17,2017,thomala01,United States
-902,Hollis Thompson,SG,25,TOT,40,752,0.0,0.4,0.6,0.0,0.0,-6.1,-2.3,4,2,32,4,12,1,83,1,14,2017,thompho01,United States
-903,Klay Thompson,SG,26,GSW,78,2649,0.0,0.75,0.25,0.0,0.0,14.5,8.2,72,31,72,12,89,1,365,17,44,2017,thompkl01,United States
-904,Tristan Thompson,C,25,CLE,78,2336,0.0,0.0,0.0,0.15,0.85,3.7,1.1,14,18,75,21,86,3,193,15,45,2017,thomptr01,Canada
-905,Marcus Thornton,SG,29,WAS,33,575,0.18,0.8,0.02,0.0,0.0,-13.2,-17.3,7,10,14,6,9,1,87,4,10,2017,thornma01,United States
-906,Mike Tobey,C,22,CHO,2,25,0.0,0.0,0.0,0.0,1.0,-30.4,-31.0,0,1,1,0,0,0,2,0,1,2017,tobeymi01,United States
-907,Anthony Tolliver,PF,31,SAC,65,1477,0.0,0.0,0.05,0.95,0.01,-4.5,-0.8,32,13,52,5,31,6,174,3,16,2017,tollian01,United States
-908,Axel Toupane,SF,24,TOT,4,47,0.0,0.0,1.0,0.0,0.0,-11.7,-10.8,0,0,4,0,0,1,0,0,0,2017,toupaax01,France
-909,Karl-Anthony Towns,C,21,MIN,82,3030,0.0,0.0,0.0,0.0,1.0,-0.7,1.8,83,49,99,51,191,7,507,53,92,2017,townska01,United States
-910,P.J. Tucker,SF,31,TOT,81,2236,0.0,0.01,0.83,0.16,0.0,-1.6,-1.0,28,10,79,12,32,13,230,7,34,2017,tuckepj01,United States
-911,Evan Turner,SF,28,POR,65,1658,0.0,0.07,0.91,0.02,0.0,-4.7,-7.5,66,23,67,5,43,3,477,16,37,2017,turneev01,United States
-912,Myles Turner,C,20,IND,81,2541,0.0,0.0,0.0,0.01,0.99,2.7,8.1,36,28,156,33,142,8,265,38,45,2017,turnemy01,United States
-913,Beno Udrih,PG,34,DET,39,560,0.99,0.01,0.0,0.0,0.0,6.2,8.9,24,11,15,0,13,4,297,4,15,2017,udrihbe01,SFR Yugoslavia(now Slovenia)
-914,Tyler Ulis,PG,21,PHO,61,1123,1.0,0.0,0.0,0.0,0.0,-6.7,-1.1,48,19,26,3,29,12,505,4,28,2017,ulisty01,United States
-915,Jarrod Uthoff,PF,23,DAL,9,115,0.0,0.0,0.44,0.56,0.0,-29.9,-27.5,1,2,6,0,2,0,22,1,2,2017,uthofja01,United States
-916,Jonas Valančiūnas,C,24,TOR,80,2066,0.0,0.0,0.0,0.0,1.0,2.2,-4.9,26,28,106,31,98,3,139,20,36,2017,valanjo01,Lithuania
-917,Denzel Valentine,SG,23,CHI,57,976,0.01,0.67,0.31,0.0,0.0,-0.8,-1.2,32,10,39,1,2,3,150,0,4,2017,valende01,United States
-918,Fred VanVleet,PG,22,TOR,37,294,1.0,0.0,0.0,0.0,0.0,11.0,7.0,8,4,16,1,8,1,82,1,14,2017,vanvlfr01,United States
-919,Anderson Varejão,C,34,GSW,14,92,0.0,0.0,0.0,0.19,0.81,-11.1,-23.4,4,2,9,2,5,2,24,1,0,2017,varejan01,Brazil
-920,Greivis Vásquez,PG,30,BRK,3,39,0.96,0.04,0.0,0.0,0.0,-14.6,-8.4,0,0,0,0,1,0,14,0,1,2017,vasqugr01,Venezuela
-921,Rashad Vaughn,SG,20,MIL,41,458,0.01,0.85,0.15,0.0,0.0,-7.5,-8.6,6,5,17,0,2,0,50,0,4,2017,vaughra01,United States
-922,Noah Vonleh,PF,21,POR,74,1265,0.0,0.0,0.0,0.71,0.29,-3.0,-4.0,20,17,67,16,45,4,80,7,29,2017,vonleno01,United States
-923,Nikola Vučević,C,26,ORL,75,2163,0.0,0.0,0.0,0.0,1.0,-4.3,5.8,56,24,121,14,60,0,512,13,34,2017,vucevni01,Switzerland
-924,Sasha Vujačić,SG,32,NYK,42,408,0.0,0.37,0.61,0.02,0.0,-0.6,3.7,9,3,17,3,8,1,118,3,5,2017,vujacsa01,SFR Yugoslavia(now Slovenia)
-925,Dwyane Wade,SG,35,CHI,60,1792,0.09,0.84,0.07,0.0,0.0,-2.3,-4.4,86,35,59,10,134,4,519,30,49,2017,wadedw01,United States
-926,Dion Waiters,SG,25,MIA,46,1384,0.02,0.31,0.66,0.01,0.0,2.7,2.4,54,24,35,11,51,8,501,14,41,2017,waitedi01,United States
-927,Kemba Walker,PG,26,CHO,79,2739,1.0,0.0,0.0,0.0,0.0,3.7,10.7,85,75,58,3,134,26,1021,35,112,2017,walkeke02,United States
-928,John Wall,PG,26,WAS,78,2836,0.95,0.06,0.0,0.0,0.0,3.9,8.0,194,87,63,22,194,24,1943,50,88,2017,walljo01,United States
-929,T.J. Warren,SF,23,PHO,66,2048,0.0,0.01,0.69,0.3,0.01,-6.8,-1.9,24,14,88,9,6,5,171,14,42,2017,warretj01,United States
-930,C.J. Watson,PG,32,ORL,62,1012,0.59,0.42,0.0,0.0,0.0,-9.6,-3.6,32,12,39,2,21,9,279,7,10,2017,watsocj01,United States
-931,Briante Weber,PG,24,TOT,20,205,0.9,0.11,0.0,0.0,0.0,-12.0,-18.6,5,3,5,0,5,0,56,2,2,2017,weberbr01,United States
-932,David West,C,36,GSW,68,854,0.0,0.0,0.0,0.07,0.94,7.7,-5.1,39,18,57,15,25,3,332,4,8,2017,westda01,United States
-933,Russell Westbrook,PG,28,OKC,81,2802,0.91,0.09,0.0,0.0,0.0,3.9,12.4,297,93,51,29,319,6,1886,61,90,2017,westbru01,United States
-934,Okaro White,PF,24,MIA,35,471,0.0,0.0,0.27,0.72,0.01,9.5,9.4,3,6,23,4,10,2,56,2,8,2017,whiteok01,United States
-935,Isaiah Whitehead,PG,21,BRK,73,1643,0.92,0.08,0.0,0.0,0.0,-2.7,6.2,70,45,80,19,45,15,460,10,53,2017,whiteis01,United States
-936,Hassan Whiteside,C,27,MIA,77,2513,0.0,0.0,0.0,0.0,1.0,1.9,1.9,32,50,102,33,166,12,128,50,63,2017,whiteha01,United States
-937,Andrew Wiggins,SF,21,MIN,82,3048,0.0,0.02,0.93,0.05,0.0,-0.4,3.1,67,81,104,19,243,13,444,53,99,2017,wiggian01,Canada
-938,C.J. Wilcox,SG,26,ORL,22,108,0.0,0.82,0.18,0.0,0.0,-9.5,-2.7,4,2,4,0,0,2,31,0,0,2017,wilcocj01,United States
-939,Alan Williams,C,24,PHO,47,708,0.0,0.0,0.0,0.02,0.98,-1.0,5.9,6,6,57,24,45,1,54,13,20,2017,willial03,United States
-940,Deron Williams,PG,32,TOT,64,1657,0.48,0.52,0.0,0.0,0.0,-3.4,-4.4,88,28,67,12,45,8,867,14,25,2017,willide01,United States
-941,Derrick Williams,PF,25,TOT,50,804,0.0,0.0,0.05,0.86,0.09,-4.4,-7.4,12,11,28,4,42,0,70,4,18,2017,willide02,United States
-942,Lou Williams,SG,30,TOT,81,1994,0.65,0.34,0.01,0.0,0.0,0.3,1.1,106,36,40,9,35,7,520,36,57,2017,willilo02,United States
-943,Marvin Williams,PF,30,CHO,76,2295,0.0,0.0,0.0,0.99,0.01,-0.4,-1.8,28,10,61,13,55,5,252,17,35,2017,willima02,United States
-944,Reggie Williams,SF,30,NOP,6,79,0.0,0.23,0.66,0.11,0.0,-17.7,-16.1,0,0,1,0,3,0,9,0,0,2017,willire02,United States
-945,Troy Williams,SF,22,TOT,30,557,0.0,0.01,0.86,0.13,0.0,-6.7,-11.0,18,8,28,4,14,0,57,3,10,2017,willitr02,United States
-946,Kyle Wiltjer,PF,24,HOU,14,44,0.0,0.0,0.0,0.85,0.15,-37.0,-43.7,2,2,3,0,1,0,5,0,0,2017,wiltjky01,United States
-947,Justise Winslow,SF,20,MIA,18,625,0.0,0.02,0.73,0.25,0.0,-1.2,-2.8,19,11,20,2,18,3,151,4,19,2017,winslju01,United States
-948,Jeff Withey,C,26,UTA,51,432,0.0,0.0,0.0,0.0,1.0,-1.3,-6.6,5,3,31,5,21,0,18,4,15,2017,witheje01,United States
-949,Christian Wood,PF,21,CHO,13,107,0.0,0.0,0.0,0.27,0.73,7.3,7.1,0,4,4,3,7,3,5,1,2,2017,woodch01,United States
-950,Metta World Peace,SF,37,LAL,25,160,0.0,0.1,0.67,0.23,0.0,-18.6,-11.8,3,2,6,2,5,0,22,0,3,2017,artesro01,United States
-951,Brandan Wright,PF,29,MEM,28,447,0.0,0.0,0.0,0.69,0.31,4.7,4.5,4,4,25,1,17,0,36,5,11,2017,wrighbr03,United States
-952,Delon Wright,PG,24,TOR,27,446,0.57,0.35,0.08,0.0,0.0,8.7,4.7,11,7,16,2,22,0,146,2,13,2017,wrighde01,United States
-953,James Young,SG,21,BOS,29,220,0.01,0.32,0.66,0.01,0.0,-6.4,-10.0,2,1,10,0,4,1,10,2,1,2017,youngja01,United States
-954,Joe Young,PG,24,IND,33,135,0.51,0.49,0.0,0.0,0.0,-24.7,-25.4,3,2,4,0,6,0,34,2,5,2017,youngjo01,United States
-955,Nick Young,SG,31,LAL,60,1556,0.02,0.7,0.27,0.01,0.0,-7.2,0.1,11,14,71,4,37,17,136,11,11,2017,youngni01,United States
-956,Thaddeus Young,PF,28,IND,74,2237,0.0,0.0,0.01,0.99,0.0,2.2,5.5,50,29,61,7,36,5,280,12,47,2017,youngth01,United States
-957,Cody Zeller,C,24,CHO,62,1725,0.0,0.0,0.0,0.27,0.73,6.2,10.3,19,12,91,29,83,5,238,20,56,2017,zelleco01,United States
-958,Tyler Zeller,C,27,BOS,51,525,0.0,0.0,0.0,0.0,1.0,-0.1,-3.7,11,3,33,6,14,3,99,4,16,2017,zellety01,United States
-959,Stephen Zimmerman,C,20,ORL,19,108,0.0,0.0,0.0,0.01,0.99,-17.7,-11.0,1,0,12,1,2,0,9,1,7,2017,zimmest01,United States
-960,Paul Zipser,SF,22,CHI,44,843,0.01,0.57,0.38,0.04,0.0,1.3,1.5,19,11,45,2,17,2,85,4,10,2017,zipsepa01,Germany
-961,Ivica Zubac,C,19,LAL,38,609,0.0,0.0,0.0,0.0,1.0,-10.8,-4.3,13,10,47,5,21,0,71,5,24,2017,zubaciv01,Republic of Bosnia and Herzegovina
+,Player,Pos,Age,Tm,G,GS,MP,FG,FGA,FGPc,_3P,_3PA,_3PTPc,_2P,_2PA,_2PTPc,eFGPc,FT,FTA,FTPc,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Season,PlayerID,Country
+0,Curly Armstrong,G-F,31,FTW,63,0.0,0.0,144,516,0.27899999999999997,0.0,0.0,0.0,144,516,0.27899999999999997,0.27899999999999997,170,241,0.705,0.0,0.0,0.0,176,0.0,0.0,0.0,217,458,1950,armstcu01,United States
+1,Cliff Barker,SG,29,INO,49,0.0,0.0,102,274,0.37200000000000005,0.0,0.0,0.0,102,274,0.37200000000000005,0.37200000000000005,75,106,0.708,0.0,0.0,0.0,109,0.0,0.0,0.0,99,279,1950,barkecl01,United States
+2,Leo Barnhorst,SF,25,CHS,67,0.0,0.0,174,499,0.349,0.0,0.0,0.0,174,499,0.349,0.349,90,129,0.698,0.0,0.0,0.0,140,0.0,0.0,0.0,192,438,1950,barnhle01,United States
+3,Ed Bartels,F,24,TOT,15,0.0,0.0,22,86,0.256,0.0,0.0,0.0,22,86,0.256,0.256,19,34,0.5589999999999999,0.0,0.0,0.0,20,0.0,0.0,0.0,29,63,1950,barteed01,United States
+4,Ralph Beard,G,22,INO,60,0.0,0.0,340,936,0.363,0.0,0.0,0.0,340,936,0.363,0.363,215,282,0.762,0.0,0.0,0.0,233,0.0,0.0,0.0,132,895,1950,beardra01,United States
+5,Gene Berce,G-F,23,TRI,3,0.0,0.0,5,16,0.313,0.0,0.0,0.0,5,16,0.313,0.313,0,5,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,6,10,1950,bercege01,United States
+6,Charlie Black,F-C,28,TOT,65,0.0,0.0,226,813,0.278,0.0,0.0,0.0,226,813,0.278,0.278,209,321,0.6509999999999999,0.0,0.0,0.0,163,0.0,0.0,0.0,273,661,1950,blackch01,United States
+7,Nelson Bobb,PG,25,PHW,57,0.0,0.0,80,248,0.32299999999999995,0.0,0.0,0.0,80,248,0.32299999999999995,0.32299999999999995,82,131,0.626,0.0,0.0,0.0,46,0.0,0.0,0.0,97,242,1950,bobbne01,United States
+8,Jake Bornheimer,F-C,22,PHW,60,0.0,0.0,88,305,0.289,0.0,0.0,0.0,88,305,0.289,0.289,78,117,0.667,0.0,0.0,0.0,40,0.0,0.0,0.0,111,254,1950,bornhja01,United States
+9,Vince Boryla,SF,22,NYK,59,0.0,0.0,204,600,0.34,0.0,0.0,0.0,204,600,0.34,0.34,204,267,0.764,0.0,0.0,0.0,95,0.0,0.0,0.0,203,612,1950,borylvi01,United States
+10,Don Boven,F-G,24,WAT,62,0.0,0.0,208,558,0.373,0.0,0.0,0.0,208,558,0.373,0.373,240,349,0.688,0.0,0.0,0.0,137,0.0,0.0,0.0,255,656,1950,bovendo01,United States
+11,Harry Boykoff,C,27,WAT,61,0.0,0.0,288,698,0.413,0.0,0.0,0.0,288,698,0.413,0.413,203,262,0.775,0.0,0.0,0.0,149,0.0,0.0,0.0,229,779,1950,boykoha01,United States
+12,Joe Bradley,G,21,CHS,46,0.0,0.0,36,134,0.26899999999999996,0.0,0.0,0.0,36,134,0.26899999999999996,0.26899999999999996,15,38,0.395,0.0,0.0,0.0,36,0.0,0.0,0.0,51,87,1950,bradljo01,United States
+13,Bob Brannum,PF,23,SHE,59,0.0,0.0,234,718,0.326,0.0,0.0,0.0,234,718,0.326,0.326,245,355,0.69,0.0,0.0,0.0,205,0.0,0.0,0.0,279,713,1950,brannbo01,United States
+14,Carl Braun,G-F,22,NYK,67,0.0,0.0,373,1024,0.364,0.0,0.0,0.0,373,1024,0.364,0.364,285,374,0.762,0.0,0.0,0.0,247,0.0,0.0,0.0,188,1031,1950,braunca01,United States
+15,Frankie Brian,G,26,AND,64,0.0,0.0,368,1156,0.318,0.0,0.0,0.0,368,1156,0.318,0.318,402,488,0.8240000000000001,0.0,0.0,0.0,189,0.0,0.0,0.0,192,1138,1950,brianfr01,United States
+16,Price Brookfield,F-G,29,ROC,7,0.0,0.0,11,23,0.478,0.0,0.0,0.0,11,23,0.478,0.478,12,13,0.9229999999999999,0.0,0.0,0.0,1,0.0,0.0,0.0,7,34,1950,brookpr01,United States
+17,Bob Brown,F,26,DNN,62,0.0,0.0,276,764,0.361,0.0,0.0,0.0,276,764,0.361,0.361,172,252,0.6829999999999999,0.0,0.0,0.0,101,0.0,0.0,0.0,269,724,1950,brownbo01,United States
+18,Jim Browne,C,20,DNN,31,0.0,0.0,17,48,0.354,0.0,0.0,0.0,17,48,0.354,0.354,13,27,0.48100000000000004,0.0,0.0,0.0,8,0.0,0.0,0.0,16,47,1950,brownji01,United States
+19,Walt Budko,PF,24,BLB,66,0.0,0.0,198,652,0.304,0.0,0.0,0.0,198,652,0.304,0.304,199,263,0.757,0.0,0.0,0.0,146,0.0,0.0,0.0,259,595,1950,budkowa01,United States
+20,Jack Burmaster,G,23,SHE,61,0.0,0.0,237,711,0.33299999999999996,0.0,0.0,0.0,237,711,0.33299999999999996,0.33299999999999996,124,182,0.6809999999999999,0.0,0.0,0.0,179,0.0,0.0,0.0,237,598,1950,burmaja01,United States
+21,Tommy Byrnes,F-G,26,BLB,53,0.0,0.0,120,397,0.302,0.0,0.0,0.0,120,397,0.302,0.302,87,124,0.7020000000000001,0.0,0.0,0.0,88,0.0,0.0,0.0,76,327,1950,byrneto01,United States
+22,Bill Calhoun,SG,22,ROC,62,0.0,0.0,207,549,0.377,0.0,0.0,0.0,207,549,0.377,0.377,146,203,0.7190000000000001,0.0,0.0,0.0,115,0.0,0.0,0.0,100,560,1950,calhobi01,United States
+23,Don Carlson,G-F,30,MNL,57,0.0,0.0,99,290,0.341,0.0,0.0,0.0,99,290,0.341,0.341,69,95,0.726,0.0,0.0,0.0,76,0.0,0.0,0.0,126,267,1950,carlsdo01,United States
+24,Bob Carpenter,F-C,32,FTW,66,0.0,0.0,212,617,0.344,0.0,0.0,0.0,212,617,0.344,0.344,190,256,0.742,0.0,0.0,0.0,92,0.0,0.0,0.0,168,614,1950,carpebo01,United States
+25,Jake Carter,F-C,25,TOT,24,0.0,0.0,23,75,0.307,0.0,0.0,0.0,23,75,0.307,0.307,36,53,0.679,0.0,0.0,0.0,24,0.0,0.0,0.0,59,82,1950,carteja01,United States
+26,Al Cervi,PG,32,SYR,56,0.0,0.0,143,431,0.332,0.0,0.0,0.0,143,431,0.332,0.332,287,346,0.8290000000000001,0.0,0.0,0.0,264,0.0,0.0,0.0,223,573,1950,cervial01,United States
+27,John Chaney,F-C,29,TOT,16,0.0,0.0,25,86,0.29100000000000004,0.0,0.0,0.0,25,86,0.29100000000000004,0.29100000000000004,20,29,0.69,0.0,0.0,0.0,20,0.0,0.0,0.0,23,70,1950,chanejo01,United States
+28,Leroy Chollet,F,24,SYR,49,0.0,0.0,61,179,0.341,0.0,0.0,0.0,61,179,0.341,0.341,35,56,0.625,0.0,0.0,0.0,37,0.0,0.0,0.0,52,157,1950,chollle01,United States
+29,Bill Closs,SF,28,AND,64,0.0,0.0,283,898,0.315,0.0,0.0,0.0,283,898,0.315,0.315,186,259,0.718,0.0,0.0,0.0,160,0.0,0.0,0.0,190,752,1950,clossbi01,United States
+30,Paul Cloyd,G-F,29,TOT,7,0.0,0.0,7,26,0.26899999999999996,0.0,0.0,0.0,7,26,0.26899999999999996,0.26899999999999996,5,8,0.625,0.0,0.0,0.0,2,0.0,0.0,0.0,5,19,1950,cloydpa01,United States
+31,Jack Coleman,PF,25,ROC,68,0.0,0.0,250,663,0.377,0.0,0.0,0.0,250,663,0.377,0.377,90,121,0.7440000000000001,0.0,0.0,0.0,153,0.0,0.0,0.0,223,590,1950,colemja01,United States
+32,Bobby Cook,G-F,26,SHE,51,0.0,0.0,222,620,0.358,0.0,0.0,0.0,222,620,0.358,0.358,143,181,0.79,0.0,0.0,0.0,158,0.0,0.0,0.0,114,587,1950,cookbo01,United States
+33,Ray Corley,G,22,SYR,60,0.0,0.0,117,370,0.316,0.0,0.0,0.0,117,370,0.316,0.316,75,122,0.615,0.0,0.0,0.0,109,0.0,0.0,0.0,81,309,1950,corlera01,United States
+34,Jack Cotton,F-C,25,DNN,54,0.0,0.0,97,332,0.292,0.0,0.0,0.0,97,332,0.292,0.292,82,161,0.509,0.0,0.0,0.0,65,0.0,0.0,0.0,184,276,1950,cottoja01,United States
+35,Dillard Crocker,PF,25,DNN,53,0.0,0.0,245,840,0.292,0.0,0.0,0.0,245,840,0.292,0.292,233,317,0.735,0.0,0.0,0.0,85,0.0,0.0,0.0,223,723,1950,crockdi01,United States
+36,Chink Crossin,G,26,PHW,64,0.0,0.0,185,574,0.322,0.0,0.0,0.0,185,574,0.322,0.322,79,101,0.782,0.0,0.0,0.0,148,0.0,0.0,0.0,139,449,1950,crossch01,United States
+37,Fran Curran,G,27,ROC,66,0.0,0.0,98,235,0.41700000000000004,0.0,0.0,0.0,98,235,0.41700000000000004,0.41700000000000004,199,241,0.826,0.0,0.0,0.0,71,0.0,0.0,0.0,113,395,1950,currafr01,United States
+38,Jimmy Darden,G,27,DNN,26,0.0,0.0,78,243,0.321,0.0,0.0,0.0,78,243,0.321,0.321,55,80,0.688,0.0,0.0,0.0,67,0.0,0.0,0.0,67,211,1950,dardeji01,United States
+39,Bob Davies,PG,30,ROC,64,0.0,0.0,317,887,0.35700000000000004,0.0,0.0,0.0,317,887,0.35700000000000004,0.35700000000000004,261,347,0.752,0.0,0.0,0.0,294,0.0,0.0,0.0,187,895,1950,daviebo01,United States
+40,Hook Dillon,F,26,WSC,22,0.0,0.0,10,55,0.182,0.0,0.0,0.0,10,55,0.182,0.182,16,22,0.727,0.0,0.0,0.0,5,0.0,0.0,0.0,19,36,1950,dilloho01,United States
+41,Earl Dodd,F,25,DNN,9,0.0,0.0,6,27,0.222,0.0,0.0,0.0,6,27,0.222,0.222,3,5,0.6,0.0,0.0,0.0,6,0.0,0.0,0.0,13,15,1950,doddea01,United States
+42,Joe Dolhon,G,22,BLB,64,0.0,0.0,143,458,0.312,0.0,0.0,0.0,143,458,0.312,0.312,157,214,0.7340000000000001,0.0,0.0,0.0,155,0.0,0.0,0.0,193,443,1950,dolhojo01,United States
+43,Bob Doll,F-C,30,BOS,47,0.0,0.0,120,347,0.34600000000000003,0.0,0.0,0.0,120,347,0.34600000000000003,0.34600000000000003,75,114,0.6579999999999999,0.0,0.0,0.0,108,0.0,0.0,0.0,117,315,1950,dollbo01,United States
+44,Harry Donovan,G,23,NYK,45,0.0,0.0,90,275,0.327,0.0,0.0,0.0,90,275,0.327,0.327,73,106,0.6890000000000001,0.0,0.0,0.0,38,0.0,0.0,0.0,107,253,1950,donovha01,United States
+45,Andy Duncan,F-C,27,ROC,67,0.0,0.0,125,289,0.433,0.0,0.0,0.0,125,289,0.433,0.433,60,108,0.556,0.0,0.0,0.0,42,0.0,0.0,0.0,160,310,1950,duncaan01,United States
+46,Dike Eddleman,SF,27,TRI,64,0.0,0.0,332,906,0.366,0.0,0.0,0.0,332,906,0.366,0.366,162,260,0.623,0.0,0.0,0.0,142,0.0,0.0,0.0,254,826,1950,eddledi01,United States
+47,Gene Englund,F-C,32,TOT,46,0.0,0.0,104,274,0.38,0.0,0.0,0.0,104,274,0.38,0.38,152,192,0.792,0.0,0.0,0.0,41,0.0,0.0,0.0,167,360,1950,engluge01,United States
+48,Bob Evans,G,24,INO,47,0.0,0.0,56,200,0.28,0.0,0.0,0.0,56,200,0.28,0.28,30,44,0.682,0.0,0.0,0.0,55,0.0,0.0,0.0,99,142,1950,evansbo01,United States
+49,Johnny Ezersky,F-G,27,TOT,54,0.0,0.0,143,487,0.294,0.0,0.0,0.0,143,487,0.294,0.294,127,183,0.6940000000000001,0.0,0.0,0.0,86,0.0,0.0,0.0,139,413,1950,ezersjo01,United States
+50,Bob Feerick,F-G,30,WSC,60,0.0,0.0,172,500,0.344,0.0,0.0,0.0,172,500,0.344,0.344,139,174,0.799,0.0,0.0,0.0,127,0.0,0.0,0.0,140,483,1950,feeribo01,United States
+51,George Feigenbaum,G,21,BLB,12,0.0,0.0,14,57,0.24600000000000002,0.0,0.0,0.0,14,57,0.24600000000000002,0.24600000000000002,8,18,0.444,0.0,0.0,0.0,10,0.0,0.0,0.0,15,36,1950,feigege01,United States
+52,Arnie Ferrin,F-G,24,MNL,63,0.0,0.0,132,396,0.33299999999999996,0.0,0.0,0.0,132,396,0.33299999999999996,0.33299999999999996,76,109,0.6970000000000001,0.0,0.0,0.0,95,0.0,0.0,0.0,147,340,1950,ferriar01,United States
+53,Jerry Fleishman,SG,27,PHW,65,0.0,0.0,102,353,0.289,0.0,0.0,0.0,102,353,0.289,0.289,93,151,0.616,0.0,0.0,0.0,118,0.0,0.0,0.0,129,297,1950,fleisje01,United States
+54,Joe Fulks,PF,28,PHW,68,0.0,0.0,336,1209,0.278,0.0,0.0,0.0,336,1209,0.278,0.278,293,421,0.696,0.0,0.0,0.0,56,0.0,0.0,0.0,240,965,1950,fulksjo01,United States
+55,Bill Gabor,SG,27,SYR,56,0.0,0.0,226,671,0.337,0.0,0.0,0.0,226,671,0.337,0.337,157,228,0.6890000000000001,0.0,0.0,0.0,108,0.0,0.0,0.0,198,609,1950,gaborbi01,United States
+56,Elmer Gainer,F-C,31,WAT,15,0.0,0.0,9,35,0.257,0.0,0.0,0.0,9,35,0.257,0.257,6,8,0.75,0.0,0.0,0.0,7,0.0,0.0,0.0,28,24,1950,gaineel01,United States
+57,Harry Gallatin,F-C,22,NYK,68,0.0,0.0,263,664,0.396,0.0,0.0,0.0,263,664,0.396,0.396,277,366,0.757,0.0,0.0,0.0,56,0.0,0.0,0.0,215,803,1950,gallaha01,United States
+58,Vern Gardner,SG,24,PHW,63,0.0,0.0,313,916,0.342,0.0,0.0,0.0,313,916,0.342,0.342,227,296,0.767,0.0,0.0,0.0,119,0.0,0.0,0.0,236,853,1950,gardnve01,United States
+59,Frank Gates,G,29,AND,64,0.0,0.0,113,402,0.281,0.0,0.0,0.0,113,402,0.281,0.281,61,98,0.622,0.0,0.0,0.0,91,0.0,0.0,0.0,147,287,1950,gatesfr01,United States
+60,Dee Gibson,F-G,26,TRI,44,0.0,0.0,77,245,0.314,0.0,0.0,0.0,77,245,0.314,0.314,127,177,0.718,0.0,0.0,0.0,126,0.0,0.0,0.0,113,281,1950,gibsode01,United States
+61,Hoot Gibson,F-C,28,TOT,32,0.0,0.0,67,195,0.344,0.0,0.0,0.0,67,195,0.344,0.344,42,64,0.6559999999999999,0.0,0.0,0.0,37,0.0,0.0,0.0,106,176,1950,gibsoho01,United States
+62,Chuck Gilmur,F-C,27,WSC,68,0.0,0.0,127,379,0.335,0.0,0.0,0.0,127,379,0.335,0.335,164,241,0.68,0.0,0.0,0.0,108,0.0,0.0,0.0,275,418,1950,gilmuch01,United States
+63,Normie Glick,F,22,MNL,1,0.0,0.0,1,1,1.0,0.0,0.0,0.0,1,1,1.0,1.0,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,1,2,1950,glickno01,United States
+64,Paul Gordon,F,22,BLB,4,0.0,0.0,0,6,0.0,0.0,0.0,0.0,0,6,0.0,0.0,3,5,0.6,0.0,0.0,0.0,3,0.0,0.0,0.0,3,3,1950,gordopa01,United States
+65,Joe Graboski,F-C,20,CHS,57,0.0,0.0,75,247,0.304,0.0,0.0,0.0,75,247,0.304,0.304,53,89,0.596,0.0,0.0,0.0,37,0.0,0.0,0.0,95,203,1950,grabojo01,United States
+66,Bud Grant,F,22,MNL,35,0.0,0.0,42,115,0.365,0.0,0.0,0.0,42,115,0.365,0.365,7,17,0.41200000000000003,0.0,0.0,0.0,19,0.0,0.0,0.0,36,91,1950,grantbu01,United States
+67,Don Grate,F-G,26,SHE,2,0.0,0.0,1,6,0.16699999999999998,0.0,0.0,0.0,1,6,0.16699999999999998,0.16699999999999998,2,2,1.0,0.0,0.0,0.0,3,0.0,0.0,0.0,3,4,1950,gratedo01,United States
+68,Alex Groza,C,23,INO,64,0.0,0.0,521,1090,0.478,0.0,0.0,0.0,521,1090,0.478,0.478,454,623,0.7290000000000001,0.0,0.0,0.0,162,0.0,0.0,0.0,221,1496,1950,grozaal01,United States
+69,Al Guokas,F-G,24,TOT,57,0.0,0.0,93,299,0.311,0.0,0.0,0.0,93,299,0.311,0.311,28,50,0.56,0.0,0.0,0.0,95,0.0,0.0,0.0,143,214,1950,guokaal01,United States
+70,Robert Hahn,C,24,CHS,10,0.0,0.0,4,13,0.308,0.0,0.0,0.0,4,13,0.308,0.308,2,7,0.28600000000000003,0.0,0.0,0.0,1,0.0,0.0,0.0,17,10,1950,hahnro01,United States
+71,Chick Halbert,C,30,WSC,68,0.0,0.0,108,284,0.38,0.0,0.0,0.0,108,284,0.38,0.38,112,175,0.64,0.0,0.0,0.0,89,0.0,0.0,0.0,136,328,1950,halbech01,United States
+72,Bruce Hale,G-F,31,INO,64,0.0,0.0,217,614,0.353,0.0,0.0,0.0,217,614,0.353,0.353,223,285,0.782,0.0,0.0,0.0,226,0.0,0.0,0.0,143,657,1950,halebr01,United States
+73,Dale Hamilton,G-F,30,WAT,14,0.0,0.0,8,33,0.242,0.0,0.0,0.0,8,33,0.242,0.242,9,19,0.474,0.0,0.0,0.0,17,0.0,0.0,0.0,30,25,1950,hamilda01,United States
+74,Alex Hannum,PF,26,SYR,64,0.0,0.0,177,488,0.363,0.0,0.0,0.0,177,488,0.363,0.363,128,186,0.688,0.0,0.0,0.0,129,0.0,0.0,0.0,264,482,1950,hannual01,United States
+75,John Hargis,G-F,29,AND,60,0.0,0.0,223,550,0.405,0.0,0.0,0.0,223,550,0.405,0.405,197,277,0.711,0.0,0.0,0.0,102,0.0,0.0,0.0,170,643,1950,hargijo01,United States
+76,Bob Harris,F-C,22,FTW,62,0.0,0.0,168,465,0.361,0.0,0.0,0.0,168,465,0.361,0.361,140,223,0.628,0.0,0.0,0.0,129,0.0,0.0,0.0,190,476,1950,harribo01,United States
+77,Bob Harrison,G,22,MNL,66,0.0,0.0,125,348,0.359,0.0,0.0,0.0,125,348,0.359,0.359,50,74,0.6759999999999999,0.0,0.0,0.0,131,0.0,0.0,0.0,175,300,1950,harribo02,United States
+78,Billy Hassett,G,28,TOT,60,0.0,0.0,84,302,0.278,0.0,0.0,0.0,84,302,0.278,0.278,104,161,0.6459999999999999,0.0,0.0,0.0,137,0.0,0.0,0.0,136,272,1950,hassebi01,United States
+79,Marshall Hawkins,F,25,INO,39,0.0,0.0,55,195,0.282,0.0,0.0,0.0,55,195,0.282,0.282,42,61,0.6890000000000001,0.0,0.0,0.0,51,0.0,0.0,0.0,87,152,1950,hawkima01,United States
+80,Bill Henry,C,25,TOT,63,0.0,0.0,89,278,0.32,0.0,0.0,0.0,89,278,0.32,0.32,118,176,0.67,0.0,0.0,0.0,48,0.0,0.0,0.0,122,296,1950,henrybi01,United States
+81,Bill Herman,G,25,DNN,13,0.0,0.0,25,65,0.385,0.0,0.0,0.0,25,65,0.385,0.385,6,11,0.545,0.0,0.0,0.0,15,0.0,0.0,0.0,13,56,1950,hermabi01,United States
+82,Kleggie Hermsen,C-F,26,CHS,67,0.0,0.0,196,615,0.319,0.0,0.0,0.0,196,615,0.319,0.319,153,247,0.619,0.0,0.0,0.0,98,0.0,0.0,0.0,267,545,1950,hermskl01,United States
+83,Sonny Hertzberg,G,27,BOS,68,0.0,0.0,275,865,0.318,0.0,0.0,0.0,275,865,0.318,0.318,143,191,0.7490000000000001,0.0,0.0,0.0,200,0.0,0.0,0.0,153,693,1950,hertzso01,United States
+84,Paul Hoffman,G-F,24,BLB,60,0.0,0.0,312,914,0.341,0.0,0.0,0.0,312,914,0.341,0.341,242,364,0.665,0.0,0.0,0.0,161,0.0,0.0,0.0,234,866,1950,hoffmpa01,United States
+85,Joe Holland,SF,24,INO,64,0.0,0.0,145,453,0.32,0.0,0.0,0.0,145,453,0.32,0.32,98,142,0.69,0.0,0.0,0.0,130,0.0,0.0,0.0,220,388,1950,hollajo01,United States
+86,Red Holzman,PG,29,ROC,68,0.0,0.0,206,625,0.33,0.0,0.0,0.0,206,625,0.33,0.33,144,210,0.6859999999999999,0.0,0.0,0.0,200,0.0,0.0,0.0,67,556,1950,holzmre01,United States
+87,Gene James,F,24,NYK,29,0.0,0.0,19,64,0.297,0.0,0.0,0.0,19,64,0.297,0.297,14,31,0.452,0.0,0.0,0.0,20,0.0,0.0,0.0,53,52,1950,jamesge01,United States
+88,Howie Janotta,F,25,BLB,9,0.0,0.0,9,30,0.3,0.0,0.0,0.0,9,30,0.3,0.3,13,16,0.813,0.0,0.0,0.0,4,0.0,0.0,0.0,10,31,1950,janotho01,United States
+89,Tony Jaros,F-G,29,MNL,61,0.0,0.0,84,289,0.29100000000000004,0.0,0.0,0.0,84,289,0.29100000000000004,0.29100000000000004,72,96,0.75,0.0,0.0,0.0,60,0.0,0.0,0.0,106,240,1950,jarosto01,United States
+90,Buddy Jeannette,G,32,BLB,37,0.0,0.0,42,148,0.284,0.0,0.0,0.0,42,148,0.284,0.284,109,133,0.82,0.0,0.0,0.0,93,0.0,0.0,0.0,82,193,1950,jeannbu01,United States
+91,Arnie Johnson,SF,29,ROC,68,0.0,0.0,149,376,0.396,0.0,0.0,0.0,149,376,0.396,0.396,200,294,0.68,0.0,0.0,0.0,141,0.0,0.0,0.0,260,498,1950,johnsar01,United States
+92,Ralph Johnson,PG,28,TOT,67,0.0,0.0,243,779,0.312,0.0,0.0,0.0,243,779,0.312,0.312,104,129,0.8059999999999999,0.0,0.0,0.0,171,0.0,0.0,0.0,207,590,1950,johnsra01,United States
+93,Wah Wah Jones,PF,23,INO,60,0.0,0.0,264,706,0.374,0.0,0.0,0.0,264,706,0.374,0.374,223,297,0.7509999999999999,0.0,0.0,0.0,194,0.0,0.0,0.0,241,751,1950,joneswa01,United States
+94,Noble Jorgensen,C,24,SHE,54,0.0,0.0,218,618,0.353,0.0,0.0,0.0,218,618,0.353,0.353,268,350,0.7659999999999999,0.0,0.0,0.0,90,0.0,0.0,0.0,201,704,1950,jorgeno01,United States
+95,George Kaftan,SF,21,BOS,55,0.0,0.0,199,535,0.37200000000000005,0.0,0.0,0.0,199,535,0.37200000000000005,0.37200000000000005,136,208,0.654,0.0,0.0,0.0,145,0.0,0.0,0.0,92,534,1950,kaftage01,United States
+96,Leo Katkaveck,G,26,WSC,54,0.0,0.0,101,330,0.306,0.0,0.0,0.0,101,330,0.306,0.306,34,56,0.607,0.0,0.0,0.0,68,0.0,0.0,0.0,102,236,1950,katkale01,United States
+97,Jack Kerris,PF,25,TOT,68,0.0,0.0,157,481,0.326,0.0,0.0,0.0,157,481,0.326,0.326,169,260,0.65,0.0,0.0,0.0,118,0.0,0.0,0.0,175,483,1950,kerrija01,United States
+98,Bob Kinney,C-F,29,BOS,60,0.0,0.0,233,621,0.375,0.0,0.0,0.0,233,621,0.375,0.375,201,320,0.628,0.0,0.0,0.0,100,0.0,0.0,0.0,251,667,1950,kinnebo01,United States
+99,Walt Kirk,PG,25,TOT,58,0.0,0.0,97,361,0.26899999999999996,0.0,0.0,0.0,97,361,0.26899999999999996,0.26899999999999996,155,216,0.718,0.0,0.0,0.0,103,0.0,0.0,0.0,155,349,1950,kirkwa01,United States
+100,Leo Klier,F-G,26,FTW,66,0.0,0.0,157,516,0.304,0.0,0.0,0.0,157,516,0.304,0.304,141,190,0.742,0.0,0.0,0.0,121,0.0,0.0,0.0,177,455,1950,klierle01,United States
+101,Duane Klueh,G,24,TOT,52,0.0,0.0,159,414,0.384,0.0,0.0,0.0,159,414,0.384,0.384,157,222,0.7070000000000001,0.0,0.0,0.0,91,0.0,0.0,0.0,111,475,1950,kluehdu01,United States
+102,Lee Knorek,C,28,BLB,1,0.0,0.0,0,2,0.0,0.0,0.0,0.0,0,2,0.0,0.0,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,4,0,1950,knorele01,United States
+103,Milo Komenich,F-C,29,AND,64,0.0,0.0,244,861,0.28300000000000003,0.0,0.0,0.0,244,861,0.28300000000000003,0.28300000000000003,146,250,0.584,0.0,0.0,0.0,124,0.0,0.0,0.0,246,634,1950,komenmi01,United States
+104,Leo Kubiak,G,22,WAT,62,0.0,0.0,259,794,0.326,0.0,0.0,0.0,259,794,0.326,0.326,192,236,0.8140000000000001,0.0,0.0,0.0,201,0.0,0.0,0.0,250,710,1950,kubiale01,United States
+105,Frank Kudelka,G-F,24,CHS,65,0.0,0.0,172,528,0.326,0.0,0.0,0.0,172,528,0.326,0.326,89,140,0.636,0.0,0.0,0.0,132,0.0,0.0,0.0,198,433,1950,kudelfr01,United States
+106,Walt Lautenbach,G-F,27,SHE,55,0.0,0.0,100,332,0.301,0.0,0.0,0.0,100,332,0.301,0.301,38,55,0.691,0.0,0.0,0.0,73,0.0,0.0,0.0,122,238,1950,lautewa01,United States
+107,Tony Lavelli,F,23,BOS,56,0.0,0.0,162,436,0.37200000000000005,0.0,0.0,0.0,162,436,0.37200000000000005,0.37200000000000005,168,197,0.853,0.0,0.0,0.0,40,0.0,0.0,0.0,107,492,1950,lavelto01,United States
+108,Ed Leede,F-G,22,BOS,64,0.0,0.0,174,507,0.34299999999999997,0.0,0.0,0.0,174,507,0.34299999999999997,0.34299999999999997,223,316,0.706,0.0,0.0,0.0,130,0.0,0.0,0.0,167,571,1950,leedeed01,United States
+109,Andrew Levane,F-G,29,SYR,60,0.0,0.0,139,418,0.33299999999999996,0.0,0.0,0.0,139,418,0.33299999999999996,0.33299999999999996,54,85,0.635,0.0,0.0,0.0,156,0.0,0.0,0.0,106,332,1950,levanan01,United States
+110,Freddie Lewis,F-G,29,TOT,34,0.0,0.0,46,184,0.25,0.0,0.0,0.0,46,184,0.25,0.25,25,32,0.7809999999999999,0.0,0.0,0.0,25,0.0,0.0,0.0,40,117,1950,lewisfr01,United States
+111,Ron Livingstone,C,24,TOT,54,0.0,0.0,163,579,0.282,0.0,0.0,0.0,163,579,0.282,0.282,122,177,0.6890000000000001,0.0,0.0,0.0,141,0.0,0.0,0.0,260,448,1950,livinro01,United States
+112,John Logan,G,29,STB,62,0.0,0.0,251,759,0.331,0.0,0.0,0.0,251,759,0.331,0.331,253,323,0.7829999999999999,0.0,0.0,0.0,240,0.0,0.0,0.0,206,755,1950,loganjo01,United States
+113,Ray Lumpp,G,26,NYK,58,0.0,0.0,91,283,0.322,0.0,0.0,0.0,91,283,0.322,0.322,86,108,0.7959999999999999,0.0,0.0,0.0,90,0.0,0.0,0.0,117,268,1950,lumppra01,United States
+114,Ed Macauley,C-F,21,STB,67,0.0,0.0,351,882,0.39799999999999996,0.0,0.0,0.0,351,882,0.39799999999999996,0.39799999999999996,379,528,0.718,0.0,0.0,0.0,200,0.0,0.0,0.0,221,1081,1950,macaued01,United States
+115,Johnny Macknowski,G-F,27,SYR,59,0.0,0.0,154,463,0.33299999999999996,0.0,0.0,0.0,154,463,0.33299999999999996,0.33299999999999996,131,178,0.736,0.0,0.0,0.0,65,0.0,0.0,0.0,128,439,1950,macknjo01,United States
+116,John Mahnken,C,27,TOT,62,0.0,0.0,132,495,0.267,0.0,0.0,0.0,132,495,0.267,0.267,77,115,0.67,0.0,0.0,0.0,108,0.0,0.0,0.0,231,341,1950,mahnkjo01,United States
+117,John Mandic,F-C,30,TOT,25,0.0,0.0,22,75,0.293,0.0,0.0,0.0,22,75,0.293,0.293,22,32,0.688,0.0,0.0,0.0,8,0.0,0.0,0.0,54,66,1950,mandijo01,United States
+118,Slater Martin,PG,24,MNL,67,0.0,0.0,106,302,0.35100000000000003,0.0,0.0,0.0,106,302,0.35100000000000003,0.35100000000000003,59,93,0.634,0.0,0.0,0.0,148,0.0,0.0,0.0,162,271,1950,martisl01,United States
+119,Ariel Maughan,F,26,STB,68,0.0,0.0,160,574,0.27899999999999997,0.0,0.0,0.0,160,574,0.27899999999999997,0.27899999999999997,157,205,0.7659999999999999,0.0,0.0,0.0,101,0.0,0.0,0.0,174,477,1950,maughar01,United States
+120,Matt Mazza,F,26,SHE,26,0.0,0.0,33,110,0.3,0.0,0.0,0.0,33,110,0.3,0.3,32,45,0.711,0.0,0.0,0.0,29,0.0,0.0,0.0,34,98,1950,mazzama01,United States
+121,Mike McCarron,G,27,TOT,8,0.0,0.0,3,15,0.2,0.0,0.0,0.0,3,15,0.2,0.2,3,5,0.6,0.0,0.0,0.0,3,0.0,0.0,0.0,5,9,1950,mccarmi01,United States
+122,Dick McGuire,PG,24,NYK,68,0.0,0.0,190,563,0.337,0.0,0.0,0.0,190,563,0.337,0.337,204,313,0.652,0.0,0.0,0.0,386,0.0,0.0,0.0,160,584,1950,mcguidi01,United States
+123,Bones McKinney,SF,31,WSC,53,0.0,0.0,187,631,0.29600000000000004,0.0,0.0,0.0,187,631,0.29600000000000004,0.29600000000000004,118,152,0.7759999999999999,0.0,0.0,0.0,88,0.0,0.0,0.0,185,492,1950,mckinbo01,United States
+124,Mal McMullen,F-C,22,INO,58,0.0,0.0,123,380,0.324,0.0,0.0,0.0,123,380,0.324,0.324,77,141,0.546,0.0,0.0,0.0,87,0.0,0.0,0.0,212,323,1950,mcmulma01,United States
+125,Dick Mehen,PF,27,WAT,62,0.0,0.0,347,826,0.42,0.0,0.0,0.0,347,826,0.42,0.42,198,281,0.705,0.0,0.0,0.0,191,0.0,0.0,0.0,203,892,1950,mehendi01,United States
+126,Ken Menke,G,27,WAT,6,0.0,0.0,6,17,0.353,0.0,0.0,0.0,6,17,0.353,0.353,3,8,0.375,0.0,0.0,0.0,7,0.0,0.0,0.0,7,15,1950,menkeke01,United States
+127,Stan Miasek,C-F,26,CHS,68,0.0,0.0,176,462,0.381,0.0,0.0,0.0,176,462,0.381,0.381,146,221,0.6609999999999999,0.0,0.0,0.0,75,0.0,0.0,0.0,264,498,1950,miasest01,United States
+128,Ed Mikan,C,24,TOT,65,0.0,0.0,89,321,0.27699999999999997,0.0,0.0,0.0,89,321,0.27699999999999997,0.27699999999999997,92,120,0.767,0.0,0.0,0.0,42,0.0,0.0,0.0,143,270,1950,mikaned01,United States
+129,George Mikan,C,25,MNL,68,0.0,0.0,649,1595,0.40700000000000003,0.0,0.0,0.0,649,1595,0.40700000000000003,0.40700000000000003,567,728,0.779,0.0,0.0,0.0,197,0.0,0.0,0.0,297,1865,1950,mikange01,United States
+130,Vern Mikkelsen,PF,21,MNL,68,0.0,0.0,288,722,0.39899999999999997,0.0,0.0,0.0,288,722,0.39899999999999997,0.39899999999999997,215,286,0.752,0.0,0.0,0.0,123,0.0,0.0,0.0,222,791,1950,mikkeve01,United States
+131,Al Miksis,C,21,WAT,8,0.0,0.0,5,21,0.23800000000000002,0.0,0.0,0.0,5,21,0.23800000000000002,0.23800000000000002,17,21,0.81,0.0,0.0,0.0,4,0.0,0.0,0.0,22,27,1950,miksial01,United States
+132,Murray Mitchell,C,26,AND,2,0.0,0.0,1,3,0.33299999999999996,0.0,0.0,0.0,1,3,0.33299999999999996,0.33299999999999996,0,0,0.0,0.0,0.0,0.0,2,0.0,0.0,0.0,1,2,1950,mitchmu01,United States
+133,Leo Mogus,F-C,28,PHW,64,0.0,0.0,172,434,0.396,0.0,0.0,0.0,172,434,0.396,0.396,218,300,0.727,0.0,0.0,0.0,99,0.0,0.0,0.0,169,562,1950,mogusle01,United States
+134,Max Morris,F-C,24,SHE,62,0.0,0.0,252,694,0.363,0.0,0.0,0.0,252,694,0.363,0.363,277,415,0.667,0.0,0.0,0.0,194,0.0,0.0,0.0,172,781,1950,morrima01,United States
+135,Joe Mullaney,G,25,BOS,37,0.0,0.0,9,70,0.129,0.0,0.0,0.0,9,70,0.129,0.129,12,15,0.8,0.0,0.0,0.0,52,0.0,0.0,0.0,30,30,1950,mullajo01,United States
+136,Jerry Nagel,G,21,FTW,14,0.0,0.0,6,28,0.214,0.0,0.0,0.0,6,28,0.214,0.214,1,4,0.25,0.0,0.0,0.0,18,0.0,0.0,0.0,11,13,1950,nagelje01,United States
+137,Jack Nichols,PF,23,TOT,67,0.0,0.0,310,848,0.366,0.0,0.0,0.0,310,848,0.366,0.366,259,344,0.753,0.0,0.0,0.0,142,0.0,0.0,0.0,179,879,1950,nichoja01,United States
+138,Richie Niemiera,G-F,28,TOT,60,0.0,0.0,110,350,0.314,0.0,0.0,0.0,110,350,0.314,0.314,104,139,0.748,0.0,0.0,0.0,116,0.0,0.0,0.0,77,324,1950,niemiri01,United States
+139,Paul Noel,F,25,NYK,65,0.0,0.0,98,291,0.337,0.0,0.0,0.0,98,291,0.337,0.337,53,87,0.609,0.0,0.0,0.0,67,0.0,0.0,0.0,132,249,1950,noelpa01,United States
+140,Jim Nolan,C,22,PHW,5,0.0,0.0,4,21,0.19,0.0,0.0,0.0,4,21,0.19,0.19,0,0,0.0,0.0,0.0,0.0,4,0.0,0.0,0.0,14,8,1950,nolanji01,United States
+141,Johnny Norlander,F,28,WSC,40,0.0,0.0,99,293,0.33799999999999997,0.0,0.0,0.0,99,293,0.33799999999999997,0.33799999999999997,53,85,0.624,0.0,0.0,0.0,33,0.0,0.0,0.0,71,251,1950,norlajo01,United States
+142,George Nostrand,C-F,26,TOT,55,0.0,0.0,78,255,0.306,0.0,0.0,0.0,78,255,0.306,0.306,56,99,0.5660000000000001,0.0,0.0,0.0,29,0.0,0.0,0.0,118,212,1950,nostrge01,United States
+143,Mike Novak,C-F,34,TOT,60,0.0,0.0,37,149,0.248,0.0,0.0,0.0,37,149,0.248,0.248,25,47,0.532,0.0,0.0,0.0,61,0.0,0.0,0.0,139,99,1950,novakmi01,United States
+144,Dermie O'Connell,G,21,TOT,61,0.0,0.0,111,425,0.261,0.0,0.0,0.0,111,425,0.261,0.261,47,89,0.528,0.0,0.0,0.0,91,0.0,0.0,0.0,91,269,1950,oconnde01,United States
+145,Andy O'Donnell,G,24,BLB,25,0.0,0.0,38,108,0.35200000000000004,0.0,0.0,0.0,38,108,0.35200000000000004,0.35200000000000004,14,18,0.778,0.0,0.0,0.0,17,0.0,0.0,0.0,32,90,1950,odonnan01,United States
+146,Dick O'Keefe,G-F,26,WSC,68,0.0,0.0,162,529,0.306,0.0,0.0,0.0,162,529,0.306,0.306,150,203,0.7390000000000001,0.0,0.0,0.0,74,0.0,0.0,0.0,247,474,1950,okeefdi01,United States
+147,John Oldham,G,26,FTW,59,0.0,0.0,127,426,0.298,0.0,0.0,0.0,127,426,0.298,0.298,103,145,0.71,0.0,0.0,0.0,99,0.0,0.0,0.0,192,357,1950,oldhajo01,United States
+148,Gene Ollrich,G,27,WAT,14,0.0,0.0,17,72,0.23600000000000002,0.0,0.0,0.0,17,72,0.23600000000000002,0.23600000000000002,10,14,0.7140000000000001,0.0,0.0,0.0,24,0.0,0.0,0.0,34,44,1950,ollrige01,United States
+149,Johnny Orr,F,22,TOT,34,0.0,0.0,40,118,0.33899999999999997,0.0,0.0,0.0,40,118,0.33899999999999997,0.33899999999999997,12,14,0.857,0.0,0.0,0.0,20,0.0,0.0,0.0,34,92,1950,orrjo01,United States
+150,Don Otten,C,28,TOT,64,0.0,0.0,242,648,0.373,0.0,0.0,0.0,242,648,0.373,0.373,341,463,0.737,0.0,0.0,0.0,91,0.0,0.0,0.0,246,825,1950,ottendo01,United States
+151,Mac Otten,F-C,24,TOT,59,0.0,0.0,51,155,0.32899999999999996,0.0,0.0,0.0,51,155,0.32899999999999996,0.32899999999999996,40,81,0.494,0.0,0.0,0.0,36,0.0,0.0,0.0,119,142,1950,ottenma01,United States
+152,Red Owens,SG,24,TOT,61,0.0,0.0,86,288,0.299,0.0,0.0,0.0,86,288,0.299,0.299,68,101,0.6729999999999999,0.0,0.0,0.0,73,0.0,0.0,0.0,152,240,1950,owensre01,United States
+153,Easy Parham,F-G,28,STB,66,0.0,0.0,137,421,0.325,0.0,0.0,0.0,137,421,0.325,0.325,88,178,0.494,0.0,0.0,0.0,132,0.0,0.0,0.0,158,362,1950,parhaea01,United States
+154,Jack Parkinson,G,25,INO,4,0.0,0.0,1,12,0.083,0.0,0.0,0.0,1,12,0.083,0.083,1,1,1.0,0.0,0.0,0.0,2,0.0,0.0,0.0,3,3,1950,parkija01,United States
+155,Charlie Parsley,G,24,PHW,9,0.0,0.0,8,31,0.258,0.0,0.0,0.0,8,31,0.258,0.258,6,7,0.857,0.0,0.0,0.0,8,0.0,0.0,0.0,7,22,1950,parslch01,United States
+156,Stan Patrick,F-G,27,TOT,53,0.0,0.0,116,294,0.395,0.0,0.0,0.0,116,294,0.395,0.395,89,147,0.605,0.0,0.0,0.0,74,0.0,0.0,0.0,76,321,1950,patrist01,United States
+157,Johnny Payak,SG,23,TOT,52,0.0,0.0,98,331,0.29600000000000004,0.0,0.0,0.0,98,331,0.29600000000000004,0.29600000000000004,121,173,0.6990000000000001,0.0,0.0,0.0,86,0.0,0.0,0.0,113,317,1950,payakjo01,United States
+158,Warren Perkins,G-F,27,TRI,60,0.0,0.0,128,422,0.303,0.0,0.0,0.0,128,422,0.303,0.303,115,195,0.59,0.0,0.0,0.0,114,0.0,0.0,0.0,260,371,1950,perkiwa01,United States
+159,Ed Peterson,C,25,SYR,62,0.0,0.0,167,390,0.428,0.0,0.0,0.0,167,390,0.428,0.428,111,185,0.6,0.0,0.0,0.0,33,0.0,0.0,0.0,198,445,1950,petered01,United States
+160,Jack Phelan,F,24,TOT,55,0.0,0.0,87,268,0.325,0.0,0.0,0.0,87,268,0.325,0.325,52,90,0.578,0.0,0.0,0.0,57,0.0,0.0,0.0,151,226,1950,phelaja01,United States
+161,Andy Phillip,G-F,27,CHS,65,0.0,0.0,284,814,0.349,0.0,0.0,0.0,284,814,0.349,0.349,190,270,0.7040000000000001,0.0,0.0,0.0,377,0.0,0.0,0.0,210,758,1950,phillan01,United States
+162,Jim Pollard,SF,27,MNL,66,0.0,0.0,394,1140,0.34600000000000003,0.0,0.0,0.0,394,1140,0.34600000000000003,0.34600000000000003,185,242,0.764,0.0,0.0,0.0,252,0.0,0.0,0.0,143,973,1950,pollaji01,United States
+163,John Pritchard,C,23,WAT,7,0.0,0.0,9,29,0.31,0.0,0.0,0.0,9,29,0.31,0.31,4,11,0.364,0.0,0.0,0.0,8,0.0,0.0,0.0,14,22,1950,pritcjo01,United States
+164,Les Pugh,C-F,27,BLB,56,0.0,0.0,68,273,0.249,0.0,0.0,0.0,68,273,0.249,0.249,115,136,0.846,0.0,0.0,0.0,16,0.0,0.0,0.0,118,251,1950,pughle01,United States
+165,Don Putman,G,27,STB,57,0.0,0.0,51,200,0.255,0.0,0.0,0.0,51,200,0.255,0.255,33,52,0.635,0.0,0.0,0.0,90,0.0,0.0,0.0,116,135,1950,putnado01,United States
+166,George Ratkovicz,PF,27,SYR,62,0.0,0.0,162,439,0.369,0.0,0.0,0.0,162,439,0.369,0.369,211,348,0.606,0.0,0.0,0.0,124,0.0,0.0,0.0,201,535,1950,ratkoge01,United States
+167,Don Ray,F-C,28,TRI,61,0.0,0.0,130,403,0.32299999999999995,0.0,0.0,0.0,130,403,0.32299999999999995,0.32299999999999995,104,149,0.698,0.0,0.0,0.0,60,0.0,0.0,0.0,147,364,1950,raydo01,United States
+168,Chick Reiser,G-F,35,WSC,67,0.0,0.0,197,646,0.305,0.0,0.0,0.0,197,646,0.305,0.305,212,254,0.835,0.0,0.0,0.0,174,0.0,0.0,0.0,223,606,1950,reisech01,United States
+169,Arnie Risen,C,25,ROC,62,0.0,0.0,206,598,0.344,0.0,0.0,0.0,206,598,0.344,0.344,213,321,0.664,0.0,0.0,0.0,92,0.0,0.0,0.0,228,625,1950,risenar01,United States
+170,Tex Ritter,G-F,25,NYK,62,0.0,0.0,100,297,0.337,0.0,0.0,0.0,100,297,0.337,0.337,125,176,0.71,0.0,0.0,0.0,51,0.0,0.0,0.0,101,325,1950,rittete01,United States
+171,Bill Roberts,C,24,STB,67,0.0,0.0,77,222,0.34700000000000003,0.0,0.0,0.0,77,222,0.34700000000000003,0.34700000000000003,28,39,0.718,0.0,0.0,0.0,24,0.0,0.0,0.0,90,182,1950,roberbi01,United States
+172,Red Rocha,C,26,STB,65,0.0,0.0,275,679,0.405,0.0,0.0,0.0,275,679,0.405,0.405,220,313,0.703,0.0,0.0,0.0,155,0.0,0.0,0.0,257,770,1950,rochare01,United States
+173,Kenny Rollins,PG,26,CHS,66,0.0,0.0,144,421,0.342,0.0,0.0,0.0,144,421,0.342,0.342,66,89,0.742,0.0,0.0,0.0,131,0.0,0.0,0.0,129,354,1950,rollike01,United States
+174,Bob Royer,G,22,DNN,42,0.0,0.0,78,231,0.33799999999999997,0.0,0.0,0.0,78,231,0.33799999999999997,0.33799999999999997,41,58,0.7070000000000001,0.0,0.0,0.0,85,0.0,0.0,0.0,72,197,1950,royerbo01,United States
+175,Jerry Rullo,G,26,PHW,4,0.0,0.0,3,9,0.33299999999999996,0.0,0.0,0.0,3,9,0.33299999999999996,0.33299999999999996,1,1,1.0,0.0,0.0,0.0,2,0.0,0.0,0.0,2,7,1950,rulloje01,United States
+176,Ed Sadowski,C,32,TOT,69,0.0,0.0,299,922,0.324,0.0,0.0,0.0,299,922,0.324,0.324,274,373,0.735,0.0,0.0,0.0,136,0.0,0.0,0.0,244,872,1950,sadowed01,United States
+177,Kenny Sailors,G,29,DNN,57,0.0,0.0,329,944,0.349,0.0,0.0,0.0,329,944,0.349,0.349,329,456,0.721,0.0,0.0,0.0,229,0.0,0.0,0.0,242,987,1950,sailoke01,United States
+178,Pep Saul,SG,25,ROC,49,0.0,0.0,74,183,0.40399999999999997,0.0,0.0,0.0,74,183,0.40399999999999997,0.40399999999999997,34,47,0.723,0.0,0.0,0.0,28,0.0,0.0,0.0,33,182,1950,saulpe01,United States
+179,Herm Schaefer,G-F,31,MNL,65,0.0,0.0,122,314,0.389,0.0,0.0,0.0,122,314,0.389,0.389,86,101,0.851,0.0,0.0,0.0,203,0.0,0.0,0.0,104,330,1950,schaehe01,United States
+180,Marv Schatzman,F,22,BLB,34,0.0,0.0,43,174,0.247,0.0,0.0,0.0,43,174,0.247,0.247,29,50,0.58,0.0,0.0,0.0,38,0.0,0.0,0.0,49,115,1950,schatma01,United States
+181,Fred Schaus,F,24,FTW,68,0.0,0.0,351,996,0.35200000000000004,0.0,0.0,0.0,351,996,0.35200000000000004,0.35200000000000004,270,330,0.818,0.0,0.0,0.0,176,0.0,0.0,0.0,232,972,1950,schaufr01,United States
+182,Dolph Schayes,F-C,21,SYR,64,0.0,0.0,348,903,0.385,0.0,0.0,0.0,348,903,0.385,0.385,376,486,0.774,0.0,0.0,0.0,259,0.0,0.0,0.0,225,1072,1950,schaydo01,United States
+183,Milt Schoon,C,27,SHE,62,0.0,0.0,150,366,0.41,0.0,0.0,0.0,150,366,0.41,0.41,196,300,0.653,0.0,0.0,0.0,84,0.0,0.0,0.0,190,496,1950,schoomi01,United States
+184,Howie Schultz,PF,27,TOT,67,0.0,0.0,179,671,0.267,0.0,0.0,0.0,179,671,0.267,0.267,196,282,0.695,0.0,0.0,0.0,169,0.0,0.0,0.0,244,554,1950,schulho01,United States
+185,Dick Schulz,F-G,33,TOT,50,0.0,0.0,63,212,0.297,0.0,0.0,0.0,63,212,0.297,0.297,83,110,0.755,0.0,0.0,0.0,66,0.0,0.0,0.0,106,209,1950,schuldi01,United States
+186,Fred Scolari,PG,27,WSC,66,0.0,0.0,312,910,0.34299999999999997,0.0,0.0,0.0,312,910,0.34299999999999997,0.34299999999999997,236,287,0.8220000000000001,0.0,0.0,0.0,175,0.0,0.0,0.0,181,860,1950,scolafr01,United States
+187,Wayne See,G,26,WAT,61,0.0,0.0,113,303,0.373,0.0,0.0,0.0,113,303,0.373,0.373,94,135,0.696,0.0,0.0,0.0,143,0.0,0.0,0.0,147,320,1950,seewa01,United States
+188,Glen Selbo,G-F,23,SHE,13,0.0,0.0,10,51,0.196,0.0,0.0,0.0,10,51,0.196,0.196,22,29,0.759,0.0,0.0,0.0,23,0.0,0.0,0.0,15,42,1950,selbogl01,United States
+189,Rollie Seltz,G-F,26,AND,34,0.0,0.0,93,309,0.301,0.0,0.0,0.0,93,309,0.301,0.301,80,104,0.769,0.0,0.0,0.0,64,0.0,0.0,0.0,72,266,1950,seltzro01,United States
+190,Jim Seminoff,G-F,27,BOS,65,0.0,0.0,85,283,0.3,0.0,0.0,0.0,85,283,0.3,0.3,142,188,0.755,0.0,0.0,0.0,249,0.0,0.0,0.0,154,312,1950,seminji01,United States
+191,George Senesky,PG,27,PHW,68,0.0,0.0,227,709,0.32,0.0,0.0,0.0,227,709,0.32,0.32,157,223,0.7040000000000001,0.0,0.0,0.0,264,0.0,0.0,0.0,164,611,1950,senesge01,United States
+192,Paul Seymour,G-F,22,SYR,62,0.0,0.0,175,524,0.33399999999999996,0.0,0.0,0.0,175,524,0.33399999999999996,0.33399999999999996,126,176,0.716,0.0,0.0,0.0,189,0.0,0.0,0.0,157,476,1950,seymopa01,United States
+193,Carl Shaeffer,F-G,25,INO,43,0.0,0.0,59,160,0.369,0.0,0.0,0.0,59,160,0.369,0.369,32,57,0.561,0.0,0.0,0.0,40,0.0,0.0,0.0,103,150,1950,shaefca01,United States
+194,Howie Shannon,G-F,26,BOS,67,0.0,0.0,222,646,0.344,0.0,0.0,0.0,222,646,0.344,0.344,143,182,0.7859999999999999,0.0,0.0,0.0,174,0.0,0.0,0.0,148,587,1950,shannho01,United States
+195,Charley Shipp,G-F,36,WAT,23,0.0,0.0,35,137,0.255,0.0,0.0,0.0,35,137,0.255,0.255,37,51,0.725,0.0,0.0,0.0,46,0.0,0.0,0.0,46,107,1950,shippch01,United States
+196,Connie Simmons,C-F,24,NYK,60,0.0,0.0,241,729,0.331,0.0,0.0,0.0,241,729,0.331,0.331,198,299,0.662,0.0,0.0,0.0,102,0.0,0.0,0.0,203,680,1950,simmoco01,United States
+197,Belus Smawley,SG,31,STB,61,0.0,0.0,287,832,0.345,0.0,0.0,0.0,287,832,0.345,0.345,260,314,0.828,0.0,0.0,0.0,215,0.0,0.0,0.0,160,834,1950,smawlbe01,United States
+198,Jack Smiley,F-G,27,TOT,59,0.0,0.0,98,364,0.26899999999999996,0.0,0.0,0.0,98,364,0.26899999999999996,0.26899999999999996,136,201,0.677,0.0,0.0,0.0,161,0.0,0.0,0.0,193,332,1950,smileja01,United States
+199,Chips Sobek,G-F,29,SHE,60,0.0,0.0,95,251,0.37799999999999995,0.0,0.0,0.0,95,251,0.37799999999999995,0.37799999999999995,156,205,0.7609999999999999,0.0,0.0,0.0,95,0.0,0.0,0.0,158,346,1950,sobekch01,United States
+200,Odie Spears,SF,25,CHS,68,0.0,0.0,277,775,0.35700000000000004,0.0,0.0,0.0,277,775,0.35700000000000004,0.35700000000000004,158,230,0.687,0.0,0.0,0.0,159,0.0,0.0,0.0,250,712,1950,spearod01,United States
+201,Art Spector,F,29,BOS,7,0.0,0.0,2,12,0.16699999999999998,0.0,0.0,0.0,2,12,0.16699999999999998,0.16699999999999998,1,4,0.25,0.0,0.0,0.0,3,0.0,0.0,0.0,4,5,1950,spectar01,United States
+202,Ed Stanczak,F,28,AND,57,0.0,0.0,159,456,0.349,0.0,0.0,0.0,159,456,0.349,0.349,203,270,0.752,0.0,0.0,0.0,67,0.0,0.0,0.0,166,521,1950,stanced01,United States
+203,Gene Stump,F-G,26,TOT,49,0.0,0.0,63,213,0.29600000000000004,0.0,0.0,0.0,63,213,0.29600000000000004,0.29600000000000004,37,54,0.685,0.0,0.0,0.0,44,0.0,0.0,0.0,59,163,1950,stumpge01,United States
+204,Mike Todorovich,F-C,26,TOT,65,0.0,0.0,263,852,0.309,0.0,0.0,0.0,263,852,0.309,0.309,266,370,0.7190000000000001,0.0,0.0,0.0,207,0.0,0.0,0.0,230,792,1950,todormi01,United States
+205,Jack Toomay,C-F,27,DNN,62,0.0,0.0,204,514,0.397,0.0,0.0,0.0,204,514,0.397,0.397,186,264,0.705,0.0,0.0,0.0,94,0.0,0.0,0.0,213,594,1950,toomaja01,United States
+206,Bob Tough,G-F,29,TOT,29,0.0,0.0,43,153,0.281,0.0,0.0,0.0,43,153,0.281,0.281,27,40,0.675,0.0,0.0,0.0,38,0.0,0.0,0.0,40,113,1950,toughbo01,United States
+207,Blackie Towery,F-C,29,BLB,68,0.0,0.0,222,678,0.327,0.0,0.0,0.0,222,678,0.327,0.327,153,202,0.757,0.0,0.0,0.0,142,0.0,0.0,0.0,244,597,1950,towerbl01,United States
+208,Dick Triptow,G-F,27,BLB,4,0.0,0.0,0,5,0.0,0.0,0.0,0.0,0,5,0.0,0.0,2,2,1.0,0.0,0.0,0.0,1,0.0,0.0,0.0,5,2,1950,triptdi01,United States
+209,Butch van Breda Kolff,G-F,27,NYK,56,0.0,0.0,55,167,0.32899999999999996,0.0,0.0,0.0,55,167,0.32899999999999996,0.32899999999999996,96,134,0.716,0.0,0.0,0.0,78,0.0,0.0,0.0,111,206,1950,vanbrbu01,United States
+210,Gene Vance,G-F,26,TRI,35,0.0,0.0,110,325,0.33799999999999997,0.0,0.0,0.0,110,325,0.33799999999999997,0.33799999999999997,86,120,0.7170000000000001,0.0,0.0,0.0,121,0.0,0.0,0.0,145,306,1950,vancege01,United States
+211,Ernie Vandeweghe,F-G,21,NYK,42,0.0,0.0,164,390,0.42100000000000004,0.0,0.0,0.0,164,390,0.42100000000000004,0.42100000000000004,93,140,0.664,0.0,0.0,0.0,78,0.0,0.0,0.0,126,421,1950,vandeer01,Canada
+212,Floyd Volker,F-C,28,TOT,54,0.0,0.0,163,527,0.309,0.0,0.0,0.0,163,527,0.309,0.309,71,129,0.55,0.0,0.0,0.0,112,0.0,0.0,0.0,169,397,1950,volkefl01,United States
+213,Whitey Von Nieda,G-F,27,TOT,59,0.0,0.0,120,336,0.35700000000000004,0.0,0.0,0.0,120,336,0.35700000000000004,0.35700000000000004,73,115,0.635,0.0,0.0,0.0,143,0.0,0.0,0.0,127,313,1950,vonniwh01,United States
+214,Clint Wager,C-F,30,FTW,63,0.0,0.0,57,203,0.281,0.0,0.0,0.0,57,203,0.281,0.281,29,47,0.617,0.0,0.0,0.0,90,0.0,0.0,0.0,175,143,1950,wagercl01,United States
+215,Danny Wagner,G,27,SHE,11,0.0,0.0,19,54,0.35200000000000004,0.0,0.0,0.0,19,54,0.35200000000000004,0.35200000000000004,31,35,0.8859999999999999,0.0,0.0,0.0,18,0.0,0.0,0.0,22,69,1950,wagneda01,United States
+216,Brady Walker,PF,28,BOS,68,0.0,0.0,218,583,0.374,0.0,0.0,0.0,218,583,0.374,0.374,72,114,0.632,0.0,0.0,0.0,109,0.0,0.0,0.0,100,508,1950,walkebr01,United States
+217,Paul Walther,SG,22,TOT,53,0.0,0.0,114,290,0.39299999999999996,0.0,0.0,0.0,114,290,0.39299999999999996,0.39299999999999996,63,109,0.578,0.0,0.0,0.0,56,0.0,0.0,0.0,123,291,1950,walthpa01,United States
+218,Bobby Wanzer,G,28,ROC,67,0.0,0.0,254,614,0.414,0.0,0.0,0.0,254,614,0.414,0.414,283,351,0.8059999999999999,0.0,0.0,0.0,214,0.0,0.0,0.0,102,791,1950,wanzebo01,United States
+219,Murray Wier,G,23,TRI,56,0.0,0.0,157,480,0.327,0.0,0.0,0.0,157,480,0.327,0.327,115,166,0.693,0.0,0.0,0.0,107,0.0,0.0,0.0,141,429,1950,wiermu01,United States
+220,D.C. Wilcutt,G,26,STB,37,0.0,0.0,24,73,0.32899999999999996,0.0,0.0,0.0,24,73,0.32899999999999996,0.32899999999999996,29,42,0.69,0.0,0.0,0.0,49,0.0,0.0,0.0,27,77,1950,wilcudc01,United States
+221,Bob Wood,G,28,SHE,6,0.0,0.0,3,14,0.214,0.0,0.0,0.0,3,14,0.214,0.214,1,1,1.0,0.0,0.0,0.0,1,0.0,0.0,0.0,6,7,1950,woodbo01,United States
+222,Max Zaslofsky,SG,24,CHS,68,0.0,0.0,397,1132,0.35100000000000003,0.0,0.0,0.0,397,1132,0.35100000000000003,0.35100000000000003,321,381,0.843,0.0,0.0,0.0,155,0.0,0.0,0.0,185,1115,1950,zasloma01,United States

@@ -3,6 +3,7 @@ from sqlalchemy import create_engine, func
 import pandas as pd
 import NBA_Scraper
 import os
+import time
 
 # Create an instance of Flask
 app = Flask(__name__)
@@ -13,6 +14,7 @@ engine = create_engine("sqlite:///FlaskFiles/PlayerStats.sqlite", echo=True)
 # Route to render index.html template using data from Mongo
 @app.route("/", methods=['GET', 'POST'])
 def home():
+	time.sleep(2)
 	df = pd.read_sql("SELECT * FROM data", con=engine, index_col = None)
 	stats = df.to_html(classes="table table-striped", border=0)
 	try:
@@ -52,6 +54,7 @@ def get_buckets():
 
 @app.route("/custom", methods=['GET', 'POST'])
 def custom_query():
+	time.sleep(2)
 	try:
 		from customq import query
 		columns = pd.read_sql("SELECT * FROM data", con=engine, index_col = None).columns
@@ -59,6 +62,7 @@ def custom_query():
 		stats = df.to_html(classes="table table-striped", border=0)
 	except:
 		stats= 'Query entered is invalid. Please build a new query'
+		columns = pd.read_sql("SELECT * FROM data", con=engine, index_col = None).columns
 	return render_template("custom.html", stats=stats, columns=columns)
 
 @app.route('/inputs', methods=['GET', 'POST'])
@@ -93,9 +97,8 @@ def inputstoo():
 		if order != "":
 			q_string = f'{q_string} ORDER BY {order}'
 		if limit != "":
-			q_string = f'{q_string} ORDER BY {limit}'
+			q_string = f'{q_string} LIMIT {limit}'
 		File_object.write(f"query = '{q_string}'")
-		#File_object.write(f"query = 'SELECT {select} FROM data WHERE {where} GROUP BY {group} ORDER BY {order}'")
 	return redirect("/custom")
 	# return "Test"
 

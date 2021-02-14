@@ -31,15 +31,20 @@ def scraper():
 	player_ids = []
 	for x in range(1, years+1):
 		site_address = browser.current_url
+		## The next several lines of code (until ['Season']) are to clean each base data type specifically 
 		# do not bring year_df...need to drop headers
 		if data_type == 'shooting':
 			year_df = shooting(site_address)
 		else:
 			year_df = pd.read_html(site_address)[0] # our data is the first table on the page
+		if data_type == 'totals':
+			year_df = totals(year_df)
 		if data_type == 'play-by-play':
 			year_df = play_by_play(year_df)
 		if data_type == 'advanced':
 			year_df = advanced(year_df)
+		if data_type == 'per_poss':
+			year_df = per_100(year_df)
 		year_df['Season'] = start_year
 		new_ids = player_id(browser)
 		for each_id in new_ids:
@@ -66,19 +71,49 @@ def player_id(browser):
 		except:
 			pass
 	return player_ids
+
 def advanced(year_df):
 	year_df = year_df.rename(columns={
 		'TS%':'TS',
 		'ORB%':'ORB',
 		'DRB%':'DRB',
-		'DRB%':'DRB',
+		'TRB%':'TRB',
 		'AST%':'AST',
 		'STL%':'STL',
 		'BLK%':'BLK',
 		'TOV%':'TOV',
 		'USG%':'USG',
-		'WS/48':'WS_48'
+		'WS/48':'WS_48',
+		'3PAr': "Ar3P"
 		})
+	return year_df
+
+def totals(year_df):
+	year_df = year_df.rename(columns={
+		'FG%':'FGPc',
+		'3P%':'_3PTPc',
+		'2P%':'_2PTPc',
+		'FT%':'FTPc',
+		'3P':'_3P',
+		'3PA':'_3PA',
+		'2P':'_2P',
+		'2PA':'_2PA',
+		'eFG%':'eFGPc'
+		})
+	return year_df
+
+def per_100(year_df):
+	year_df = year_df.rename(columns={
+		'FG%':'FGPc',
+		'3P%':'_3PTPc',
+		'2P%':'_2PTPc',
+		'FT%':'FTPc',
+		'3P':'_3P',
+		'3PA':'_3PA',
+		'2P':'_2P',
+		'2PA':'_2PA',
+		})
+	return year_df
 
 
 def play_by_play(year_df):
@@ -117,24 +152,26 @@ def play_by_play(year_df):
 def shooting(site_address):
 	year_df = pd.read_html(site_address, header = 1)[0]
 	year_df = year_df.rename(columns={
-	'2P':'2P_FGAxDist',
-	'0-3':'0_3_FGAxDist',
-	'3-10':'3_10_FGAxDist', 
-	'10-16':'10_16_FGAxDist', 
-	'16-3P':'16_3P_FGAxDist', 
-	'3P':'3P_FGAxDist', 
-	'2P.1':'2P_FGPxDist', 
-	'0-3.1':'0_3_FGPxDist', 
-	'3-10.1':'3_10_FGPxDist',
-	'10-16.1':'10_16_FGPxDist', 
-	'16-3P.1':'16_3P_FGPxDist', 
-	'3P.1':'3P_FGPxDist', 
-	'2P.2':'2PAstP', 
-	'3P.2':'3PAstP', 
+	'FG%':'FGP',
+	'Dist.': 'Dist',
+	'2P':'FGAxDist_2P',
+	'0-3':'FGAxDist_0_3',
+	'3-10':'FGAxDist_3_10', 
+	'10-16':'FGAxDist_10_16', 
+	'16-3P':'FGAxDist_16_3P', 
+	'3P':'FGAxDist_3P', 
+	'2P.1':'FGPxDist_2P', 
+	'0-3.1':'FGPxDist_0_3', 
+	'3-10.1':'FGPxDist_3_10',
+	'10-16.1':'FGPxDist_10_16', 
+	'16-3P.1':'FGPxDist_16_3P', 
+	'3P.1':'FGPxDist_3P', 
+	'2P.2':'AstPc_2P', 
+	'3P.2':'AstPc_3P', 
 	'%FGA':'Dunks_FGA', 
 	'#':'Num_Dunks', 
 	'%3PA':'Corner_3PFGA',
-	'3P%':'Corner_3PP', 
+	'3P%':'Corner_3PPc', 
 	'Att.':'Heaves_Att', 
 	'#.1':'Heaves_Made'})
 	return year_df

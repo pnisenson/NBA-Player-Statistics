@@ -1,1 +1,1 @@
-query = 'SELECT Player, Blkd FROM data WHERE C% >= .5 ORDER BY Blkd DESC'
+query = 'SELECT MP FROM data WHERE MP > 0'

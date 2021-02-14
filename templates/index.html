@@ -15,12 +15,13 @@
     <div class="jumbotron text-center" >
       <h1 class="leader-font">NBA Statistics</h1>
       <p><a class="btn btn-primary btn-lg" href="/scrape" role="button">Scrape New Data</a></p>
-
     </div>
-<div class="row">
-  <div class="col-sm-6">
-<form method="post" action="{{ url_for('inputs') }}">
-        <fieldset>
+    <div>
+      <table width="100%">
+        <tr>
+          <td style="vertical-align:top" class="four-square" width="50%">
+            <form method="post" action="{{ url_for('inputs') }}">
+            <fieldset>
             <legend>Please enter inputs below prior to scraping data:</legend>
             <table class="table" align="center">
               <tr>
@@ -40,58 +41,83 @@
                 <td><input name='years' id="years" value="e.g. 5"></td>
               </tr>
             </table>
+          </td>
+          <td style="vertical-align:top" width="50%">
+            <legend>Input/Output Data:</legend>
+            <div class="recent">Most recent inputs:</div>
+            <ul>
+              <li>Years: {{last_inputs[1]}} - {{last_inputs[2]}}</li>
+              <li>Data Type: {{last_inputs[0]}}</li>
+            </ul>
+            <div class="recent">Table Below:</div>
+            <ul>
+              <li>Years: {{table_facts.start_year[0]}} - {{table_facts.end_year[0]}}</li>
+              <li>Data Type: {{table_facts.data_type[0]}} </li>
+            </ul>
+          </td>
+        <tr>
+          <td style="vertical-align:top" class="four-square" width="50%">
             <legend>Data to Return (Select One):</legend>
             <table>
               <tr>
-              <td><input class="form-check-input" name="dtype" type="checkbox" id="totals" value="totals">
-              <label class="form-check-label" for="inlineCheckbox1">Totals</label></td>
-               <td> <input class="form-check-input" name="dtype" type="checkbox" id="pergame" value="pergame">
-              <label class="form-check-label" for="inlineCheckbox2">Per Game</label></td>
-               <td> <input class="form-check-input" name="dtype" type="checkbox" id="per36" value="per36">
-              <label class="form-check-label" for="inlineCheckbox3">Per 36</label></td>
-               <td> <input class="form-check-input" name="dtype" type="checkbox" id="per100" value="per100">
-              <label class="form-check-label" for="inlineCheckbox4">Per 100 Possesions</label></td>
-            </tr>
-            <tr>
-              <td><input class="form-check-input" name="dtype" type="checkbox" id="advanced" value="advanced">
-              <label class="form-check-label" for="inlineCheckbox5">Advanced </label></td>
-               <td> <input class="form-check-input" name="dtype" type="checkbox" id="play-by-play" value="play-by-play">
-              <label class="form-check-label" for="inlineCheckbox6">Play-by-Play </label></td>
-              <td><input class="form-check-input" name="dtype" type="checkbox" id="shooting" value="shooting">
-              <label class="form-check-label" for="inlineCheckbox7">Shooting</label></td>
-            </tr>
-              </table>
-              <br>
+                <td>
+                  <input class="form-check-input" name="dtype" type="checkbox" id="totals" value="totals">
+                  <label class="form-check-label" for="inlineCheckbox1">Totals</label>
+                </td>
+                <td> 
+                  <input class="form-check-input" name="dtype" type="checkbox" id="pergame" value="pergame">
+                  <label class="form-check-label" for="inlineCheckbox2">Per Game</label>
+                </td>
+                <td> 
+                  <input class="form-check-input" name="dtype" type="checkbox" id="per36" value="per36">
+                  <label class="form-check-label" for="inlineCheckbox3">Per 36</label>
+                </td>
+                <td> 
+                  <input class="form-check-input" name="dtype" type="checkbox" id="per_poss" value="per_poss">
+                  <label class="form-check-label" for="inlineCheckbox4">Per 100 Possesions</label>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <input class="form-check-input" name="dtype" type="checkbox" id="advanced" value="advanced">
+                  <label class="form-check-label" for="inlineCheckbox5">Advanced </label>
+                </td>
+                <td> 
+                  <input class="form-check-input" name="dtype" type="checkbox" id="play-by-play" value="play-by-play">
+                  <label class="form-check-label" for="inlineCheckbox6">Play-by-Play </label>
+                </td>
+                <td>
+                  <input class="form-check-input" name="dtype" type="checkbox" id="shooting" value="shooting">
+                  <label class="form-check-label" for="inlineCheckbox7">Shooting</label>
+                </td>
+              </tr>
+            </table>
+            <br>
             <input type='submit' value='Send Inputs'>
-        </fieldset>
-    </form>
-  </div>
-  <div class="col-sm-6">
-    <legend>Input/Output Data:</legend>
-      <div class="recent">Most recent inputs:</div>
-      <ul>
-        <li>Years: {{last_inputs[1]}} - {{last_inputs[2]}}</li>
-        <li>Data Type: {{last_inputs[0]}}</li>
-      </ul>
-      <div class="recent">Table Below:</div>
-      <ul>
-        <li>Years: {{table_facts.start_year[0]}} - {{table_facts.end_year[0]}}</li>
-        <li>Data Type: {{table_facts.data_type[0]}} </li>
-      </ul>      
-      
-          </div></div>
-    <hr>
-
-<div>
+            </fieldset>
+            </form>
+          </td>
+          <td style="vertical-align:top" width="50%">
+            <legend>About Data Types</legend>
+            <p>Season entered is the spring of the season (e.g. Start Year 1985 is the 1984-85 season). Data types may be unavailable or incomplete for certain years. For example, in 1950 minutes played and games started were not tracked. The NBA began counting blocks in 1973-74 and added a three-point line in 1979-80, respectively. Basketball-Reference maintains each data type beginning in the following years:
+              <ul>
+                <li>Totals/Per Game/Per 36 Mins: 1950</li>
+                <li>Per 100 Possesions: 1974</li>
+                <li>Play-by-Play/Shooting: 1997</li>
+              </ul>
+            </p>
+          </td>
+        </tr>
+      </table>
+    </div>
+  <hr>
+  <div>
     <a href="/top_players"> Click Here to See the Top Players</a><br>
     <a href="/custom"> Click Here to Build Custom Query</a>
-  </div><br>
-
-    <div class="table-responsive">{{stats|safe}}</div>
-    
-
+  </div>
+  <br>
+  <div class="table-responsive">{{stats|safe}}</div>
 
   </div>
 </body>
-
 </html>

@@ -1,1 +1,1 @@
-query = 'SELECT Player, On-Off, Season FROM data WHERE MP >= 1500 ORDER BY 10'
+query = 'SELECT Player, Blkd FROM data WHERE C% >= .5 ORDER BY Blkd DESC'

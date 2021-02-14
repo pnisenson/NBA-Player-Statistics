@@ -12,6 +12,9 @@
 
 .container-fluid {
 	background-color: #f1f1f1;
+	padding: .75rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid rgba(0, 123, 255, .2);
 }
 
 .btn {
@@ -30,3 +33,8 @@
 .recent {font-weight: bold}
 
 td {padding-right: 5px;}
+
+.table-responsive {
+	border: 1px solid rgba(0, 123, 255, .2);
+}
+

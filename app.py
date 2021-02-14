@@ -14,7 +14,7 @@ engine = create_engine("sqlite:///FlaskFiles/PlayerStats.sqlite", echo=True)
 @app.route("/", methods=['GET', 'POST'])
 def home():
 	df = pd.read_sql("SELECT * FROM data", con=engine, index_col = None)
-	stats = df.to_html(classes="table table-striped")
+	stats = df.to_html(classes="table table-striped", border=0)
 	try:
 		table_facts = pd.read_sql("SELECT * FROM table_facts", con=engine, index_col = None)
 	except:
@@ -39,13 +39,13 @@ def get_buckets():
 	try:
 		if table_facts.data_type[0]  == 'totals' or table_facts.data_type[0]  == 'pergame' or table_facts.data_type[0]  == 'per36':
 			df = pd.read_sql("SELECT Player, PTS, Season FROM data WHERE MP >= 1500 ORDER BY PTS DESC LIMIT 10", con=engine, index_col = None)
-			stats = df.to_html(classes="table table-striped")
+			stats = df.to_html(classes="table table-striped", border=0)
 		elif table_facts.data_type[0]  == "advanced":
 			df = pd.read_sql("SELECT Player, PER, Season FROM data WHERE MP >= 1500 ORDER BY PER DESC LIMIT 10", con=engine, index_col = None)
-			stats = df.to_html(classes="table table-striped")
+			stats = df.to_html(classes="table table-striped", border=0)
 		elif table_facts.data_type[0]  == "play-by-play":
 			df = pd.read_sql("SELECT Player, PMP100_On_Off, Season FROM data WHERE MP >= 1500 ORDER BY PMP100_On_Off DESC LIMIT 10", con=engine, index_col = None)
-			stats = df.to_html(classes="table table-striped")	
+			stats = df.to_html(classes="table table-striped", border=0)	
 		return render_template("second.html", stats=stats)
 	except:
 		return "Try a Query to determine the best player."
@@ -56,7 +56,7 @@ def custom_query():
 		from customq import query
 		columns = pd.read_sql("SELECT * FROM data", con=engine, index_col = None).columns
 		df = pd.read_sql(query, con=engine, index_col = None)
-		stats = df.to_html(classes="table table-striped")
+		stats = df.to_html(classes="table table-striped", border=0)
 	except:
 		stats= 'Query entered is invalid. Please build a new query'
 	return render_template("custom.html", stats=stats, columns=columns)

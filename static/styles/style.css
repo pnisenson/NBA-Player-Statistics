@@ -35,9 +35,11 @@
 td {padding-right: 5px;}
 
 .table-responsive {
-	border: 1px solid rgba(0, 123, 255, .2);
+	border: 1px solid #e5e5e5;
 }
 
 .four-square {
 	padding-right: 10px;
 }
+
+hr {border-top: 1px solid #e5e5e5;}

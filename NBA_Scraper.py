@@ -38,6 +38,8 @@ def scraper():
 			year_df = pd.read_html(site_address)[0] # our data is the first table on the page
 		if data_type == 'play-by-play':
 			year_df = play_by_play(year_df)
+		if data_type == 'advanced':
+			year_df = advanced(year_df)
 		year_df['Season'] = start_year
 		new_ids = player_id(browser)
 		for each_id in new_ids:
@@ -64,6 +66,20 @@ def player_id(browser):
 		except:
 			pass
 	return player_ids
+def advanced(year_df):
+	year_df = year_df.rename(columns={
+		'TS%':'TS',
+		'ORB%':'ORB',
+		'DRB%':'DRB',
+		'DRB%':'DRB',
+		'AST%':'AST',
+		'STL%':'STL',
+		'BLK%':'BLK',
+		'TOV%':'TOV',
+		'USG%':'USG',
+		'WS/48':'WS_48'
+		})
+
 
 def play_by_play(year_df):
 	year_df.columns = year_df.columns.droplevel()
@@ -83,6 +99,11 @@ def play_by_play(year_df):
 	year_df.columns = cols
 	# Rename columns using original index where applicable
 	year_df = year_df.rename(columns={
+	'PG%': 'PG_Pc',
+	'SG%': 'SG_Pc',
+	'SF%': 'SF_Pc',
+    'PF%':'PF_Pc',
+    'C%':'C_Pc',
 	'OnCourt':'PMP100_OnCourt',
 	'On-Off':'PMP100_On_Off',
 	'BadPass': 'BadPassTO',

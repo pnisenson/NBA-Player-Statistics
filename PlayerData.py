@@ -110,6 +110,5 @@ def get_player_data():
 	browser.quit()
 
 
-get_player_data()
 
 

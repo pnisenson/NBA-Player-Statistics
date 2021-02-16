@@ -4,6 +4,25 @@ from sqlalchemy import create_engine
 from bs4 import BeautifulSoup as bs
 import os
 
+# run program as update(1) or from scratch(0)
+def program(runtype):
+	data_types = ['totals', 'advanced','shooting', 'play-by-play', 'per_poss']
+	for dtype in data_types:
+		if runtype == 1:
+			s_year = 2021
+			ys = 1
+		else:
+			if dtype == 'totals' or dtype == 'advanced':
+				s_year = 1950
+				ys = 72
+			elif dtype == 'per_poss':
+				s_year = 1974
+				ys = 48
+			else:
+				s_year = 1997
+				ys = 25
+		final(dtype, s_year, ys)
+
 def login():
 	from StatPuts import username, password
 	login_address = 'https://stathead.com/users/login.cgi?token=1&redirect_uri=https%3A//www.basketball-reference.com/'
@@ -16,15 +35,8 @@ def login():
 	browser.find_element_by_id('login').submit()
 	return browser
 
-def search():
-	from StatPuts import s_year, ys
-	start_year = int(s_year)
-	years = int(ys)
-	return start_year,years
-
-def scraper(data_type):
+def scraper(data_type, start_year, years):
 	browser = login()
-	start_year,years = search()
 	files_list = []
 	player_ids = []
 	for x in range(1, years+1):
@@ -133,7 +145,6 @@ def play_by_play(year_df):
 	        continue
 	    cols.append(column)
 	year_df.columns = cols
-	# Rename columns using original index where applicable
 	year_df = year_df.rename(columns={
 	'PG%': 'PG_Pc',
 	'SG%': 'SG_Pc',
@@ -185,20 +196,15 @@ def cleaner(all_df, player_ids, data_type):
 	all_df = all_df.loc[all_df["Rk"] != "Rk"]
 	all_df['PlayerID'] = player_ids
 	all_df= all_df.drop_duplicates(subset=['Rk', 'Season'], keep='first')
-	text_keys = ['Player','Pos','Tm', 'PlayerID']
-	keys_list = all_df.keys()
-	num_keys = []
-	for key in keys_list:
-		if key not in text_keys:
-			num_keys.append(key)
+	num_keys = numeric_keys(all_df)
 	for key in num_keys:
 		try:
 			all_df[key] = pd.to_numeric(all_df[key])
 		except:
 			all_df[key] = pd.to_numeric(all_df[key].replace('%','',regex=True))/100
-	if data_type.lower() == 'pergame':
+	if data_type == 'pergame':
 		all_df = per_game(num_keys,all_df)
-	elif data_type.lower() == 'per36':
+	elif data_type == 'per36':
 		all_df = per_36(num_keys,all_df)
 	all_df = all_df.fillna(0)
 	player_names = all_df["Player"]
@@ -211,7 +217,17 @@ def cleaner(all_df, player_ids, data_type):
 	all_df = all_df.drop(columns={'index'})
 	return all_df
 
-def per_game(num_keys, all_df):
+def numeric_keys(all_df):
+	text_keys = ['Player','Pos','Tm', 'PlayerID']
+	keys_list = all_df.keys()
+	num_keys = []
+	for key in keys_list:
+		if key not in text_keys:
+			num_keys.append(key)
+	return num_keys
+
+def per_game(all_df):
+	num_keys = numeric_keys(all_df)
 	specials = ['Age', 'G', 'GS', 'Season']
 	for key in specials:
 		num_keys.remove(key)
@@ -222,7 +238,8 @@ def per_game(num_keys, all_df):
 	return all_df
 
 
-def per_36(num_keys, all_df):
+def per_36(all_df):
+	num_keys = numeric_keys(all_df)
 	specials = ['Age', 'G', 'GS', 'MP', 'Season']
 	for key in specials:
 		num_keys.remove(key)
@@ -232,26 +249,24 @@ def per_36(num_keys, all_df):
 			all_df[key] = all_df[key].round(1)
 	return all_df
 
-def final(data_type):
-	start_year,years = search()
-	final = scraper(data_type)
+def final(data_type, start_year, years):
+	final = scraper(data_type, start_year, years)
+	if data_type == "totals":
+		per36 = per_36(final)
+		pergame = per_game(final)
+		if os.path.exists(f"FullData/per36.csv"):
+			os.remove(f"FullData/per36.csv")
+		if os.path.exists(f"FullData/pergame.csv"):
+			os.remove(f"FullData/pergame.csv")
+		per36.to_csv(f"FullData/per36.csv")
+		pergame.to_csv(f"FullData/pergame.csv")
 	if os.path.exists(f"FullData/{data_type}.csv"):
 		os.remove(f"FullData/{data_type}.csv")
 	final.to_csv(f'FullData/{data_type}.csv')
-	# Connect to Postgres
-	# engine = create_engine('postgresql://postgres:' + password + '@localhost:5432/EmployeeSQL')
-	# connection = engine.connect()
-	# final.to_sql('data',con=engine, index = False)
 
-#def updater():
-	# only use current year
-	# drop values from existing csv and/or db table for present year
-	# append new values to the csv/db table
 
-data_types = ['totals', 'advanced', 'shooting', 'play-by-play', 'per_poss', 'per36', 'pergame']
 
-for dtype in data_types[5:]:
-	final(dtype)
+
 
 
 

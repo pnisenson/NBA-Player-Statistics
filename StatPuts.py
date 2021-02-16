@@ -1,5 +1,6 @@
 username = 'pnisenson' 
 password = 'hotdog55' 
-s_year = '2013' 
+s_year = '2014' 
 ys = '1' 
-d_type = 'pergame' 
+s_year = '2019' 
+ys = '3' 

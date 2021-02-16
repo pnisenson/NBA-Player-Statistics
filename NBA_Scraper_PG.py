@@ -17,14 +17,14 @@ def login():
 	return browser
 
 def search():
-	from StatPuts import s_year, ys, d_type
+	from StatPuts import s_year, ys
 	start_year = int(s_year)
 	years = int(ys)
-	return start_year,years,d_type
+	return start_year,years
 
-def scraper():
+def scraper(data_type):
 	browser = login()
-	start_year,years,data_type = search()
+	start_year,years = search()
 	files_list = []
 	player_ids = []
 	for x in range(1, years+1):
@@ -55,7 +55,7 @@ def scraper():
 	browser.quit()
 	df_from_each_file = (pd.read_csv(f) for f in files_list)
 	all_df = pd.concat(df_from_each_file, ignore_index=True)
-	all_df = cleaner(all_df, player_ids)
+	all_df = cleaner(all_df, player_ids, data_type)
 	for f in files_list:
 		os.remove(f)
 	return all_df
@@ -177,7 +177,7 @@ def shooting(site_address):
 	'#.1':'Heaves_Made'})
 	return year_df
 
-def cleaner(all_df, player_ids):
+def cleaner(all_df, player_ids, data_type):
 	# Drop the Unnamed columns
 	cols = [c for c in all_df.columns if c.lower()[:7] != 'unnamed']
 	all_df = all_df[cols]
@@ -196,10 +196,9 @@ def cleaner(all_df, player_ids):
 			all_df[key] = pd.to_numeric(all_df[key])
 		except:
 			all_df[key] = pd.to_numeric(all_df[key].replace('%','',regex=True))/100
-	from StatPuts import d_type
-	if d_type.lower() == 'pergame':
+	if data_type.lower() == 'pergame':
 		all_df = per_game(num_keys,all_df)
-	elif d_type.lower() == 'per36':
+	elif data_type.lower() == 'per36':
 		all_df = per_36(num_keys,all_df)
 	all_df = all_df.fillna(0)
 	player_names = all_df["Player"]
@@ -233,45 +232,26 @@ def per_36(num_keys, all_df):
 			all_df[key] = all_df[key].round(1)
 	return all_df
 
+def final(data_type):
+	start_year,years = search()
+	final = scraper(data_type)
+	if os.path.exists(f"FullData/{data_type}.csv"):
+		os.remove(f"FullData/{data_type}.csv")
+	final.to_csv(f'FullData/{data_type}.csv')
+	# Connect to Postgres
+	# engine = create_engine('postgresql://postgres:' + password + '@localhost:5432/EmployeeSQL')
+	# connection = engine.connect()
+	# final.to_sql('data',con=engine, index = False)
 
-def nation():
-	url = 'https://en.wikipedia.org/wiki/List_of_foreign_NBA_players'
-	tables = pd.read_html(url)[6]
-	tables = tables.drop(columns = ['Pos.', 'Yrs', 'Notes', 'Ref.'])
-	nationality = tables['Nationality[A]'].to_list()
-	birthplace = tables['Birthplace[B]'].to_list()
-	country = []
-	for x in range(len(nationality)):
-		if birthplace[x] == '—':
-			country.append(nationality[x])
-		else: 
-			country.append(birthplace[x])
-	tables['Country'] = country
-	tables = tables.drop(columns = ['Nationality[A]', 'Birthplace[B]', 'Career[C]'])
-	tables=tables.replace('\\*','',regex=True)
-	return tables
+#def updater():
+	# only use current year
+	# drop values from existing csv and/or db table for present year
+	# append new values to the csv/db table
 
-def final():
-	stat_table = scraper()
-	nation_table = nation()
-	final = pd.merge(stat_table, nation_table, on = 'Player', how = 'left')
-	final = final.fillna('United States')
-	if os.path.exists("FlaskFiles/final.csv"):
-		os.remove("FlaskFiles/final.csv")
-	final.to_csv(f'FlaskFiles/final.csv')
-	if os.path.exists("FlaskFiles/PlayerStats.sqlite"):
-		os.remove("FlaskFiles/PlayerStats.sqlite")
-	engine = create_engine('sqlite:///FlaskFiles/PlayerStats.sqlite', echo=True)
-	sqlite_connection = engine.connect()
-	final.to_sql('data',con=engine, index = False)
-	# send data type to app
-	start_year,years,data_type = search()
-	table_facts = pd.DataFrame({
-		'data_type':data_type,
-		'start_year':start_year,
-		'end_year': start_year + years - 1
-	}, index=range(1))
-	table_facts.to_sql('table_facts',con=engine, index = False)
+data_types = ['totals', 'advanced', 'shooting', 'play-by-play', 'per_poss', 'per36', 'pergame']
+
+for dtype in data_types[5:]:
+	final(dtype)
 
 
 

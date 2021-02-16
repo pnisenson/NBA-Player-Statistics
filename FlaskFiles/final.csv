@@ -1,470 +1,470 @@
-,Player,Pos,Age,Tm,G,MP,PG_Pc,SG_Pc,SF_Pc,PF_Pc,C_Pc,PMP100_OnCourt,PMP100_On_Off,BadPassTO,LostBallTO,FoulC_Shoot,FoulC_Off,FoulD_Shoot,FoulD_Off,PGA,And1,Blkd,Season,PlayerID,Country
-0,Quincy Acy,PF,22,TOR,29,342,0.0,0.0,0.0,0.88,0.12,13.9,16.9,4,5,22,6,14,0,29,2,5,2013,acyqu01,United States
-1,Jeff Adrien,PF,26,CHA,52,713,0.0,0.0,0.01,0.96,0.03,-7.1,3.6,9,6,40,7,41,4,80,5,17,2013,adrieje01,United States
-2,Arron Afflalo,SF,27,ORL,64,2307,0.01,0.48,0.49,0.03,0.0,-7.8,-0.1,45,50,67,20,93,5,474,23,59,2013,afflaar01,United States
-3,Josh Akognon,PG,26,DAL,3,9,0.69,0.31,0.0,0.0,0.0,-31.3,-30.6,0,0,0,0,0,0,2,0,0,2013,akognjo01,United States
-4,Cole Aldrich,C,24,TOT,45,388,0.0,0.0,0.0,0.0,1.0,1.5,2.5,8,6,28,6,7,0,22,2,8,2013,aldrico01,United States
-5,LaMarcus Aldridge,PF,27,POR,74,2790,0.0,0.0,0.0,0.84,0.16,-0.8,9.4,38,54,112,30,165,10,474,38,35,2013,aldrila01,United States
-6,Lavoy Allen,C,23,PHI,79,1669,0.0,0.0,0.0,0.28,0.72,-2.8,1.4,16,18,105,18,27,4,159,4,20,2013,allenla01,United States
-7,Ray Allen,SG,37,MIA,79,2035,0.02,0.68,0.3,0.0,0.0,5.0,-8.3,54,29,69,12,45,6,319,11,21,2013,allenra02,United States
-8,Tony Allen,SG,31,MEM,79,2109,0.01,0.89,0.1,0.0,0.0,7.5,5.9,39,31,90,9,84,6,217,18,64,2013,allento01,United States
-9,Al-Farouq Aminu,SF,22,NOH,76,2066,0.0,0.0,0.94,0.05,0.01,-1.2,7.4,42,43,65,16,59,5,239,13,38,2013,aminual01,United States
-10,Lou Amundson,PF,30,TOT,39,372,0.0,0.0,0.03,0.67,0.31,-11.8,-10.1,3,6,27,7,15,4,22,4,11,2013,amundlo01,United States
-11,Chris Andersen,C,34,MIA,42,624,0.0,0.0,0.0,0.1,0.91,9.0,-0.2,5,8,45,10,40,1,42,8,13,2013,anderch01,United States
-12,Alan Anderson,SF,30,TOR,65,1495,0.0,0.09,0.8,0.11,0.0,-3.5,-3.1,38,19,52,10,51,9,231,13,30,2013,anderal01,United States
-13,James Anderson,SG-SF,23,TOT,39,401,0.0,0.48,0.46,0.05,0.0,12.8,8.0,7,12,13,3,12,0,106,1,5,2013,anderja01,United States
-14,Ryan Anderson,PF,24,NOH,81,2503,0.0,0.0,0.02,0.89,0.1,-6.5,-5.0,28,35,75,17,75,9,217,9,58,2013,anderry01,United States
-15,Carmelo Anthony,PF,28,NYK,67,2482,0.0,0.0,0.18,0.78,0.03,5.7,3.4,55,59,79,35,208,15,442,39,88,2013,anthoca01,United States
-16,Joel Anthony,C,30,MIA,62,566,0.0,0.0,0.0,0.15,0.85,4.6,-5.2,3,7,20,8,14,2,36,2,5,2013,anthojo01,Canada
-17,Trevor Ariza,SF,27,WAS,56,1471,0.0,0.0,0.92,0.08,0.0,-1.1,3.0,45,14,26,8,40,3,254,10,19,2013,arizatr01,United States
-18,Darrell Arthur,PF,24,MEM,59,970,0.0,0.0,0.08,0.92,0.01,-5.6,-13.7,15,9,53,14,25,4,72,6,20,2013,arthuda01,United States
-19,Ömer Aşık,C,26,HOU,82,2464,0.0,0.0,0.0,0.0,1.0,6.3,6.9,53,44,103,34,143,12,172,30,83,2013,asikom01,Turkey
-20,D.J. Augustin,PG,25,IND,76,1226,1.0,0.0,0.0,0.0,0.0,-1.7,-9.5,42,15,23,7,21,12,383,0,20,2013,augusdj01,United States
-21,Gustavo Ayón,C,27,TOT,55,734,0.0,0.0,0.0,0.31,0.69,0.7,6.0,15,11,39,13,17,9,154,3,15,2013,ayongu01,Mexico
-22,Jeff Ayres,PF,25,IND,37,369,0.0,0.0,0.02,0.95,0.03,9.0,4.6,12,5,25,3,9,0,35,3,10,2013,pendeje02,United States
-23,Luke Babbitt,PF,23,POR,62,730,0.0,0.0,0.2,0.8,0.0,-3.5,0.1,12,7,41,0,2,2,73,0,3,2013,babbilu01,United States
-24,Leandro Barbosa,PG,30,BOS,41,513,0.83,0.16,0.01,0.0,0.0,-3.0,-2.9,14,3,18,3,17,3,125,5,13,2013,barbole01,Brazil
-25,J.J. Barea,PG,28,MIN,74,1713,1.0,0.0,0.0,0.0,0.0,-1.7,0.9,74,47,35,14,39,34,655,12,46,2013,bareajo01,United States
-26,Andrea Bargnani,PF,27,TOR,35,1003,0.0,0.0,0.0,0.57,0.44,-6.2,-6.3,14,17,19,13,33,4,87,5,22,2013,bargnan01,Italy
-27,Harrison Barnes,SF,20,GSW,81,2058,0.0,0.01,0.88,0.1,0.0,1.9,1.8,29,40,66,15,83,8,227,16,47,2013,barneha02,United States
-28,Matt Barnes,SF,32,LAC,80,2058,0.0,0.14,0.83,0.03,0.0,7.4,0.9,51,21,126,6,51,9,281,9,34,2013,barnema02,United States
-29,Earl Barron,C,31,TOT,12,159,0.0,0.0,0.0,0.0,1.0,-8.1,-9.0,4,2,9,4,4,1,12,1,2,2013,barroea01,United States
-30,Will Barton,SG,22,POR,73,894,0.01,0.94,0.05,0.0,0.0,-12.3,-11.2,30,17,23,5,31,1,128,7,24,2013,bartowi01,United States
-31,Brandon Bass,PF,27,BOS,81,2239,0.0,0.0,0.28,0.71,0.01,-3.6,-7.2,23,27,92,16,75,1,196,17,45,2013,bassbr01,United States
-32,Shane Battier,SF,34,MIA,72,1786,0.0,0.0,0.79,0.21,0.0,11.0,3.4,23,6,96,3,10,9,169,1,10,2013,battish01,United States
-33,Nicolas Batum,SF,24,POR,73,2807,0.0,0.1,0.88,0.02,0.0,-2.2,4.7,119,41,60,13,78,7,800,16,19,2013,batumni01,France
-34,Jerryd Bayless,PG,24,MEM,80,1765,0.58,0.42,0.0,0.0,0.0,-0.1,-8.8,82,24,79,6,44,4,596,8,30,2013,bayleje01,United States
-35,Aron Baynes,C,26,SAS,16,141,0.0,0.0,0.0,0.0,1.0,0.7,-6.3,2,2,11,6,7,0,11,2,0,2013,baynear01,New Zealand
-36,Kent Bazemore,SG,23,GSW,61,267,0.21,0.75,0.04,0.0,0.0,1.4,0.4,10,6,14,0,11,1,47,0,6,2013,bazemke01,United States
-37,Bradley Beal,SG,19,WAS,56,1745,0.1,0.85,0.05,0.0,0.0,-3.2,-0.5,41,31,64,6,55,7,311,5,42,2013,bealbr01,United States
-38,Michael Beasley,SF,24,PHO,75,1554,0.0,0.01,0.7,0.3,0.0,-11.3,-7.1,61,42,56,12,68,1,243,20,48,2013,beaslmi01,United States
-39,Rodrigue Beaubois,PG,24,DAL,45,549,1.0,0.0,0.0,0.0,0.0,2.5,3.7,14,12,24,3,14,2,192,5,7,2013,beaubro01,Guadeloupe
-40,Marco Belinelli,SG,26,CHI,73,1882,0.01,0.94,0.05,0.0,0.0,-1.1,-3.2,40,26,48,6,55,14,333,11,37,2013,belinma01,Italy
-41,Patrick Beverley,PG,24,HOU,41,713,0.98,0.02,0.0,0.0,0.0,8.1,5.4,23,9,24,8,12,8,290,1,7,2013,beverpa01,United States
-42,Andris Biedriņš,C,26,GSW,53,495,0.0,0.0,0.0,0.0,1.0,-5.7,-7.7,4,2,60,6,3,3,31,1,3,2013,biedran01,Soviet Union(now Latvia)
-43,Chauncey Billups,SG,36,LAC,22,418,0.09,0.91,0.0,0.0,0.0,6.1,-1.0,15,6,12,3,17,1,108,1,3,2013,billuch01,United States
-44,Bismack Biyombo,C,20,CHA,80,2186,0.0,0.0,0.0,0.05,0.95,-8.4,3.8,13,17,108,20,57,5,75,10,53,2013,biyombi01,Zaire(now Democratic Republic of the Congo)
-45,DeJuan Blair,PF,23,SAS,61,851,0.0,0.0,0.07,0.91,0.02,-1.0,-10.0,20,11,46,7,34,2,103,8,22,2013,blairde01,United States
-46,Steve Blake,PG,32,LAL,45,1175,0.98,0.02,0.0,0.0,0.0,2.4,1.0,43,17,32,0,7,13,396,0,11,2013,blakest01,United States
-47,Andray Blatche,C,26,BRK,82,1555,0.0,0.0,0.0,0.07,0.93,-0.5,-4.0,37,37,77,18,113,10,206,32,63,2013,blatcan01,United States
-48,Eric Bledsoe,PG,23,LAC,76,1553,0.88,0.12,0.0,0.0,0.0,4.6,-3.9,76,36,47,12,54,5,531,15,38,2013,bledser01,United States
-49,Keith Bogans,SG,32,BRK,74,1408,0.0,0.74,0.26,0.0,0.0,0.2,-2.7,36,7,50,3,7,9,171,5,1,2013,boganke01,United States
-50,Andrew Bogut,C,28,GSW,32,786,0.0,0.0,0.0,0.0,1.0,1.4,0.4,14,8,46,11,12,5,150,2,14,2013,bogutan01,Australia
-51,Matt Bonner,PF,32,SAS,68,909,0.0,0.0,0.0,0.58,0.42,4.5,-3.0,10,1,43,2,6,4,88,0,3,2013,bonnema01,United States
-52,Trevor Booker,PF,25,WAS,48,887,0.0,0.0,0.15,0.85,0.0,-9.2,-8.0,14,7,40,8,30,1,93,4,17,2013,booketr01,United States
-53,Carlos Boozer,PF,31,CHI,79,2546,0.0,0.0,0.0,0.76,0.24,-2.4,-8.4,62,53,127,39,132,5,396,39,90,2013,boozeca01,West Germany(now Germany)
-54,Chris Bosh,C,28,MIA,74,2454,0.0,0.0,0.0,0.0,1.0,10.0,2.3,40,50,72,20,139,8,288,23,41,2013,boshch01,United States
-55,Avery Bradley,PG,22,BOS,50,1435,0.83,0.17,0.0,0.0,0.0,-1.0,-0.9,37,26,32,4,19,13,239,1,37,2013,bradlav01,United States
-56,Elton Brand,C,33,DAL,72,1527,0.0,0.0,0.0,0.09,0.91,-1.3,-0.9,21,23,105,5,46,5,169,17,21,2013,brandel01,United States
-57,Corey Brewer,SF,26,DEN,82,2003,0.0,0.15,0.8,0.05,0.0,3.9,-2.7,39,39,54,8,95,17,263,19,59,2013,breweco01,United States
-58,Ronnie Brewer,SF,27,TOT,60,853,0.0,0.16,0.78,0.07,0.0,1.7,-6.1,10,6,22,0,16,3,119,2,14,2013,brewero02,United States
-59,Aaron Brooks,PG,28,TOT,53,997,1.0,0.0,0.0,0.0,0.0,-11.1,-11.8,38,19,36,4,17,2,258,6,32,2013,brookaa01,United States
-60,MarShon Brooks,SG,24,BRK,73,912,0.01,0.86,0.13,0.0,0.0,-3.2,-6.8,29,21,37,5,41,2,178,11,28,2013,brookma01,United States
-61,Kwame Brown,C,30,PHI,22,269,0.0,0.0,0.0,0.14,0.86,-6.8,-3.5,4,0,23,2,8,0,19,1,8,2013,brownkw01,United States
-62,Shannon Brown,SG,27,PHO,59,1402,0.0,0.97,0.03,0.0,0.0,-7.2,-0.3,26,31,41,7,51,6,246,18,30,2013,brownsh01,United States
-63,Kobe Bryant,SG,34,LAL,78,3013,0.0,0.67,0.32,0.01,0.0,2.3,2.8,148,88,67,17,226,13,1092,41,71,2013,bryanko01,United States
-64,Chase Budinger,SF,24,MIN,23,508,0.0,0.21,0.79,0.0,0.0,3.0,6.0,10,6,8,2,15,4,54,3,9,2013,budinch01,United States
-65,Alec Burks,SG,21,UTA,64,1137,0.2,0.75,0.05,0.0,0.0,5.0,7.3,39,15,49,17,52,21,199,13,35,2013,burksal01,United States
-66,Caron Butler,SF,32,LAC,78,1879,0.0,0.01,0.95,0.04,0.0,6.8,-0.3,19,22,61,17,35,4,182,8,29,2013,butleca01,United States
-67,Jimmy Butler,SF,23,CHI,82,2134,0.0,0.27,0.7,0.03,0.0,3.1,5.2,25,19,45,8,99,8,259,19,55,2013,butleji01,United States
-68,Will Bynum,PG,30,DET,65,1219,1.0,0.0,0.0,0.0,0.0,-6.7,-3.4,60,46,48,8,51,5,536,9,49,2013,bynumwi01,United States
-69,José Calderón,PG,31,TOT,73,2160,0.63,0.37,0.0,0.0,0.0,-6.7,-5.2,97,23,57,3,15,2,1127,2,20,2013,caldejo01,Spain
-70,Marcus Camby,PF,38,NYK,24,250,0.0,0.0,0.0,0.34,0.66,-2.6,-7.5,8,3,13,3,8,2,29,1,4,2013,cambyma01,United States
-71,DeMarre Carroll,SF,26,UTA,66,1111,0.0,0.49,0.51,0.0,0.0,6.4,9.2,18,4,35,3,35,7,135,7,25,2013,carrode01,United States
-72,Matt Carroll,SG,32,CHA,1,6,0.0,1.0,0.0,0.0,0.0,-20.0,-9.9,0,0,0,0,0,0,2,0,0,2013,carroma01,United States
-73,Vince Carter,SF,36,DAL,81,2093,0.0,0.29,0.69,0.02,0.0,4.7,11.3,59,23,126,14,85,9,431,19,31,2013,cartevi01,United States
-74,Omri Casspi,SF,24,CLE,43,503,0.0,0.0,0.9,0.1,0.0,-5.7,-0.5,11,6,15,2,21,4,63,1,11,2013,casspom01,Israel
-75,Mario Chalmers,PG,26,MIA,77,2068,0.98,0.02,0.0,0.0,0.0,14.0,10.3,78,23,74,7,29,18,606,5,24,2013,chalmma01,United States
-76,Tyson Chandler,C,30,NYK,66,2164,0.0,0.0,0.0,0.0,1.0,5.9,3.3,23,22,82,30,120,5,146,25,19,2013,chandty01,United States
-77,Wilson Chandler,PF,25,DEN,43,1079,0.0,0.0,0.12,0.86,0.02,8.9,5.0,9,19,58,16,45,1,143,13,30,2013,chandwi01,United States
-78,Josh Childress,SF,29,BRK,14,100,0.0,0.07,0.82,0.11,0.0,-6.5,-8.7,0,0,2,0,1,1,11,0,0,2013,childjo01,United States
-79,Earl Clark,PF,25,LAL,59,1363,0.0,0.0,0.07,0.74,0.19,-2.0,-5.6,29,19,55,5,35,2,163,7,30,2013,clarkea01,United States
-80,Victor Claver,SF,24,POR,49,812,0.0,0.0,0.81,0.19,0.0,-7.1,-4.4,21,16,39,0,15,3,94,4,12,2013,clavevi01,United States
-81,Norris Cole,PG,24,MIA,80,1590,1.0,0.0,0.0,0.0,0.0,2.1,-11.6,57,23,70,11,32,6,385,6,29,2013,coleno01,United States
-82,Jason Collins,C,34,TOT,38,384,0.0,0.0,0.0,0.0,1.0,0.1,1.9,1,1,38,11,7,4,19,1,6,2013,collija04,United States
-83,Darren Collison,PG,25,DAL,81,2372,0.98,0.02,0.0,0.0,0.0,-1.9,-3.1,107,46,69,4,92,7,948,22,59,2013,collida01,United States
-84,Nick Collison,C,32,OKC,81,1583,0.0,0.0,0.0,0.41,0.59,12.0,3.8,25,23,76,12,35,10,289,4,27,2013,collini01,United States
-85,Mike Conley,PG,25,MEM,80,2757,1.0,0.0,0.0,0.0,0.0,9.6,16.1,120,51,67,9,97,26,1035,29,50,2013,conlemi01,United States
-86,Will Conroy,PG,30,MIN,4,20,1.0,0.0,0.0,0.0,0.0,-98.9,-97.2,0,0,1,0,1,0,0,0,3,2013,conrowi01,United States
-87,Daequan Cook,SG,25,TOT,49,441,0.01,0.83,0.15,0.0,0.0,-4.4,-7.0,8,2,18,0,4,2,45,2,3,2013,cookda02,United States
-88,Chris Copeland,PF,28,NYK,56,862,0.0,0.0,0.02,0.55,0.43,4.2,-0.3,11,17,46,11,41,7,68,11,32,2013,copelch01,United States
-89,DeMarcus Cousins,C,22,SAC,75,2289,0.0,0.0,0.0,0.0,1.0,-6.9,-3.6,93,60,98,34,181,17,465,47,97,2013,couside01,United States
-90,Jamal Crawford,SG,32,LAC,76,2230,0.06,0.86,0.08,0.0,0.0,7.3,0.8,68,48,30,6,89,12,421,22,33,2013,crawfja01,United States
-91,Jordan Crawford,SG,24,TOT,70,1709,0.32,0.65,0.03,0.0,0.0,-5.4,-4.8,80,30,43,17,59,7,489,12,26,2013,crawfjo02,United States
-92,Jae Crowder,SF,22,DAL,78,1353,0.0,0.0,0.8,0.2,0.0,0.1,1.3,29,8,65,7,30,7,213,8,18,2013,crowdja01,United States
-93,Dante Cunningham,PF,25,MIN,80,2010,0.0,0.0,0.16,0.82,0.02,-1.9,0.7,23,19,73,9,43,5,158,3,33,2013,cunnida01,United States
-94,Jared Cunningham,SG,21,DAL,8,26,0.0,0.87,0.13,0.0,0.0,-19.2,-18.6,1,1,1,0,1,0,3,0,3,2013,cunnija01,United States
-95,Eddy Curry,C,30,DAL,2,25,0.0,0.0,0.0,0.0,1.0,5.9,6.6,0,1,3,2,1,0,0,0,2,2013,curryed01,United States
-96,Stephen Curry,PG,24,GSW,78,2983,1.0,0.0,0.0,0.0,0.0,1.7,2.7,149,57,88,6,95,21,1181,19,45,2013,curryst01,United States
-97,Samuel Dalembert,C,31,MIL,47,765,0.0,0.0,0.0,0.0,1.0,-7.7,-7.2,20,9,52,10,25,1,44,6,17,2013,dalemsa01,Haiti
-98,Marquis Daniels,SF,32,MIL,59,1085,0.0,0.2,0.78,0.02,0.0,-3.8,-2.5,28,8,32,4,27,9,153,4,25,2013,daniema01,United States
-99,Anthony Davis,PF,19,NOH,64,1846,0.0,0.0,0.0,0.61,0.39,-5.3,-1.2,29,29,75,21,106,10,144,31,47,2013,davisan02,United States
-100,Ed Davis,C-PF,23,TOT,81,1631,0.0,0.0,0.0,0.36,0.64,-0.6,-2.7,10,19,96,21,86,2,147,19,37,2013,davised01,United States
-101,Glen Davis,PF,27,ORL,34,1064,0.0,0.0,0.0,0.84,0.16,-1.8,8.1,20,16,32,17,61,13,161,15,45,2013,davisgl01,United States
-102,Austin Daye,SF,24,TOT,55,676,0.0,0.0,0.9,0.1,0.0,1.7,1.8,8,6,49,6,15,1,98,3,9,2013,dayeau01,United States
-103,Nando De Colo,SG,25,SAS,72,920,0.34,0.51,0.15,0.0,0.0,-1.2,-10.4,49,23,30,5,13,8,326,2,15,2013,decolna01,United States
-104,Carlos Delfino,SF,30,HOU,67,1689,0.0,0.19,0.77,0.05,0.0,7.1,6.1,45,9,35,5,23,1,327,11,26,2013,delfica01,Argentina
-105,Luol Deng,SF,27,CHI,75,2903,0.0,0.0,0.81,0.19,0.0,0.2,-1.9,69,54,48,13,117,19,489,26,69,2013,denglu01,Sudan(now South Sudan)
-106,Justin Dentmon,PG,27,DAL,2,4,1.0,0.0,0.0,0.0,0.0,-50.0,-49.4,0,0,0,0,0,0,0,0,0,2013,dentmju01,United States
-107,DeMar DeRozan,SG,23,TOR,82,3013,0.0,0.8,0.2,0.0,0.0,-2.0,-1.9,44,73,82,11,185,6,502,37,80,2013,derozde01,United States
-108,Boris Diaw,PF,30,SAS,75,1709,0.0,0.0,0.02,0.87,0.11,4.8,-3.6,35,18,76,12,22,5,416,6,12,2013,diawbo01,France
-109,DeSagana Diop,C,31,CHA,22,226,0.0,0.0,0.0,0.0,1.0,-4.1,6.3,5,3,15,0,1,0,27,0,0,2013,diopde01,Senegal
-110,Keyon Dooling,PG,32,MEM,7,82,0.97,0.03,0.0,0.0,0.0,-8.4,-13.4,1,2,2,0,2,3,18,1,0,2013,doolike01,United States
-111,Toney Douglas,PG,26,TOT,71,1289,0.93,0.07,0.0,0.0,0.0,4.0,5.8,48,10,44,7,32,7,357,9,31,2013,douglto01,United States
-112,Chris Douglas-Roberts,SG,26,DAL,6,63,0.0,0.82,0.18,0.0,0.0,-15.6,-15.2,1,0,2,0,4,0,11,0,0,2013,douglch01,United States
-113,Goran Dragić,PG,26,PHO,77,2581,0.97,0.03,0.0,0.0,0.0,-5.2,5.3,127,50,73,14,106,21,1250,21,39,2013,dragigo01,SFR Yugoslavia(now Slovenia)
-114,Andre Drummond,C,19,DET,60,1243,0.0,0.0,0.0,0.0,1.0,-1.6,3.9,14,18,76,11,64,4,64,11,27,2013,drumman01,United States
-115,Jared Dudley,SF,27,PHO,79,2170,0.0,0.19,0.77,0.03,0.0,-3.5,7.7,72,18,47,6,67,10,435,10,28,2013,dudleja01,United States
-116,Chris Duhon,PG,30,LAL,46,820,1.0,0.0,0.0,0.0,0.0,-0.4,-2.5,26,12,29,1,3,3,316,1,4,2013,duhonch01,United States
-117,Tim Duncan,C,36,SAS,69,2078,0.0,0.0,0.0,0.0,1.0,10.5,7.7,68,54,80,14,142,3,403,28,75,2013,duncati01,U.S. Virgin Islands
-118,Mike Dunleavy,SF,32,MIL,75,1943,0.0,0.0,0.78,0.22,0.0,1.1,5.9,52,18,61,9,50,28,320,12,17,2013,dunlemi02,United States
-119,Kevin Durant,SF,24,OKC,81,3119,0.0,0.0,0.77,0.23,0.0,11.3,7.2,119,115,74,25,284,14,900,55,44,2013,duranke01,United States
-120,Devin Ebanks,SF,23,LAL,19,197,0.0,0.08,0.48,0.45,0.0,-5.7,-7.7,7,2,16,1,4,1,25,0,7,2013,ebankde01,United States
-121,Wayne Ellington,SG,25,TOT,78,1661,0.06,0.87,0.07,0.0,0.0,0.1,0.6,32,13,42,5,27,7,234,5,26,2013,ellinwa01,United States
-122,Monta Ellis,SG,27,MIL,82,3076,0.24,0.76,0.0,0.0,0.0,-1.1,3.7,168,62,81,12,146,25,1127,29,47,2013,ellismo01,United States
-123,Kim English,SG,24,DET,41,407,0.05,0.79,0.16,0.0,0.0,-6.7,-2.6,7,6,23,3,14,5,59,4,8,2013,engliki01,United States
-124,Jeremy Evans,PF,25,UTA,37,215,0.0,0.0,0.12,0.88,0.01,4.4,4.8,2,4,17,1,11,4,26,3,1,2013,evansje01,United States
-125,Reggie Evans,PF,32,BRK,80,1967,0.0,0.0,0.0,0.97,0.03,4.8,5.6,20,23,70,24,74,5,99,8,46,2013,evansre01,United States
-126,Tyreke Evans,SG,23,SAC,65,2016,0.01,0.69,0.29,0.01,0.0,-5.5,-0.2,56,35,50,17,104,5,525,14,58,2013,evansty01,United States
-127,Festus Ezeli,C,23,GSW,78,1120,0.0,0.0,0.0,0.0,1.0,-1.0,-2.8,16,17,53,18,33,7,57,3,25,2013,ezelife01,Nigeria
-128,Kenneth Faried,PF,23,DEN,80,2248,0.0,0.0,0.0,0.79,0.21,5.3,0.2,33,38,85,30,108,12,176,26,75,2013,farieke01,United States
-129,Derrick Favors,PF,21,UTA,77,1787,0.0,0.0,0.0,0.8,0.2,-0.2,0.0,38,28,125,40,132,2,168,27,59,2013,favorde01,United States
-130,Raymond Felton,PG,28,NYK,68,2313,1.0,0.0,0.0,0.0,0.0,5.3,2.2,93,51,57,4,46,16,924,12,35,2013,feltora01,United States
-131,Landry Fields,SF,24,TOR,51,1037,0.0,0.01,0.56,0.43,0.0,0.0,2.1,14,16,30,5,26,3,143,7,21,2013,fieldla01,United States
-132,Derek Fisher,SG-PG,38,TOT,33,575,0.3,0.69,0.01,0.0,0.0,5.6,1.2,20,5,15,4,17,9,104,2,5,2013,fishede01,United States
-133,Evan Fournier,SG,20,DEN,38,428,0.18,0.57,0.23,0.02,0.0,7.3,2.4,18,8,21,1,20,1,96,5,21,2013,fournev01,France
-134,Randy Foye,SG,29,UTA,82,2249,0.11,0.89,0.0,0.0,0.0,-2.6,-5.5,54,15,87,10,31,10,365,6,32,2013,foyera01,United States
-135,Jimmer Fredette,SG,23,SAC,69,967,0.47,0.53,0.01,0.0,0.0,-5.1,0.4,24,17,37,8,38,3,214,10,28,2013,fredeji01,United States
-136,Joel Freeland,PF,25,POR,51,477,0.0,0.0,0.0,0.85,0.15,-11.0,-8.4,6,4,24,7,10,1,29,3,14,2013,freeljo01,Great Britain England
-137,Danilo Gallinari,SF,24,DEN,71,2309,0.0,0.0,0.69,0.31,0.0,7.4,5.2,57,23,61,18,129,15,391,23,58,2013,gallida01,Italy
-138,Francisco García,SG-SF,31,TOT,58,1029,0.01,0.56,0.43,0.0,0.0,-2.1,-1.5,20,5,60,4,7,0,145,0,5,2013,garcifr01,Dominican Republic
-139,Kevin Garnett,C,36,BOS,68,2022,0.0,0.0,0.0,0.05,0.95,2.5,6.0,43,21,59,25,79,10,363,13,19,2013,garneke01,United States
-140,Diante Garrett,PG,24,PHO,19,149,0.84,0.16,0.0,0.0,0.0,-16.9,-10.3,9,7,3,0,3,2,71,0,4,2013,garredi02,United States
-141,Marc Gasol,C,28,MEM,80,2796,0.0,0.0,0.0,0.0,1.0,8.0,10.9,66,42,114,32,132,12,704,26,30,2013,gasolma01,Spain
-142,Pau Gasol,PF,32,LAL,49,1655,0.0,0.0,0.0,0.6,0.4,3.1,2.5,56,37,44,6,64,5,464,7,40,2013,gasolpa01,Spain
-143,Rudy Gay,SF,26,TOT,75,2687,0.0,0.0,0.8,0.2,0.0,4.4,4.3,91,68,69,23,126,9,443,28,84,2013,gayru01,United States
-144,Alonzo Gee,SF,25,CLE,82,2541,0.0,0.15,0.83,0.02,0.0,-7.1,-5.3,53,46,85,19,90,8,303,13,78,2013,geeal01,United States
-145,Mickaël Gelabale,SF,29,MIN,36,644,0.0,0.11,0.89,0.01,0.0,-5.3,-3.7,7,4,20,2,10,4,58,3,6,2013,gelabmi01,Guadeloupe
-146,Paul George,SF,22,IND,79,2972,0.0,0.02,0.98,0.0,0.0,7.0,8.7,130,58,91,27,102,8,736,26,77,2013,georgpa01,United States
-147,Daniel Gibson,PG,26,CLE,46,919,1.0,0.0,0.0,0.0,0.0,-12.1,-8.8,19,7,53,3,17,13,189,4,7,2013,gibsoda01,United States
-148,Taj Gibson,PF,27,CHI,65,1459,0.0,0.0,0.0,0.85,0.15,5.8,8.1,17,24,76,17,63,4,138,16,41,2013,gibsota01,United States
-149,Manu Ginóbili,SG,35,SAS,60,1393,0.03,0.76,0.21,0.0,0.0,7.9,1.7,82,34,49,5,83,14,626,22,26,2013,ginobma01,Argentina
-150,Drew Gooden,C,31,MIL,16,151,0.0,0.0,0.0,0.25,0.75,-7.2,-5.5,8,0,10,1,8,2,14,1,8,2013,goodedr01,United States
-151,Ben Gordon,SG,29,CHA,75,1560,0.02,0.85,0.13,0.0,0.0,-15.1,-8.3,62,44,56,14,52,9,312,13,49,2013,gordobe01,Great Britain England
-152,Eric Gordon,SG,24,NOH,42,1264,0.02,0.92,0.06,0.0,0.0,-2.2,3.6,54,44,26,7,102,1,310,19,36,2013,gordoer01,United States
-153,Marcin Gortat,C,28,PHO,61,1876,0.0,0.0,0.0,0.0,1.0,-5.3,3.2,26,20,52,25,62,1,166,15,45,2013,gortama01,Poland
-154,Andrew Goudelock,SG,24,LAL,1,6,0.0,1.0,0.0,0.0,0.0,-89.7,-91.5,0,0,0,0,0,0,0,0,0,2013,goudean01,United States
-155,Danny Granger,SF,29,IND,5,74,0.0,0.0,1.0,0.0,0.0,-11.0,-16.2,2,2,1,0,2,0,7,0,2,2013,grangda01,United States
-156,Aaron Gray,C,28,TOR,42,513,0.0,0.0,0.0,0.0,1.0,-8.5,-8.0,15,4,34,14,19,1,75,1,12,2013,grayaa01,United States
-157,Danny Green,SG,25,SAS,80,2201,0.0,0.61,0.38,0.01,0.0,7.5,1.5,54,23,66,8,33,14,305,6,27,2013,greenda02,United States
-158,Draymond Green,SF,22,GSW,79,1061,0.0,0.22,0.6,0.19,0.0,0.2,-1.2,25,6,75,12,24,7,118,3,12,2013,greendr01,United States
-159,Gerald Green,SF,27,IND,60,1080,0.0,0.44,0.55,0.01,0.0,0.1,-6.5,25,12,33,6,25,4,116,3,15,2013,greenge01,United States
-160,Jeff Green,PF,26,BOS,81,2252,0.0,0.0,0.21,0.61,0.19,-1.0,-1.2,46,40,86,24,122,7,309,26,63,2013,greenje02,United States
-161,Willie Green,SG,31,LAC,72,1188,0.03,0.97,0.0,0.0,0.0,4.4,-3.7,13,7,41,7,16,0,130,5,16,2013,greenwi01,United States
-162,Blake Griffin,PF,23,LAC,80,2598,0.0,0.0,0.0,0.76,0.24,7.4,1.4,67,52,88,35,182,15,702,53,60,2013,griffbl01,United States
-163,Hamed Haddadi,C,27,TOT,30,322,0.0,0.0,0.0,0.0,1.0,-0.8,0.5,10,9,35,10,11,0,24,1,6,2013,haddaha01,Iran
-164,Jordan Hamilton,SF,22,DEN,40,397,0.0,0.43,0.56,0.01,0.0,-2.0,-8.0,8,3,12,1,11,0,51,3,14,2013,hamiljo02,United States
-165,Richard Hamilton,SG,34,CHI,50,1088,0.0,0.99,0.02,0.0,0.0,-2.5,-4.3,48,14,23,16,25,1,261,3,25,2013,hamilri01,United States
-166,Ben Hansbrough,PG,25,IND,28,200,0.94,0.06,0.0,0.0,0.0,-8.4,-14.1,12,2,9,1,6,3,46,1,2,2013,hansbbe01,United States
-167,Tyler Hansbrough,PF,27,IND,81,1366,0.0,0.0,0.0,0.86,0.14,0.2,-7.1,13,30,40,19,122,12,81,17,63,2013,hansbty01,United States
-168,James Harden,SG,23,HOU,78,2985,0.0,0.94,0.05,0.0,0.0,2.8,-3.6,143,102,67,37,329,13,1098,65,106,2013,hardeja01,United States
-169,Maurice Harkless,SF,19,ORL,76,1974,0.0,0.08,0.82,0.11,0.0,-12.0,-8.5,33,18,72,9,57,7,111,14,52,2013,harklma01,United States
-170,Josh Harrellson,C,23,MIA,6,31,0.0,0.0,0.0,0.0,1.0,-1.7,-10.9,2,1,2,0,1,0,0,0,0,2013,harrejo01,United States
-171,Al Harrington,C,32,ORL,10,119,0.0,0.0,0.0,0.21,0.79,-17.2,-9.7,4,1,7,1,2,0,23,0,1,2013,harrial01,United States
-172,Devin Harris,SG,29,ATL,58,1421,0.27,0.72,0.01,0.0,0.0,6.4,9.1,55,21,48,3,72,21,455,17,17,2013,harride01,United States
-173,Terrel Harris,SG,25,TOT,20,137,0.15,0.82,0.03,0.0,0.0,0.0,-2.4,5,10,7,0,5,1,19,0,5,2013,harrite01,United States
-174,Tobias Harris,SF-PF,20,TOT,55,1299,0.0,0.01,0.31,0.64,0.05,-7.6,-3.4,25,18,60,15,63,3,150,12,43,2013,harrito02,United States
-175,Udonis Haslem,PF,32,MIA,75,1414,0.0,0.0,0.7,0.3,0.0,11.7,4.1,13,9,97,10,23,2,93,7,19,2013,hasleud01,United States
-176,Spencer Hawes,C,24,PHI,82,2233,0.0,0.0,0.0,0.0,1.0,-4.1,-1.1,50,37,162,25,68,4,399,11,52,2013,hawessp01,United States
-177,Chuck Hayes,C,29,SAC,74,1209,0.0,0.0,0.0,0.17,0.83,-1.3,5.8,24,12,69,0,20,1,252,4,25,2013,hayesch01,United States
-178,Gordon Hayward,SF,22,UTA,72,2104,0.0,0.27,0.73,0.0,0.0,2.4,5.6,47,47,41,17,104,19,474,25,47,2013,haywago01,United States
-179,Lazar Hayward,SF,26,MIN,4,31,0.0,0.49,0.52,0.0,0.0,-36.3,-34.3,0,0,2,0,3,0,6,0,2,2013,haywala01,United States
-180,Brendan Haywood,C,33,CHA,61,1162,0.0,0.0,0.0,0.01,0.99,-8.1,2.8,8,12,69,12,28,0,64,8,19,2013,haywobr01,United States
-181,Gerald Henderson,SG,25,CHA,68,2133,0.01,0.52,0.46,0.01,0.0,-10.2,-0.4,56,28,61,18,139,22,409,24,48,2013,hendege02,United States
-182,Xavier Henry,SF,21,NOH,50,625,0.0,0.24,0.75,0.01,0.0,-12.8,-9.7,9,15,18,5,42,8,29,8,21,2013,henryxa01,Belgium
-183,John Henson,PF,22,MIL,63,827,0.0,0.0,0.02,0.8,0.18,-3.0,-1.4,20,11,47,7,42,5,68,9,20,2013,hensojo01,United States
-184,Roy Hibbert,C,26,IND,79,2269,0.0,0.0,0.0,0.0,1.0,9.3,10.4,43,44,165,49,91,6,259,19,85,2013,hibbero01,United States
-185,J.J. Hickson,C,24,POR,80,2323,0.0,0.0,0.0,0.07,0.93,-5.0,-3.3,42,49,75,18,129,4,212,33,71,2013,hicksjj01,United States
-186,Cory Higgins,SG,23,CHA,6,32,0.37,0.57,0.06,0.0,0.0,-10.9,-0.9,0,0,4,0,0,0,12,0,0,2013,higgico01,United States
-187,Nenê,PF,30,WAS,61,1659,0.0,0.0,0.0,0.77,0.23,2.9,10.1,53,44,72,28,119,13,402,25,32,2013,hilarne01,United States
-188,George Hill,PG,26,IND,76,2620,0.95,0.05,0.0,0.0,0.0,9.0,12.5,68,21,47,14,64,19,791,21,28,2013,hillge01,United States
-189,Grant Hill,SF,40,LAC,29,437,0.0,0.01,0.61,0.39,0.0,0.0,-7.8,8,9,19,3,9,2,60,2,7,2013,hillgr01,United States
-190,Jordan Hill,PF,25,LAL,29,458,0.0,0.0,0.0,0.85,0.15,-2.5,-4.7,5,2,33,10,22,2,32,5,10,2013,hilljo01,United States
-191,Kirk Hinrich,PG,32,CHI,60,1764,0.85,0.15,0.0,0.0,0.0,3.2,4.6,51,22,102,9,30,24,676,4,30,2013,hinriki01,United States
-192,Jrue Holiday,PG,22,PHI,78,2926,0.99,0.01,0.0,0.0,0.0,-2.6,3.9,156,90,66,13,103,12,1414,21,76,2013,holidjr01,United States
-193,Justin Holiday,SG,23,PHI,9,142,0.58,0.42,0.0,0.0,0.0,5.9,9.8,5,3,4,1,3,1,31,0,2,2013,holidju01,United States
-194,Ryan Hollins,C,28,LAC,60,663,0.0,0.0,0.0,0.0,1.0,3.8,-3.9,10,11,54,13,42,4,25,9,17,2013,holliry01,United States
-195,Tyler Honeycutt,SF,22,SAC,9,32,0.0,0.14,0.77,0.1,0.0,-16.1,-10.8,4,1,1,0,0,0,5,0,1,2013,honeyty01,United States
-196,Al Horford,C,26,ATL,74,2756,0.0,0.0,0.0,0.27,0.73,2.8,7.3,56,40,77,25,91,7,593,23,40,2013,horfoal01,Dominican Republic
-197,Dwight Howard,C,27,LAL,76,2722,0.0,0.0,0.0,0.0,1.0,2.6,3.0,31,73,133,62,275,5,273,58,75,2013,howardw01,United States
-198,Josh Howard,SF,32,MIN,11,207,0.0,0.09,0.91,0.0,0.0,-3.7,-1.6,4,5,9,0,5,1,8,0,4,2013,howarjo01,United States
-199,Juwan Howard,PF,39,MIA,7,51,0.0,0.0,0.0,0.6,0.41,-9.0,-18.3,3,0,5,0,1,0,16,1,2,2013,howarju01,United States
-200,Kris Humphries,PF,27,BRK,65,1191,0.0,0.0,0.01,0.91,0.09,-3.5,-7.8,15,25,68,8,61,3,79,13,35,2013,humphkr01,United States
-201,Serge Ibaka,PF,23,OKC,80,2486,0.0,0.0,0.0,0.91,0.09,9.7,-0.2,26,43,120,23,84,5,106,19,32,2013,ibakase01,Republic of the Congo
-202,Andre Iguodala,SG,29,DEN,80,2779,0.03,0.86,0.11,0.0,0.0,6.7,5.0,99,60,61,14,110,9,957,27,30,2013,iguodan01,United States
-203,Ersan İlyasova,PF,25,MIL,73,2012,0.0,0.0,0.0,0.98,0.02,-0.6,2.6,31,17,92,13,68,31,273,13,43,2013,ilyaser01,Turkey
-204,Kyrie Irving,PG,20,CLE,59,2048,0.89,0.11,0.0,0.0,0.0,-4.8,1.0,101,53,50,23,112,4,768,32,66,2013,irvinky01,Australia
-205,Royal Ivey,SG,31,PHI,53,698,0.43,0.57,0.0,0.0,0.0,-4.9,-1.6,9,7,32,3,3,18,72,1,5,2013,iveyro01,United States
-206,Jarrett Jack,SG,29,GSW,79,2349,0.34,0.66,0.0,0.0,0.0,1.2,0.4,90,44,58,11,57,18,1005,11,26,2013,jackja01,United States
-207,Reggie Jackson,PG,22,OKC,70,993,0.73,0.27,0.0,0.0,0.0,7.1,-3.5,30,12,33,4,26,1,282,6,13,2013,jacksre01,Italy
-208,Stephen Jackson,SF,34,SAS,55,1075,0.0,0.0,0.79,0.21,0.0,5.0,-2.5,43,14,41,6,32,3,179,6,15,2013,jacksst02,United States
-209,Bernard James,C,27,DAL,46,457,0.0,0.0,0.0,0.04,0.96,-2.0,-1.4,6,7,35,4,20,1,13,5,11,2013,jamesbe01,United States
-210,Damion James,SF,25,BRK,2,0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,0,0,0,2013,jamesda01,United States
-211,LeBron James,PF,28,MIA,76,2877,0.0,0.0,0.09,0.82,0.09,13.2,15.3,137,52,34,26,209,7,1298,53,41,2013,jamesle01,United States
-212,Mike James,PG,37,DAL,45,862,0.85,0.15,0.0,0.0,0.0,1.9,3.3,38,8,35,2,9,3,319,1,14,2013,jamesmi01,United States
-213,Antawn Jamison,PF,36,LAL,76,1636,0.0,0.0,0.33,0.65,0.02,1.6,0.0,32,10,76,5,60,3,115,15,28,2013,jamisan01,United States
-214,Al Jefferson,C,28,UTA,78,2578,0.0,0.0,0.0,0.0,1.0,-3.6,-9.4,36,48,117,3,98,3,397,25,84,2013,jeffeal01,United States
-215,Richard Jefferson,SF,32,GSW,56,568,0.0,0.0,0.58,0.41,0.01,1.4,0.3,7,6,23,5,18,2,66,6,10,2013,jefferi01,United States
-216,Jared Jeffries,PF,31,POR,38,350,0.0,0.0,0.0,0.76,0.24,2.6,6.8,6,2,31,8,9,2,35,1,10,2013,jeffrja01,United States
-217,Charles Jenkins,SG-PG,23,TOT,59,441,0.45,0.53,0.02,0.0,0.0,-1.1,0.2,11,7,14,0,7,4,100,3,12,2013,jenkich01,United States
-218,John Jenkins,SG,21,ATL,61,902,0.05,0.92,0.04,0.0,0.0,-7.5,-10.4,21,13,15,0,25,2,126,6,11,2013,jenkijo01,United States
-219,Brandon Jennings,PG,23,MIL,80,2897,0.99,0.01,0.0,0.0,0.0,-5.3,-12.8,115,57,50,17,107,21,1165,27,55,2013,jennibr01,United States
-220,Jonas Jerebko,PF,25,DET,49,892,0.0,0.0,0.09,0.81,0.1,-5.4,-1.3,17,12,38,7,41,7,95,11,18,2013,jerebjo01,Sweden
-221,Amir Johnson,PF,25,TOR,81,2325,0.0,0.0,0.0,0.66,0.34,4.8,15.1,38,22,132,39,84,10,265,24,35,2013,johnsam01,United States
-222,Chris Johnson,C,27,MIN,30,284,0.0,0.0,0.0,0.13,0.87,-4.6,-2.6,3,6,37,3,12,1,18,0,2,2013,johnsch03,United States
-223,Chris Johnson,SF,22,MEM,8,102,0.0,0.31,0.67,0.03,0.0,17.7,13.3,2,0,3,0,1,0,4,0,3,2013,johnsch04,United States
-224,Ivan Johnson,PF,28,ATL,69,1035,0.0,0.0,0.26,0.71,0.03,-0.3,-1.1,34,23,57,8,65,10,107,17,45,2013,johnsiv01,United States
-225,James Johnson,SF,25,SAC,54,878,0.0,0.0,0.63,0.37,0.0,-15.6,-13.0,24,19,53,6,36,1,136,15,31,2013,johnsja01,United States
-226,Joe Johnson,SG,31,BRK,72,2642,0.0,0.55,0.45,0.0,0.0,5.2,9.5,69,34,38,10,63,3,624,11,20,2013,johnsjo02,United States
-227,Orlando Johnson,SG,23,IND,51,619,0.02,0.97,0.01,0.0,0.0,0.9,-4.7,16,8,26,3,15,1,113,2,18,2013,johnsor01,United States
-228,Wesley Johnson,SF,25,PHO,50,953,0.0,0.44,0.55,0.01,0.0,-12.4,-7.3,22,14,31,4,12,3,75,1,14,2013,johnswe01,United States
-229,Darius Johnson-Odom,SG,23,LAL,4,6,0.49,0.51,0.0,0.0,0.0,-53.3,-55.0,0,0,0,0,0,0,2,0,0,2013,johnsda03,United States
-230,Dahntay Jones,SF,32,TOT,78,1016,0.0,0.27,0.7,0.03,0.0,-2.0,-2.1,10,11,42,14,49,15,105,10,17,2013,jonesda02,United States
-231,DeQuan Jones,SF,22,ORL,63,803,0.0,0.26,0.68,0.06,0.0,-10.8,-3.9,10,12,37,2,27,6,34,7,13,2013,jonesde01,United States
-232,Dominique Jones,PG,24,DAL,29,338,0.67,0.3,0.03,0.0,0.0,-3.2,-2.8,16,13,11,6,20,1,201,3,9,2013,jonesdo02,United States
-233,James Jones,SF,32,MIA,38,221,0.0,0.45,0.53,0.02,0.0,-2.2,-12.0,2,1,9,0,1,1,35,1,0,2013,jonesja02,United States
-234,Kevin Jones,PF,23,CLE,32,334,0.0,0.0,0.0,0.94,0.07,6.6,12.9,1,4,13,0,6,0,23,1,13,2013,joneske01,United States
-235,Perry Jones,SF,21,OKC,38,280,0.0,0.0,0.18,0.76,0.07,1.1,-9.2,6,4,11,3,6,0,24,1,6,2013,jonespe01,United States
-236,Solomon Jones,PF,28,NYK,2,26,0.0,0.0,0.0,0.0,1.0,-2.4,-6.9,1,1,1,1,0,1,0,0,0,2013,jonesso01,United States
-237,Terrence Jones,PF,21,HOU,19,276,0.0,0.0,0.03,0.83,0.14,-0.9,-4.9,6,2,10,3,6,0,36,1,10,2013,joneste01,United States
-238,DeAndre Jordan,C,24,LAC,82,2010,0.0,0.0,0.0,0.01,0.99,8.0,2.0,20,33,112,17,111,3,61,33,31,2013,jordade01,United States
-239,Cory Joseph,PG,21,SAS,28,388,0.77,0.23,0.0,0.0,0.0,-0.1,-7.7,13,5,13,1,9,6,116,1,10,2013,josepco01,Canada
-240,Kris Joseph,SF,24,TOT,10,54,0.0,0.5,0.49,0.0,0.0,-1.7,-2.5,1,1,3,0,3,0,2,0,1,2013,josepkr01,Canada
-241,Chris Kaman,C,30,DAL,66,1363,0.0,0.0,0.0,0.0,1.0,-5.2,-6.8,27,52,79,10,45,2,117,9,28,2013,kamanch01,United States
-242,Enes Kanter,C,20,UTA,70,1078,0.0,0.0,0.0,0.05,0.95,4.9,7.1,22,28,50,29,56,2,69,13,43,2013,kanteen01,Switzerland
-243,Jason Kidd,SG,39,NYK,76,2043,0.31,0.68,0.02,0.0,0.0,4.7,0.4,54,15,59,2,12,8,600,3,7,2013,kiddja01,United States
-244,Michael Kidd-Gilchrist,SF,19,CHA,78,2025,0.0,0.0,0.8,0.2,0.0,-7.0,6.2,32,41,113,9,96,11,272,23,96,2013,kiddgmi01,United States
-245,Andrei Kirilenko,SF,31,MIN,64,2034,0.0,0.01,0.94,0.05,0.0,-0.5,3.6,77,27,33,4,108,12,368,22,33,2013,kirilan01,Soviet Union(now Russia)
-246,Linas Kleiza,SF,28,TOR,20,376,0.0,0.0,0.62,0.38,0.0,-7.4,-6.4,4,4,22,5,11,0,39,4,7,2013,kleizli01,Soviet Union(now Lithuania)
-247,Brandon Knight,PG,21,DET,75,2365,0.91,0.09,0.0,0.0,0.0,-2.5,4.4,110,64,53,15,84,14,663,15,57,2013,knighbr03,United States
-248,Kyle Korver,SF,31,ATL,74,2259,0.0,0.22,0.78,0.0,0.0,3.9,8.0,48,14,99,6,10,8,325,3,12,2013,korveky01,United States
-249,Kosta Koufos,C,23,DEN,81,1817,0.0,0.0,0.0,0.08,0.92,8.4,5.7,16,15,143,16,44,0,77,14,38,2013,koufoko01,United States
-250,Viacheslav Kravtsov,C,25,DET,25,224,0.0,0.0,0.0,0.0,1.0,-3.1,1.3,2,3,16,6,15,1,23,3,6,2013,kravtvi01,United States
-251,Doron Lamb,SG,21,TOT,47,577,0.1,0.77,0.13,0.0,0.0,-8.6,-4.1,13,1,15,4,14,7,70,2,11,2013,lambdo01,United States
-252,Jeremy Lamb,SF,20,OKC,23,147,0.0,0.32,0.6,0.08,0.0,-15.2,-25.8,2,3,6,1,4,1,11,0,6,2013,lambje01,United States
-253,Carl Landry,PF,29,GSW,81,1876,0.0,0.0,0.0,0.3,0.7,-2.0,-5.7,19,45,71,28,141,10,152,39,58,2013,landrca01,United States
-254,Ty Lawson,PG,25,DEN,73,2513,1.0,0.0,0.0,0.0,0.0,4.8,-1.0,106,45,31,20,103,12,1145,23,104,2013,lawsoty01,United States
-255,Courtney Lee,SG,27,BOS,78,1941,0.03,0.83,0.14,0.0,0.0,-1.4,-1.8,41,23,55,4,27,3,322,3,25,2013,leeco01,United States
-256,David Lee,PF,29,GSW,79,2907,0.0,0.0,0.0,0.94,0.06,2.7,6.2,92,67,122,31,156,3,685,32,104,2013,leeda02,United States
-257,Malcolm Lee,SG,22,MIN,16,289,0.17,0.83,0.0,0.0,0.0,2.5,5.1,3,1,15,2,10,3,46,0,6,2013,leema01,United States
-258,Kawhi Leonard,SF,21,SAS,58,1810,0.0,0.03,0.92,0.05,0.0,10.0,5.8,22,19,47,11,43,5,213,6,28,2013,leonaka01,United States
-259,Meyers Leonard,C,20,POR,69,1206,0.0,0.0,0.0,0.0,1.0,-7.5,-5.6,20,7,87,14,32,11,81,9,19,2013,leoname01,United States
-260,Jon Leuer,PF-C,23,TOT,28,187,0.0,0.0,0.0,0.67,0.33,-18.0,-18.1,3,0,9,2,5,0,19,1,1,2013,leuerjo01,United States
-261,Rashard Lewis,PF,33,MIA,55,792,0.0,0.0,0.05,0.76,0.2,-0.5,-12.0,17,8,40,6,13,2,71,1,9,2013,lewisra02,United States
-262,DeAndre Liggins,SG,24,OKC,39,290,0.0,0.77,0.23,0.0,0.0,-3.3,-14.1,3,2,17,2,6,2,34,1,9,2013,liggide01,United States
-263,Damian Lillard,PG,22,POR,82,3167,0.94,0.06,0.0,0.0,0.0,-1.8,9.1,159,54,82,14,124,12,1230,26,78,2013,lillada01,United States
-264,Jeremy Lin,PG,24,HOU,82,2640,0.88,0.13,0.0,0.0,0.0,2.7,-2.9,131,63,96,16,121,22,1152,26,65,2013,linje01,United States
-265,Shaun Livingston,PG,27,TOT,66,1455,0.72,0.27,0.01,0.0,0.0,-4.1,0.0,45,19,50,9,39,10,484,7,13,2013,livinsh01,United States
-266,Brook Lopez,C,24,BRK,74,2253,0.0,0.0,0.0,0.0,1.0,5.3,7.7,33,47,84,18,191,7,173,46,68,2013,lopezbr01,United States
-267,Robin Lopez,C,24,NOH,82,2136,0.0,0.0,0.0,0.0,1.0,-3.5,2.6,18,39,91,23,98,9,144,26,67,2013,lopezro01,United States
-268,Kevin Love,PF,24,MIN,18,618,0.0,0.0,0.0,0.82,0.18,0.3,2.9,14,16,17,5,50,2,94,5,33,2013,loveke01,United States
-269,Kyle Lowry,PG,26,TOR,68,2020,0.96,0.04,0.0,0.0,0.0,0.6,4.5,101,28,91,11,80,28,965,13,44,2013,lowryky01,United States
-270,John Lucas III,PG,30,TOR,63,827,1.0,0.0,0.0,0.0,0.0,-6.1,-5.6,16,4,17,2,9,7,249,4,11,2013,lucasjo02,United States
-271,Scott Machado,PG,22,HOU,6,21,1.0,0.0,0.0,0.0,0.0,-20.0,-23.8,6,1,0,0,0,0,13,0,0,2013,machasc01,United States
-272,Shelvin Mack,PG-SG,22,TOT,31,416,0.92,0.08,0.0,0.0,0.0,-3.5,-1.5,24,7,19,1,7,1,147,0,5,2013,macksh01,United States
-273,Corey Maggette,SF,33,DET,18,257,0.0,0.68,0.32,0.0,0.0,-3.6,0.7,5,2,14,6,21,2,47,2,8,2013,maggeco01,United States
-274,Ian Mahinmi,C,26,IND,80,1322,0.0,0.0,0.0,0.0,1.0,-5.0,-14.8,19,29,102,28,82,8,66,11,31,2013,mahinia01,France
-275,Shawn Marion,PF,34,DAL,67,2010,0.0,0.0,0.4,0.59,0.02,-3.4,-5.6,50,33,67,8,49,3,383,12,26,2013,mariosh01,United States
-276,Kendall Marshall,PG,21,PHO,48,702,0.75,0.24,0.01,0.0,0.0,-13.6,-8.0,44,8,18,1,4,4,330,2,5,2013,marshke01,United States
-277,Cartier Martin,SF,28,WAS,41,694,0.0,0.38,0.62,0.0,0.0,-4.4,-1.7,11,8,28,6,13,6,44,2,7,2013,martica01,United States
-278,Kenyon Martin,C,35,NYK,18,431,0.0,0.0,0.0,0.06,0.94,7.9,3.8,2,5,29,6,20,0,21,4,4,2013,martike01,United States
-279,Kevin Martin,SG,29,OKC,77,2136,0.0,0.73,0.26,0.01,0.0,10.4,1.4,30,30,66,10,98,7,238,14,32,2013,martike02,United States
-280,Roger Mason,SG,32,NOH,69,1219,0.0,0.79,0.21,0.0,0.0,-1.8,4.2,30,10,45,2,10,1,165,3,11,2013,masonro01,United States
-281,Wesley Matthews,SG,26,POR,69,2403,0.0,0.85,0.15,0.0,0.0,-2.1,3.7,46,43,80,10,71,17,391,15,45,2013,matthwe02,United States
-282,Jason Maxiell,PF,29,DET,72,1789,0.0,0.0,0.01,0.99,0.01,-5.1,-1.4,27,22,83,19,64,9,128,9,22,2013,maxieja01,United States
-283,Eric Maynor,PG-SG,25,TOT,64,963,0.63,0.37,0.0,0.0,0.0,-3.0,-7.0,54,18,20,1,20,0,415,5,12,2013,maynoer01,United States
-284,O.J. Mayo,SG,25,DAL,82,2913,0.0,0.97,0.03,0.0,0.0,-2.1,-5.4,107,72,93,16,87,14,795,17,51,2013,mayooj01,United States
-285,Luc Mbah a Moute,SF,26,MIL,58,1326,0.0,0.02,0.8,0.17,0.0,-1.6,0.5,36,20,40,8,62,6,128,8,36,2013,mbahalu01,Cameroon
-286,JaVale McGee,C,25,DEN,79,1433,0.0,0.0,0.0,0.03,0.97,1.8,-5.4,28,18,97,19,81,1,51,28,34,2013,mcgeeja01,United States
-287,Dominic McGuire,SF,27,TOT,26,387,0.0,0.02,0.93,0.05,0.0,-11.7,-11.6,7,3,16,1,5,1,45,0,6,2013,mcguido01,United States
-288,Josh McRoberts,PF,25,TOT,67,1487,0.0,0.0,0.07,0.74,0.19,-7.9,1.2,35,12,60,7,38,5,310,9,18,2013,mcrobjo01,United States
-289,Jodie Meeks,SG,25,LAL,78,1663,0.07,0.84,0.09,0.0,0.0,2.6,1.6,22,19,51,0,31,10,158,6,34,2013,meeksjo01,United States
-290,Fab Melo,C,22,BOS,6,36,0.0,0.0,0.0,0.0,1.0,-11.9,-11.5,0,0,3,1,2,0,0,0,0,2013,melofa01,Brazil
-291,Khris Middleton,SG,21,DET,27,475,0.0,0.17,0.83,0.0,0.0,3.6,9.0,7,0,25,2,10,4,64,2,8,2013,middlkh01,United States
-292,C.J. Miles,SF,25,CLE,65,1364,0.0,0.06,0.84,0.1,0.0,-3.2,3.1,28,21,75,9,42,5,140,10,21,2013,milescj01,United States
-293,Darko Miličić,C,27,BOS,1,5,0.0,0.0,0.0,0.0,1.0,-23.3,-22.9,0,1,0,1,0,0,0,0,0,2013,milicda01,SFR Yugoslavia(now Serbia)
-294,Andre Miller,PG,36,DEN,82,2151,0.6,0.4,0.0,0.0,0.0,4.2,-2.3,112,42,43,6,75,15,1044,20,68,2013,millean02,United States
-295,Darius Miller,SF,22,NOH,52,694,0.0,0.13,0.83,0.04,0.0,-5.2,-0.6,11,3,46,3,5,4,100,2,4,2013,milleda01,United States
-296,Mike Miller,SF,32,MIA,59,900,0.0,0.39,0.6,0.01,0.0,3.6,-7.1,19,8,36,4,2,2,229,0,8,2013,millemi01,United States
-297,Quincy Miller,PF,20,DEN,7,26,0.0,0.0,1.0,0.0,0.0,-3.2,-8.5,1,0,0,0,1,0,6,0,2,2013,millequ01,United States
-298,Patty Mills,PG,24,SAS,58,656,1.0,0.0,0.0,0.0,0.0,2.2,-5.6,18,15,18,2,4,12,144,2,9,2013,millspa02,Australia
-299,Paul Millsap,PF,27,UTA,78,2375,0.0,0.0,0.05,0.94,0.01,0.2,0.9,50,45,105,23,147,12,485,21,78,2013,millspa01,United States
-300,Nazr Mohammed,C,35,CHI,63,693,0.0,0.0,0.0,0.01,0.99,0.7,0.0,5,8,54,9,21,0,61,3,18,2013,mohamna01,United States
-301,Greg Monroe,C,22,DET,81,2687,0.0,0.0,0.0,0.17,0.83,-4.9,-1.7,100,86,93,24,187,5,637,47,122,2013,monrogr01,United States
-302,E'Twaun Moore,SG,23,ORL,75,1682,0.25,0.65,0.1,0.0,0.0,-9.5,-3.1,55,29,55,6,26,2,448,6,17,2013,mooreet01,United States
-303,Darius Morris,PG,22,LAL,48,683,0.68,0.32,0.0,0.0,0.0,-0.1,-2.1,23,13,20,5,18,4,189,5,11,2013,morrida01,United States
-304,Marcus Morris,PF-SF,23,TOT,77,1524,0.0,0.0,0.19,0.76,0.06,-3.8,-2.7,29,16,75,12,54,7,146,10,31,2013,morrima03,United States
-305,Markieff Morris,PF,23,PHO,82,1837,0.0,0.0,0.0,0.67,0.33,-10.1,-5.7,43,24,111,22,55,6,238,11,51,2013,morrima02,United States
-306,Anthony Morrow,SG,27,TOT,41,383,0.0,0.49,0.51,0.0,0.0,-6.6,-6.8,5,2,23,0,7,1,31,2,8,2013,morroan01,United States
-307,Donatas Motiejūnas,PF,22,HOU,44,538,0.0,0.0,0.01,0.75,0.24,3.1,-0.6,14,9,35,4,21,3,77,2,10,2013,motiedo01,Lithuania
-308,Arnett Moultrie,PF,22,PHI,47,542,0.0,0.0,0.0,0.65,0.35,-6.9,-3.8,4,6,22,7,14,1,23,4,13,2013,moultar01,United States
-309,Timofey Mozgov,C,26,DEN,41,366,0.0,0.0,0.0,0.0,1.0,-8.8,-15.4,3,9,33,5,12,0,22,2,7,2013,mozgoti01,Soviet Union(now Russia)
-310,Byron Mullens,PF,23,CHA,53,1428,0.0,0.0,0.0,0.82,0.18,-15.6,-8.6,39,20,52,4,37,6,173,5,27,2013,mulleby01,United States
-311,Kevin Murphy,SG,22,UTA,17,52,0.67,0.33,0.0,0.0,0.0,-41.4,-41.8,2,1,1,0,0,0,4,0,0,2013,murphke01,United States
-312,Troy Murphy,PF,32,DAL,14,256,0.0,0.0,0.0,0.99,0.02,-6.2,-5.9,5,2,18,0,5,0,18,1,1,2013,murphtr01,United States
-313,Steve Nash,PG,38,LAL,50,1627,0.85,0.15,0.0,0.0,0.0,1.0,-1.1,94,26,25,2,21,9,747,2,11,2013,nashst01,United States
-314,Gary Neal,SG,28,SAS,68,1484,0.36,0.62,0.02,0.0,0.0,4.0,-4.5,24,21,46,8,26,3,305,7,18,2013,nealga01,United States
-315,Jameer Nelson,PG,30,ORL,56,1977,0.99,0.01,0.0,0.0,0.0,-5.0,5.5,88,46,65,8,36,10,912,9,47,2013,nelsoja01,United States
-316,Andrew Nicholson,PF,23,ORL,75,1249,0.0,0.0,0.09,0.84,0.07,-6.8,1.3,23,23,63,13,48,3,102,14,21,2013,nichoan01,Canada
-317,Joakim Noah,C,27,CHI,66,2426,0.0,0.0,0.0,0.0,1.0,1.4,2.0,99,40,87,14,101,10,573,16,60,2013,noahjo01,United States
-318,Steve Novak,SF,29,NYK,81,1641,0.0,0.0,0.58,0.42,0.0,5.7,2.1,5,4,63,0,6,9,91,1,4,2013,novakst01,United States
-319,Dirk Nowitzki,PF,34,DAL,53,1661,0.0,0.0,0.0,0.96,0.04,0.2,1.6,30,30,58,6,60,14,293,15,18,2013,nowitdi01,West Germany
-320,Jermaine O'Neal,C,34,PHO,55,1029,0.0,0.0,0.0,0.05,0.95,-6.7,0.4,18,28,62,14,58,6,95,12,43,2013,onealje01,United States
-321,Kyle O'Quinn,C,22,ORL,57,638,0.0,0.0,0.0,0.15,0.85,-5.3,2.9,19,4,61,5,20,2,110,5,20,2013,oquinky01,United States
-322,Lamar Odom,PF,33,LAC,82,1616,0.0,0.0,0.0,0.92,0.08,9.7,4.6,42,14,83,17,19,14,327,8,25,2013,odomla01,United States
-323,Tim Ohlbrecht,C,24,HOU,3,12,0.0,0.0,0.0,0.0,1.0,-28.4,-32.1,1,1,1,0,1,0,2,1,0,2013,ohlbrti01,West Germany
-324,Emeka Okafor,C,30,WAS,79,2052,0.0,0.0,0.0,0.19,0.81,-1.9,2.2,34,35,66,20,94,13,222,15,44,2013,okafoem01,United States
-325,Daniel Orton,C,22,OKC,13,104,0.0,0.0,0.0,0.25,0.75,-4.8,-15.0,2,1,5,0,9,0,10,1,2,2013,ortonda01,United States
-326,Travis Outlaw,SF,28,SAC,38,444,0.0,0.0,0.7,0.3,0.0,-5.8,-0.5,10,5,16,3,22,1,49,3,4,2013,outlatr01,United States
-327,Zaza Pachulia,C,28,ATL,52,1134,0.0,0.0,0.0,0.0,1.0,-0.7,-1.6,19,19,49,21,44,2,178,9,34,2013,pachuza01,Soviet Union(now Georgia)
-328,Jannero Pargo,PG,33,TOT,32,507,0.83,0.17,0.0,0.0,0.0,-9.5,-5.6,26,9,15,3,5,6,152,1,7,2013,pargoja01,United States
-329,Jeremy Pargo,PG-SG,26,TOT,39,655,0.49,0.5,0.01,0.0,0.0,-8.9,-4.9,23,16,21,6,28,1,218,7,28,2013,pargoje01,United States
-330,Tony Parker,PG,30,SAS,66,2174,0.98,0.02,0.0,0.0,0.0,10.5,8.0,82,58,38,11,118,9,1168,30,64,2013,parketo01,Belgium
-331,Chandler Parsons,SF,24,HOU,76,2758,0.0,0.01,0.72,0.26,0.0,2.8,-2.6,58,52,57,16,71,14,634,19,71,2013,parsoch01,United States
-332,Patrick Patterson,PF,23,TOT,71,1775,0.0,0.0,0.03,0.9,0.07,1.2,2.7,32,13,60,12,28,4,199,5,22,2013,pattepa01,United States
-333,Chris Paul,PG,27,LAC,70,2335,1.0,0.0,0.0,0.0,0.0,9.7,6.7,96,38,44,17,61,14,1542,13,23,2013,paulch01,United States
-334,Sasha Pavlović,SG,29,POR,39,528,0.0,0.44,0.55,0.01,0.0,-1.5,2.4,6,5,29,2,6,2,75,6,5,2013,pavloal01,SFR Yugoslavia(now Montenegro)
-335,Nikola Peković,C,27,MIN,62,1959,0.0,0.0,0.0,0.0,1.0,-0.4,3.6,12,36,68,34,150,1,123,28,86,2013,pekovni01,SFR Yugoslavia(now Montenegro)
-336,Kendrick Perkins,C,28,OKC,78,1954,0.0,0.0,0.0,0.0,1.0,10.1,0.8,40,27,82,31,28,5,246,4,36,2013,perkike01,United States
-337,Johan Petro,C,27,ATL,31,352,0.0,0.0,0.0,0.0,1.0,-13.0,-14.8,10,4,28,4,8,1,36,3,4,2013,petrojo01,France
-338,Paul Pierce,SF,35,BOS,77,2575,0.0,0.1,0.86,0.04,0.0,2.0,7.2,98,61,111,21,158,6,810,31,75,2013,piercpa01,United States
-339,Mickaël Piétrus,SF,30,TOR,19,386,0.0,0.04,0.9,0.06,0.0,-3.4,-2.0,11,3,15,0,9,1,22,2,5,2013,pietrmi01,Guadeloupe
-340,Dexter Pittman,C,24,TOT,11,32,0.0,0.0,0.0,0.11,0.89,-42.1,-49.3,1,1,4,1,2,0,0,1,4,2013,pittmde01,United States
-341,Miles Plumlee,C,24,IND,14,55,0.0,0.0,0.0,0.0,1.0,-9.8,-14.9,0,1,4,0,2,0,6,0,3,2013,plumlmi01,United States
-342,Quincy Pondexter,SF,24,MEM,59,1243,0.0,0.36,0.63,0.01,0.0,2.1,-3.9,28,6,41,4,32,8,139,4,24,2013,pondequ01,United States
-343,A.J. Price,PG,26,WAS,57,1278,1.0,0.0,0.0,0.0,0.0,-2.7,0.4,47,13,30,2,24,11,457,3,13,2013,priceaj01,United States
-344,Ronnie Price,PG,29,POR,39,510,0.99,0.01,0.0,0.0,0.0,-4.9,-1.4,19,12,26,2,11,3,170,2,9,2013,pricero01,United States
-345,Pablo Prigioni,PG,35,NYK,78,1263,0.76,0.24,0.0,0.0,0.0,8.0,5.1,61,14,29,4,8,22,580,3,8,2013,prigipa01,Argentina
-346,Tayshaun Prince,SF,32,TOT,82,2631,0.0,0.02,0.92,0.06,0.0,2.5,3.5,46,29,46,6,50,4,448,8,29,2013,princta01,United States
-347,Joel Przybilla,C,33,MIL,12,68,0.0,0.0,0.0,0.0,1.0,-36.3,-35.0,2,1,5,1,0,1,8,0,1,2013,przybjo01,United States
-348,Chris Quinn,SG,29,CLE,7,78,0.19,0.81,0.0,0.0,0.0,7.4,12.9,5,1,2,0,1,2,21,0,0,2013,quinnch01,United States
-349,Vladimir Radmanović,PF,32,CHI,25,144,0.0,0.0,0.0,0.84,0.17,-12.0,-13.1,2,1,16,3,2,0,20,1,1,2013,radmavl01,SFR Yugoslavia(now Bosnia and Herzegovina)
-350,Anthony Randolph,PF,23,DEN,39,329,0.0,0.0,0.0,0.83,0.17,1.9,-3.7,9,10,10,12,21,3,27,1,14,2013,randoan01,West Germany(now Germany)
-351,Shavlik Randolph,PF,29,BOS,16,198,0.0,0.0,0.0,0.1,0.9,1.3,1.9,3,3,18,2,13,1,10,3,7,2013,randosh01,United States
-352,Zach Randolph,PF,31,MEM,76,2607,0.0,0.0,0.0,0.85,0.15,5.7,2.7,45,53,68,23,125,8,242,32,98,2013,randoza01,United States
-353,J.J. Redick,SG,28,TOT,78,2379,0.23,0.69,0.08,0.0,0.0,-1.9,4.0,80,38,52,7,65,20,663,18,21,2013,redicjj01,United States
-354,Jason Richardson,SG,32,PHI,33,936,0.15,0.84,0.01,0.0,0.0,-0.9,3.5,12,10,23,4,13,3,113,2,9,2013,richaja01,United States
-355,Quentin Richardson,SF,32,NYK,1,29,0.0,0.34,0.67,0.0,0.0,-16.1,-20.7,2,0,1,0,1,0,2,0,0,2013,richaqu01,United States
-356,Luke Ridnour,SG,31,MIN,82,2474,0.36,0.6,0.04,0.0,0.0,-2.7,-1.4,88,28,88,4,31,22,676,7,36,2013,ridnolu01,United States
-357,Austin Rivers,SG,20,NOH,61,1418,0.09,0.88,0.03,0.0,0.0,-6.0,-2.2,31,25,55,7,44,7,299,6,53,2013,riverau01,United States
-358,Brian Roberts,PG,27,NOH,78,1324,1.0,0.0,0.0,0.0,0.0,-8.0,-5.1,31,28,51,6,29,7,512,6,33,2013,roberbr01,United States
-359,Nate Robinson,PG,28,CHI,82,2086,1.0,0.0,0.0,0.0,0.0,0.3,-0.6,76,39,77,11,53,13,777,9,37,2013,robinna01,United States
-360,Thomas Robinson,PF,21,TOT,70,1056,0.0,0.0,0.0,0.91,0.1,-7.0,-7.1,22,29,46,16,52,3,107,7,34,2013,robinth01,United States
-361,Rajon Rondo,PG,26,BOS,38,1423,1.0,0.0,0.0,0.0,0.0,-2.6,-3.3,103,28,27,12,36,18,922,7,24,2013,rondora01,United States
-362,Terrence Ross,SG,21,TOR,73,1239,0.0,0.91,0.09,0.0,0.0,-2.9,-1.9,24,10,60,4,19,9,126,2,21,2013,rosste01,United States
-363,Brandon Roy,SG,28,MIN,5,122,0.0,1.0,0.0,0.0,0.0,3.1,5.5,4,3,2,0,3,0,54,0,1,2013,roybr01,United States
-364,Ricky Rubio,PG,22,MIN,57,1691,0.73,0.27,0.0,0.0,0.0,-2.2,0.0,107,42,44,9,100,41,897,13,46,2013,rubiori01,Spain
-365,Brandon Rush,SF,27,GSW,2,25,0.0,0.49,0.51,0.0,0.0,4.2,3.2,0,1,0,2,1,0,5,1,1,2013,rushbr01,United States
-366,Robert Sacre,C,23,LAL,32,203,0.0,0.0,0.0,0.0,1.0,-12.0,-14.4,2,4,26,3,5,0,14,1,8,2013,sacrero01,United States
-367,John Salmons,SF,33,SAC,76,2278,0.0,0.04,0.91,0.06,0.0,-0.9,10.6,41,29,84,4,47,3,508,10,31,2013,salmojo01,United States
-368,Samardo Samuels,C,24,CLE,18,196,0.0,0.0,0.0,0.4,0.6,-8.7,-3.6,3,1,9,1,7,0,21,0,4,2013,samuesa01,Jamaica
-369,Larry Sanders,C,24,MIL,71,1937,0.0,0.0,0.0,0.05,0.95,0.7,5.0,27,27,140,20,66,6,187,12,35,2013,sandela01,United States
-370,Luis Scola,PF,32,PHO,82,2184,0.0,0.0,0.0,0.91,0.09,-5.6,3.2,50,37,89,20,94,12,410,23,53,2013,scolalu01,Argentina
-371,Mike Scott,PF,24,ATL,40,376,0.0,0.0,0.09,0.45,0.46,-6.4,-7.7,11,5,19,2,25,1,30,2,15,2013,scottmi01,United States
-372,Thabo Sefolosha,SG,28,OKC,81,2229,0.0,0.68,0.31,0.01,0.0,11.7,4.6,30,15,64,11,31,10,276,4,20,2013,sefolth01,Switzerland
-373,Josh Selby,PG,21,MEM,10,59,0.98,0.02,0.0,0.0,0.0,-34.8,-40.1,3,3,3,1,4,1,9,0,3,2013,selbyjo01,United States
-374,Kevin Séraphin,C,23,WAS,79,1721,0.0,0.0,0.0,0.01,0.99,-6.9,-6.9,34,30,110,36,42,4,146,4,36,2013,serapke01,United States
-375,Ramon Sessions,SG,26,CHA,61,1652,0.46,0.54,0.0,0.0,0.0,-12.0,-3.3,47,37,24,10,141,8,532,22,66,2013,sessira01,United States
-376,Tornike Shengelia,SF,21,BRK,19,93,0.0,0.02,0.89,0.09,0.0,6.2,4.3,3,2,9,1,6,0,6,2,2,2013,shengto01,Georgia
-377,Iman Shumpert,SG,22,NYK,45,996,0.04,0.59,0.37,0.0,0.0,0.6,-5.2,20,7,47,3,21,8,185,2,20,2013,shumpim01,United States
-378,Alexey Shved,SG,24,MIN,77,1840,0.02,0.77,0.22,0.0,0.0,-1.7,1.0,85,36,52,8,61,14,636,11,38,2013,shvedal01,Soviet Union(now Russia)
-379,Henry Sims,C,22,NOH,2,5,0.0,0.0,0.0,0.0,1.0,11.1,15.8,0,0,0,1,0,0,0,0,0,2013,simshe01,United States
-380,Kyle Singler,SF,24,DET,82,2293,0.0,0.38,0.6,0.02,0.0,-4.0,0.7,42,26,104,15,59,8,177,15,47,2013,singlky01,United States
-381,Chris Singleton,PF,23,WAS,57,924,0.0,0.0,0.12,0.87,0.02,-4.3,-1.7,15,11,56,13,32,4,87,9,13,2013,singlch01,United States
-382,Donald Sloan,SG-PG,25,TOT,23,263,0.35,0.64,0.01,0.0,0.0,-14.2,-9.6,5,7,7,1,14,1,91,3,14,2013,sloando01,United States
-383,Greg Smith,C,22,HOU,70,1110,0.0,0.0,0.0,0.22,0.78,5.2,2.2,11,12,88,11,69,2,63,14,36,2013,smithgr02,United States
-384,Ish Smith,PG,24,TOT,52,516,1.0,0.0,0.0,0.0,0.0,-5.5,-0.8,20,15,14,1,3,4,201,1,10,2013,smithis01,United States
-385,J.R. Smith,SG,27,NYK,80,2678,0.0,0.53,0.45,0.02,0.0,5.4,2.9,54,49,105,21,121,9,539,28,46,2013,smithjr01,United States
-386,Jason Smith,C,26,NOH,51,876,0.0,0.0,0.0,0.09,0.91,-3.6,1.3,14,16,43,20,34,9,78,4,30,2013,smithja02,United States
-387,Josh Smith,PF,27,ATL,76,2683,0.0,0.0,0.13,0.77,0.1,1.4,2.9,125,66,81,18,160,16,761,48,39,2013,smithjo03,United States
-388,Nolan Smith,PG,24,POR,40,288,1.0,0.0,0.0,0.0,0.0,-2.4,1.3,17,11,7,1,10,0,78,2,7,2013,smithno01,United States
-389,Marreese Speights,C,25,TOT,79,1300,0.0,0.0,0.0,0.21,0.79,-4.8,-5.3,33,23,87,13,79,7,106,9,51,2013,speigma01,United States
-390,Tiago Splitter,PF,28,SAS,81,1997,0.0,0.0,0.0,0.41,0.59,10.2,6.8,47,24,80,18,135,15,291,26,80,2013,splitti01,Brazil
-391,Jerry Stackhouse,SF,38,BRK,37,544,0.0,0.07,0.89,0.04,0.0,-1.0,-3.5,11,9,15,2,5,2,85,1,4,2013,stackje01,United States
-392,Lance Stephenson,SG,22,IND,78,2278,0.0,0.95,0.04,0.0,0.0,8.8,9.5,58,24,54,13,38,16,515,11,34,2013,stephla01,United States
-393,DeShawn Stevenson,SG,31,ATL,56,1158,0.0,0.62,0.38,0.0,0.0,-1.5,-2.8,15,6,34,1,7,5,113,2,5,2013,stevede01,United States
-394,Greg Stiemsma,C,27,MIN,76,1209,0.0,0.0,0.0,0.0,1.0,-3.5,-1.8,15,18,101,24,25,16,62,3,25,2013,stiemgr01,United States
-395,Julyan Stone,PG,24,DEN,4,28,1.0,0.0,0.0,0.0,0.0,13.7,8.5,1,0,1,0,1,0,4,0,0,2013,stoneju01,United States
-396,Amar'e Stoudemire,PF,30,NYK,29,682,0.0,0.0,0.0,0.52,0.48,2.2,-2.8,5,23,44,8,56,4,33,6,32,2013,stoudam01,United States
-397,Rodney Stuckey,SG,26,DET,76,2171,0.12,0.77,0.11,0.0,0.0,-7.1,-6.2,64,39,61,17,125,12,623,34,55,2013,stuckro01,United States
-398,Jared Sullinger,PF,20,BOS,45,892,0.0,0.0,0.0,0.66,0.35,2.8,4.2,10,5,69,11,29,6,81,5,31,2013,sullija01,United States
-399,DaJuan Summers,PF,25,LAC,2,7,0.0,0.0,0.0,1.0,0.0,0.0,-7.0,0,0,0,0,0,0,2,0,0,2013,summeda01,United States
-400,Jeff Taylor,SF,23,CHA,77,1507,0.0,0.28,0.62,0.1,0.0,-9.0,1.8,18,13,69,2,45,5,149,3,39,2013,tayloje03,United States
-401,Tyshawn Taylor,PG,22,BRK,38,221,0.86,0.14,0.0,0.0,0.0,-13.1,-16.0,12,8,18,1,9,0,50,1,11,2013,tayloty01,United States
-402,Jeff Teague,PG,24,ATL,80,2628,0.99,0.01,0.0,0.0,0.0,1.0,1.5,126,61,80,19,91,10,1316,20,79,2013,teaguje01,United States
-403,Marquis Teague,PG,19,CHI,48,392,0.9,0.11,0.0,0.0,0.0,1.8,1.3,20,11,24,1,7,2,138,0,12,2013,teaguma01,United States
-404,Mirza Teletović,PF,27,BRK,53,499,0.0,0.0,0.0,0.79,0.21,-2.6,-5.3,5,7,27,2,6,3,58,3,10,2013,teletmi01,SFR Yugoslavia(now Bosnia and Herzegovina)
-405,Sebastian Telfair,PG,27,TOT,59,980,0.99,0.01,0.0,0.0,0.0,-1.3,3.5,48,8,45,1,19,13,335,2,15,2013,telfase01,United States
-406,Garrett Temple,SG,26,WAS,51,1156,0.06,0.87,0.07,0.0,0.0,-0.1,4.0,39,9,46,5,20,12,262,7,12,2013,templga01,United States
-407,Jason Terry,SG,35,BOS,79,2124,0.36,0.62,0.01,0.0,0.0,-0.6,-0.2,66,18,46,8,37,4,442,5,15,2013,terryja01,United States
-408,Hasheem Thabeet,C,25,OKC,66,770,0.0,0.0,0.0,0.0,1.0,10.8,1.3,8,14,62,11,25,5,25,6,14,2013,thabeha01,Tanzania
-409,Isaiah Thomas,PG,23,SAC,79,2122,0.99,0.01,0.0,0.0,0.0,-3.7,3.7,73,45,50,9,99,11,719,26,63,2013,thomais02,United States
-410,Kurt Thomas,PF,40,NYK,39,392,0.0,0.0,0.08,0.6,0.32,-4.1,-9.6,2,2,25,4,7,5,51,1,2,2013,thomaku01,United States
-411,Lance Thomas,SF,24,NOH,59,646,0.0,0.02,0.64,0.3,0.04,-2.7,2.4,4,5,34,3,27,9,38,7,16,2013,thomala01,United States
-412,Malcolm Thomas,PF,24,TOT,12,57,0.0,0.0,0.02,0.75,0.23,37.9,37.3,0,1,4,1,3,0,8,0,1,2013,thomama01,United States
-413,Tyrus Thomas,PF,26,CHA,26,360,0.0,0.0,0.02,0.9,0.08,-11.4,-1.5,6,3,29,3,14,2,43,5,10,2013,thomaty01,United States
-414,Jason Thompson,PF,26,SAC,82,2285,0.0,0.0,0.0,0.82,0.18,-5.3,0.2,41,28,99,23,94,8,193,16,71,2013,thompja02,United States
-415,Klay Thompson,SG,22,GSW,82,2936,0.0,0.61,0.39,0.0,0.0,1.4,1.1,70,41,105,20,59,8,401,4,36,2013,thompkl01,United States
-416,Tristan Thompson,PF,21,CLE,82,2564,0.0,0.0,0.0,0.84,0.16,-4.7,1.4,28,36,110,29,135,4,255,27,123,2013,thomptr01,Canada
-417,Marcus Thornton,SG,25,SAC,72,1726,0.06,0.83,0.11,0.0,0.0,-9.3,-6.9,29,28,49,5,54,3,203,14,29,2013,thornma01,United States
-418,Jamaal Tinsley,PG,34,UTA,66,1221,1.0,0.0,0.0,0.0,0.0,0.8,1.4,78,22,34,2,5,5,651,0,10,2013,tinslja01,United States
-419,Anthony Tolliver,SF,27,ATL,62,963,0.0,0.01,0.74,0.26,0.0,-2.7,-4.2,23,4,38,3,21,5,70,2,9,2013,tollian01,United States
-420,P.J. Tucker,SG,27,PHO,79,1910,0.0,0.78,0.21,0.01,0.0,-3.9,6.0,25,13,60,6,37,9,244,3,36,2013,tuckepj01,United States
-421,Ronny Turiaf,C,30,LAC,65,701,0.0,0.0,0.0,0.23,0.77,2.7,-5.2,14,9,39,3,27,7,78,6,18,2013,turiaro01,Martinique
-422,Hedo Türkoğlu,SF,33,ORL,11,189,0.0,0.02,0.62,0.36,0.0,-22.9,-15.9,10,1,6,0,2,1,51,2,2,2013,turkohe01,Turkey
-423,Evan Turner,SF,24,PHI,82,2892,0.0,0.25,0.71,0.04,0.0,-3.7,-0.3,88,49,97,21,81,14,779,13,87,2013,turneev01,United States
-424,Jeremy Tyler,C,21,TOT,21,68,0.0,0.0,0.0,0.34,0.66,4.6,3.9,2,3,6,0,2,0,2,0,5,2013,tylerje01,United States
-425,Ekpe Udoh,C,25,MIL,76,1312,0.0,0.0,0.0,0.37,0.63,-2.2,-0.5,12,14,87,12,52,3,97,10,24,2013,udohek01,United States
-426,Beno Udrih,SG-PG,30,TOT,66,1457,0.54,0.44,0.02,0.0,0.0,-6.5,-2.2,69,26,42,4,38,11,675,6,23,2013,udrihbe01,SFR Yugoslavia(now Slovenia)
-427,Jonas Valančiūnas,C,20,TOR,62,1482,0.0,0.0,0.0,0.0,1.0,-3.7,-3.4,20,31,102,23,83,5,100,15,30,2013,valanjo01,Lithuania
-428,Anderson Varejão,C,30,CLE,25,901,0.0,0.0,0.0,0.3,0.7,-4.7,0.8,19,12,30,5,41,8,200,9,17,2013,varejan01,Brazil
-429,Jarvis Varnado,PF,24,TOT,13,58,0.0,0.0,0.3,0.67,0.03,-20.9,-25.3,1,1,5,2,1,0,8,0,2,2013,varnaja01,United States
-430,Greivis Vásquez,PG,26,NOH,78,2685,0.92,0.09,0.0,0.0,0.0,-4.2,1.4,138,64,66,20,65,19,1573,23,65,2013,vasqugr01,Venezuela
-431,Jan Veselý,PF,22,WAS,51,601,0.0,0.0,0.0,0.93,0.07,-4.3,-1.6,11,10,56,4,15,8,62,2,15,2013,veselja01,Czechoslovakia(now Czech Republic)
-432,Charlie Villanueva,PF,28,DET,69,1092,0.0,0.0,0.0,0.85,0.15,-4.6,-0.3,20,8,59,3,21,0,125,3,10,2013,villach01,United States
-433,Nikola Vučević,C,22,ORL,77,2559,0.0,0.0,0.0,0.0,1.0,-8.2,-1.2,38,33,111,31,59,7,323,19,58,2013,vucevni01,Switzerland
-434,Dwyane Wade,SG,31,MIA,69,2391,0.13,0.87,0.0,0.0,0.0,12.8,9.4,109,65,68,11,200,4,804,41,36,2013,wadedw01,United States
-435,Dion Waiters,SG,21,CLE,61,1756,0.01,0.92,0.07,0.0,0.0,-5.0,0.6,50,42,51,14,87,2,411,12,70,2013,waitedi01,United States
-436,Kemba Walker,PG,22,CHA,82,2859,1.0,0.0,0.0,0.0,0.0,-9.1,3.4,115,58,60,14,147,32,1040,38,103,2013,walkeke02,United States
-437,John Wall,PG,22,WAS,49,1602,0.9,0.1,0.0,0.0,0.0,1.0,6.8,91,42,46,11,119,12,864,27,44,2013,walljo01,United States
-438,Gerald Wallace,SF,30,BRK,69,2076,0.0,0.01,0.79,0.21,0.0,4.1,4.5,55,30,41,19,79,30,414,11,30,2013,wallage01,United States
-439,Rasheed Wallace,C,38,NYK,21,296,0.0,0.0,0.0,0.21,0.79,2.6,-2.0,2,5,33,2,5,1,14,0,6,2013,wallara01,United States
-440,Luke Walton,PF,32,CLE,50,857,0.0,0.0,0.05,0.95,0.0,-3.1,2.7,41,9,43,1,10,8,363,2,9,2013,waltolu01,United States
-441,Hakim Warrick,PF,30,TOT,28,489,0.0,0.0,0.01,0.96,0.03,-13.1,-6.0,9,10,12,6,40,1,54,4,21,2013,warriha01,United States
-442,C.J. Watson,PG,28,BRK,80,1521,1.0,0.0,0.0,0.0,0.0,0.6,-2.2,34,17,51,8,35,6,373,7,18,2013,watsocj01,United States
-443,Earl Watson,PG,33,UTA,48,829,1.0,0.0,0.0,0.0,0.0,-3.7,-4.4,49,12,41,6,6,6,401,1,5,2013,watsoea01,United States
-444,Maalik Wayns,PG,21,TOT,27,202,0.96,0.05,0.0,0.0,0.0,-14.7,-16.8,7,3,7,3,7,1,66,3,9,2013,waynsma01,United States
-445,Martell Webster,SF,26,WAS,76,2200,0.0,0.17,0.81,0.02,0.0,-1.2,3.8,33,21,71,11,91,12,322,18,34,2013,webstma02,United States
-446,David West,PF,32,IND,73,2435,0.0,0.0,0.0,0.97,0.03,8.3,9.1,65,54,55,24,127,7,502,26,62,2013,westda01,United States
-447,Russell Westbrook,PG,24,OKC,82,2861,0.99,0.01,0.0,0.0,0.0,10.7,3.5,137,92,46,29,230,3,1350,48,74,2013,westbru01,United States
-448,D.J. White,PF,26,BOS,12,86,0.0,0.0,0.02,0.92,0.06,14.1,14.9,0,0,3,1,5,0,8,1,2,2013,whitedj01,United States
-449,James White,SF,30,NYK,57,435,0.02,0.3,0.67,0.02,0.0,-7.2,-13.2,10,2,19,2,8,3,73,1,7,2013,whiteja02,United States
-450,Chris Wilcox,C,30,BOS,61,830,0.0,0.0,0.0,0.12,0.88,-1.4,-1.1,13,5,76,11,25,6,49,6,4,2013,wilcoch01,United States
-451,Damien Wilkins,SG,33,PHI,61,1095,0.09,0.75,0.16,0.0,0.0,-4.3,-0.9,17,13,30,10,52,5,209,11,17,2013,wilkida02,United States
-452,Deron Williams,PG,28,BRK,78,2842,0.79,0.21,0.0,0.0,0.0,2.5,2.0,134,52,67,20,118,25,1356,26,54,2013,willide01,United States
-453,Derrick Williams,PF,21,MIN,78,1916,0.0,0.0,0.02,0.83,0.15,-4.6,-4.7,26,37,72,16,132,8,112,22,67,2013,willide02,United States
-454,Lou Williams,SG,26,ATL,39,1119,0.53,0.47,0.0,0.0,0.0,-0.1,-0.8,51,17,21,2,48,8,317,7,23,2013,willilo02,United States
-455,Marvin Williams,SF,26,UTA,73,1727,0.0,0.0,0.96,0.04,0.0,-2.8,-4.6,26,19,44,10,34,4,167,7,30,2013,willima02,United States
-456,Mo Williams,PG,30,UTA,46,1418,1.0,0.0,0.0,0.0,0.0,-3.0,-4.4,79,30,49,5,18,16,630,2,30,2013,willima01,United States
-457,Reggie Williams,SF,26,CHA,40,380,0.18,0.29,0.52,0.02,0.0,-5.7,4.8,14,4,10,0,7,2,89,0,2,2013,willire02,United States
-458,Terrence Williams,SF,25,BOS,24,318,0.0,0.12,0.85,0.03,0.0,-1.8,-1.4,14,3,8,1,11,1,94,5,5,2013,willite01,United States
-459,Metta World Peace,SF,33,LAL,75,2530,0.0,0.01,0.83,0.16,0.0,4.4,7.5,31,33,65,22,68,9,264,13,56,2013,artesro01,United States
-460,Brandan Wright,C,25,DAL,64,1149,0.0,0.0,0.0,0.41,0.59,5.0,8.0,10,13,41,7,51,3,84,20,25,2013,wrighbr03,United States
-461,Chris Wright,SG,23,DAL,3,4,0.2,0.64,0.16,0.0,0.0,-80.0,-79.4,1,0,0,0,0,0,0,0,0,2013,wrighch02,United States
-462,Dorell Wright,SF,27,PHI,79,1783,0.0,0.0,0.75,0.24,0.0,-5.8,-4.1,34,20,56,3,54,7,333,8,16,2013,wrighdo01,United States
-463,Tony Wroten,SG,19,MEM,35,272,0.05,0.83,0.13,0.0,0.0,-10.7,-16.6,12,6,6,6,14,0,91,3,13,2013,wroteto01,United States
-464,Nick Young,SG,27,PHI,59,1411,0.09,0.65,0.26,0.01,0.0,-5.3,-2.6,14,23,39,7,59,12,188,12,18,2013,youngni01,United States
-465,Sam Young,SG,27,IND,56,693,0.0,0.69,0.31,0.0,0.0,-3.8,-10.5,22,2,27,3,17,4,102,3,9,2013,youngsa01,United States
-466,Thaddeus Young,PF,24,PHI,76,2629,0.0,0.0,0.0,0.97,0.03,-0.4,9.7,36,39,99,7,91,10,283,18,50,2013,youngth01,United States
-467,Luke Zeller,C,25,PHO,16,58,0.0,0.0,0.0,0.0,1.0,-33.4,-26.8,0,0,4,0,0,0,6,0,0,2013,zellelu01,United States
-468,Tyler Zeller,C,23,CLE,77,2033,0.0,0.0,0.0,0.0,1.0,-6.9,-3.5,30,27,141,17,61,20,224,11,49,2013,zellety01,United States
+,Player,Pos,Age,Tm,G,GS,MP,FG,FGA,FGPc,_3P,_3PA,_3PTPc,_2P,_2PA,_2PTPc,eFGPc,FT,FTA,FTPc,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,Season,PlayerID,Country
+0,Quincy Acy,PF,22,TOR,29,0,11.8,1.4,2.6,0.56,0.0,0.1,0.5,1.4,2.5,0.562,0.5670000000000001,1.1,1.3,0.816,1.0,1.6,2.7,0.4,0.4,0.5,0.6,1.8,4.0,2013,acyqu01,United States
+1,Jeff Adrien,PF,26,CHA,52,5,13.7,1.4,3.2,0.429,0.0,0.0,0.0,1.4,3.2,0.434,0.429,1.2,1.9,0.65,1.3,2.5,3.8,0.7,0.3,0.5,0.6,1.5,4.0,2013,adrieje01,United States
+2,Arron Afflalo,SF,27,ORL,64,64,36.0,6.2,14.1,0.439,1.1,3.8,0.3,5.1,10.4,0.489,0.478,3.0,3.5,0.857,0.5,3.3,3.7,3.2,0.6,0.2,2.2,2.1,16.5,2013,afflaar01,United States
+3,Josh Akognon,PG,26,DAL,3,0,3.0,0.7,1.3,0.5,0.3,0.7,0.5,0.3,0.7,0.5,0.625,0.0,0.0,0.0,0.0,0.3,0.3,0.3,0.0,0.0,0.0,1.0,1.7,2013,akognjo01,United States
+4,Cole Aldrich,C,24,TOT,45,0,8.6,1.0,1.8,0.55,0.0,0.0,0.0,1.0,1.8,0.55,0.55,0.3,0.4,0.6,0.7,2.0,2.7,0.2,0.1,0.5,0.5,1.3,2.2,2013,aldrico01,United States
+5,LaMarcus Aldridge,PF,27,POR,74,74,37.7,8.6,17.8,0.484,0.0,0.2,0.14300000000000002,8.6,17.6,0.488,0.485,3.8,4.7,0.81,2.4,6.7,9.1,2.6,0.8,1.2,1.9,2.5,21.1,2013,aldrila01,United States
+6,Lavoy Allen,C,23,PHI,79,37,21.1,2.6,5.7,0.45399999999999996,0.0,0.0,0.0,2.6,5.7,0.455,0.45399999999999996,0.5,0.8,0.7170000000000001,2.0,3.0,5.0,0.9,0.3,0.7,0.7,2.3,5.8,2013,allenla01,United States
+7,Ray Allen,SG,37,MIA,79,0,25.8,3.7,8.2,0.449,1.8,4.2,0.419,1.9,4.0,0.48,0.555,1.8,2.0,0.8859999999999999,0.5,2.2,2.7,1.7,0.8,0.2,1.3,1.6,10.9,2013,allenra02,United States
+8,Tony Allen,SG,31,MEM,79,79,26.7,3.6,8.1,0.445,0.0,0.3,0.125,3.6,7.8,0.45799999999999996,0.447,1.7,2.4,0.7170000000000001,1.5,3.1,4.6,1.2,1.5,0.6,1.2,2.7,8.9,2013,allento01,United States
+9,Al-Farouq Aminu,SF,22,NOH,76,71,27.2,3.0,6.2,0.475,0.1,0.2,0.21100000000000002,2.9,6.0,0.486,0.479,1.3,1.8,0.737,1.8,5.9,7.7,1.4,1.2,0.7,1.5,2.0,7.3,2013,aminual01,United States
+10,Lou Amundson,PF,30,TOT,39,0,9.5,0.8,2.1,0.395,0.0,0.0,0.0,0.8,2.1,0.395,0.395,0.3,0.9,0.33299999999999996,1.2,1.5,2.7,0.3,0.4,0.3,0.5,1.4,1.9,2013,amundlo01,United States
+11,Chris Andersen,C,34,MIA,42,0,14.9,1.7,2.9,0.5770000000000001,0.0,0.1,0.667,1.6,2.9,0.575,0.585,1.5,2.2,0.677,1.4,2.7,4.1,0.4,0.4,1.0,0.6,2.1,4.9,2013,anderch01,United States
+12,Alan Anderson,SF,30,TOR,65,2,23.0,3.6,9.5,0.38299999999999995,1.5,4.4,0.33299999999999996,2.2,5.1,0.426,0.46,1.9,2.3,0.857,0.5,1.8,2.3,1.6,0.7,0.1,1.2,2.0,10.7,2013,anderal01,United States
+13,James Anderson,SG-SF,23,TOT,39,2,10.3,1.3,3.2,0.413,0.5,1.5,0.35,0.8,1.7,0.47,0.496,0.6,0.7,0.857,0.5,1.4,1.8,1.1,0.4,0.1,0.6,0.6,3.8,2013,anderja01,United States
+14,Ryan Anderson,PF,24,NOH,81,22,30.9,5.8,13.8,0.423,2.6,6.9,0.382,3.2,6.9,0.46399999999999997,0.519,1.9,2.2,0.8440000000000001,2.4,4.0,6.4,1.2,0.5,0.4,1.2,2.2,16.2,2013,anderry01,United States
+15,Carmelo Anthony,PF,28,NYK,67,67,37.0,10.0,22.2,0.449,2.3,6.2,0.379,7.6,16.0,0.47600000000000003,0.502,6.3,7.6,0.83,2.0,4.9,6.9,2.6,0.8,0.5,2.6,3.1,28.7,2013,anthoca01,United States
+16,Joel Anthony,C,30,MIA,62,3,9.1,0.6,1.1,0.515,0.0,0.0,0.0,0.6,1.1,0.515,0.515,0.3,0.5,0.607,0.7,1.1,1.9,0.2,0.2,0.7,0.4,0.8,1.4,2013,anthojo01,Canada
+17,Trevor Ariza,SF,27,WAS,56,15,26.3,3.4,8.1,0.41700000000000004,1.4,3.7,0.364,2.0,4.3,0.46299999999999997,0.501,1.4,1.7,0.821,0.8,4.0,4.8,2.0,1.3,0.4,1.5,1.3,9.5,2013,arizatr01,United States
+18,Darrell Arthur,PF,24,MEM,59,3,16.4,2.7,6.1,0.451,0.1,0.3,0.278,2.7,5.8,0.46,0.45799999999999996,0.6,0.8,0.7170000000000001,1.2,1.7,2.9,0.6,0.4,0.6,0.7,2.1,6.1,2013,arthuda01,United States
+19,Ömer Aşık,C,26,HOU,82,82,30.0,4.0,7.5,0.541,0.0,0.0,0.0,4.0,7.5,0.542,0.541,2.0,3.6,0.562,3.4,8.3,11.7,0.9,0.6,1.1,2.1,2.7,10.1,2013,asikom01,Turkey
+20,D.J. Augustin,PG,25,IND,76,5,16.1,1.4,3.9,0.35,0.9,2.5,0.353,0.5,1.4,0.34600000000000003,0.46399999999999997,1.1,1.3,0.838,0.3,0.9,1.2,2.2,0.4,0.0,0.9,0.8,4.7,2013,augusdj01,United States
+21,Gustavo Ayón,C,27,TOT,55,3,13.3,1.7,3.0,0.551,0.0,0.0,0.0,1.7,3.0,0.551,0.551,0.4,0.9,0.4,1.1,2.5,3.6,1.3,0.4,0.3,0.9,1.9,3.7,2013,ayongu01,Mexico
+22,Jeff Ayres,PF,25,IND,37,0,10.0,1.6,3.4,0.484,0.1,0.1,0.5,1.6,3.3,0.484,0.49200000000000005,0.6,0.6,0.9129999999999999,0.8,2.0,2.8,0.4,0.2,0.3,0.6,1.2,3.9,2013,pendeje02,United States
+23,Luke Babbitt,PF,23,POR,62,0,11.8,1.4,3.8,0.368,1.0,2.9,0.348,0.4,0.9,0.429,0.5,0.2,0.2,0.769,0.2,2.0,2.2,0.5,0.2,0.1,0.4,1.3,3.9,2013,babbilu01,United States
+24,Leandro Barbosa,PG,30,BOS,41,2,12.5,2.0,4.7,0.43,0.4,1.1,0.38299999999999995,1.6,3.6,0.445,0.47700000000000004,0.8,1.0,0.7559999999999999,0.2,0.9,1.1,1.4,0.4,0.1,0.5,1.2,5.2,2013,barbole01,Brazil
+25,J.J. Barea,PG,28,MIN,74,2,23.1,4.3,10.2,0.41700000000000004,1.3,3.8,0.34600000000000003,3.0,6.5,0.45799999999999996,0.48100000000000004,1.4,1.8,0.784,0.5,2.3,2.8,4.0,0.4,0.0,2.0,1.8,11.3,2013,bareajo01,United States
+26,Andrea Bargnani,PF,27,TOR,35,25,28.7,4.9,12.2,0.39899999999999997,1.1,3.5,0.309,3.8,8.7,0.436,0.444,1.9,2.2,0.8440000000000001,0.7,2.9,3.7,1.1,0.6,0.7,1.5,1.8,12.7,2013,bargnan01,Italy
+27,Harrison Barnes,SF,20,GSW,81,81,25.4,3.4,7.8,0.439,0.6,1.8,0.359,2.8,6.0,0.46399999999999997,0.48100000000000004,1.8,2.3,0.758,0.7,3.5,4.1,1.2,0.6,0.2,1.2,1.7,9.2,2013,barneha02,United States
+28,Matt Barnes,SF,32,LAC,80,4,25.7,3.9,8.4,0.462,1.4,4.1,0.342,2.5,4.4,0.574,0.544,1.1,1.5,0.7440000000000001,1.4,3.2,4.6,1.5,1.0,0.8,1.1,2.9,10.3,2013,barnema02,United States
+29,Earl Barron,C,31,TOT,12,2,13.2,1.5,4.2,0.353,0.0,0.0,0.0,1.5,4.2,0.353,0.353,0.2,0.6,0.429,1.8,3.2,5.1,0.4,0.4,0.5,0.9,2.0,3.2,2013,barroea01,United States
+30,Will Barton,SG,22,POR,73,5,12.2,1.6,4.2,0.382,0.1,0.9,0.138,1.5,3.3,0.447,0.396,0.7,0.9,0.769,0.5,1.5,2.0,0.8,0.5,0.1,0.8,0.8,4.0,2013,bartowi01,United States
+31,Brandon Bass,PF,27,BOS,81,69,27.6,3.5,7.3,0.486,0.0,0.0,0.0,3.5,7.2,0.48700000000000004,0.486,1.6,1.9,0.86,1.6,3.7,5.2,1.0,0.5,0.8,1.0,2.3,8.7,2013,bassbr01,United States
+32,Shane Battier,SF,34,MIA,72,20,24.8,2.1,5.0,0.42,1.9,4.4,0.43,0.2,0.6,0.348,0.608,0.4,0.5,0.8420000000000001,0.5,1.8,2.3,1.0,0.6,0.8,0.5,2.1,6.6,2013,battish01,United States
+33,Nicolas Batum,SF,24,POR,73,73,38.5,4.8,11.4,0.423,2.3,6.1,0.37200000000000005,2.6,5.3,0.48100000000000004,0.522,2.4,2.9,0.848,1.3,4.3,5.6,4.9,1.2,1.1,2.6,1.9,14.3,2013,batumni01,France
+34,Jerryd Bayless,PG,24,MEM,80,4,22.1,3.2,7.8,0.419,0.9,2.5,0.353,2.4,5.2,0.45,0.47600000000000003,1.3,1.5,0.836,0.3,1.9,2.2,3.3,0.7,0.2,1.5,2.1,8.7,2013,bayleje01,United States
+35,Aron Baynes,C,26,SAS,16,0,8.8,1.1,2.2,0.5,0.0,0.1,0.0,1.1,2.2,0.514,0.5,0.4,0.8,0.583,0.8,1.2,2.0,0.3,0.1,0.4,0.7,1.4,2.7,2013,baynear01,New Zealand
+36,Kent Bazemore,SG,23,GSW,61,0,4.4,0.7,1.9,0.371,0.2,0.6,0.294,0.5,1.3,0.402,0.414,0.4,0.7,0.614,0.1,0.3,0.4,0.4,0.3,0.1,0.3,0.4,2.0,2013,bazemke01,United States
+37,Bradley Beal,SG,19,WAS,56,46,31.2,5.0,12.3,0.41,1.6,4.2,0.386,3.4,8.1,0.424,0.47700000000000004,2.2,2.8,0.7859999999999999,0.8,3.0,3.8,2.4,0.9,0.5,1.6,2.0,13.9,2013,bealbr01,United States
+38,Michael Beasley,SF,24,PHO,75,20,20.7,4.1,10.2,0.405,0.6,1.9,0.313,3.5,8.3,0.426,0.434,1.3,1.7,0.746,0.7,3.1,3.8,1.5,0.4,0.5,1.9,1.4,10.1,2013,beaslmi01,United States
+39,Rodrigue Beaubois,PG,24,DAL,45,0,12.2,1.4,3.9,0.369,0.5,1.6,0.292,1.0,2.3,0.423,0.429,0.7,0.8,0.789,0.2,1.1,1.3,1.9,0.4,0.1,0.7,1.2,4.0,2013,beaubro01,Guadeloupe
+40,Marco Belinelli,SG,26,CHI,73,27,25.8,3.3,8.4,0.395,1.1,3.0,0.35700000000000004,2.2,5.3,0.41600000000000004,0.46,1.9,2.3,0.8390000000000001,0.2,1.7,1.9,2.0,0.6,0.1,1.1,1.9,9.6,2013,belinma01,Italy
+41,Patrick Beverley,PG,24,HOU,41,0,17.4,1.9,4.6,0.418,0.9,2.3,0.375,1.0,2.3,0.462,0.513,0.8,1.0,0.8290000000000001,1.1,1.6,2.7,2.9,0.9,0.5,1.1,2.0,5.6,2013,beverpa01,United States
+42,Andris Biedriņš,C,26,GSW,53,9,9.3,0.2,0.4,0.47600000000000003,0.0,0.0,0.0,0.2,0.4,0.47600000000000003,0.47600000000000003,0.1,0.2,0.308,0.6,2.2,2.9,0.3,0.3,0.8,0.3,1.9,0.5,2013,biedran01,Soviet Union(now Latvia)
+43,Chauncey Billups,SG,36,LAC,22,22,19.0,2.4,6.0,0.402,1.5,4.1,0.36700000000000005,0.9,1.9,0.47600000000000003,0.527,2.0,2.2,0.938,0.1,1.4,1.5,2.2,0.5,0.0,1.2,1.1,8.4,2013,billuch01,United States
+44,Bismack Biyombo,C,20,CHA,80,65,27.3,2.0,4.3,0.451,0.0,0.0,0.0,2.0,4.3,0.451,0.451,0.9,1.8,0.521,2.4,4.8,7.3,0.4,0.4,1.8,1.0,2.4,4.8,2013,biyombi01,Zaire(now Democratic Republic of the Congo)
+45,DeJuan Blair,PF,23,SAS,61,16,14.0,2.3,4.4,0.524,0.0,0.0,0.0,2.3,4.4,0.526,0.524,0.7,1.1,0.629,1.1,2.7,3.8,0.7,0.6,0.2,0.8,1.8,5.4,2013,blairde01,United States
+46,Steve Blake,PG,32,LAL,45,13,26.1,2.5,6.0,0.42200000000000004,1.6,3.8,0.42100000000000004,0.9,2.2,0.424,0.556,0.6,0.8,0.7709999999999999,0.5,2.5,2.9,3.8,0.8,0.1,1.4,1.8,7.3,2013,blakest01,United States
+47,Andray Blatche,C,26,BRK,82,8,19.0,4.2,8.2,0.512,0.0,0.3,0.136,4.2,8.0,0.524,0.514,1.8,2.6,0.685,2.0,3.1,5.1,1.0,1.0,0.7,1.5,2.0,10.3,2013,blatcan01,United States
+48,Eric Bledsoe,PG,23,LAC,76,12,20.4,3.3,7.5,0.445,0.4,1.0,0.397,2.9,6.4,0.45299999999999996,0.473,1.4,1.8,0.7909999999999999,1.0,1.9,3.0,3.1,1.4,0.7,1.8,1.5,8.5,2013,bledser01,United States
+49,Keith Bogans,SG,32,BRK,74,23,19.0,1.5,3.8,0.38,1.1,3.3,0.34299999999999997,0.3,0.5,0.615,0.528,0.1,0.2,0.647,0.2,1.4,1.6,1.0,0.4,0.1,0.7,1.5,4.2,2013,boganke01,United States
+50,Andrew Bogut,C,28,GSW,32,32,24.6,2.6,5.8,0.451,0.0,0.0,1.0,2.6,5.7,0.44799999999999995,0.45399999999999996,0.6,1.2,0.5,2.1,5.5,7.7,2.1,0.6,1.7,1.1,2.7,5.8,2013,bogutan01,Australia
+51,Matt Bonner,PF,32,SAS,68,4,13.4,1.6,3.4,0.48700000000000004,0.8,1.8,0.442,0.9,1.6,0.536,0.602,0.2,0.2,0.733,0.4,1.5,1.9,0.5,0.2,0.3,0.2,1.3,4.2,2013,bonnema01,United States
+52,Trevor Booker,PF,25,WAS,48,14,18.5,2.2,4.6,0.491,0.0,0.1,0.0,2.2,4.5,0.502,0.491,0.8,1.5,0.556,2.0,2.9,5.0,0.8,0.7,0.3,0.6,2.0,5.3,2013,booketr01,United States
+53,Carlos Boozer,PF,31,CHI,79,79,32.2,6.9,14.4,0.47700000000000004,0.0,0.0,0.0,6.9,14.4,0.478,0.47700000000000004,2.4,3.3,0.731,2.2,7.5,9.8,2.3,0.8,0.4,2.2,3.0,16.2,2013,boozeca01,West Germany(now Germany)
+54,Chris Bosh,C,28,MIA,74,74,33.2,6.6,12.3,0.535,0.3,1.0,0.284,6.3,11.3,0.557,0.546,3.3,4.1,0.7979999999999999,1.8,5.0,6.8,1.7,0.9,1.4,1.7,2.3,16.6,2013,boshch01,United States
+55,Avery Bradley,PG,22,BOS,50,50,28.7,3.8,9.6,0.402,0.8,2.5,0.317,3.0,7.0,0.43200000000000005,0.444,0.7,1.0,0.755,0.6,1.6,2.2,2.1,1.3,0.4,1.4,2.6,9.2,2013,bradlav01,United States
+56,Elton Brand,C,33,DAL,72,18,21.2,3.1,6.6,0.473,0.0,0.0,0.0,3.1,6.6,0.474,0.473,0.9,1.3,0.71,1.8,4.2,6.0,1.0,0.7,1.2,0.8,2.7,7.2,2013,brandel01,United States
+57,Corey Brewer,SF,26,DEN,82,2,24.4,4.6,10.8,0.425,1.1,3.7,0.29600000000000004,3.5,7.0,0.493,0.47600000000000003,1.8,2.6,0.69,0.7,2.2,2.9,1.5,1.4,0.3,1.2,1.9,12.1,2013,breweco01,United States
+58,Ronnie Brewer,SF,27,TOT,60,34,14.2,1.2,3.3,0.354,0.4,1.3,0.303,0.8,2.0,0.385,0.41200000000000003,0.3,0.6,0.41,0.7,1.6,2.3,0.8,0.7,0.1,0.3,0.6,3.0,2013,brewero02,United States
+59,Aaron Brooks,PG,28,TOT,53,20,18.8,2.7,6.0,0.45299999999999996,0.9,2.5,0.373,1.8,3.4,0.511,0.532,0.8,1.0,0.769,0.2,1.3,1.5,2.2,0.6,0.2,1.3,1.8,7.1,2013,brookaa01,United States
+60,MarShon Brooks,SG,24,BRK,73,2,12.5,2.1,4.6,0.46299999999999997,0.2,0.8,0.273,1.9,3.8,0.5,0.485,0.9,1.3,0.7340000000000001,0.4,1.0,1.4,1.0,0.5,0.2,0.9,1.3,5.4,2013,brookma01,United States
+61,Kwame Brown,C,30,PHI,22,11,12.2,0.8,1.7,0.45899999999999996,0.0,0.0,0.0,0.8,1.7,0.45899999999999996,0.45899999999999996,0.3,0.9,0.368,1.0,2.3,3.4,0.4,0.3,0.5,0.4,1.7,1.9,2013,brownkw01,United States
+62,Shannon Brown,SG,27,PHO,59,22,23.8,4.1,9.7,0.42,0.7,2.4,0.27699999999999997,3.4,7.3,0.467,0.45399999999999996,1.7,2.1,0.784,0.7,1.8,2.5,1.8,1.0,0.3,1.3,1.6,10.5,2013,brownsh01,United States
+63,Kobe Bryant,SG,34,LAL,78,78,38.6,9.5,20.4,0.46299999999999997,1.7,5.2,0.324,7.8,15.2,0.51,0.504,6.7,8.0,0.8390000000000001,0.8,4.7,5.6,6.0,1.4,0.3,3.7,2.2,27.3,2013,bryanko01,United States
+64,Chase Budinger,SF,24,MIN,23,1,22.1,3.4,8.3,0.414,1.1,3.5,0.321,2.3,4.8,0.48200000000000004,0.48200000000000004,1.4,1.8,0.762,0.7,2.4,3.1,1.1,0.6,0.3,1.0,1.3,9.4,2013,budinch01,United States
+65,Alec Burks,SG,21,UTA,64,0,17.8,2.5,6.1,0.42,0.5,1.4,0.359,2.0,4.6,0.439,0.46299999999999997,1.4,2.0,0.713,0.6,1.7,2.3,1.4,0.5,0.2,1.2,1.8,7.0,2013,burksal01,United States
+66,Caron Butler,SF,32,LAC,78,78,24.1,3.9,9.2,0.424,1.6,4.2,0.38799999999999996,2.3,5.0,0.45399999999999996,0.513,1.0,1.2,0.833,0.5,2.3,2.9,1.0,0.7,0.1,0.9,1.8,10.4,2013,butleca01,United States
+67,Jimmy Butler,SF,23,CHI,82,20,26.0,2.9,6.2,0.467,0.5,1.3,0.381,2.4,5.0,0.489,0.506,2.3,2.8,0.8029999999999999,1.7,2.3,4.0,1.4,1.0,0.4,0.8,1.2,8.6,2013,butleji01,United States
+68,Will Bynum,PG,30,DET,65,0,18.8,3.9,8.3,0.469,0.4,1.2,0.316,3.5,7.1,0.494,0.491,1.6,2.0,0.809,0.4,1.1,1.5,3.6,0.7,0.1,1.9,2.0,9.8,2013,bynumwi01,United States
+69,José Calderón,PG,31,TOT,73,58,29.6,4.3,8.7,0.491,1.8,3.9,0.461,2.5,4.8,0.516,0.594,1.0,1.1,0.9,0.3,2.1,2.4,7.1,0.8,0.1,1.7,1.4,11.3,2013,caldejo01,Spain
+70,Marcus Camby,PF,38,NYK,24,4,10.4,0.7,2.2,0.321,0.0,0.0,0.0,0.7,2.2,0.321,0.321,0.3,0.8,0.42100000000000004,1.0,2.3,3.3,0.6,0.3,0.6,0.6,1.2,1.8,2013,cambyma01,United States
+71,DeMarre Carroll,SF,26,UTA,66,12,16.8,2.3,4.9,0.46,0.3,1.1,0.28600000000000003,2.0,3.8,0.508,0.491,1.1,1.5,0.765,1.3,1.5,2.8,0.9,0.9,0.4,0.5,1.8,6.0,2013,carrode01,United States
+72,Matt Carroll,SG,32,CHA,1,0,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,2013,carroma01,United States
+73,Vince Carter,SF,36,DAL,81,3,25.8,4.6,10.6,0.435,2.0,4.9,0.406,2.6,5.6,0.461,0.53,2.2,2.8,0.816,0.7,3.4,4.1,2.4,0.9,0.5,1.3,2.8,13.4,2013,cartevi01,United States
+74,Omri Casspi,SF,24,CLE,43,1,11.7,1.5,3.7,0.39399999999999996,0.6,1.8,0.32899999999999996,0.9,2.0,0.452,0.47200000000000003,0.5,1.0,0.537,0.5,2.2,2.7,0.7,0.6,0.3,0.5,1.0,4.0,2013,casspom01,Israel
+75,Mario Chalmers,PG,26,MIA,77,77,26.9,2.9,6.9,0.429,1.6,3.9,0.409,1.4,3.0,0.456,0.545,1.2,1.5,0.795,0.2,2.0,2.2,3.5,1.5,0.2,1.5,2.5,8.6,2013,chalmma01,United States
+76,Tyson Chandler,C,30,NYK,66,66,32.8,3.9,6.1,0.638,0.0,0.0,0.0,3.9,6.1,0.638,0.638,2.7,3.9,0.6940000000000001,4.1,6.6,10.7,0.9,0.6,1.1,1.3,2.8,10.4,2013,chandty01,United States
+77,Wilson Chandler,PF,25,DEN,43,8,25.1,4.9,10.6,0.462,1.2,2.9,0.413,3.7,7.7,0.48,0.519,2.0,2.6,0.7929999999999999,1.0,4.0,5.1,1.3,1.0,0.3,1.4,2.8,13.0,2013,chandwi01,United States
+78,Josh Childress,SF,29,BRK,14,0,7.1,0.4,1.5,0.28600000000000003,0.1,0.2,0.33299999999999996,0.4,1.3,0.278,0.31,0.1,0.1,0.5,0.4,0.6,1.1,0.4,0.1,0.1,0.0,0.2,1.0,2013,childjo01,United States
+79,Earl Clark,PF,25,LAL,59,36,23.1,2.9,6.5,0.44,0.6,1.8,0.337,2.3,4.8,0.479,0.486,0.9,1.3,0.6970000000000001,1.4,4.1,5.5,1.1,0.6,0.7,1.1,1.7,7.3,2013,clarkea01,United States
+80,Victor Claver,SF,24,POR,49,16,16.6,1.5,3.9,0.392,0.5,1.8,0.287,1.0,2.1,0.48,0.45799999999999996,0.3,0.6,0.467,0.6,1.8,2.4,0.9,0.5,0.2,0.9,1.5,3.8,2013,clavevi01,United States
+81,Norris Cole,PG,24,MIA,80,4,19.9,2.2,5.3,0.42100000000000004,0.4,1.2,0.35700000000000004,1.8,4.1,0.44,0.462,0.6,1.0,0.65,0.2,1.4,1.6,2.0,0.7,0.1,1.3,1.9,5.6,2013,coleno01,United States
+82,Jason Collins,C,34,TOT,38,9,10.1,0.2,0.8,0.31,0.0,0.0,0.0,0.2,0.8,0.31,0.31,0.6,0.8,0.7190000000000001,0.6,1.0,1.6,0.2,0.3,0.3,0.5,2.2,1.1,2013,collija04,United States
+83,Darren Collison,PG,25,DAL,81,47,29.3,4.2,8.9,0.47100000000000003,0.6,1.7,0.353,3.6,7.3,0.498,0.504,3.0,3.4,0.88,0.4,2.3,2.7,5.1,1.2,0.1,2.1,1.7,12.0,2013,collida01,United States
+84,Nick Collison,C,32,OKC,81,2,19.5,2.2,3.7,0.595,0.0,0.0,0.0,2.2,3.6,0.603,0.595,0.7,1.0,0.769,1.5,2.6,4.1,1.5,0.6,0.4,0.9,2.4,5.1,2013,collini01,United States
+85,Mike Conley,PG,25,MEM,80,80,34.5,5.2,11.8,0.44,1.3,3.7,0.36200000000000004,3.8,8.1,0.47600000000000003,0.49700000000000005,2.9,3.5,0.83,0.5,2.3,2.8,6.1,2.2,0.3,2.4,2.1,14.6,2013,conlemi01,United States
+86,Will Conroy,PG,30,MIN,4,0,5.0,0.0,2.2,0.0,0.0,0.8,0.0,0.0,1.5,0.0,0.0,0.2,0.5,0.5,0.2,0.0,0.2,0.0,0.0,0.0,0.0,0.2,0.2,2013,conrowi01,United States
+87,Daequan Cook,SG,25,TOT,49,1,9.0,1.0,3.4,0.305,0.5,1.9,0.28600000000000003,0.5,1.6,0.32899999999999996,0.38299999999999995,0.2,0.2,0.75,0.1,1.1,1.2,0.4,0.2,0.1,0.3,0.5,2.8,2013,cookda02,United States
+88,Chris Copeland,PF,28,NYK,56,13,15.4,3.2,6.8,0.479,1.1,2.5,0.42100000000000004,2.2,4.3,0.513,0.557,1.1,1.5,0.759,0.6,1.5,2.1,0.5,0.3,0.2,0.9,1.9,8.7,2013,copelch01,United States
+89,DeMarcus Cousins,C,22,SAC,75,74,30.5,6.4,13.8,0.465,0.1,0.3,0.182,6.4,13.5,0.47100000000000003,0.467,4.2,5.6,0.738,3.0,7.0,9.9,2.7,1.4,0.7,3.0,3.6,17.1,2013,couside01,United States
+90,Jamal Crawford,SG,32,LAC,76,0,29.3,5.9,13.4,0.43799999999999994,2.0,5.2,0.376,3.9,8.2,0.47700000000000004,0.511,2.8,3.3,0.871,0.3,1.4,1.7,2.5,1.0,0.2,1.9,0.9,16.5,2013,crawfja01,United States
+91,Jordan Crawford,SG,24,TOT,70,14,24.4,4.3,10.4,0.415,1.2,3.5,0.337,3.1,6.8,0.455,0.47200000000000003,1.8,2.3,0.8109999999999999,0.6,2.4,3.0,3.2,0.6,0.1,2.0,1.5,11.6,2013,crawfjo02,United States
+92,Jae Crowder,SF,22,DAL,78,16,17.3,1.8,4.7,0.384,0.8,2.5,0.32799999999999996,1.0,2.2,0.446,0.47,0.6,0.9,0.644,0.4,1.9,2.4,1.2,0.8,0.2,0.6,1.6,5.0,2013,crowdja01,United States
+93,Dante Cunningham,PF,25,MIN,80,9,25.1,3.9,8.4,0.46799999999999997,0.0,0.1,0.0,3.9,8.3,0.47200000000000003,0.46799999999999997,0.8,1.3,0.65,1.8,3.3,5.1,0.8,1.0,0.5,0.7,1.9,8.7,2013,cunnida01,United States
+94,Jared Cunningham,SG,21,DAL,8,0,3.2,0.8,1.8,0.429,0.2,0.4,0.667,0.5,1.4,0.364,0.5,0.2,0.2,1.0,0.1,0.2,0.4,0.1,0.1,0.0,0.2,0.4,2.0,2013,cunnija01,United States
+95,Eddy Curry,C,30,DAL,2,0,12.5,2.0,4.0,0.5,0.0,0.0,0.0,2.0,4.0,0.5,0.5,0.5,2.0,0.25,1.0,1.0,2.0,0.0,0.0,0.0,1.5,3.5,4.5,2013,curryed01,United States
+96,Stephen Curry,PG,24,GSW,78,78,38.2,8.0,17.8,0.451,3.5,7.7,0.45299999999999996,4.5,10.1,0.449,0.5489999999999999,3.4,3.7,0.9,0.8,3.3,4.0,6.9,1.6,0.2,3.1,2.5,22.9,2013,curryst01,United States
+97,Samuel Dalembert,C,31,MIL,47,23,16.3,2.9,5.4,0.542,0.0,0.0,1.0,2.9,5.4,0.54,0.5429999999999999,0.8,1.2,0.691,2.2,3.6,5.9,0.4,0.4,1.1,1.1,1.9,6.7,2013,dalemsa01,Haiti
+98,Marquis Daniels,SF,32,MIL,59,33,18.4,2.2,5.9,0.376,0.3,1.2,0.278,1.9,4.7,0.401,0.405,0.7,0.9,0.741,0.8,1.7,2.5,1.1,0.9,0.2,0.8,1.3,5.5,2013,daniema01,United States
+99,Anthony Davis,PF,19,NOH,64,60,28.8,5.5,10.6,0.516,0.0,0.1,0.0,5.5,10.5,0.521,0.516,2.6,3.5,0.7509999999999999,2.6,5.6,8.2,1.0,1.2,1.8,1.4,2.5,13.5,2013,davisan02,United States
+100,Ed Davis,C-PF,23,TOT,81,28,20.1,3.2,6.0,0.539,0.0,0.0,0.0,3.2,6.0,0.539,0.539,1.3,2.1,0.617,1.9,3.8,5.7,0.8,0.5,1.0,0.8,2.4,7.7,2013,davised01,United States
+101,Glen Davis,PF,27,ORL,34,33,31.3,6.3,14.1,0.44799999999999995,0.0,0.1,0.0,6.3,14.0,0.45,0.44799999999999995,2.5,3.4,0.718,1.6,5.6,7.2,2.1,0.9,0.6,1.9,2.6,15.1,2013,davisgl01,United States
+102,Austin Daye,SF,24,TOT,55,0,12.3,1.6,3.8,0.433,0.7,1.8,0.418,0.9,2.0,0.445,0.531,0.5,0.6,0.765,0.3,1.9,2.2,0.8,0.3,0.4,0.5,1.5,4.5,2013,dayeau01,United States
+103,Nando De Colo,SG,25,SAS,72,6,12.8,1.5,3.3,0.436,0.4,1.1,0.37799999999999995,1.0,2.2,0.465,0.5,0.5,0.6,0.795,0.3,1.6,1.9,1.9,0.6,0.1,1.1,1.2,3.8,2013,decolna01,United States
+104,Carlos Delfino,SF,30,HOU,67,5,25.2,3.7,9.3,0.405,2.4,6.3,0.375,1.4,3.0,0.467,0.532,0.7,0.8,0.857,0.3,3.0,3.3,2.0,1.0,0.1,1.1,1.7,10.6,2013,delfica01,Argentina
+105,Luol Deng,SF,27,CHI,75,75,38.7,6.2,14.6,0.426,1.0,3.1,0.322,5.2,11.5,0.455,0.461,3.1,3.8,0.816,2.2,4.2,6.3,3.0,1.1,0.4,1.9,1.4,16.5,2013,denglu01,Sudan(now South Sudan)
+106,Justin Dentmon,PG,27,DAL,2,0,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2013,dentmju01,United States
+107,DeMar DeRozan,SG,23,TOR,82,82,36.7,6.7,15.0,0.445,0.4,1.5,0.28300000000000003,6.3,13.5,0.46299999999999997,0.45899999999999996,4.3,5.2,0.831,0.6,3.3,3.9,2.5,0.9,0.3,1.8,2.1,18.1,2013,derozde01,United States
+108,Boris Diaw,PF,30,SAS,75,20,22.8,2.4,4.4,0.539,0.4,1.0,0.385,2.0,3.4,0.5870000000000001,0.584,0.6,0.9,0.723,0.9,2.5,3.4,2.4,0.7,0.4,1.1,1.9,5.8,2013,diawbo01,France
+109,DeSagana Diop,C,31,CHA,22,1,10.3,0.4,1.2,0.29600000000000004,0.0,0.0,0.0,0.4,1.2,0.308,0.29600000000000004,0.0,0.0,0.0,0.5,1.9,2.3,0.6,0.2,0.7,0.4,0.9,0.7,2013,diopde01,Senegal
+110,Keyon Dooling,PG,32,MEM,7,0,11.7,1.4,3.0,0.47600000000000003,0.7,1.7,0.41700000000000004,0.7,1.3,0.556,0.595,0.9,1.0,0.857,0.0,0.1,0.1,1.1,0.1,0.0,0.7,1.1,4.4,2013,doolike01,United States
+111,Toney Douglas,PG,26,TOT,71,0,18.2,2.6,6.6,0.40299999999999997,1.2,3.0,0.38,1.5,3.5,0.424,0.491,1.1,1.2,0.905,0.5,1.5,1.9,2.1,1.0,0.0,1.1,2.0,7.5,2013,douglto01,United States
+112,Chris Douglas-Roberts,SG,26,DAL,6,0,10.5,0.8,2.3,0.35700000000000004,0.0,0.7,0.0,0.8,1.7,0.5,0.35700000000000004,1.2,1.7,0.7,0.0,0.8,0.8,0.7,0.3,0.0,0.2,0.7,2.8,2013,douglch01,United States
+113,Goran Dragić,PG,26,PHO,77,77,33.5,5.2,11.8,0.44299999999999995,1.1,3.6,0.319,4.1,8.2,0.49700000000000005,0.491,3.2,4.2,0.748,0.8,2.3,3.1,7.4,1.6,0.3,2.8,2.8,14.7,2013,dragigo01,SFR Yugoslavia(now Slovenia)
+114,Andre Drummond,C,19,DET,60,10,20.7,3.5,5.7,0.608,0.0,0.0,0.5,3.4,5.7,0.609,0.61,1.0,2.6,0.371,2.8,4.8,7.6,0.5,1.0,1.6,1.0,2.4,7.9,2013,drumman01,United States
+115,Jared Dudley,SF,27,PHO,79,50,27.5,4.0,8.5,0.46799999999999997,1.3,3.4,0.391,2.6,5.0,0.52,0.547,1.6,2.1,0.7959999999999999,1.0,2.1,3.1,2.6,0.9,0.1,1.3,1.6,10.9,2013,dudleja01,United States
+116,Chris Duhon,PG,30,LAL,46,9,17.8,1.0,2.7,0.382,0.7,2.0,0.363,0.3,0.7,0.43799999999999994,0.516,0.1,0.3,0.462,0.2,1.2,1.5,2.9,0.4,0.0,0.9,1.2,2.9,2013,duhonch01,United States
+117,Tim Duncan,C,36,SAS,69,69,30.1,7.1,14.1,0.502,0.0,0.1,0.28600000000000003,7.1,14.0,0.504,0.503,3.6,4.3,0.8170000000000001,1.8,8.1,9.9,2.7,0.7,2.7,2.1,1.7,17.8,2013,duncati01,U.S. Virgin Islands
+118,Mike Dunleavy,SF,32,MIL,75,3,25.9,3.7,8.3,0.442,1.7,4.0,0.428,2.0,4.3,0.455,0.545,1.4,1.7,0.82,0.4,3.5,3.9,1.9,0.5,0.5,1.2,1.8,10.5,2013,dunlemi02,United States
+119,Kevin Durant,SF,24,OKC,81,81,38.5,9.0,17.7,0.51,1.7,4.1,0.41600000000000004,7.3,13.6,0.539,0.5589999999999999,8.4,9.3,0.905,0.6,7.3,7.9,4.6,1.4,1.3,3.5,1.8,28.1,2013,duranke01,United States
+120,Devin Ebanks,SF,23,LAL,19,3,10.4,1.3,3.8,0.32899999999999996,0.3,1.2,0.273,0.9,2.7,0.353,0.37,0.6,0.7,0.7859999999999999,0.5,1.6,2.2,0.5,0.2,0.1,0.6,1.2,3.4,2013,ebankde01,United States
+121,Wayne Ellington,SG,25,TOT,78,21,21.3,2.9,6.8,0.42700000000000005,1.2,3.1,0.392,1.7,3.7,0.457,0.516,0.9,1.0,0.907,0.3,1.8,2.1,1.3,0.6,0.0,0.7,1.0,7.9,2013,ellinwa01,United States
+122,Monta Ellis,SG,27,MIL,82,82,37.5,7.3,17.5,0.41600000000000004,1.1,4.0,0.287,6.1,13.5,0.45399999999999996,0.44799999999999995,3.5,4.6,0.773,0.5,3.3,3.9,6.0,2.1,0.4,3.1,2.0,19.2,2013,ellismo01,United States
+123,Kim English,SG,24,DET,41,0,9.9,1.0,2.7,0.375,0.3,1.2,0.28,0.7,1.5,0.452,0.43799999999999994,0.5,0.7,0.7240000000000001,0.2,0.7,0.9,0.6,0.4,0.1,0.5,1.1,2.9,2013,engliki01,United States
+124,Jeremy Evans,PF,25,UTA,37,0,5.8,0.7,1.2,0.614,0.0,0.0,0.0,0.7,1.2,0.628,0.614,0.6,0.9,0.636,0.7,0.9,1.6,0.3,0.2,0.4,0.2,0.8,2.0,2013,evansje01,United States
+125,Reggie Evans,PF,32,BRK,80,56,24.6,1.6,3.3,0.479,0.0,0.0,0.0,1.6,3.3,0.479,0.479,1.4,2.8,0.509,3.2,7.8,11.1,0.5,0.9,0.2,1.4,2.5,4.5,2013,evansre01,United States
+126,Tyreke Evans,SG,23,SAC,65,61,31.0,5.6,11.8,0.478,0.7,2.0,0.33799999999999997,4.9,9.7,0.508,0.508,3.2,4.2,0.775,0.9,3.6,4.4,3.5,1.4,0.4,2.0,2.0,15.2,2013,evansty01,United States
+127,Festus Ezeli,C,23,GSW,78,41,14.4,0.9,2.2,0.43799999999999994,0.0,0.0,0.0,0.9,2.2,0.43799999999999994,0.43799999999999994,0.6,1.0,0.531,1.8,2.2,4.0,0.3,0.3,0.9,0.8,2.0,2.4,2013,ezelife01,Nigeria
+128,Kenneth Faried,PF,23,DEN,80,80,28.1,4.8,8.6,0.552,0.0,0.0,0.0,4.8,8.6,0.552,0.552,2.0,3.3,0.613,3.2,5.9,9.2,1.0,1.0,1.0,1.4,2.9,11.5,2013,farieke01,United States
+129,Derrick Favors,PF,21,UTA,77,8,23.2,3.6,7.4,0.48200000000000004,0.0,0.1,0.0,3.6,7.3,0.48700000000000004,0.48200000000000004,2.3,3.4,0.688,2.4,4.7,7.1,1.0,0.9,1.7,1.7,3.2,9.4,2013,favorde01,United States
+130,Raymond Felton,PG,28,NYK,68,68,34.0,5.5,13.0,0.42700000000000005,1.4,3.8,0.36,4.2,9.2,0.455,0.48,1.5,1.9,0.789,0.8,2.1,2.9,5.5,1.4,0.2,2.3,1.9,13.9,2013,feltora01,United States
+131,Landry Fields,SF,24,TOR,51,22,20.3,2.0,4.4,0.457,0.0,0.3,0.14300000000000002,2.0,4.1,0.478,0.462,0.7,1.0,0.642,1.2,2.9,4.1,1.2,0.6,0.2,0.8,1.2,4.7,2013,fieldla01,United States
+132,Derek Fisher,SG-PG,38,TOT,33,9,17.4,1.7,4.9,0.342,0.9,2.4,0.375,0.8,2.5,0.309,0.435,1.1,1.2,0.9209999999999999,0.1,1.1,1.1,1.4,0.6,0.1,0.9,1.7,5.3,2013,fishede01,United States
+133,Evan Fournier,SG,20,DEN,38,4,11.3,2.0,4.0,0.493,0.6,1.4,0.40700000000000003,1.4,2.6,0.541,0.5660000000000001,0.8,1.0,0.769,0.2,0.8,0.9,1.2,0.5,0.0,0.8,1.7,5.3,2013,fournev01,France
+134,Randy Foye,SG,29,UTA,82,72,27.4,3.6,9.0,0.397,2.2,5.3,0.41,1.4,3.7,0.37799999999999995,0.518,1.4,1.8,0.8190000000000001,0.2,1.3,1.5,2.0,0.8,0.3,1.1,2.3,10.8,2013,foyera01,United States
+135,Jimmer Fredette,SG,23,SAC,69,0,14.0,2.5,5.9,0.42100000000000004,0.9,2.3,0.41700000000000004,1.6,3.7,0.423,0.5,1.2,1.4,0.8590000000000001,0.3,0.8,1.0,1.3,0.4,0.0,1.0,0.9,7.2,2013,fredeji01,United States
+136,Joel Freeland,PF,25,POR,51,1,9.4,1.1,2.8,0.408,0.0,0.0,0.0,1.1,2.8,0.408,0.408,0.4,0.5,0.667,0.8,1.5,2.3,0.3,0.3,0.2,0.4,1.3,2.6,2013,freeljo01,Great Britain England
+137,Danilo Gallinari,SF,24,DEN,71,71,32.5,5.1,12.3,0.418,1.9,5.1,0.373,3.2,7.2,0.45,0.495,4.0,4.9,0.8220000000000001,0.9,4.3,5.2,2.5,0.9,0.5,1.6,1.8,16.2,2013,gallida01,Italy
+138,Francisco García,SG-SF,31,TOT,58,20,17.7,2.0,5.2,0.39299999999999996,1.2,3.1,0.374,0.9,2.1,0.42100000000000004,0.505,0.3,0.4,0.857,0.1,1.4,1.6,1.1,0.8,0.7,0.6,1.5,5.5,2013,garcifr01,Dominican Republic
+139,Kevin Garnett,C,36,BOS,68,68,29.7,6.2,12.5,0.496,0.0,0.2,0.125,6.2,12.3,0.504,0.498,2.3,3.0,0.7859999999999999,1.1,6.7,7.8,2.3,1.1,0.9,1.6,2.3,14.8,2013,garneke01,United States
+140,Diante Garrett,PG,24,PHO,19,0,7.8,0.8,2.6,0.327,0.2,0.8,0.2,0.7,1.8,0.382,0.35700000000000004,0.3,0.5,0.5,0.3,0.5,0.8,1.6,0.5,0.0,0.8,0.3,2.1,2013,garredi02,United States
+141,Marc Gasol,C,28,MEM,80,80,35.0,5.4,10.9,0.494,0.0,0.2,0.071,5.4,10.7,0.501,0.494,3.4,4.0,0.848,2.3,5.5,7.8,4.0,1.0,1.7,2.0,3.2,14.1,2013,gasolma01,Spain
+142,Pau Gasol,PF,32,LAL,49,42,33.8,5.5,11.8,0.466,0.2,0.6,0.28600000000000003,5.3,11.2,0.475,0.473,2.6,3.6,0.7020000000000001,2.3,6.3,8.6,4.1,0.5,1.2,2.1,1.9,13.7,2013,gasolpa01,Spain
+143,Rudy Gay,SF,26,TOT,75,74,35.8,6.9,16.7,0.41600000000000004,1.1,3.5,0.32299999999999995,5.8,13.2,0.44,0.449,3.2,3.9,0.8140000000000001,1.3,4.8,6.1,2.7,1.5,0.7,2.6,2.4,18.2,2013,gayru01,United States
+144,Alonzo Gee,SF,25,CLE,82,82,31.0,3.7,9.1,0.41,0.8,2.7,0.315,2.9,6.4,0.45,0.456,2.0,2.5,0.795,0.9,3.0,3.9,1.6,1.3,0.4,1.6,2.4,10.3,2013,geeal01,United States
+145,Mickaël Gelabale,SF,29,MIN,36,13,17.9,2.0,3.9,0.518,0.4,1.4,0.308,1.6,2.4,0.644,0.5760000000000001,0.6,0.7,0.875,0.9,1.9,2.8,0.7,0.4,0.1,0.4,1.3,5.0,2013,gelabmi01,Guadeloupe
+146,Paul George,SF,22,IND,79,79,37.6,6.2,14.9,0.419,2.2,5.9,0.36200000000000004,4.1,8.9,0.457,0.491,2.8,3.5,0.807,1.1,6.5,7.6,4.1,1.8,0.6,2.9,2.9,17.4,2013,georgpa01,United States
+147,Daniel Gibson,PG,26,CLE,46,3,20.0,1.8,5.4,0.34,1.2,3.5,0.344,0.6,1.8,0.33299999999999996,0.45299999999999996,0.6,0.8,0.703,0.1,1.2,1.3,1.8,0.7,0.1,0.7,1.9,5.4,2013,gibsoda01,United States
+148,Taj Gibson,PF,27,CHI,65,5,22.4,3.3,6.8,0.485,0.0,0.1,0.0,3.3,6.7,0.49,0.485,1.4,2.0,0.679,1.9,3.4,5.3,0.9,0.4,1.4,1.2,2.6,8.0,2013,gibsota01,United States
+149,Manu Ginóbili,SG,35,SAS,60,0,23.2,3.8,9.0,0.425,1.4,3.9,0.353,2.4,5.1,0.48,0.502,2.7,3.4,0.7959999999999999,0.5,2.8,3.4,4.6,1.3,0.2,2.2,1.9,11.8,2013,ginobma01,Argentina
+150,Drew Gooden,C,31,MIL,16,0,9.4,1.2,3.8,0.32799999999999996,0.1,0.3,0.2,1.2,3.5,0.33899999999999997,0.336,0.7,1.0,0.688,0.8,1.1,1.9,0.4,0.3,0.4,0.6,1.3,3.2,2013,goodedr01,United States
+151,Ben Gordon,SG,29,CHA,75,0,20.8,4.1,10.1,0.408,1.5,3.9,0.387,2.6,6.2,0.42100000000000004,0.48200000000000004,1.4,1.7,0.843,0.2,1.5,1.7,1.9,0.5,0.2,1.8,1.8,11.2,2013,gordobe01,Great Britain England
+152,Eric Gordon,SG,24,NOH,42,40,30.1,5.6,13.9,0.402,1.3,4.1,0.324,4.3,9.8,0.436,0.45,4.5,5.3,0.8420000000000001,0.2,1.6,1.8,3.3,1.1,0.2,2.8,1.8,17.0,2013,gordoer01,United States
+153,Marcin Gortat,C,28,PHO,61,61,30.8,4.8,9.3,0.521,0.0,0.0,0.0,4.8,9.2,0.524,0.521,1.5,2.3,0.652,2.1,6.4,8.5,1.2,0.7,1.6,1.6,2.1,11.1,2013,gortama01,Poland
+154,Andrew Goudelock,SG,24,LAL,1,0,6.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2013,goudean01,United States
+155,Danny Granger,SF,29,IND,5,0,14.8,2.0,7.0,0.28600000000000003,0.4,2.0,0.2,1.6,5.0,0.32,0.314,1.0,1.6,0.625,0.6,1.2,1.8,0.6,0.4,0.2,0.8,1.2,5.4,2013,grangda01,United States
+156,Aaron Gray,C,28,TOR,42,16,12.2,1.1,2.1,0.5329999999999999,0.0,0.0,0.0,1.1,2.1,0.5329999999999999,0.5329999999999999,0.5,1.0,0.523,1.1,2.0,3.2,0.8,0.2,0.1,0.9,2.0,2.8,2013,grayaa01,United States
+157,Danny Green,SG,25,SAS,80,80,27.5,3.7,8.3,0.44799999999999995,2.2,5.2,0.429,1.5,3.1,0.48,0.581,0.8,1.0,0.848,0.4,2.6,3.0,1.8,1.2,0.7,1.2,1.6,10.5,2013,greenda02,United States
+158,Draymond Green,SF,22,GSW,79,1,13.4,1.1,3.3,0.327,0.2,0.8,0.209,0.9,2.4,0.368,0.354,0.6,0.7,0.818,0.7,2.6,3.3,0.7,0.5,0.3,0.6,2.0,2.9,2013,greendr01,United States
+159,Gerald Green,SF,27,IND,60,7,18.0,2.6,7.1,0.366,1.0,3.1,0.314,1.6,3.9,0.40700000000000003,0.435,0.9,1.1,0.8,0.5,1.8,2.4,0.8,0.3,0.4,0.9,1.1,7.0,2013,greenge01,United States
+160,Jeff Green,PF,26,BOS,81,17,27.8,4.6,10.0,0.467,0.9,2.2,0.385,3.8,7.7,0.49,0.51,2.6,3.3,0.8079999999999999,0.7,3.2,3.9,1.6,0.7,0.8,1.6,2.2,12.8,2013,greenje02,United States
+161,Willie Green,SG,31,LAC,72,60,16.5,2.5,5.4,0.461,1.0,2.3,0.428,1.5,3.1,0.486,0.5529999999999999,0.3,0.4,0.7190000000000001,0.2,1.1,1.3,0.8,0.4,0.2,0.4,1.3,6.2,2013,greenwi01,United States
+162,Blake Griffin,PF,23,LAC,80,80,32.5,7.2,13.4,0.5379999999999999,0.1,0.4,0.179,7.2,13.0,0.5479999999999999,0.541,3.5,5.3,0.66,2.3,6.0,8.3,3.7,1.2,0.6,2.3,2.9,18.0,2013,griffbl01,United States
+163,Hamed Haddadi,C,27,TOT,30,0,10.7,1.2,2.7,0.42700000000000005,0.0,0.0,0.0,1.2,2.7,0.42700000000000005,0.42700000000000005,0.5,0.9,0.519,1.4,2.3,3.7,0.4,0.2,0.9,1.0,2.0,2.8,2013,haddaha01,Iran
+164,Jordan Hamilton,SF,22,DEN,40,1,9.9,2.1,5.0,0.418,0.7,1.8,0.37,1.4,3.2,0.445,0.485,0.3,0.6,0.5,0.8,1.6,2.4,0.6,0.4,0.2,0.5,0.6,5.2,2013,hamiljo02,United States
+165,Richard Hamilton,SG,34,CHI,50,45,21.8,4.1,9.5,0.429,0.3,1.0,0.308,3.8,8.5,0.444,0.446,1.3,1.5,0.857,0.3,1.3,1.7,2.4,0.5,0.1,1.7,1.9,9.8,2013,hamilri01,United States
+166,Ben Hansbrough,PG,25,IND,28,0,7.1,0.5,1.6,0.33299999999999996,0.2,0.8,0.261,0.3,0.8,0.409,0.4,0.8,1.0,0.778,0.1,0.6,0.6,0.8,0.2,0.1,0.6,0.8,2.0,2013,hansbbe01,United States
+167,Tyler Hansbrough,PF,27,IND,81,8,16.9,2.2,5.0,0.43200000000000005,0.0,0.0,0.0,2.2,5.0,0.436,0.43200000000000005,2.7,3.7,0.72,2.0,2.6,4.6,0.4,0.4,0.2,1.0,1.9,7.0,2013,hansbty01,United States
+168,James Harden,SG,23,HOU,78,78,38.3,7.5,17.1,0.43799999999999994,2.3,6.2,0.368,5.2,10.9,0.47700000000000004,0.504,8.6,10.2,0.851,0.8,4.1,4.9,5.8,1.8,0.5,3.8,2.3,25.9,2013,hardeja01,United States
+169,Maurice Harkless,SF,19,ORL,76,59,26.0,3.4,7.4,0.461,0.4,1.5,0.27399999999999997,3.0,5.9,0.51,0.489,1.0,1.7,0.57,1.6,2.8,4.4,0.7,1.2,0.8,0.9,1.9,8.2,2013,harklma01,United States
+170,Josh Harrellson,C,23,MIA,6,0,5.2,0.7,1.5,0.444,0.2,0.8,0.2,0.5,0.7,0.75,0.5,0.2,0.3,0.5,0.5,0.7,1.2,0.0,0.2,0.2,0.5,0.7,1.7,2013,harrejo01,United States
+171,Al Harrington,C,32,ORL,10,0,11.9,2.0,5.7,0.35100000000000003,0.8,3.0,0.267,1.2,2.7,0.444,0.42100000000000004,0.3,0.4,0.75,0.6,2.1,2.7,1.0,0.4,0.1,0.7,1.8,5.1,2013,harrial01,United States
+172,Devin Harris,SG,29,ATL,58,34,24.5,3.3,7.6,0.43799999999999994,1.3,4.0,0.335,2.0,3.7,0.5489999999999999,0.525,1.9,2.7,0.727,0.1,1.9,2.0,3.4,1.1,0.2,1.5,1.8,9.9,2013,harride01,United States
+173,Terrel Harris,SG,25,TOT,20,0,6.8,0.2,1.4,0.14800000000000002,0.0,0.4,0.0,0.2,1.0,0.21100000000000002,0.14800000000000002,0.4,0.5,0.7,0.2,1.1,1.3,0.4,0.1,0.2,0.8,0.8,0.8,2013,harrite01,United States
+174,Tobias Harris,SF-PF,20,TOT,55,34,23.6,4.2,9.3,0.455,0.6,2.0,0.315,3.6,7.3,0.493,0.488,1.9,2.5,0.752,1.3,3.9,5.2,1.3,0.6,0.8,1.2,2.2,11.0,2013,harrito02,United States
+175,Udonis Haslem,PF,32,MIA,75,59,18.9,1.7,3.3,0.514,0.0,0.0,0.0,1.7,3.3,0.514,0.514,0.4,0.6,0.711,1.3,4.1,5.4,0.5,0.4,0.2,0.6,2.3,3.9,2013,hasleud01,United States
+176,Spencer Hawes,C,24,PHI,82,40,27.2,4.6,9.9,0.46399999999999997,0.4,1.1,0.35600000000000004,4.2,8.8,0.47700000000000004,0.483,1.5,1.9,0.777,2.1,5.1,7.2,2.2,0.3,1.4,1.6,2.8,11.0,2013,hawessp01,United States
+177,Chuck Hayes,C,29,SAC,74,1,16.3,1.1,2.6,0.442,0.0,0.0,0.0,1.1,2.6,0.444,0.442,0.4,0.6,0.625,1.5,2.5,4.0,1.5,0.4,0.2,0.6,1.5,2.7,2013,hayesch01,United States
+178,Gordon Hayward,SF,22,UTA,72,27,29.2,4.7,10.7,0.435,1.4,3.4,0.415,3.2,7.3,0.444,0.501,3.4,4.1,0.8270000000000001,0.7,2.4,3.1,3.0,0.8,0.5,1.7,1.7,14.1,2013,haywago01,United States
+179,Lazar Hayward,SF,26,MIN,4,0,7.8,0.5,2.5,0.2,0.0,1.0,0.0,0.5,1.5,0.33299999999999996,0.2,1.5,1.5,1.0,0.0,1.0,1.0,0.8,0.5,0.0,0.0,0.8,2.5,2013,haywala01,United States
+180,Brendan Haywood,C,33,CHA,61,17,19.0,1.5,3.5,0.431,0.0,0.0,0.0,1.5,3.5,0.433,0.431,0.5,1.1,0.455,2.0,2.7,4.8,0.5,0.3,0.8,0.8,2.0,3.5,2013,haywobr01,United States
+181,Gerald Henderson,SG,25,CHA,68,58,31.4,5.6,12.6,0.447,0.5,1.5,0.33,5.1,11.1,0.462,0.466,3.8,4.6,0.8240000000000001,0.8,2.9,3.7,2.6,1.0,0.5,1.6,2.2,15.5,2013,hendege02,United States
+182,Xavier Henry,SF,21,NOH,50,2,12.5,1.3,3.2,0.41,0.1,0.2,0.364,1.2,3.0,0.413,0.42200000000000004,1.2,1.8,0.63,0.4,1.4,1.8,0.3,0.3,0.1,0.6,1.4,3.9,2013,henryxa01,Belgium
+183,John Henson,PF,22,MIL,63,9,13.1,2.6,5.3,0.48200000000000004,0.0,0.0,0.0,2.6,5.3,0.486,0.48200000000000004,0.9,1.7,0.5329999999999999,1.8,2.9,4.7,0.5,0.3,0.7,0.7,1.3,6.0,2013,hensojo01,United States
+184,Roy Hibbert,C,26,IND,79,79,28.7,4.9,10.9,0.44799999999999995,0.0,0.1,0.25,4.9,10.8,0.449,0.449,2.1,2.8,0.741,3.7,4.6,8.3,1.4,0.5,2.6,2.1,3.5,11.9,2013,hibbero01,United States
+185,J.J. Hickson,C,24,POR,80,80,29.0,5.2,9.3,0.562,0.0,0.0,0.0,5.2,9.3,0.563,0.562,2.3,3.4,0.679,3.3,7.0,10.4,1.1,0.6,0.6,1.8,2.0,12.7,2013,hicksjj01,United States
+186,Cory Higgins,SG,23,CHA,6,0,5.3,1.0,3.2,0.316,0.2,0.8,0.2,0.8,2.3,0.35700000000000004,0.342,0.2,0.3,0.5,0.2,0.3,0.5,0.8,0.5,0.0,0.0,0.8,2.3,2013,higgico01,United States
+187,Nenê,PF,30,WAS,61,49,27.2,4.7,9.7,0.48,0.0,0.0,0.0,4.7,9.7,0.48100000000000004,0.48,3.2,4.4,0.7290000000000001,1.7,5.0,6.7,2.9,0.9,0.6,2.3,2.8,12.6,2013,hilarne01,United States
+188,George Hill,PG,26,IND,76,76,34.5,5.1,11.5,0.44299999999999995,1.7,4.6,0.368,3.4,6.8,0.494,0.518,2.3,2.8,0.8170000000000001,0.6,3.1,3.7,4.7,1.1,0.3,1.5,1.8,14.2,2013,hillge01,United States
+189,Grant Hill,SF,40,LAC,29,0,15.1,1.3,3.4,0.38799999999999996,0.1,0.4,0.273,1.2,3.0,0.402,0.40299999999999997,0.5,0.8,0.583,0.2,1.5,1.7,0.9,0.4,0.2,0.9,1.3,3.2,2013,hillgr01,United States
+190,Jordan Hill,PF,25,LAL,29,1,15.8,2.7,5.3,0.49700000000000005,0.0,0.1,0.0,2.7,5.3,0.503,0.49700000000000005,1.4,2.1,0.6559999999999999,2.8,2.9,5.7,0.4,0.3,0.7,0.9,1.9,6.7,2013,hilljo01,United States
+191,Kirk Hinrich,PG,32,CHI,60,60,29.4,2.6,7.0,0.377,1.2,3.0,0.39,1.5,4.0,0.36700000000000005,0.461,1.2,1.6,0.7140000000000001,0.3,2.4,2.6,5.2,1.0,0.4,1.6,3.2,7.6,2013,hinriki01,United States
+192,Jrue Holiday,PG,22,PHI,78,78,37.5,7.1,16.5,0.431,1.2,3.2,0.368,5.9,13.3,0.446,0.466,2.3,3.1,0.752,1.1,3.1,4.2,8.0,1.6,0.4,3.7,2.2,17.7,2013,holidjr01,United States
+193,Justin Holiday,SG,23,PHI,9,0,15.8,1.8,5.3,0.33299999999999996,0.4,1.8,0.25,1.3,3.6,0.375,0.375,0.7,0.9,0.75,0.0,1.6,1.6,1.7,0.3,0.7,1.0,0.8,4.7,2013,holidju01,United States
+194,Ryan Hollins,C,28,LAC,60,0,11.0,1.2,1.9,0.614,0.0,0.0,0.0,1.2,1.9,0.614,0.614,1.1,1.5,0.75,0.8,1.5,2.3,0.2,0.1,0.6,0.7,2.2,3.4,2013,holliry01,United States
+195,Tyler Honeycutt,SF,22,SAC,9,0,3.6,0.3,1.2,0.273,0.0,0.2,0.0,0.3,1.0,0.33299999999999996,0.273,0.2,0.2,1.0,0.3,0.8,1.1,0.2,0.0,0.1,0.6,0.2,0.9,2013,honeyty01,United States
+196,Al Horford,C,26,ATL,74,74,37.2,7.8,14.3,0.5429999999999999,0.0,0.1,0.5,7.7,14.2,0.544,0.545,1.8,2.8,0.644,2.6,7.6,10.2,3.2,1.1,1.1,2.0,2.2,17.4,2013,horfoal01,Dominican Republic
+197,Dwight Howard,C,27,LAL,76,76,35.8,6.2,10.7,0.578,0.0,0.1,0.16699999999999998,6.2,10.6,0.581,0.579,4.7,9.5,0.49200000000000005,3.3,9.1,12.4,1.4,1.1,2.4,3.0,3.8,17.1,2013,howardw01,United States
+198,Josh Howard,SF,32,MIN,11,4,18.8,2.8,7.0,0.40299999999999997,0.5,1.5,0.313,2.4,5.5,0.426,0.435,0.6,1.1,0.583,0.8,2.5,3.3,0.4,0.9,0.3,0.9,1.6,6.7,2013,howarjo01,United States
+199,Juwan Howard,PF,39,MIA,7,2,7.3,1.4,2.7,0.526,0.0,0.0,0.0,1.4,2.7,0.526,0.526,0.1,0.1,1.0,0.0,1.1,1.1,0.9,0.0,0.0,0.6,1.3,3.0,2013,howarju01,United States
+200,Kris Humphries,PF,27,BRK,65,21,18.3,2.1,4.8,0.44799999999999995,0.0,0.0,0.0,2.1,4.7,0.451,0.44799999999999995,1.5,1.9,0.789,1.9,3.7,5.6,0.5,0.2,0.5,0.9,2.0,5.8,2013,humphkr01,United States
+201,Serge Ibaka,PF,23,OKC,80,80,31.1,5.6,9.7,0.573,0.2,0.7,0.35100000000000003,5.3,9.0,0.591,0.586,1.8,2.4,0.7490000000000001,2.8,4.9,7.7,0.5,0.4,3.0,1.6,2.7,13.2,2013,ibakase01,Republic of the Congo
+202,Andre Iguodala,SG,29,DEN,80,80,34.7,5.0,11.0,0.451,1.1,3.6,0.317,3.8,7.4,0.515,0.502,1.9,3.4,0.574,1.0,4.3,5.3,5.4,1.7,0.6,2.6,1.6,13.0,2013,iguodan01,United States
+203,Ersan İlyasova,PF,25,MIL,73,54,27.6,5.1,11.0,0.462,1.3,2.9,0.444,3.8,8.1,0.469,0.521,1.7,2.2,0.7959999999999999,2.1,5.0,7.1,1.6,0.9,0.5,1.0,2.5,13.2,2013,ilyaser01,Turkey
+204,Kyrie Irving,PG,20,CLE,59,59,34.7,8.2,18.1,0.452,1.8,4.7,0.391,6.4,13.4,0.474,0.503,4.2,4.9,0.855,0.6,3.1,3.7,5.9,1.5,0.4,3.2,2.5,22.5,2013,irvinky01,Australia
+205,Royal Ivey,SG,31,PHI,53,5,13.2,1.2,2.7,0.431,0.7,1.7,0.42,0.5,1.1,0.446,0.5589999999999999,0.2,0.3,0.563,0.3,0.8,1.1,0.6,0.4,0.1,0.4,1.4,3.2,2013,iveyro01,United States
+206,Jarrett Jack,SG,29,GSW,79,4,29.7,4.9,10.8,0.452,1.0,2.6,0.40399999999999997,3.9,8.3,0.466,0.499,2.1,2.5,0.843,0.3,2.8,3.1,5.6,0.8,0.1,2.0,1.7,12.9,2013,jackja01,United States
+207,Reggie Jackson,PG,22,OKC,70,0,14.2,2.1,4.6,0.45799999999999996,0.3,1.5,0.231,1.8,3.2,0.5660000000000001,0.495,0.7,0.9,0.8390000000000001,0.3,2.1,2.4,1.7,0.4,0.2,0.8,1.2,5.3,2013,jacksre01,Italy
+208,Stephen Jackson,SF,34,SAS,55,6,19.5,2.2,6.0,0.373,0.8,3.1,0.271,1.4,2.9,0.48100000000000004,0.442,0.9,1.3,0.7,0.4,2.4,2.8,1.5,0.7,0.3,1.4,1.6,6.2,2013,jacksst02,United States
+209,Bernard James,C,27,DAL,46,11,9.9,1.2,2.2,0.515,0.0,0.0,0.0,1.2,2.2,0.525,0.515,0.5,0.9,0.61,1.1,1.7,2.8,0.1,0.3,0.8,0.4,1.4,2.8,2013,jamesbe01,United States
+210,Damion James,SF,25,BRK,2,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,2013,jamesda01,United States
+211,LeBron James,PF,28,MIA,76,76,37.9,10.1,17.8,0.565,1.4,3.3,0.406,8.7,14.5,0.602,0.603,5.3,7.0,0.753,1.3,6.8,8.0,7.2,1.7,0.9,3.0,1.4,26.8,2013,jamesle01,United States
+212,Mike James,PG,37,DAL,45,23,19.2,2.2,6.0,0.373,1.1,2.8,0.384,1.2,3.2,0.363,0.461,0.5,0.6,0.7929999999999999,0.2,1.4,1.6,3.1,0.6,0.1,1.2,2.1,6.1,2013,jamesmi01,United States
+213,Antawn Jamison,PF,36,LAL,76,6,21.5,3.5,7.6,0.46399999999999997,1.1,3.1,0.361,2.4,4.5,0.535,0.537,1.2,1.8,0.691,1.4,3.3,4.8,0.7,0.4,0.3,0.7,1.6,9.4,2013,jamisan01,United States
+214,Al Jefferson,C,28,UTA,78,78,33.1,7.8,15.8,0.494,0.0,0.2,0.11800000000000001,7.8,15.6,0.5,0.495,2.1,2.8,0.77,2.0,7.2,9.2,2.1,1.0,1.1,1.3,2.2,17.8,2013,jeffeal01,United States
+215,Richard Jefferson,SF,32,GSW,56,1,10.1,1.1,2.4,0.456,0.2,0.8,0.311,0.9,1.6,0.527,0.507,0.7,0.9,0.7170000000000001,0.1,1.4,1.5,0.6,0.2,0.1,0.4,0.8,3.1,2013,jefferi01,United States
+216,Jared Jeffries,PF,31,POR,38,0,9.2,0.4,1.4,0.29600000000000004,0.0,0.1,0.0,0.4,1.4,0.308,0.29600000000000004,0.3,0.6,0.522,0.7,0.9,1.6,0.4,0.2,0.2,0.4,1.5,1.2,2013,jeffrja01,United States
+217,Charles Jenkins,SG-PG,23,TOT,59,1,7.5,0.8,2.1,0.405,0.0,0.0,0.5,0.8,2.0,0.40299999999999997,0.409,0.2,0.4,0.545,0.1,0.4,0.5,0.7,0.3,0.0,0.4,0.4,1.9,2013,jenkich01,United States
+218,John Jenkins,SG,21,ATL,61,2,14.8,2.1,4.8,0.446,0.9,2.3,0.384,1.3,2.6,0.5,0.536,1.0,1.1,0.843,0.3,1.3,1.5,0.9,0.2,0.2,0.7,0.6,6.1,2013,jenkijo01,United States
+219,Brandon Jennings,PG,23,MIL,80,80,36.2,6.2,15.6,0.39899999999999997,2.2,5.8,0.375,4.0,9.8,0.41200000000000003,0.46799999999999997,2.9,3.5,0.8190000000000001,0.7,2.3,3.1,6.5,1.6,0.1,2.5,1.9,17.5,2013,jennibr01,United States
+220,Jonas Jerebko,PF,25,DET,49,2,18.2,2.9,6.4,0.449,0.5,1.7,0.301,2.4,4.8,0.502,0.489,1.4,1.8,0.773,1.4,2.4,3.8,0.9,0.8,0.2,0.9,1.8,7.7,2013,jerebjo01,Sweden
+221,Amir Johnson,PF,25,TOR,81,38,28.7,4.1,7.5,0.5539999999999999,0.1,0.2,0.385,4.1,7.3,0.5579999999999999,0.5589999999999999,1.7,2.3,0.727,2.8,4.7,7.5,1.5,1.0,1.4,1.4,3.7,10.0,2013,johnsam01,United States
+222,Chris Johnson,C,27,MIN,30,0,9.5,1.6,2.5,0.64,0.0,0.0,0.0,1.6,2.5,0.64,0.64,0.7,1.1,0.618,0.7,1.3,2.0,0.3,0.2,0.9,0.4,1.6,3.9,2013,johnsch03,United States
+223,Chris Johnson,SF,22,MEM,8,0,12.8,1.4,3.1,0.44,0.8,2.2,0.33299999999999996,0.6,0.9,0.7140000000000001,0.56,0.1,0.2,0.5,0.6,0.8,1.4,0.2,0.5,0.0,0.4,0.6,3.6,2013,johnsch04,United States
+224,Ivan Johnson,PF,28,ATL,69,5,15.0,2.7,5.2,0.52,0.0,0.2,0.077,2.7,5.0,0.536,0.521,1.2,1.9,0.618,1.1,2.8,3.9,0.7,0.8,0.2,1.0,1.9,6.6,2013,johnsiv01,United States
+225,James Johnson,SF,25,SAC,54,11,16.3,2.2,5.2,0.413,0.0,0.4,0.095,2.1,4.9,0.439,0.41700000000000004,0.7,1.2,0.597,0.9,1.8,2.7,1.1,0.8,0.9,1.3,1.8,5.1,2013,johnsja01,United States
+226,Joe Johnson,SG,31,BRK,72,72,36.7,6.2,14.6,0.423,2.1,5.5,0.375,4.1,9.1,0.452,0.493,1.8,2.2,0.82,0.7,2.3,3.0,3.5,0.7,0.2,1.7,1.4,16.2,2013,johnsjo02,United States
+227,Orlando Johnson,SG,23,IND,51,0,12.1,1.4,3.5,0.4,0.7,1.8,0.38299999999999995,0.7,1.7,0.419,0.5,0.5,0.6,0.7190000000000001,0.4,1.8,2.2,0.9,0.2,0.2,0.6,1.0,4.0,2013,johnsor01,United States
+228,Wesley Johnson,SF,25,PHO,50,21,19.1,3.2,7.9,0.40700000000000003,1.0,3.1,0.32299999999999995,2.2,4.8,0.461,0.47,0.5,0.7,0.7709999999999999,0.4,2.0,2.5,0.7,0.4,0.4,1.0,1.1,8.0,2013,johnswe01,United States
+229,Darius Johnson-Odom,SG,23,LAL,4,0,1.5,0.0,1.0,0.0,0.0,0.2,0.0,0.0,0.8,0.0,0.0,0.0,0.0,0.0,0.2,0.8,1.0,0.2,0.0,0.0,0.0,0.0,0.0,2013,johnsda03,United States
+230,Dahntay Jones,SF,32,TOT,78,19,13.0,1.1,2.8,0.369,0.1,0.6,0.22399999999999998,0.9,2.2,0.41,0.39399999999999996,1.1,1.4,0.77,0.3,1.0,1.3,0.6,0.3,0.1,0.5,1.5,3.4,2013,jonesda02,United States
+231,DeQuan Jones,SF,22,ORL,63,17,12.7,1.5,3.5,0.436,0.1,0.6,0.257,1.4,2.9,0.47,0.456,0.5,0.8,0.667,0.3,1.4,1.7,0.3,0.3,0.3,0.5,0.9,3.7,2013,jonesde01,United States
+232,Dominique Jones,PG,24,DAL,29,3,11.7,1.4,3.8,0.36700000000000005,0.0,0.3,0.111,1.3,3.4,0.39,0.37200000000000005,1.2,1.8,0.66,0.6,0.9,1.6,2.9,0.5,0.1,1.3,1.0,4.0,2013,jonesdo02,United States
+233,James Jones,SF,32,MIA,38,0,5.8,0.6,1.6,0.344,0.4,1.4,0.302,0.1,0.2,0.625,0.475,0.1,0.1,0.5,0.0,0.6,0.6,0.3,0.1,0.2,0.1,0.4,1.6,2013,jonesja02,United States
+234,Kevin Jones,PF,23,CLE,32,0,10.4,1.3,3.3,0.402,0.0,0.0,0.0,1.3,3.3,0.402,0.402,0.3,0.5,0.6,1.2,1.2,2.4,0.3,0.3,0.2,0.2,0.8,3.0,2013,joneske01,United States
+235,Perry Jones,SF,21,OKC,38,1,7.4,1.0,2.6,0.39399999999999996,0.0,0.1,0.0,1.0,2.6,0.402,0.39399999999999996,0.3,0.4,0.667,0.3,1.3,1.6,0.3,0.1,0.2,0.4,0.6,2.3,2013,jonespe01,United States
+236,Solomon Jones,PF,28,NYK,2,1,13.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.5,1.0,1.5,0.0,0.0,0.5,1.5,1.5,0.0,2013,jonesso01,United States
+237,Terrence Jones,PF,21,HOU,19,0,14.5,2.3,4.9,0.457,0.3,1.0,0.263,2.0,3.9,0.507,0.484,0.7,0.9,0.765,1.5,1.9,3.4,0.8,0.6,1.0,0.7,1.1,5.5,2013,joneste01,United States
+238,DeAndre Jordan,C,24,LAC,82,82,24.5,3.8,6.0,0.643,0.0,0.0,0.0,3.8,6.0,0.643,0.643,1.2,3.0,0.386,2.6,4.7,7.2,0.3,0.6,1.4,1.2,2.3,8.8,2013,jordade01,United States
+239,Cory Joseph,PG,21,SAS,28,9,13.9,1.8,3.9,0.46399999999999997,0.2,0.8,0.28600000000000003,1.6,3.2,0.506,0.491,0.6,0.8,0.857,0.4,1.4,1.9,1.9,0.5,0.1,0.8,0.9,4.5,2013,josepco01,Canada
+240,Kris Joseph,SF,24,TOT,10,0,5.4,0.2,1.4,0.14300000000000002,0.0,0.3,0.0,0.2,1.1,0.182,0.14300000000000002,0.5,0.8,0.625,0.1,0.6,0.7,0.1,0.3,0.0,0.2,0.3,0.9,2013,josepkr01,Canada
+241,Chris Kaman,C,30,DAL,66,52,20.7,4.7,9.3,0.507,0.0,0.0,0.0,4.7,9.3,0.508,0.507,1.0,1.3,0.7879999999999999,1.5,4.2,5.6,0.8,0.4,0.8,1.6,2.1,10.5,2013,kamanch01,United States
+242,Enes Kanter,C,20,UTA,70,2,15.4,2.9,5.4,0.544,0.0,0.0,1.0,2.9,5.4,0.542,0.545,1.3,1.7,0.795,1.9,2.4,4.3,0.4,0.4,0.5,1.4,1.7,7.2,2013,kanteen01,Switzerland
+243,Jason Kidd,SG,39,NYK,76,48,26.9,2.0,5.4,0.37200000000000005,1.5,4.3,0.35100000000000003,0.5,1.1,0.452,0.511,0.5,0.6,0.833,0.7,3.6,4.2,3.3,1.6,0.3,1.0,1.6,6.0,2013,kiddja01,United States
+244,Michael Kidd-Gilchrist,SF,19,CHA,78,77,26.0,3.6,7.9,0.45799999999999996,0.0,0.1,0.222,3.6,7.7,0.462,0.46,1.8,2.4,0.7490000000000001,1.7,4.2,5.8,1.5,0.7,0.9,1.3,2.1,9.0,2013,kiddgmi01,United States
+245,Andrei Kirilenko,SF,31,MIN,64,64,31.8,4.4,8.8,0.507,0.5,1.9,0.292,3.9,6.9,0.5660000000000001,0.5379999999999999,2.9,3.9,0.752,1.6,4.1,5.7,2.8,1.5,1.0,1.9,1.3,12.4,2013,kirilan01,Soviet Union(now Russia)
+246,Linas Kleiza,SF,28,TOR,20,3,18.8,2.4,7.2,0.33299999999999996,1.0,3.3,0.303,1.4,3.9,0.359,0.40299999999999997,1.6,1.9,0.8420000000000001,0.5,2.1,2.6,0.8,0.2,0.1,0.7,2.2,7.4,2013,kleizli01,Soviet Union(now Lithuania)
+247,Brandon Knight,PG,21,DET,75,75,31.5,4.8,11.7,0.40700000000000003,1.6,4.4,0.36700000000000005,3.2,7.3,0.43,0.475,2.2,3.0,0.733,0.7,2.6,3.3,4.0,0.8,0.1,2.7,2.1,13.3,2013,knighbr03,United States
+248,Kyle Korver,SF,31,ATL,74,60,30.5,3.7,8.1,0.461,2.6,5.6,0.457,1.2,2.5,0.47100000000000003,0.618,0.9,1.1,0.8590000000000001,0.3,3.6,4.0,2.0,0.9,0.5,0.9,2.3,10.9,2013,korveky01,United States
+249,Kosta Koufos,C,23,DEN,81,81,22.4,3.6,6.3,0.581,0.0,0.0,0.0,3.6,6.3,0.5820000000000001,0.581,0.7,1.3,0.5579999999999999,2.6,4.3,6.9,0.4,0.5,1.3,0.7,3.0,8.0,2013,koufoko01,United States
+250,Viacheslav Kravtsov,C,25,DET,25,0,9.0,1.3,1.8,0.7170000000000001,0.0,0.0,0.0,1.3,1.8,0.7170000000000001,0.7170000000000001,0.4,1.5,0.297,1.0,0.8,1.8,0.4,0.2,0.4,0.6,1.3,3.1,2013,kravtvi01,United States
+251,Doron Lamb,SG,21,TOT,47,0,12.3,1.3,3.5,0.368,0.3,0.8,0.37799999999999995,1.0,2.7,0.365,0.41100000000000003,0.4,0.7,0.588,0.2,0.8,1.0,0.7,0.3,0.0,0.6,1.1,3.3,2013,lambdo01,United States
+252,Jeremy Lamb,SF,20,OKC,23,0,6.4,1.0,3.0,0.353,0.4,1.3,0.3,0.7,1.7,0.395,0.419,0.6,0.6,1.0,0.2,0.6,0.8,0.2,0.1,0.1,0.3,0.6,3.1,2013,lambje01,United States
+253,Carl Landry,PF,29,GSW,81,2,23.2,4.0,7.4,0.54,0.0,0.0,0.33299999999999996,4.0,7.4,0.541,0.541,2.8,3.4,0.8170000000000001,2.2,3.7,6.0,0.8,0.4,0.4,1.4,2.3,10.8,2013,landrca01,United States
+254,Ty Lawson,PG,25,DEN,73,71,34.4,6.1,13.3,0.461,1.2,3.2,0.366,5.0,10.1,0.491,0.505,3.2,4.3,0.7559999999999999,0.5,2.2,2.7,6.9,1.5,0.1,2.5,1.8,16.7,2013,lawsoty01,United States
+255,Courtney Lee,SG,27,BOS,78,39,24.9,3.2,6.8,0.46399999999999997,0.7,2.0,0.37200000000000005,2.4,4.8,0.503,0.519,0.8,0.9,0.861,0.4,2.0,2.4,1.8,1.1,0.3,1.1,1.8,7.8,2013,leeco01,United States
+256,David Lee,PF,29,GSW,79,79,36.8,7.6,14.7,0.519,0.0,0.1,0.0,7.6,14.6,0.521,0.519,3.2,4.1,0.797,2.8,8.5,11.2,3.5,0.8,0.3,2.6,3.1,18.5,2013,leeda02,United States
+257,Malcolm Lee,SG,22,MIN,16,12,18.1,1.8,4.8,0.382,0.5,1.5,0.33299999999999996,1.3,3.2,0.40399999999999997,0.434,0.8,1.2,0.6,0.9,1.5,2.4,1.2,0.8,0.4,0.6,1.9,4.9,2013,leema01,United States
+258,Kawhi Leonard,SF,21,SAS,58,57,31.2,4.5,9.1,0.494,1.1,3.0,0.374,3.4,6.1,0.5539999999999999,0.556,1.8,2.2,0.825,1.1,4.9,6.0,1.6,1.7,0.6,1.1,1.7,11.9,2013,leonaka01,United States
+259,Meyers Leonard,C,20,POR,69,9,17.5,2.2,4.0,0.545,0.0,0.1,0.429,2.1,3.9,0.5479999999999999,0.551,1.0,1.3,0.809,1.2,2.5,3.7,0.5,0.2,0.6,0.7,2.4,5.5,2013,leoname01,United States
+260,Jon Leuer,PF-C,23,TOT,28,0,6.7,0.9,1.9,0.48100000000000004,0.0,0.1,0.0,0.9,1.8,0.51,0.48100000000000004,0.2,0.5,0.462,0.5,0.9,1.3,0.3,0.2,0.0,0.3,0.8,2.0,2013,leuerjo01,United States
+261,Rashard Lewis,PF,33,MIA,55,9,14.4,1.9,4.5,0.414,0.9,2.4,0.389,0.9,2.1,0.441,0.516,0.5,0.8,0.622,0.3,1.9,2.2,0.5,0.4,0.3,0.6,1.2,5.2,2013,lewisra02,United States
+262,DeAndre Liggins,SG,24,OKC,39,1,7.4,0.5,1.2,0.447,0.2,0.5,0.368,0.4,0.7,0.5,0.521,0.2,0.5,0.5,0.3,1.0,1.4,0.4,0.5,0.1,0.4,0.8,1.5,2013,liggide01,United States
+263,Damian Lillard,PG,22,POR,82,82,38.6,6.7,15.7,0.429,2.3,6.1,0.368,4.5,9.6,0.469,0.501,3.3,3.9,0.8440000000000001,0.5,2.6,3.1,6.5,0.9,0.2,3.0,2.1,19.0,2013,lillada01,United States
+264,Jeremy Lin,PG,24,HOU,82,82,32.2,4.8,10.9,0.441,1.1,3.1,0.33899999999999997,3.8,7.8,0.483,0.49,2.6,3.4,0.785,0.4,2.6,3.0,6.1,1.6,0.4,2.9,2.5,13.4,2013,linje01,United States
+265,Shaun Livingston,PG,27,TOT,66,16,22.0,2.5,5.2,0.48,0.0,0.1,0.0,2.5,5.2,0.485,0.48,1.3,1.5,0.867,0.5,1.9,2.4,3.3,0.7,0.5,1.2,1.9,6.3,2013,livinsh01,United States
+266,Brook Lopez,C,24,BRK,74,74,30.4,7.7,14.8,0.521,0.0,0.0,0.0,7.7,14.8,0.522,0.521,4.0,5.3,0.758,2.8,4.1,6.9,0.9,0.4,2.1,1.8,2.1,19.4,2013,lopezbr01,United States
+267,Robin Lopez,C,24,NOH,82,82,26.0,4.7,8.8,0.534,0.0,0.0,0.0,4.7,8.8,0.534,0.534,2.0,2.5,0.778,2.8,2.9,5.6,0.8,0.4,1.6,1.3,2.0,11.3,2013,lopezro01,United States
+268,Kevin Love,PF,24,MIN,18,18,34.3,5.8,16.6,0.35200000000000004,1.1,5.1,0.217,4.7,11.4,0.413,0.386,5.6,7.9,0.7040000000000001,3.6,10.4,14.0,2.3,0.7,0.5,2.2,1.9,18.3,2013,loveke01,United States
+269,Kyle Lowry,PG,26,TOR,68,52,29.7,3.7,9.2,0.401,1.5,4.1,0.36200000000000004,2.2,5.1,0.433,0.48200000000000004,2.8,3.5,0.795,0.8,3.9,4.7,6.4,1.4,0.4,2.3,3.2,11.6,2013,lowryky01,United States
+270,John Lucas III,PG,30,TOR,63,0,13.1,2.0,5.3,0.386,0.9,2.4,0.377,1.1,2.9,0.39299999999999996,0.47200000000000003,0.3,0.4,0.72,0.1,0.9,1.0,1.7,0.4,0.0,0.4,0.8,5.3,2013,lucasjo02,United States
+271,Scott Machado,PG,22,HOU,6,0,3.5,0.5,1.0,0.5,0.0,0.2,0.0,0.5,0.8,0.6,0.5,0.3,0.3,1.0,0.0,0.2,0.2,1.0,0.3,0.0,1.3,0.0,1.3,2013,machasc01,United States
+272,Shelvin Mack,PG-SG,22,TOT,31,3,13.4,1.9,4.1,0.46,0.6,1.6,0.36700000000000005,1.3,2.5,0.519,0.532,0.3,0.5,0.563,0.1,1.2,1.3,2.2,0.5,0.0,1.1,1.3,4.6,2013,macksh01,United States
+273,Corey Maggette,SF,33,DET,18,0,14.3,1.5,4.2,0.355,0.3,1.2,0.23800000000000002,1.2,3.1,0.4,0.38799999999999996,2.0,2.7,0.75,0.3,1.1,1.4,1.1,0.3,0.1,0.9,2.3,5.3,2013,maggeco01,United States
+274,Ian Mahinmi,C,26,IND,80,2,16.5,1.9,4.1,0.45299999999999996,0.0,0.0,0.0,1.9,4.1,0.456,0.45299999999999996,1.3,2.1,0.608,1.4,2.4,3.9,0.3,0.5,0.8,1.2,2.5,5.0,2013,mahinia01,France
+275,Shawn Marion,PF,34,DAL,67,67,30.0,5.3,10.3,0.514,0.3,1.1,0.315,5.0,9.2,0.5379999999999999,0.531,1.2,1.5,0.782,2.2,5.7,7.8,2.4,1.1,0.7,1.5,1.7,12.1,2013,mariosh01,United States
+276,Kendall Marshall,PG,21,PHO,48,3,14.6,1.2,3.1,0.371,0.5,1.5,0.315,0.7,1.6,0.423,0.447,0.2,0.3,0.5710000000000001,0.1,0.8,0.9,3.0,0.5,0.1,1.2,1.0,3.0,2013,marshke01,United States
+277,Cartier Martin,SF,28,WAS,41,3,16.9,2.3,6.1,0.381,1.4,3.6,0.397,0.9,2.6,0.358,0.496,0.5,0.7,0.7140000000000001,0.3,2.2,2.4,0.5,0.5,0.1,0.8,1.4,6.6,2013,martica01,United States
+278,Kenyon Martin,C,35,NYK,18,11,23.9,3.1,5.2,0.602,0.0,0.0,0.0,3.1,5.2,0.602,0.602,0.9,2.2,0.425,1.9,3.4,5.3,0.4,0.9,0.9,0.9,3.6,7.2,2013,martike01,United States
+279,Kevin Martin,SG,29,OKC,77,0,27.7,4.5,10.1,0.45,2.1,4.8,0.426,2.5,5.3,0.47200000000000003,0.551,2.8,3.2,0.89,0.4,1.9,2.3,1.4,0.9,0.1,1.3,1.8,14.0,2013,martike02,United States
+280,Roger Mason,SG,32,NOH,69,13,17.7,1.9,4.4,0.433,1.0,2.3,0.415,1.0,2.1,0.452,0.541,0.6,0.6,0.907,0.2,1.8,1.9,1.1,0.4,0.2,0.7,1.5,5.3,2013,masonro01,United States
+281,Wesley Matthews,SG,26,POR,69,69,34.8,5.1,11.7,0.436,2.4,6.2,0.39799999999999996,2.7,5.6,0.478,0.54,2.2,2.7,0.797,0.5,2.3,2.8,2.5,1.3,0.3,1.6,2.5,14.8,2013,matthwe02,United States
+282,Jason Maxiell,PF,29,DET,72,71,24.8,2.8,6.3,0.446,0.0,0.0,0.0,2.8,6.3,0.446,0.446,1.2,2.0,0.621,1.9,3.8,5.7,0.8,0.4,1.3,1.1,2.4,6.9,2013,maxieja01,United States
+283,Eric Maynor,PG-SG,25,TOT,64,0,15.0,1.7,4.4,0.377,0.5,1.5,0.354,1.1,2.9,0.389,0.43799999999999994,0.7,1.0,0.726,0.1,0.6,0.7,2.8,0.3,0.0,1.2,0.9,4.5,2013,maynoer01,United States
+284,O.J. Mayo,SG,25,DAL,82,82,35.5,5.6,12.5,0.449,1.7,4.3,0.40700000000000003,3.9,8.3,0.47100000000000003,0.519,2.3,2.8,0.82,0.4,3.1,3.5,4.4,1.1,0.3,2.6,2.4,15.3,2013,mayooj01,United States
+285,Luc Mbah a Moute,SF,26,MIL,58,45,22.9,2.6,6.5,0.401,0.2,0.6,0.35100000000000003,2.4,5.9,0.406,0.418,1.2,2.2,0.5710000000000001,1.5,2.9,4.4,0.9,0.7,0.2,1.2,1.4,6.7,2013,mbahalu01,Cameroon
+286,JaVale McGee,C,25,DEN,79,0,18.1,3.8,6.7,0.575,0.0,0.0,1.0,3.8,6.7,0.574,0.5760000000000001,1.4,2.4,0.591,2.0,2.8,4.8,0.3,0.4,2.0,1.1,2.3,9.1,2013,mcgeeja01,United States
+287,Dominic McGuire,SF,27,TOT,26,10,14.9,0.9,2.2,0.429,0.0,0.0,0.0,0.9,2.2,0.429,0.429,0.1,0.4,0.3,0.7,2.3,3.0,0.8,0.5,0.4,0.5,1.5,2.0,2013,mcguido01,United States
+288,Josh McRoberts,PF,25,TOT,67,22,22.2,2.3,5.1,0.455,0.4,1.3,0.28600000000000003,2.0,3.9,0.51,0.49,1.0,1.3,0.765,1.4,3.5,4.9,2.1,0.5,0.4,1.0,2.0,6.0,2013,mcrobjo01,United States
+289,Jodie Meeks,SG,25,LAL,78,10,21.3,2.6,6.8,0.387,1.6,4.4,0.35700000000000004,1.1,2.4,0.441,0.502,1.1,1.2,0.8959999999999999,0.5,1.7,2.2,0.9,0.7,0.1,0.7,1.3,7.9,2013,meeksjo01,United States
+290,Fab Melo,C,22,BOS,6,0,6.0,0.5,1.0,0.5,0.0,0.0,0.0,0.5,1.0,0.5,0.5,0.2,0.7,0.25,0.0,0.5,0.5,0.0,0.3,0.3,0.2,1.2,1.2,2013,melofa01,Brazil
+291,Khris Middleton,SG,21,DET,27,0,17.6,2.3,5.2,0.44,0.5,1.7,0.311,1.8,3.6,0.5,0.489,1.0,1.2,0.8440000000000001,0.1,1.7,1.9,1.0,0.6,0.1,0.4,2.0,6.1,2013,middlkh01,United States
+292,C.J. Miles,SF,25,CLE,65,13,21.0,3.9,9.4,0.415,1.9,5.0,0.384,2.0,4.4,0.451,0.518,1.4,1.6,0.8690000000000001,0.4,2.3,2.7,1.0,0.8,0.3,1.1,2.1,11.2,2013,milescj01,United States
+293,Darko Miličić,C,27,BOS,1,0,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,2.0,1.0,0.0,2013,milicda01,SFR Yugoslavia(now Serbia)
+294,Andre Miller,PG,36,DEN,82,11,26.2,3.7,7.7,0.479,0.2,0.8,0.266,3.5,6.9,0.504,0.493,2.0,2.4,0.84,0.7,2.2,2.9,5.9,0.9,0.1,2.1,1.9,9.6,2013,millean02,United States
+295,Darius Miller,SF,22,NOH,52,2,13.3,0.8,2.1,0.40700000000000003,0.4,1.1,0.39299999999999996,0.4,1.0,0.423,0.509,0.2,0.2,1.0,0.2,1.3,1.5,0.8,0.3,0.2,0.4,1.7,2.3,2013,milleda01,United States
+296,Mike Miller,SF,32,MIA,59,17,15.3,1.7,3.9,0.433,1.2,3.0,0.41700000000000004,0.5,0.9,0.48200000000000004,0.591,0.1,0.2,0.727,0.3,2.4,2.7,1.7,0.4,0.1,0.6,1.1,4.8,2013,millemi01,United States
+297,Quincy Miller,PF,20,DEN,7,0,3.7,0.6,1.7,0.33299999999999996,0.0,0.1,0.0,0.6,1.6,0.364,0.33299999999999996,0.1,0.3,0.5,0.1,0.1,0.3,0.4,0.1,0.0,0.1,0.4,1.3,2013,millequ01,United States
+298,Patty Mills,PG,24,SAS,58,2,11.3,1.9,4.2,0.469,0.9,2.2,0.4,1.1,1.9,0.55,0.5770000000000001,0.3,0.3,0.8420000000000001,0.2,0.7,0.9,1.1,0.4,0.1,0.7,0.9,5.1,2013,millspa02,Australia
+299,Paul Millsap,PF,27,UTA,78,78,30.4,5.5,11.2,0.49,0.2,0.5,0.33299999999999996,5.3,10.7,0.498,0.498,3.4,4.6,0.742,2.3,4.8,7.1,2.6,1.3,1.0,1.8,3.0,14.6,2013,millspa01,United States
+300,Nazr Mohammed,C,35,CHI,63,12,11.0,1.0,2.9,0.36700000000000005,0.0,0.0,0.0,1.0,2.8,0.371,0.36700000000000005,0.5,0.7,0.723,1.2,1.9,3.1,0.4,0.3,0.5,0.4,1.5,2.6,2013,mohamna01,United States
+301,Greg Monroe,C,22,DET,81,81,33.2,6.3,13.1,0.486,0.0,0.0,0.0,6.3,13.0,0.488,0.486,3.3,4.8,0.6890000000000001,2.9,6.7,9.6,3.5,1.3,0.7,2.9,2.3,16.0,2013,monrogr01,United States
+302,E'Twaun Moore,SG,23,ORL,75,21,22.4,3.2,8.0,0.396,0.9,2.6,0.34,2.3,5.3,0.424,0.452,0.6,0.8,0.797,0.6,1.6,2.2,2.7,0.7,0.3,1.4,1.6,7.8,2013,mooreet01,United States
+303,Darius Morris,PG,22,LAL,48,17,14.2,1.5,3.9,0.38799999999999996,0.5,1.4,0.364,1.0,2.5,0.402,0.452,0.5,0.8,0.649,0.5,0.7,1.2,1.6,0.4,0.0,0.9,1.2,4.0,2013,morrida01,United States
+304,Marcus Morris,PF-SF,23,TOT,77,23,19.8,2.9,6.8,0.42200000000000004,1.1,3.0,0.369,1.8,3.8,0.46399999999999997,0.504,0.9,1.5,0.564,1.0,2.6,3.6,0.8,0.6,0.3,1.0,2.1,7.7,2013,morrima03,United States
+305,Markieff Morris,PF,23,PHO,82,32,22.4,3.2,8.0,0.40700000000000003,0.5,1.6,0.336,2.7,6.3,0.426,0.442,1.1,1.5,0.732,1.6,3.2,4.8,1.3,0.9,0.8,1.3,2.5,8.2,2013,morrima02,United States
+306,Anthony Morrow,SG,27,TOT,41,1,9.3,1.6,3.5,0.441,0.4,1.0,0.37200000000000005,1.2,2.5,0.47100000000000003,0.49700000000000005,0.5,0.5,0.909,0.3,0.5,0.7,0.3,0.3,0.0,0.2,1.0,4.0,2013,morroan01,United States
+307,Donatas Motiejūnas,PF,22,HOU,44,14,12.2,2.2,4.8,0.455,0.5,1.9,0.289,1.7,3.0,0.562,0.512,0.7,1.2,0.627,0.8,1.3,2.1,0.7,0.2,0.2,0.8,1.7,5.7,2013,motiedo01,Lithuania
+308,Arnett Moultrie,PF,22,PHI,47,0,11.5,1.7,2.9,0.5820000000000001,0.0,0.0,0.0,1.7,2.9,0.5820000000000001,0.5820000000000001,0.4,0.6,0.643,1.6,1.5,3.1,0.2,0.4,0.2,0.4,0.9,3.7,2013,moultar01,United States
+309,Timofey Mozgov,C,26,DEN,41,1,8.9,1.1,2.1,0.506,0.0,0.0,0.0,1.1,2.1,0.518,0.506,0.5,0.6,0.769,1.2,1.4,2.6,0.2,0.1,0.4,0.6,1.4,2.6,2013,mozgoti01,Soviet Union(now Russia)
+310,Byron Mullens,PF,23,CHA,53,41,26.9,4.1,10.6,0.385,1.2,3.9,0.317,2.8,6.7,0.425,0.444,1.2,1.9,0.6459999999999999,1.3,5.0,6.4,1.5,0.6,0.6,1.4,2.1,10.6,2013,mulleby01,United States
+311,Kevin Murphy,SG,22,UTA,17,0,3.1,0.4,1.6,0.25,0.1,0.3,0.2,0.4,1.4,0.261,0.268,0.0,0.0,0.0,0.0,0.2,0.2,0.1,0.1,0.0,0.2,0.2,0.9,2013,murphke01,United States
+312,Troy Murphy,PF,32,DAL,14,1,18.3,1.6,4.4,0.361,0.8,2.5,0.314,0.8,1.9,0.423,0.451,0.7,0.8,0.909,0.5,3.0,3.5,0.5,0.7,0.4,0.5,2.1,4.6,2013,murphtr01,United States
+313,Steve Nash,PG,38,LAL,50,50,32.5,4.7,9.5,0.49700000000000005,1.1,2.6,0.43799999999999994,3.6,6.9,0.519,0.557,2.1,2.3,0.922,0.5,2.3,2.8,6.7,0.6,0.1,2.5,1.4,12.7,2013,nashst01,United States
+314,Gary Neal,SG,28,SAS,68,17,21.8,3.6,8.8,0.41200000000000003,1.3,3.7,0.355,2.3,5.1,0.45399999999999996,0.48700000000000004,0.9,1.1,0.865,0.2,1.9,2.1,1.9,0.4,0.0,1.0,1.4,9.5,2013,nealga01,United States
+315,Jameer Nelson,PG,30,ORL,56,56,35.3,5.5,13.9,0.392,2.2,6.3,0.341,3.3,7.6,0.435,0.47,1.6,1.8,0.873,0.4,3.3,3.7,7.4,1.3,0.1,2.8,2.9,14.7,2013,nelsoja01,United States
+316,Andrew Nicholson,PF,23,ORL,75,28,16.7,3.4,6.5,0.527,0.0,0.0,0.0,3.4,6.5,0.527,0.527,1.0,1.3,0.7979999999999999,0.9,2.5,3.4,0.6,0.3,0.4,1.1,1.8,7.8,2013,nichoan01,Canada
+317,Joakim Noah,C,27,CHI,66,64,36.8,4.6,9.5,0.48100000000000004,0.0,0.1,0.0,4.6,9.5,0.485,0.48100000000000004,2.7,3.6,0.7509999999999999,3.9,7.2,11.1,4.0,1.2,2.1,2.7,2.8,11.9,2013,noahjo01,United States
+318,Steve Novak,SF,29,NYK,81,1,20.3,2.2,5.3,0.414,1.8,4.3,0.425,0.4,1.0,0.36700000000000005,0.5870000000000001,0.4,0.4,0.909,0.2,1.7,1.9,0.4,0.3,0.1,0.1,1.2,6.6,2013,novakst01,United States
+319,Dirk Nowitzki,PF,34,DAL,53,47,31.3,6.5,13.7,0.47100000000000003,1.2,3.0,0.414,5.2,10.8,0.48700000000000004,0.516,3.1,3.6,0.86,0.7,6.2,6.8,2.5,0.7,0.7,1.3,1.8,17.3,2013,nowitdi01,West Germany
+320,Jermaine O'Neal,C,34,PHO,55,4,18.7,3.3,6.7,0.48200000000000004,0.0,0.0,0.0,3.3,6.7,0.48200000000000004,0.48200000000000004,1.7,2.1,0.835,1.5,3.8,5.3,0.8,0.3,1.4,1.3,2.3,8.3,2013,onealje01,United States
+321,Kyle O'Quinn,C,22,ORL,57,5,11.2,1.8,3.5,0.513,0.0,0.0,0.0,1.8,3.4,0.515,0.513,0.5,0.8,0.667,1.1,2.5,3.7,0.9,0.2,0.5,0.6,1.9,4.1,2013,oquinky01,United States
+322,Lamar Odom,PF,33,LAC,82,2,19.7,1.8,4.5,0.39899999999999997,0.2,1.1,0.2,1.6,3.4,0.46399999999999997,0.423,0.2,0.5,0.47600000000000003,1.4,4.4,5.9,1.7,0.8,0.7,1.0,2.6,4.0,2013,odomla01,United States
+323,Tim Ohlbrecht,C,24,HOU,3,0,4.0,0.3,1.0,0.33299999999999996,0.0,0.0,0.0,0.3,1.0,0.33299999999999996,0.33299999999999996,0.3,0.3,1.0,0.0,0.3,0.3,0.3,0.3,0.0,1.3,0.3,1.0,2013,ohlbrti01,West Germany
+324,Emeka Okafor,C,30,WAS,79,77,26.0,4.2,8.7,0.47700000000000004,0.0,0.0,0.0,4.2,8.7,0.47700000000000004,0.47700000000000004,1.4,2.4,0.5710000000000001,2.5,6.2,8.8,1.2,0.6,1.0,1.4,1.8,9.7,2013,okafoem01,United States
+325,Daniel Orton,C,22,OKC,13,0,8.0,0.9,2.0,0.462,0.0,0.0,0.0,0.9,2.0,0.462,0.462,0.7,1.3,0.529,1.0,1.0,2.0,0.3,0.3,0.2,0.3,1.0,2.5,2013,ortonda01,United States
+326,Travis Outlaw,SF,28,SAC,38,2,11.7,1.9,4.7,0.418,0.4,1.3,0.28,1.6,3.3,0.47200000000000003,0.45799999999999996,1.0,1.4,0.731,0.4,1.2,1.6,0.6,0.3,0.2,0.5,0.9,5.3,2013,outlatr01,United States
+327,Zaza Pachulia,C,28,ATL,52,15,21.8,2.2,4.6,0.473,0.0,0.1,0.0,2.2,4.6,0.479,0.473,1.5,2.0,0.757,2.5,3.9,6.5,1.5,0.7,0.2,1.3,2.5,5.9,2013,pachuza01,Soviet Union(now Georgia)
+328,Jannero Pargo,PG,33,TOT,32,0,15.8,2.4,6.6,0.368,1.2,3.6,0.336,1.2,3.0,0.406,0.46,0.4,0.4,0.9229999999999999,0.3,0.8,1.1,2.1,0.6,0.1,1.3,1.3,6.5,2013,pargoja01,United States
+329,Jeremy Pargo,PG-SG,26,TOT,39,11,16.8,2.5,6.4,0.396,0.6,1.9,0.33799999999999997,1.9,4.5,0.42,0.446,1.1,1.6,0.677,0.2,1.1,1.3,2.4,0.3,0.1,1.3,1.2,6.8,2013,pargoje01,United States
+330,Tony Parker,PG,30,SAS,66,66,32.9,7.9,15.1,0.522,0.4,1.0,0.353,7.5,14.0,0.534,0.534,4.2,5.0,0.845,0.3,2.7,3.0,7.6,0.8,0.1,2.6,1.4,20.3,2013,parketo01,Belgium
+331,Chandler Parsons,SF,24,HOU,76,76,36.3,6.0,12.4,0.486,2.0,5.2,0.385,4.0,7.2,0.5589999999999999,0.5670000000000001,1.5,2.0,0.7290000000000001,1.0,4.3,5.3,3.5,1.0,0.4,1.9,1.9,15.5,2013,parsoch01,United States
+332,Patrick Patterson,PF,23,TOT,71,41,25.0,4.5,8.8,0.512,0.7,1.9,0.386,3.8,6.9,0.546,0.5529999999999999,0.7,0.9,0.762,1.6,3.2,4.7,1.1,0.4,0.6,0.9,1.9,10.4,2013,pattepa01,United States
+333,Chris Paul,PG,27,LAC,70,70,33.4,5.9,12.2,0.48100000000000004,1.1,3.3,0.32799999999999996,4.8,8.9,0.5379999999999999,0.526,4.1,4.6,0.885,0.8,3.0,3.7,9.7,2.4,0.1,2.3,2.0,16.9,2013,paulch01,United States
+334,Sasha Pavlović,SG,29,POR,39,1,13.5,1.1,3.1,0.353,0.5,1.5,0.3,0.6,1.5,0.40700000000000003,0.429,0.0,0.2,0.16699999999999998,0.2,1.3,1.4,0.8,0.6,0.1,0.4,1.5,2.6,2013,pavloal01,SFR Yugoslavia(now Montenegro)
+335,Nikola Peković,C,27,MIN,62,62,31.6,6.2,12.0,0.52,0.0,0.0,0.0,6.2,12.0,0.52,0.52,3.9,5.2,0.7440000000000001,3.7,5.1,8.8,0.9,0.7,0.8,1.6,2.3,16.3,2013,pekovni01,SFR Yugoslavia(now Montenegro)
+336,Kendrick Perkins,C,28,OKC,78,78,25.1,1.8,4.0,0.457,0.0,0.0,0.0,1.8,4.0,0.45799999999999996,0.457,0.6,0.9,0.611,1.4,4.6,6.0,1.4,0.6,1.1,1.4,2.9,4.2,2013,perkike01,United States
+337,Johan Petro,C,27,ATL,31,8,11.4,1.5,3.5,0.436,0.0,0.1,0.25,1.5,3.4,0.44299999999999995,0.441,0.4,0.4,0.917,1.1,2.5,3.6,0.5,0.3,0.3,0.8,1.5,3.5,2013,petrojo01,France
+338,Paul Pierce,SF,35,BOS,77,77,33.4,6.2,14.2,0.436,1.9,5.0,0.38,4.3,9.2,0.466,0.502,4.3,5.5,0.787,0.6,5.7,6.3,4.8,1.1,0.4,2.8,2.7,18.6,2013,piercpa01,United States
+339,Mickaël Piétrus,SF,30,TOR,19,16,20.3,1.8,5.2,0.34700000000000003,1.1,3.4,0.313,0.7,1.8,0.41200000000000003,0.449,0.6,0.9,0.667,0.3,1.6,1.9,0.5,0.6,0.3,0.8,1.7,5.3,2013,pietrmi01,Guadeloupe
+340,Dexter Pittman,C,24,TOT,11,0,2.9,0.4,1.0,0.364,0.0,0.0,0.0,0.4,1.0,0.364,0.364,0.0,0.3,0.0,0.6,0.5,1.1,0.0,0.0,0.0,0.3,0.7,0.7,2013,pittmde01,United States
+341,Miles Plumlee,C,24,IND,14,0,3.9,0.4,1.5,0.23800000000000002,0.0,0.0,0.0,0.4,1.5,0.23800000000000002,0.23800000000000002,0.2,0.3,0.75,0.9,0.7,1.6,0.1,0.0,0.2,0.2,0.4,0.9,2013,plumlmi01,United States
+342,Quincy Pondexter,SF,24,MEM,59,1,21.1,2.2,5.1,0.428,1.0,2.6,0.395,1.2,2.5,0.46299999999999997,0.528,1.0,1.3,0.787,0.7,1.5,2.2,1.0,0.6,0.1,0.7,1.6,6.4,2013,pondequ01,United States
+343,A.J. Price,PG,26,WAS,57,22,22.4,2.8,7.2,0.39,1.2,3.5,0.35,1.6,3.7,0.42700000000000005,0.475,0.9,1.1,0.79,0.4,1.6,2.0,3.6,0.6,0.1,1.1,1.3,7.7,2013,priceaj01,United States
+344,Ronnie Price,PG,29,POR,39,0,13.1,1.0,3.1,0.325,0.3,1.0,0.256,0.7,2.1,0.358,0.36700000000000005,0.4,0.6,0.708,0.3,0.8,1.1,1.9,0.7,0.1,0.9,1.6,2.7,2013,pricero01,United States
+345,Pablo Prigioni,PG,35,NYK,78,18,16.2,1.3,2.8,0.455,0.7,1.7,0.396,0.6,1.1,0.547,0.575,0.3,0.3,0.88,0.5,1.3,1.8,3.0,0.9,0.0,1.1,1.6,3.5,2013,prigipa01,Argentina
+346,Tayshaun Prince,SF,32,TOT,82,81,32.1,4.4,10.0,0.43799999999999994,0.5,1.1,0.40399999999999997,3.9,8.9,0.442,0.461,1.2,1.6,0.738,0.9,3.6,4.4,2.4,0.6,0.3,1.1,1.0,10.4,2013,princta01,United States
+347,Joel Przybilla,C,33,MIL,12,1,5.7,0.1,0.3,0.25,0.0,0.0,0.0,0.1,0.3,0.25,0.25,0.0,0.2,0.0,0.4,1.3,1.8,0.3,0.1,0.2,0.3,0.8,0.2,2013,przybjo01,United States
+348,Chris Quinn,SG,29,CLE,7,0,11.1,0.6,2.3,0.25,0.0,0.7,0.0,0.6,1.6,0.364,0.25,0.3,0.3,1.0,0.1,0.1,0.3,1.3,0.4,0.0,0.9,0.6,1.4,2013,quinnch01,United States
+349,Vladimir Radmanović,PF,32,CHI,25,0,5.8,0.5,1.7,0.302,0.2,1.1,0.185,0.3,0.6,0.5,0.36,0.1,0.1,0.667,0.4,0.7,1.1,0.3,0.3,0.2,0.3,1.2,1.3,2013,radmavl01,SFR Yugoslavia(now Bosnia and Herzegovina)
+350,Anthony Randolph,PF,23,DEN,39,0,8.4,1.4,2.9,0.491,0.0,0.2,0.0,1.4,2.7,0.528,0.491,0.8,1.2,0.6890000000000001,0.7,1.7,2.4,0.3,0.5,0.5,0.9,1.1,3.7,2013,randoan01,West Germany(now Germany)
+351,Shavlik Randolph,PF,29,BOS,16,0,12.4,1.8,3.0,0.583,0.0,0.0,0.0,1.8,3.0,0.583,0.583,0.7,1.7,0.40700000000000003,1.8,2.6,4.4,0.2,0.5,0.4,0.6,2.4,4.2,2013,randosh01,United States
+352,Zach Randolph,PF,31,MEM,76,75,34.3,6.2,13.5,0.46,0.0,0.3,0.087,6.2,13.2,0.469,0.461,3.0,3.9,0.75,4.1,7.2,11.2,1.4,0.8,0.4,2.0,2.4,15.4,2013,randoza01,United States
+353,J.J. Redick,SG,28,TOT,78,13,30.5,4.9,11.3,0.434,2.1,5.8,0.366,2.8,5.5,0.506,0.528,2.2,2.4,0.9,0.2,2.0,2.2,3.8,0.5,0.1,1.8,1.5,14.1,2013,redicjj01,United States
+354,Jason Richardson,SG,32,PHI,33,33,28.4,4.1,10.2,0.402,1.7,5.1,0.341,2.4,5.1,0.462,0.48700000000000004,0.6,1.0,0.606,0.6,3.3,3.8,1.5,1.2,0.5,0.8,1.7,10.5,2013,richaja01,United States
+355,Quentin Richardson,SF,32,NYK,1,0,29.0,1.0,11.0,0.091,1.0,4.0,0.25,0.0,7.0,0.0,0.136,2.0,2.0,1.0,5.0,5.0,10.0,1.0,0.0,0.0,2.0,1.0,5.0,2013,richaqu01,United States
+356,Luke Ridnour,SG,31,MIN,82,82,30.2,4.5,9.9,0.45299999999999996,0.8,2.6,0.311,3.7,7.3,0.503,0.493,1.7,2.0,0.848,0.5,2.0,2.5,3.8,1.0,0.2,1.6,2.3,11.5,2013,ridnolu01,United States
+357,Austin Rivers,SG,20,NOH,61,26,23.2,2.4,6.4,0.37200000000000005,0.5,1.4,0.326,1.9,5.0,0.385,0.408,1.0,1.8,0.546,0.3,1.5,1.8,2.1,0.4,0.1,1.2,2.0,6.2,2013,riverau01,United States
+358,Brian Roberts,PG,27,NOH,78,5,17.0,2.7,6.6,0.41700000000000004,0.8,2.0,0.386,2.0,4.6,0.43,0.475,0.9,1.0,0.909,0.2,1.0,1.2,2.8,0.5,0.0,0.9,1.4,7.1,2013,roberbr01,United States
+359,Nate Robinson,PG,28,CHI,82,23,25.4,4.9,11.2,0.433,1.7,4.2,0.405,3.1,7.0,0.45,0.51,1.6,2.1,0.799,0.4,1.9,2.2,4.4,1.0,0.1,1.8,2.5,13.1,2013,robinna01,United States
+360,Thomas Robinson,PF,21,TOT,70,0,15.1,2.0,4.6,0.43,0.0,0.0,0.0,2.0,4.6,0.431,0.43,0.8,1.6,0.523,1.7,2.8,4.5,0.7,0.6,0.4,1.3,1.8,4.8,2013,robinth01,United States
+361,Rajon Rondo,PG,26,BOS,38,38,37.4,5.9,12.2,0.484,0.3,1.3,0.24,5.6,10.9,0.513,0.49700000000000005,1.6,2.4,0.645,1.1,4.4,5.6,11.1,1.8,0.2,3.9,2.5,13.7,2013,rondora01,United States
+362,Terrence Ross,SG,21,TOR,73,2,17.0,2.5,6.3,0.40700000000000003,0.9,2.7,0.332,1.7,3.6,0.46399999999999997,0.478,0.4,0.6,0.7140000000000001,0.5,1.5,2.0,0.7,0.6,0.2,0.7,1.7,6.4,2013,rosste01,United States
+363,Brandon Roy,SG,28,MIN,5,5,24.4,2.2,7.0,0.314,0.0,1.8,0.0,2.2,5.2,0.423,0.314,1.4,2.0,0.7,0.6,2.2,2.8,4.6,0.6,0.0,1.4,1.0,5.8,2013,roybr01,United States
+364,Ricky Rubio,PG,22,MIN,57,47,29.7,3.2,9.0,0.36,0.5,1.6,0.293,2.8,7.4,0.374,0.386,3.7,4.6,0.799,0.8,3.2,4.0,7.3,2.4,0.1,3.0,2.5,10.7,2013,rubiori01,Spain
+365,Brandon Rush,SF,27,GSW,2,0,12.5,3.0,4.5,0.667,0.0,1.0,0.0,3.0,3.5,0.857,0.667,1.0,1.5,0.667,0.0,0.5,0.5,1.0,0.0,0.0,1.5,2.5,7.0,2013,rushbr01,United States
+366,Robert Sacre,C,23,LAL,32,3,6.3,0.6,1.5,0.375,0.0,0.0,0.0,0.6,1.5,0.375,0.375,0.2,0.3,0.636,0.3,0.8,1.1,0.2,0.0,0.3,0.3,1.2,1.3,2013,sacrero01,United States
+367,John Salmons,SF,33,SAC,76,72,30.0,3.2,8.1,0.39899999999999997,1.3,3.5,0.371,1.9,4.5,0.42,0.48,1.1,1.4,0.773,0.4,2.3,2.7,3.0,0.7,0.3,1.1,1.9,8.8,2013,salmojo01,United States
+368,Samardo Samuels,C,24,CLE,18,1,10.9,1.2,3.3,0.36700000000000005,0.0,0.1,0.0,1.2,3.3,0.373,0.36700000000000005,0.8,1.3,0.583,0.6,1.0,1.6,0.4,0.2,0.2,0.3,1.7,3.2,2013,samuesa01,Jamaica
+369,Larry Sanders,C,24,MIL,71,55,27.3,4.3,8.5,0.506,0.0,0.0,0.0,4.3,8.5,0.507,0.506,1.2,1.9,0.618,3.2,6.3,9.5,1.2,0.7,2.8,1.2,3.3,9.8,2013,sandela01,United States
+370,Luis Scola,PF,32,PHO,82,67,26.6,5.3,11.2,0.47200000000000003,0.0,0.2,0.188,5.2,11.0,0.47700000000000004,0.474,2.2,2.8,0.787,1.9,4.7,6.6,2.2,0.8,0.4,1.5,3.1,12.8,2013,scolalu01,Argentina
+371,Mike Scott,PF,24,ATL,40,1,9.4,1.8,3.7,0.47600000000000003,0.0,0.0,0.0,1.8,3.6,0.479,0.47600000000000003,1.1,1.4,0.768,1.0,1.8,2.8,0.3,0.1,0.0,0.5,0.8,4.6,2013,scottmi01,United States
+372,Thabo Sefolosha,SG,28,OKC,81,81,27.5,2.8,5.8,0.48100000000000004,1.3,3.2,0.419,1.4,2.6,0.5579999999999999,0.597,0.7,0.9,0.826,0.7,3.2,3.9,1.5,1.3,0.5,0.8,2.2,7.6,2013,sefolth01,Switzerland
+373,Josh Selby,PG,21,MEM,10,0,5.9,0.6,2.2,0.273,0.1,0.6,0.16699999999999998,0.5,1.6,0.313,0.295,0.7,1.1,0.636,0.0,0.5,0.5,0.4,0.2,0.0,0.7,0.7,2.0,2013,selbyjo01,United States
+374,Kevin Séraphin,C,23,WAS,79,8,21.8,4.2,9.1,0.461,0.0,0.0,0.0,4.2,9.1,0.461,0.461,0.8,1.1,0.693,1.4,3.0,4.4,0.7,0.3,0.7,1.6,2.7,9.1,2013,serapke01,United States
+375,Ramon Sessions,SG,26,CHA,61,0,27.1,4.5,11.1,0.408,0.5,1.8,0.308,4.0,9.3,0.42700000000000005,0.433,4.8,5.7,0.8390000000000001,0.4,2.3,2.8,3.8,0.8,0.1,1.7,1.5,14.4,2013,sessira01,United States
+376,Tornike Shengelia,SF,21,BRK,19,0,4.9,0.5,1.2,0.435,0.1,0.1,0.5,0.5,1.1,0.429,0.457,0.5,0.8,0.563,0.5,0.7,1.2,0.2,0.2,0.1,0.6,0.6,1.6,2013,shengto01,Georgia
+377,Iman Shumpert,SG,22,NYK,45,45,22.1,2.4,6.1,0.396,1.1,2.8,0.402,1.3,3.3,0.392,0.489,0.8,1.0,0.7659999999999999,0.7,2.3,3.0,1.7,1.0,0.2,0.8,2.2,6.8,2013,shumpim01,United States
+378,Alexey Shved,SG,24,MIN,77,16,23.9,3.1,8.2,0.37200000000000005,1.1,3.7,0.295,2.0,4.5,0.435,0.439,1.4,1.9,0.72,0.5,1.7,2.3,3.7,0.7,0.4,1.9,1.5,8.6,2013,shvedal01,Soviet Union(now Russia)
+379,Henry Sims,C,22,NOH,2,0,2.5,1.0,1.5,0.667,0.0,0.0,0.0,1.0,1.5,0.667,0.667,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.5,0.5,2.0,2013,simshe01,United States
+380,Kyle Singler,SF,24,DET,82,74,28.0,3.4,7.8,0.428,0.9,2.4,0.35,2.5,5.4,0.46399999999999997,0.483,1.2,1.5,0.8059999999999999,1.3,2.7,4.0,0.9,0.7,0.5,1.2,2.6,8.8,2013,singlky01,United States
+381,Chris Singleton,PF,23,WAS,57,11,16.2,1.6,4.2,0.382,0.1,0.6,0.19399999999999998,1.5,3.6,0.415,0.396,0.7,1.2,0.5710000000000001,0.9,2.3,3.2,0.6,0.7,0.4,0.8,2.2,4.1,2013,singlch01,United States
+382,Donald Sloan,SG-PG,25,TOT,23,0,11.4,1.2,3.4,0.34600000000000003,0.3,0.8,0.368,0.9,2.6,0.33899999999999997,0.391,0.9,1.1,0.8,0.1,1.1,1.2,1.7,0.2,0.0,0.6,0.7,3.5,2013,sloando01,United States
+383,Greg Smith,C,22,HOU,70,10,15.9,2.4,3.9,0.62,0.0,0.0,0.0,2.4,3.9,0.623,0.62,1.2,1.9,0.623,1.6,3.0,4.6,0.4,0.3,0.6,0.6,2.5,6.0,2013,smithgr02,United States
+384,Ish Smith,PG,24,TOT,52,3,9.9,1.1,3.1,0.35200000000000004,0.2,0.5,0.29600000000000004,0.9,2.5,0.364,0.377,0.1,0.1,0.429,0.2,0.9,1.2,1.7,0.4,0.2,0.7,0.5,2.4,2013,smithis01,United States
+385,J.R. Smith,SG,27,NYK,80,0,33.5,6.6,15.6,0.42200000000000004,1.9,5.4,0.35600000000000004,4.6,10.2,0.45799999999999996,0.484,3.0,3.9,0.762,0.8,4.5,5.3,2.7,1.2,0.3,1.7,2.8,18.1,2013,smithjr01,United States
+386,Jason Smith,C,26,NOH,51,0,17.2,3.3,6.7,0.49,0.0,0.1,0.0,3.3,6.6,0.496,0.49,1.7,2.0,0.843,1.3,2.4,3.6,0.7,0.3,0.9,1.1,2.4,8.2,2013,smithja02,United States
+387,Josh Smith,PF,27,ATL,76,76,35.3,7.2,15.6,0.465,0.8,2.6,0.303,6.4,12.9,0.498,0.491,2.2,4.2,0.517,1.8,6.7,8.4,4.2,1.2,1.8,3.0,2.3,17.5,2013,smithjo03,United States
+388,Nolan Smith,PG,24,POR,40,0,7.2,1.0,2.8,0.368,0.2,0.7,0.214,0.9,2.2,0.419,0.395,0.5,0.7,0.7140000000000001,0.2,0.5,0.7,0.9,0.2,0.0,0.7,0.6,2.8,2013,smithno01,United States
+389,Marreese Speights,C,25,TOT,79,3,16.5,3.3,7.4,0.445,0.0,0.1,0.3,3.3,7.3,0.44799999999999995,0.44799999999999995,1.7,2.2,0.7709999999999999,1.8,3.0,4.9,0.6,0.3,0.7,1.0,2.2,8.3,2013,speigma01,United States
+390,Tiago Splitter,PF,28,SAS,81,58,24.7,3.9,7.0,0.56,0.0,0.0,0.0,3.9,6.9,0.561,0.56,2.6,3.5,0.73,1.8,4.6,6.4,1.6,0.8,0.8,1.2,2.0,10.3,2013,splitti01,Brazil
+391,Jerry Stackhouse,SF,38,BRK,37,0,14.7,1.8,4.6,0.384,0.8,2.4,0.337,1.0,2.2,0.434,0.47100000000000003,0.5,0.6,0.87,0.1,0.8,0.9,0.9,0.2,0.1,0.6,0.8,4.9,2013,stackje01,United States
+392,Lance Stephenson,SG,22,IND,78,72,29.2,3.5,7.7,0.46,0.8,2.4,0.33,2.7,5.3,0.52,0.512,1.0,1.5,0.652,0.6,3.3,3.9,2.9,1.0,0.2,1.4,2.1,8.8,2013,stephla01,United States
+393,DeShawn Stevenson,SG,31,ATL,56,31,20.7,1.8,4.7,0.374,1.4,3.7,0.364,0.4,0.9,0.415,0.519,0.2,0.4,0.522,0.3,1.9,2.2,0.9,0.5,0.1,0.4,1.2,5.1,2013,stevede01,United States
+394,Greg Stiemsma,C,27,MIN,76,19,15.9,1.7,3.7,0.457,0.0,0.0,0.0,1.7,3.7,0.457,0.457,0.7,0.9,0.768,0.8,2.6,3.4,0.4,0.6,1.2,0.8,2.4,4.0,2013,stiemgr01,United States
+395,Julyan Stone,PG,24,DEN,4,0,7.0,0.5,0.5,1.0,0.0,0.0,0.0,0.5,0.5,1.0,1.0,0.8,1.0,0.75,0.5,0.2,0.8,0.5,0.2,0.0,0.5,1.0,1.8,2013,stoneju01,United States
+396,Amar'e Stoudemire,PF,30,NYK,29,0,23.5,5.3,9.2,0.5770000000000001,0.0,0.0,0.0,5.3,9.2,0.5770000000000001,0.5770000000000001,3.6,4.5,0.8079999999999999,2.1,2.9,5.0,0.4,0.3,0.7,1.7,3.1,14.2,2013,stoudam01,United States
+397,Rodney Stuckey,SG,26,DET,76,24,28.6,4.0,9.8,0.406,0.7,2.4,0.302,3.3,7.4,0.44,0.44299999999999995,2.8,3.6,0.7829999999999999,0.6,2.2,2.8,3.6,0.7,0.2,1.8,1.7,11.5,2013,stuckro01,United States
+398,Jared Sullinger,PF,20,BOS,45,5,19.8,2.5,5.0,0.493,0.0,0.1,0.2,2.4,4.9,0.5,0.496,1.0,1.4,0.746,2.0,3.8,5.9,0.8,0.5,0.5,0.6,3.4,6.0,2013,sullija01,United States
+399,DaJuan Summers,PF,25,LAC,2,0,3.5,0.5,2.0,0.25,0.0,0.0,0.0,0.5,2.0,0.25,0.25,0.0,0.0,0.0,0.0,1.0,1.0,0.5,0.0,0.0,0.0,0.0,1.0,2013,summeda01,United States
+400,Jeff Taylor,SF,23,CHA,77,29,19.6,2.2,5.2,0.431,0.7,2.0,0.344,1.5,3.2,0.486,0.49700000000000005,1.0,1.3,0.728,0.7,1.3,1.9,0.8,0.6,0.2,0.6,1.8,6.1,2013,tayloje03,United States
+401,Tyshawn Taylor,PG,22,BRK,38,0,5.8,0.8,2.3,0.368,0.2,0.3,0.462,0.7,1.9,0.35100000000000003,0.402,0.4,0.7,0.556,0.1,0.4,0.5,0.6,0.3,0.0,0.7,0.7,2.2,2013,tayloty01,United States
+402,Jeff Teague,PG,24,ATL,80,78,32.8,5.5,12.2,0.451,1.1,3.1,0.359,4.4,9.1,0.48200000000000004,0.496,2.5,2.8,0.8809999999999999,0.3,1.9,2.2,7.2,1.5,0.4,2.9,2.3,14.6,2013,teaguje01,United States
+403,Marquis Teague,PG,19,CHI,48,0,8.2,0.9,2.4,0.381,0.1,0.5,0.174,0.8,1.9,0.433,0.39799999999999996,0.2,0.3,0.563,0.1,0.9,0.9,1.3,0.2,0.1,0.7,1.0,2.1,2013,teaguma01,United States
+404,Mirza Teletović,PF,27,BRK,53,0,9.4,1.3,3.5,0.384,0.7,2.0,0.34299999999999997,0.6,1.5,0.442,0.484,0.2,0.2,0.818,0.6,1.2,1.8,0.4,0.2,0.2,0.4,1.0,3.5,2013,teletmi01,SFR Yugoslavia(now Bosnia and Herzegovina)
+405,Sebastian Telfair,PG,27,TOT,59,2,16.6,1.9,5.2,0.36200000000000004,0.9,2.5,0.353,1.0,2.7,0.371,0.44799999999999995,0.9,1.2,0.7829999999999999,0.2,1.2,1.4,2.6,0.6,0.2,1.1,1.8,5.6,2013,telfase01,United States
+406,Garrett Temple,SG,26,WAS,51,36,22.7,2.1,5.1,0.40700000000000003,0.5,1.6,0.325,1.5,3.5,0.444,0.457,0.5,0.7,0.703,0.6,1.8,2.4,2.3,1.0,0.3,1.2,1.8,5.1,2013,templga01,United States
+407,Jason Terry,SG,35,BOS,79,24,26.9,3.6,8.2,0.434,1.6,4.2,0.37200000000000005,2.0,4.0,0.498,0.529,1.4,1.7,0.87,0.2,1.8,2.0,2.5,0.8,0.1,1.3,1.4,10.1,2013,terryja01,United States
+408,Hasheem Thabeet,C,25,OKC,66,4,11.7,1.0,1.6,0.604,0.0,0.0,0.0,1.0,1.6,0.604,0.604,0.5,0.8,0.604,1.0,1.9,3.0,0.2,0.5,0.9,0.6,2.2,2.4,2013,thabeha01,Tanzania
+409,Isaiah Thomas,PG,23,SAC,79,62,26.9,4.6,10.5,0.44,1.5,4.1,0.358,3.2,6.5,0.491,0.509,3.2,3.6,0.882,0.4,1.7,2.0,4.0,0.8,0.0,1.8,2.1,13.9,2013,thomais02,United States
+410,Kurt Thomas,PF,40,NYK,39,17,10.1,1.2,2.1,0.542,0.0,0.0,1.0,1.1,2.1,0.537,0.5479999999999999,0.2,0.3,0.462,0.6,1.7,2.3,0.5,0.3,0.4,0.2,1.3,2.5,2013,thomaku01,United States
+411,Lance Thomas,SF,24,NOH,59,9,10.9,0.9,1.8,0.5,0.0,0.0,0.0,0.9,1.8,0.5,0.5,0.7,1.0,0.7290000000000001,0.7,1.2,1.9,0.3,0.2,0.1,0.2,1.3,2.5,2013,thomala01,United States
+412,Malcolm Thomas,PF,24,TOT,12,0,4.8,0.4,0.8,0.5,0.0,0.0,0.0,0.4,0.8,0.5,0.5,0.4,0.7,0.625,0.4,0.9,1.3,0.3,0.2,0.2,0.2,0.7,1.2,2013,thomama01,United States
+413,Tyrus Thomas,PF,26,CHA,26,2,13.8,1.8,5.2,0.353,0.1,0.3,0.375,1.7,4.9,0.35200000000000004,0.364,1.0,1.2,0.8390000000000001,0.6,1.7,2.3,0.7,0.5,0.6,0.7,2.0,4.8,2013,thomaty01,United States
+414,Jason Thompson,PF,26,SAC,82,81,27.9,4.6,9.1,0.502,0.0,0.0,0.0,4.6,9.0,0.504,0.502,1.7,2.5,0.6940000000000001,2.1,4.6,6.7,1.0,0.6,0.7,1.2,2.8,10.9,2013,thompja02,United States
+415,Klay Thompson,SG,22,GSW,82,82,35.8,6.2,14.7,0.42200000000000004,2.6,6.4,0.401,3.6,8.3,0.43700000000000006,0.509,1.6,1.9,0.841,0.4,3.3,3.7,2.2,1.0,0.5,1.9,2.9,16.6,2013,thompkl01,United States
+416,Tristan Thompson,PF,21,CLE,82,82,31.3,4.8,9.7,0.488,0.0,0.0,0.0,4.8,9.7,0.49,0.488,2.2,3.5,0.608,3.7,5.7,9.4,1.3,0.7,0.9,1.5,2.9,11.7,2013,thomptr01,Canada
+417,Marcus Thornton,SG,25,SAC,72,8,24.0,4.6,10.8,0.429,2.0,5.3,0.37200000000000005,2.7,5.5,0.484,0.52,1.5,1.8,0.8809999999999999,0.7,1.8,2.5,1.3,0.8,0.1,0.9,1.5,12.7,2013,thornma01,United States
+418,Jamaal Tinsley,PG,34,UTA,66,32,18.5,1.3,3.5,0.368,0.6,1.9,0.307,0.7,1.6,0.439,0.451,0.3,0.4,0.6920000000000001,0.3,1.5,1.7,4.4,1.0,0.2,1.6,1.6,3.5,2013,tinslja01,United States
+419,Anthony Tolliver,SF,27,ATL,62,11,15.5,1.3,3.5,0.38,0.7,2.1,0.33799999999999997,0.6,1.3,0.446,0.484,0.7,0.8,0.863,0.5,2.0,2.5,0.5,0.2,0.2,0.6,1.1,4.1,2013,tollian01,United States
+420,P.J. Tucker,SG,27,PHO,79,45,24.2,2.7,5.6,0.473,0.3,0.9,0.314,2.4,4.7,0.503,0.498,0.8,1.1,0.7440000000000001,1.7,2.8,4.4,1.4,0.8,0.2,0.8,1.8,6.4,2013,tuckepj01,United States
+421,Ronny Turiaf,C,30,LAC,65,0,10.8,0.8,1.5,0.505,0.0,0.0,0.0,0.8,1.5,0.505,0.505,0.4,1.0,0.365,0.7,1.6,2.3,0.5,0.3,0.5,0.4,1.2,1.9,2013,turiaro01,Martinique
+422,Hedo Türkoğlu,SF,33,ORL,11,1,17.2,1.3,4.8,0.264,0.1,2.2,0.042,1.2,2.6,0.44799999999999995,0.27399999999999997,0.3,0.5,0.5,0.4,2.0,2.4,2.1,0.6,0.1,1.1,1.0,2.9,2013,turkohe01,Turkey
+423,Evan Turner,SF,24,PHI,82,82,35.3,5.4,12.8,0.419,0.7,1.9,0.365,4.7,10.9,0.428,0.446,1.9,2.5,0.74,0.7,5.6,6.3,4.3,0.9,0.2,2.3,2.4,13.3,2013,turneev01,United States
+424,Jeremy Tyler,C,21,TOT,21,0,3.2,0.4,1.1,0.375,0.0,0.0,0.0,0.4,1.1,0.375,0.375,0.2,0.3,0.667,0.3,0.7,1.0,0.0,0.0,0.1,0.3,0.5,1.0,2013,tylerje01,United States
+425,Ekpe Udoh,C,25,MIL,76,9,17.3,1.5,3.5,0.435,0.0,0.0,0.0,1.5,3.5,0.43700000000000006,0.435,1.2,1.6,0.748,1.5,1.8,3.3,0.6,0.5,1.1,0.6,1.8,4.2,2013,udohek01,United States
+426,Beno Udrih,SG-PG,30,TOT,66,9,22.1,3.2,7.2,0.441,0.5,1.5,0.33299999999999996,2.7,5.7,0.47100000000000003,0.47700000000000004,1.3,1.6,0.816,0.5,1.6,2.1,4.6,0.6,0.0,1.6,1.4,8.2,2013,udrihbe01,SFR Yugoslavia(now Slovenia)
+427,Jonas Valančiūnas,C,20,TOR,62,57,23.9,3.3,5.9,0.557,0.0,0.0,0.0,3.3,5.9,0.557,0.557,2.4,3.0,0.789,2.0,4.0,6.0,0.7,0.3,1.3,1.5,3.0,8.9,2013,valanjo01,Lithuania
+428,Anderson Varejão,C,30,CLE,25,25,36.0,5.5,11.6,0.478,0.0,0.2,0.0,5.5,11.4,0.486,0.478,3.1,4.1,0.755,5.5,8.9,14.4,3.4,1.5,0.6,1.8,2.7,14.1,2013,varejan01,Brazil
+429,Jarvis Varnado,PF,24,TOT,13,0,4.5,0.2,0.5,0.429,0.0,0.0,0.0,0.2,0.5,0.429,0.429,0.2,0.3,0.5,0.2,0.5,0.7,0.2,0.1,0.2,0.5,0.8,0.6,2013,varnaja01,United States
+430,Greivis Vásquez,PG,26,NOH,78,78,34.4,5.6,13.0,0.433,1.1,3.1,0.342,4.6,9.9,0.462,0.474,1.6,2.0,0.805,0.6,3.8,4.3,9.0,0.8,0.1,3.2,2.4,13.9,2013,vasqugr01,Venezuela
+431,Jan Veselý,PF,22,WAS,51,4,11.8,1.1,2.2,0.5,0.0,0.0,0.0,1.1,2.2,0.504,0.5,0.2,0.8,0.308,0.8,1.5,2.4,0.5,0.3,0.3,0.5,2.1,2.5,2013,veselja01,Czechoslovakia(now Czech Republic)
+432,Charlie Villanueva,PF,28,DET,69,0,15.8,2.5,6.7,0.377,1.3,3.8,0.34700000000000003,1.2,3.0,0.415,0.474,0.4,0.7,0.551,0.7,2.8,3.5,0.8,0.4,0.6,0.6,1.4,6.8,2013,villach01,United States
+433,Nikola Vučević,C,22,ORL,77,77,33.2,6.0,11.5,0.519,0.0,0.0,0.0,6.0,11.5,0.52,0.519,1.1,1.6,0.6829999999999999,3.5,8.4,11.9,1.9,0.8,1.0,1.8,2.8,13.1,2013,vucevni01,Switzerland
+434,Dwyane Wade,SG,31,MIA,69,69,34.7,8.2,15.8,0.521,0.2,1.0,0.258,8.0,14.9,0.537,0.528,4.5,6.2,0.725,1.2,3.7,5.0,5.1,1.9,0.8,2.8,2.0,21.2,2013,wadedw01,United States
+435,Dion Waiters,SG,21,CLE,61,48,28.8,5.5,13.4,0.41200000000000003,1.0,3.3,0.31,4.5,10.0,0.446,0.451,2.6,3.5,0.746,0.4,2.1,2.4,3.0,1.0,0.3,2.0,1.9,14.7,2013,waitedi01,United States
+436,Kemba Walker,PG,22,CHA,82,82,34.9,6.4,15.2,0.423,1.3,4.0,0.322,5.1,11.1,0.45899999999999996,0.466,3.6,4.5,0.7979999999999999,0.7,2.7,3.5,5.7,2.0,0.4,2.4,1.9,17.7,2013,walkeke02,United States
+437,John Wall,PG,22,WAS,49,42,32.7,6.6,15.0,0.441,0.2,0.9,0.267,6.4,14.1,0.452,0.449,5.0,6.2,0.804,0.7,3.3,4.0,7.6,1.3,0.8,3.2,2.4,18.5,2013,walljo01,United States
+438,Gerald Wallace,SF,30,BRK,69,68,30.1,2.6,6.6,0.397,0.7,2.4,0.282,2.0,4.3,0.461,0.44799999999999995,1.8,2.8,0.637,1.0,3.6,4.6,2.6,1.4,0.7,1.6,1.7,7.7,2013,wallage01,United States
+439,Rasheed Wallace,C,38,NYK,21,0,14.1,2.6,6.8,0.387,1.0,3.3,0.319,1.6,3.5,0.452,0.465,0.7,1.0,0.7,0.5,3.4,4.0,0.3,0.6,0.7,0.5,1.9,7.0,2013,wallara01,United States
+440,Luke Walton,PF,32,CLE,50,0,17.1,1.4,3.6,0.392,0.4,1.3,0.299,1.0,2.3,0.447,0.44799999999999995,0.2,0.4,0.5,0.8,2.1,2.9,3.3,0.8,0.3,1.2,2.0,3.4,2013,waltolu01,United States
+441,Hakim Warrick,PF,30,TOT,28,14,17.5,2.4,5.9,0.406,0.0,0.1,0.0,2.4,5.8,0.414,0.406,2.1,3.1,0.682,0.8,2.4,3.2,0.9,0.5,0.2,1.0,1.3,6.9,2013,warriha01,United States
+442,C.J. Watson,PG,28,BRK,80,8,19.0,2.4,5.7,0.418,1.1,2.7,0.41100000000000003,1.3,3.1,0.424,0.514,0.9,1.1,0.78,0.5,1.3,1.8,2.0,0.8,0.2,0.9,1.5,6.8,2013,watsocj01,United States
+443,Earl Watson,PG,33,UTA,48,4,17.3,0.8,2.5,0.308,0.1,0.6,0.179,0.7,1.9,0.348,0.32899999999999996,0.4,0.5,0.68,0.5,1.3,1.8,4.0,0.8,0.2,1.4,2.0,2.0,2013,watsoea01,United States
+444,Maalik Wayns,PG,21,TOT,27,1,7.5,1.0,3.3,0.295,0.3,1.1,0.226,0.7,2.1,0.33299999999999996,0.335,0.6,0.7,0.895,0.0,0.2,0.3,1.0,0.2,0.0,0.6,1.0,2.8,2013,waynsma01,United States
+445,Martell Webster,SF,26,WAS,76,62,28.9,3.7,8.4,0.442,1.8,4.3,0.42200000000000004,1.9,4.0,0.46299999999999997,0.551,2.2,2.6,0.848,0.7,3.2,3.9,1.9,0.6,0.2,1.2,2.2,11.4,2013,webstma02,United States
+446,David West,PF,32,IND,73,73,33.4,6.9,13.8,0.498,0.1,0.3,0.21100000000000002,6.8,13.6,0.503,0.5,3.3,4.3,0.768,2.0,5.7,7.7,2.9,1.0,0.9,2.2,2.0,17.1,2013,westda01,United States
+447,Russell Westbrook,PG,24,OKC,82,82,34.9,8.2,18.7,0.43799999999999994,1.2,3.7,0.32299999999999995,7.0,15.1,0.466,0.47,5.6,7.0,0.8,1.4,3.9,5.2,7.4,1.8,0.3,3.3,2.3,23.2,2013,westbru01,United States
+448,D.J. White,PF,26,BOS,12,0,7.2,1.0,1.9,0.522,0.0,0.0,0.0,1.0,1.9,0.522,0.522,0.4,0.8,0.556,0.3,0.8,1.1,0.3,0.1,0.5,0.2,0.4,2.4,2013,whitedj01,United States
+449,James White,SF,30,NYK,57,16,7.6,0.9,2.0,0.431,0.2,0.7,0.341,0.6,1.3,0.48,0.491,0.2,0.3,0.579,0.1,0.8,0.8,0.5,0.2,0.1,0.3,0.8,2.2,2013,whiteja02,United States
+450,Chris Wilcox,C,30,BOS,61,7,13.6,1.8,2.5,0.7190000000000001,0.0,0.0,0.0,1.8,2.5,0.7240000000000001,0.7190000000000001,0.6,1.0,0.672,0.9,2.0,3.0,0.4,0.5,0.5,0.6,2.0,4.2,2013,wilcoch01,United States
+451,Damien Wilkins,SG,33,PHI,61,21,18.0,2.4,5.2,0.45899999999999996,0.3,0.8,0.33299999999999996,2.1,4.3,0.483,0.486,1.3,1.8,0.743,0.5,1.2,1.7,1.5,0.6,0.3,0.8,1.6,6.4,2013,wilkida02,United States
+452,Deron Williams,PG,28,BRK,78,78,36.4,6.3,14.4,0.44,2.2,5.7,0.37799999999999995,4.2,8.7,0.48200000000000004,0.516,4.1,4.7,0.8590000000000001,0.4,2.6,3.0,7.7,1.0,0.4,2.8,2.5,18.9,2013,willide01,United States
+453,Derrick Williams,PF,21,MIN,78,56,24.6,4.3,10.1,0.43,0.8,2.5,0.332,3.5,7.6,0.46299999999999997,0.47100000000000003,2.5,3.5,0.706,1.2,4.3,5.5,0.6,0.6,0.5,1.3,1.6,12.0,2013,willide02,United States
+454,Lou Williams,SG,26,ATL,39,9,28.7,4.8,11.4,0.42200000000000004,1.8,5.0,0.36700000000000005,2.9,6.3,0.466,0.503,2.7,3.1,0.868,0.2,1.8,2.1,3.6,1.1,0.3,1.9,1.4,14.1,2013,willilo02,United States
+455,Marvin Williams,SF,26,UTA,73,51,23.7,2.7,6.4,0.423,0.7,2.3,0.325,2.0,4.2,0.47700000000000004,0.48100000000000004,1.1,1.4,0.778,0.8,2.8,3.6,1.1,0.5,0.5,0.8,1.3,7.2,2013,willima02,United States
+456,Mo Williams,PG,30,UTA,46,46,30.8,5.0,11.6,0.43,1.3,3.3,0.38299999999999995,3.7,8.2,0.449,0.485,1.6,1.8,0.882,0.5,1.9,2.4,6.2,1.0,0.2,2.7,2.3,12.9,2013,willima01,United States
+457,Reggie Williams,SF,26,CHA,40,0,9.5,1.4,3.3,0.43200000000000005,0.6,1.8,0.306,0.9,1.5,0.583,0.515,0.2,0.5,0.47600000000000003,0.2,1.1,1.3,1.0,0.3,0.0,0.5,0.5,3.6,2013,willire02,United States
+458,Terrence Williams,SF,25,BOS,24,0,13.2,2.0,4.0,0.495,0.2,0.6,0.33299999999999996,1.8,3.4,0.524,0.521,0.4,0.9,0.429,0.2,1.7,1.8,1.6,0.5,0.1,0.9,0.5,4.6,2013,willite01,United States
+459,Metta World Peace,SF,33,LAL,75,66,33.7,4.4,11.0,0.40299999999999997,1.9,5.5,0.342,2.5,5.5,0.46399999999999997,0.488,1.7,2.3,0.7340000000000001,1.3,3.6,5.0,1.5,1.6,0.6,1.3,2.6,12.4,2013,artesro01,United States
+460,Brandan Wright,C,25,DAL,64,16,18.0,3.8,6.3,0.597,0.0,0.0,0.0,3.8,6.3,0.601,0.597,0.9,1.5,0.615,1.3,2.7,4.1,0.6,0.4,1.2,0.5,1.2,8.5,2013,wrighbr03,United States
+461,Chris Wright,SG,23,DAL,3,0,1.3,0.3,0.7,0.5,0.0,0.0,0.0,0.3,0.7,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.7,2013,wrighch02,United States
+462,Dorell Wright,SF,27,PHI,79,8,22.6,3.0,7.6,0.396,1.7,4.6,0.374,1.3,3.0,0.429,0.508,1.5,1.8,0.851,0.5,3.3,3.8,1.9,0.8,0.4,0.8,1.2,9.2,2013,wrighdo01,United States
+463,Tony Wroten,SG,19,MEM,35,0,7.8,0.9,2.5,0.384,0.1,0.5,0.25,0.8,2.0,0.414,0.40700000000000003,0.6,0.8,0.7240000000000001,0.4,0.4,0.8,1.2,0.2,0.1,0.8,1.0,2.6,2013,wroteto01,United States
+464,Nick Young,SG,27,PHI,59,17,23.9,3.8,9.2,0.413,1.3,3.6,0.35700000000000004,2.5,5.6,0.449,0.48200000000000004,1.8,2.2,0.82,0.4,1.8,2.2,1.4,0.6,0.2,0.8,1.4,10.6,2013,youngni01,United States
+465,Sam Young,SG,27,IND,56,3,12.4,1.0,2.6,0.392,0.3,0.9,0.308,0.8,1.7,0.43799999999999994,0.446,0.4,0.8,0.535,0.5,1.7,2.2,0.8,0.3,0.1,0.6,1.1,2.8,2013,youngsa01,United States
+466,Thaddeus Young,PF,24,PHI,76,76,34.6,6.7,12.6,0.531,0.0,0.1,0.125,6.7,12.5,0.535,0.532,1.4,2.5,0.574,2.4,5.1,7.5,1.6,1.8,0.7,1.2,2.5,14.8,2013,youngth01,United States
+467,Luke Zeller,C,25,PHO,16,0,3.6,0.6,1.6,0.34600000000000003,0.1,0.3,0.2,0.5,1.3,0.381,0.365,0.0,0.0,0.0,0.1,0.6,0.6,0.2,0.0,0.0,0.0,0.3,1.2,2013,zellelu01,United States
+468,Tyler Zeller,C,23,CLE,77,55,26.4,3.2,7.3,0.43799999999999994,0.0,0.1,0.0,3.2,7.2,0.441,0.43799999999999994,1.6,2.0,0.764,2.1,3.6,5.7,1.2,0.5,0.9,1.2,3.3,7.9,2013,zellety01,United States

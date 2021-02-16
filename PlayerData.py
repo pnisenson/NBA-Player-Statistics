@@ -43,7 +43,7 @@ def get_player_data():
 	''' after the first time running, this try block will compare the old players list with
 	new players list and only scrape data for the new players, saving hours of time '''
 	try:
-		existing_file = pd.read_csv('playerTable.csv', index_col=0)
+		existing_file = pd.read_csv('FullData/playerTable.csv', index_col=0)
 		names_on_file = existing_file['Name'].to_list()
 		while len(names_on_file) > 0:
 			playerIDList.remove(names_on_file[0])
@@ -106,7 +106,8 @@ def get_player_data():
 		playerTable	= pd.concat([existing_file, newTable], ignore_index=True)
 	except:
 		playerTable = pd.DataFrame(playerlist)
-	playerTable.to_csv('playerTable.csv')
+	playerTable.to_csv('FullData/playerTable.csv')
+	browser.quit()
 
 
 get_player_data()

@@ -12,89 +12,103 @@ def login():
 	pass_word = browser.find_element_by_id('password')
 	pass_word.send_keys(password)
 	browser.find_element_by_id('login').submit()
-	return browser.current_url
+	return browser
 
 def get_all_names():
 	browser = login()
 	letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 	letters_c = []
 	for letter in letters:
-	    if letter != 'X': # no players in NBA history have last name beginning with X
-	        letters_c.append(letter.lower())
-    nametable = []
+		if letter != 'X': # no players in NBA history have last name beginning with X
+			letters_c.append(letter.lower())
+	nametable = []
 	for letter in letters_c:
-	    url = f'https://www.basketball-reference.com/players/{letter}/'
-	    browser.get(url)
-	    html = browser.page_source
-	    soup = bs(html, "html.parser")
-	    results = soup.find_all('th', class_='left')
-	    for result in results:
-	        try:
-	            if result.attrs['data-append-csv']:
-	                nametable.append(result.attrs['data-append-csv'])
-	        except:
-	            pass
-    return nametable
+		url = f'https://www.basketball-reference.com/players/{letter}/'
+		browser.get(url)
+		html = browser.page_source
+		soup = bs(html, "html.parser")
+		results = soup.find_all('th', class_='left')
+		for result in results:
+			try:
+				if result.attrs['data-append-csv']:
+					nametable.append(result.attrs['data-append-csv'])
+			except:
+				pass
+	return nametable, browser
 
-def get_player_data(playerIDList):
+def get_player_data():
+	get_names = get_all_names()
+	playerIDList = get_names[0]
+	browser = get_names[1]
+	''' after the first time running, this try block will compare the old players list with
+	new players list and only scrape data for the new players, saving hours of time '''
+	try:
+		existing_file = pd.read_csv('playerTable.csv', index_col=0)
+		names_on_file = existing_file['Name'].to_list()
+		while len(names_on_file) > 0:
+			playerIDList.remove(names_on_file[0])
+			names_on_file.remove(names_on_file[0])
+	except SyntaxError:
+		pass
 	playerlist = []
 	for player in playerIDList:
-	    url= f'https://www.basketball-reference.com/players/{player[0]}/{player}.html'
-	    browser.get(url)
-	    html = browser.page_source
-	    soup = bs(html, "html.parser")
-	    results = soup.find_all('span')
-	    strong = soup.find_all('p')
-	    for x in range(len(results)):
-	        try:
-	            if results[x]['itemprop'] == 'height':
-	                height = results[x].text
-	        except:
-	            continue
-	        try:
-	            if results[x]['itemprop'] == 'weight':
-	                weight = results[x].text
-	        except:
-	            continue
-	        try:
-	            if results[x]['itemprop'] == 'birthDate':
-	                birth_date = results[x]['data-birth']
-	        except:
-	            continue
-	        try:
-	            if results[x]['itemprop'] == 'birthPlace':
-	                country = results[x+1].text
-	                state = results[x].contents[1].text
-	        except:
-	            continue
-	    for x in range(len(strong)):
-	        if strong[x].text.strip().split(":")[0] == 'College':
-	            college = strong[x].a.text
-	        if strong[x].text.strip().split(":")[0] == 'Recruiting Rank':
-	            recruityr = strong[x].text.strip().split(":")[1].split(' ')[2]
-	            recruitrk = strong[x].text.strip().split(":")[1].split(' ')[3].strip('()')
-	        if strong[x].text.strip().split(":")[0] == 'Draft':
-	            draftyr = strong[x].text.strip().split(',')[3].split(' ')[1]
-	            draftpk = strong[x].text.strip().split(',')[2].strip(')').split(' ')[1].strip("ndthsr")
-	    playername = {
-	        'Name': player,
-	        'Height':height,
-	        'Weight':weight,
-	        'BirthDate':birth_date,
-	        'Country':country,
-	        'State':state,
-	        'College': college,
-	        'RecruitYr': recruityr,
-	        'RecruitRank':recruitrk,
-	        'DraftYear':draftyr,
-	        'Pick':draftpk
-	    }
-	    playerlist.append(playername)
-	    del playername
-    playerTable = pd.DataFrame(playerlist)
-    playerTable.to_csv('playerTable.csv')
+		playername = {'Name': player}
+		url= f'https://www.basketball-reference.com/players/{player[0]}/{player}.html'
+		browser.get(url)
+		html = browser.page_source
+		soup = bs(html, "html.parser")
+		results = soup.find_all('span')
+		strong = soup.find_all('p')
+		for x in range(len(results)):
+			try:
+				if results[x]['itemprop'] == 'height':
+					playername['Height'] = results[x].text
+			except:
+				continue
+			try:
+				if results[x]['itemprop'] == 'weight':
+					playername['Weight'] = results[x].text
+			except:
+				continue
+			try:
+				if results[x]['itemprop'] == 'birthDate':
+					playername['BirthDate'] = results[x]['data-birth']
+			except:
+				continue
+			try:
+				if results[x]['itemprop'] == 'birthPlace':
+					playername['Country'] = results[x+1].text
+					playername['State'] = results[x].contents[1].text
+			except:
+				continue
+		for x in range(len(strong)):
+			try:
+				if strong[x].text.strip().split(":")[0] == 'College':
+					playername['College'] = strong[x].a.text
+			except:
+				continue
+			try:
+				if strong[x].text.strip().split(":")[0] == 'Recruiting Rank':
+					playername['RecruitYr'] = strong[x].text.strip().split(":")[1].split(' ')[2]
+					playername['RecruitRank'] = strong[x].text.strip().split(":")[1].split(' ')[3].strip('()')
+			except:
+				continue
+			try:
+				if strong[x].text.strip().split(":")[0] == 'Draft':
+					playername['DraftYear'] = strong[x].text.strip().split(',')[3].split(' ')[1]
+					playername['Pick'] = strong[x].text.strip().split(',')[2].strip(')').split(' ')[1].strip("ndthsr")
+			except:
+				continue
+		playerlist.append(playername)
+		del playername
+	try:
+		newTable = pd.DataFrame(playerlist)
+		playerTable	= pd.concat([existing_file, newTable], ignore_index=True)
+	except:
+		playerTable = pd.DataFrame(playerlist)
+	playerTable.to_csv('playerTable.csv')
 
 
-get_player_data(get_all_names())
+get_player_data()
 
 

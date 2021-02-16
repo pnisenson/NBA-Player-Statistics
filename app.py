@@ -1,7 +1,7 @@
 from flask import Flask, render_template, redirect, request
 from sqlalchemy import create_engine, func
 import pandas as pd
-import NBA_Scraper
+import NBA_Scraper_test
 import os
 import time
 
@@ -106,7 +106,7 @@ def inputstoo():
 @app.route("/scrape")
 def scrape():
     # Run the scrape function
-    nba_data = NBA_Scraper.final()
+    nba_data = NBA_Scraper_test.final()
 
     # Redirect back to home page
     return redirect("/")

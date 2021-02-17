@@ -1,5 +1,5 @@
 CREATE TABLE playerTable (
-        "PlayerID" TEXT PRIMARY KEY,
+        "Name" TEXT PRIMARY KEY,
         "Height" TEXT,
         "Weight" TEXT,
         "BirthDate" DATE,
@@ -46,7 +46,7 @@ CREATE TABLE totals (
         "PlayerID" TEXT,
         PRIMARY KEY ("PlayerID", "Season"),
         FOREIGN KEY ("PlayerID")
-            REFERENCES "playerTable" ("PlayerID")
+            REFERENCES playerTable ("PlayerID")
 
 );
 
@@ -84,7 +84,7 @@ CREATE TABLE per36 (
         "PlayerID" TEXT,
         PRIMARY KEY ("PlayerID", "Season"),
         FOREIGN KEY ("PlayerID")
-            REFERENCES "playerTable" ("PlayerID")
+            REFERENCES playerTable ("PlayerID")
 );
 
 CREATE TABLE pergame (
@@ -121,7 +121,7 @@ CREATE TABLE pergame (
         "PlayerID" TEXT,
         PRIMARY KEY ("PlayerID", "Season"),
         FOREIGN KEY ("PlayerID")
-            REFERENCES "playerTable" ("PlayerID")
+            REFERENCES playerTable ("PlayerID")
 );
 
 CREATE TABLE advanced (
@@ -155,7 +155,7 @@ CREATE TABLE advanced (
         "PlayerID" TEXT,
         PRIMARY KEY ("PlayerID", "Season"),
         FOREIGN KEY ("PlayerID")
-            REFERENCES "playerTable" ("PlayerID")
+            REFERENCES playerTable ("PlayerID")
 );
 
 CREATE TABLE shooting (
@@ -191,7 +191,7 @@ CREATE TABLE shooting (
         "PlayerID" TEXT,
         PRIMARY KEY ("PlayerID", "Season"),
         FOREIGN KEY ("PlayerID")
-            REFERENCES "playerTable" ("PlayerID")
+            REFERENCES playerTable ("PlayerID")
 );
 
 CREATE TABLE playbyplay (
@@ -221,7 +221,7 @@ CREATE TABLE playbyplay (
         "PlayerID" TEXT,
         PRIMARY KEY ("PlayerID", "Season"),
         FOREIGN KEY ("PlayerID")
-            REFERENCES "playerTable" ("PlayerID")
+            REFERENCES playerTable ("PlayerID")
 );
 
 CREATE TABLE per_poss (
@@ -259,6 +259,6 @@ CREATE TABLE per_poss (
         "PlayerID" TEXT,
         PRIMARY KEY ("PlayerID", "Season"),
         FOREIGN KEY ("PlayerID")
-            REFERENCES "playerTable" ("PlayerID")
+            REFERENCES playerTable ("PlayerID")
 );
 

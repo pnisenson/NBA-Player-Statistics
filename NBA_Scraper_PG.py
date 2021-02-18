@@ -1,20 +1,25 @@
 from selenium import webdriver
 import pandas as pd 
-from sqlalchemy import create_engine
+from sqlalchemy import create_engine,func, inspect, delete
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import Session
 from bs4 import BeautifulSoup as bs
 import os
+import numpy as np
 
 # run program as update(1) or from scratch(0)
 def program(runtype):
 	data_types = ['totals', 'advanced','shooting', 'play-by-play', 'per_poss']
+	if runtype == 1:
+		clear_olds()
 	for dtype in data_types:
 		if runtype == 1:
 			s_year = 2021
 			ys = 1
 		else:
 			if dtype == 'totals' or dtype == 'advanced':
-				s_year = 1950
-				ys = 72
+				s_year = 1952
+				ys = 70
 			elif dtype == 'per_poss':
 				s_year = 1974
 				ys = 48
@@ -22,6 +27,26 @@ def program(runtype):
 				s_year = 1997
 				ys = 25
 		final(dtype, s_year, ys)
+
+def clear_olds():
+	conn = "postgres:hotdog@localhost:5432/NBAStats"
+	engine = create_engine(f'postgresql://{conn}')
+	Base = automap_base()
+	Base.prepare(engine, reflect=True)
+	Totals = Base.classes.totals
+	Per36 = Base.classes.per36
+	Pergame = Base.classes.pergame
+	Advanced = Base.classes.advanced
+	Shooting = Base.classes.shooting
+	PBP = Base.classes.playbyplay
+	Perposs = Base.classes.per_poss
+	tables = [Totals, Per36, Pergame, Advanced, Shooting, PBP, Perposs]
+	session = Session(engine)
+	for table in tables:
+		stmt = (delete(table).where(table.season == 2021))
+		session.execute(stmt)
+		session.commit()
+	session.close()
 
 def login():
 	from StatPuts import username, password
@@ -202,10 +227,6 @@ def cleaner(all_df, player_ids, data_type):
 			all_df[key] = pd.to_numeric(all_df[key])
 		except:
 			all_df[key] = pd.to_numeric(all_df[key].replace('%','',regex=True))/100
-	if data_type == 'pergame':
-		all_df = per_game(num_keys,all_df)
-	elif data_type == 'per36':
-		all_df = per_36(num_keys,all_df)
 	all_df = all_df.fillna(0)
 	player_names = all_df["Player"]
 	clean_players = []
@@ -228,42 +249,53 @@ def numeric_keys(all_df):
 
 def per_game(all_df):
 	num_keys = numeric_keys(all_df)
-	specials = ['Age', 'G', 'GS', 'Season']
+	specials = ['age', 'g', 'gs', 'season']
 	for key in specials:
 		num_keys.remove(key)
 	for key in num_keys:
 		if all_df[key].dtype == 'int64':
-			all_df[key] = all_df[key]/all_df['G']
+			all_df[key] = all_df[key]/all_df['g']
 			all_df[key] = all_df[key].round(1)
 	return all_df
 
 
 def per_36(all_df):
 	num_keys = numeric_keys(all_df)
-	specials = ['Age', 'G', 'GS', 'MP', 'Season']
+	specials = ['age', 'g', 'gs', 'mp', 'season']
 	for key in specials:
 		num_keys.remove(key)
 	for key in num_keys:
 		if all_df[key].dtype == 'int64':
-			all_df[key] = (all_df[key]/all_df['MP'])*36
+			all_df[key] = (all_df[key]/all_df['mp'])*36
 			all_df[key] = all_df[key].round(1)
 	return all_df
 
 def final(data_type, start_year, years):
+	conn = "postgres:hotdog@localhost:5432/NBAStats"
+	engine = create_engine(f'postgresql://{conn}')
 	final = scraper(data_type, start_year, years)
-	if data_type == "totals":
+	final.columns = map(str.lower, final.columns)
+	if data_type == 'play-by-play':
+		final.to_sql(name='playbyplay', con=engine, if_exists='append', index=False)
+	elif data_type == "totals":
+		final.to_sql(name='totals', con=engine, if_exists='append', index=False)
 		per36 = per_36(final)
+		per36 = per36.replace([np.inf, -np.inf], np.nan).dropna(how="all") 
 		pergame = per_game(final)
-		if os.path.exists(f"FullData/per36.csv"):
-			os.remove(f"FullData/per36.csv")
-		if os.path.exists(f"FullData/pergame.csv"):
-			os.remove(f"FullData/pergame.csv")
-		per36.to_csv(f"FullData/per36.csv")
-		pergame.to_csv(f"FullData/pergame.csv")
-	if os.path.exists(f"FullData/{data_type}.csv"):
-		os.remove(f"FullData/{data_type}.csv")
-	final.to_csv(f'FullData/{data_type}.csv')
-
+		pergame = pergame.replace([np.inf, -np.inf], np.nan).dropna(how="all") 
+		per36.to_sql(name='per36', con=engine, if_exists='append', index=False)
+		pergame.to_sql(name='pergame', con=engine, if_exists='append', index=False)
+	# 	if os.path.exists(f"FullData/per36.csv"):
+	# 		os.remove(f"FullData/per36.csv")
+	# 	if os.path.exists(f"FullData/pergame.csv"):
+	# 		os.remove(f"FullData/pergame.csv")
+	# 	per36.to_csv(f"FullData/per36.csv")
+	# 	pergame.to_csv(f"FullData/pergame.csv")
+	else:
+		final.to_sql(name=data_type, con=engine, if_exists='append', index=False)
+	# if os.path.exists(f"FullData/{data_type}.csv"):
+	# 	os.remove(f"FullData/{data_type}.csv")
+	# final.to_csv(f'FullData/{data_type}.csv')
 
 
 
